@@ -1,0 +1,16 @@
+Lisez ou paraphrasez ce qui suit et montrez Handout 15 : The Dungeon Cells lorsque c'est nécessaire.
+
+**Au-delà de la porte se trouve le  donjon du château. Deux torches brûlent dans la pièce, l'une sur le mur nord et l'autre sur le mur sud. Vous pouvez voir des cellules à l'est et à l'ouest de la pièce. Elles ont de vieilles barres métalliques un peu rouillées mais qui semblent encore saines. A côté de la torche allumée, au nord, une autre porte est entre-ouverte.
+
+Le geôlier, Vergrizle, se trouve dans la pièce au-delà (R4). Si quelqu'un entre dans la pièce, il l'entendra à moins qu'il ne prenne des précautions importantes (à vous de décider s'il est capable d'entrer silencieusement dans la pièce). Si le groupe tente d'entrer dans la cellule contenant le trésor de Vergrizle (Cellule F), il sortira de sa chambre et attaquera (sinon, il restera dans sa chambre - voir R4 ci-dessous). Les cellules sont toutes vides à l'exception du foin (les Vyles ont tendance à manger leurs captifs assez rapidement). Mais il y a deux choses à découvrir dans les cellules. Si l'un des joueurs inspecte la cellule D, il verra un gribouillage sur le mur. S'ils entrent dans la cellule pour lire le gribouillage, montrez-leur le **Handout 16 The Scrawl on the Wall.
+
+La famille Evershin vit à Nevermore. Carson a disparu au début de l'année alors qu'il voyageait sur la Route du Roi avec une petite caravane qui se dirigeait vers Sundruun. Le groupe rencontrera peut-être la famille Evershin lors d'une prochaine aventure... mais c'est une histoire qui n'a pas encore été racontée, mon ami.
+
+Si l'un des membres du groupe regarde dans la cellule F, il doit faire un test de Sagesse (Perception) DC 13. S'il réussit, il remarquera ce qui semble être une petite bosse de forme étrange sous le foin dans le coin arrière. S'ils essaient d'entrer dans la cellule, ils s'apercevront qu'elle est verrouillée. Elle est également piégée par une aiguille empoisonnée qui nécessite un test de Sagesse (Perception) DC 14 pour être découverte. S'il n'est pas découvert, toute personne essayant de crocheter la serrure ou de pénétrer dans la cellule déclenchera l'aiguille. Elle est enduite de poison d'écume de tourbière. Une créature soumise à ce poison subit 2 (1d4) dégâts de poison par round pendant 3 rounds. Chaque round, la créature doit faire un jet de sauvegarde de Constitution DC 13, subissant la moitié des dégâts en cas de réussite. Voir la section Objets spéciaux et NSMT du Livre de Réflexion du MJ pour plus d'informations sur ce poison.
+
+Sous le foin se trouve le trésor secret de Vergrizle. Dans une boîte en fer verrouillée (Vergrizle a la clé) se trouvent 12 ors, 14 silvs et 25 copps, plus une Pierre ioun prisme rose laiteux (+1 CA)
+
+**La rencontre avec Vergrizle le geôlier  
+Voir les statistiques de combat dans le livre de référence du MJ, page 23.
+=> Booster les stats de combat de Vergrizle.
+=> lui rajouter comme Arme l'Objet Special Item 57 : Club of stunning

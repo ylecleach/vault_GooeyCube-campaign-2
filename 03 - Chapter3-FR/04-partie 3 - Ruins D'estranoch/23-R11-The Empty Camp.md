@@ -1,0 +1,5 @@
+Handout 24: The Empty Camp
+
+**La pièce au-delà de la porte semble être le domicile des créatures ressemblant à des rongeurs que vous avez rencontrées dans la région. Une sorte de gros oiseau  grésille au-dessus d'un feu qui brûle au centre de la pièce. L'odeur de l'aliment rôti est assez giboyeuse et se mêle à une fumée assez épaisse dans la pièce qui vous pique les yeux. Le long des murs se trouvent de nombreuses couvertures et peaux sales et tachées qui sont probablement les lits des rongeurs. La pièce semble vide. Que faites-vous ?
+
+La pièce est en fait vide et ne contient rien de valeur... à moins que le groupe n'apprécie la viande de buse des marais (désagréable). Cependant, un NSRE ou un ajout gluant (peut- être "Gloire fanée") pourrait être utile ici. Voir la section NSRE du GM Ref Book.

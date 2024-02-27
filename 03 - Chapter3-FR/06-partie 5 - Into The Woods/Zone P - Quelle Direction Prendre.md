@@ -1,0 +1,5 @@
+Lisez ou paraphrasez ce qui suit : 
+
+**Le chemin ici bifurque avec des branches qui se dirigent vers le sud-est, le nord-est, et nord-ouest. Bien qu'il soit difficile d'en être certain, il semble y avoir semble y avoir plus d'arbres malades qu'auparavant, la plus grande concentration étant avec la plus grande concentration le long de la voie nord-ouest. Alors que vous vous demandez la direction à prendre, les nuages s'écartent au-dessus de vous... une vue imprenable sur l'étoile rouge. Immédiatement, l'étoile rouge illumine la zone, la baignant dans une lumière familière... mais toujours troublante... lumière cramoisie. Presque au même moment, un rugissement guttural et bestial perce la nuit. On dirait qu'il vient du nord-est, mais on ne peut en être sûr. mais vous n'en êtes pas sûr. Vous frissonnez un peu. La nuit est de plus en plus froide. Vous pouvez choisir l'un ou l'autre chemin. Vous pourriez vouloir apporter un NSRE à la fête dans cet endroit. C'est à vous de décider.
+
+avant la tour faire: [[GA-05-Dead Birds]] si pas déjà fait.

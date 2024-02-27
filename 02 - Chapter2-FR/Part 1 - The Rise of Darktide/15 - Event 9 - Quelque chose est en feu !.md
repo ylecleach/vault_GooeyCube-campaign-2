@@ -1,0 +1,7 @@
+Il est probable que les joueurs vont enquêter sur ce qui se passe au camp. Il leur faudra environ 4 (1d4+2) tours pour atteindre la lisière des bois s'ils font l'action Dash à chaque tour, ou deux fois plus longtemps s'ils prennent un rythme normal pour faire le guet en chemin. Lorsqu'ils sortent des arbres, lisez ou paraphrasez ce qui suit et montrez le **_Document 25 : La Tente Ardente_**.
+
+**Les tentes de jeu sont généralement laissées en place jusqu'à ce que vous leviez le camp, car il y a toujours quelques habitants prêts à risquer leur argent pour avoir une chance de devenir riche. Dans la plupart des cas, elles n'auraient probablement pas été démontées avant le lendemain matin. Cependant, l'un d'entre eux est rapidement consumé par le feu. A proximité, deux des chariots de transport et de stockage sont également en feu, et les épais bancs de fumée qui soufflent à travers le champ rendent l'extinction du feu beaucoup plus difficile pour la troupe.
+
+**Le vent se lève un peu, menaçant de propager les flammes aux autres tentes. Votre instinct vous pousse à vous précipiter dans la fumée pour aider, mais vous ne faites que quelques pas avant que les Yunstas Trom et Trem ne se précipitent vers vous, leurs visages normalement espiègles étant maintenant pâles de peur.** 
+
+**_Note :_** Passez immédiatement à la section Le cambriolage découvert qui apparaît ci-dessous dans la deuxième partie.

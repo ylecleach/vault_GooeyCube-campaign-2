@@ -1,0 +1,12 @@
+**Vous ressentez de la peur. Vous ne pouvez pas l'expliquer, mais elle vous envahit soudainement comme un nuage sombre dans votre esprit. Les battements de votre cœur s'accélèrent tandis qu'un sentiment de peur envahissant s'empare de votre corps. Vous jetez vos yeux autour de vous et, au début, vous ne voyez rien. Mais ensuite... au loin dans les arbres... vous apercevez une silhouette solitaire vêtue d'une robe noire en lambeaux, dont les bords bougent et se balancent bien qu'il n'y ait pas de vent. La peur s'intensifie, et, alors que vous regardez l'apparition,
+vous la voyez lever sa main dans votre direction - la paume osseuse de la chose s'ouvre à votre vue. Soudain, elle commence à fermer sa prise, et, tout aussi soudainement, vous ressentez un serrement dans votre poitrine comme si la terrible figure serrait votre cœur. La douleur s'intensifie, et vous et vous êtes pétrifié de peur.
+
+Afficher l'image suivante:
+https://static.wikia.nocookie.net/elderscrolls/images/8/85/N%C3%A9cromancien_antique.png/revision/latest?cb=20210109172321&path-prefix=fr
+
+![[Pasted image 20220928234751.png]]
+
+GM Only :
+
+C'est une vision parfaite juste après que le groupe se soit échappé de la Tour de Vordrud et qu'il soit rentré au camp. Remarque : le reste du groupe ne verra rien de tout cela. Ils verront seulement leur ami, la terreur gravée sur son visage, fixant les arbres, les yeux écarquillés et la sueur perlant sur son front. Demandez au joueur de faire une sauvegarde de Constitution (rendez-la difficile à réaliser). S'il échoue, il subit 1d8 points de dégâts, ce qui fera peur à tout le monde. Puis, après avoir donné au groupe le temps de réagir, refaites la sauvegarde de Constitution. Si le joueur échoue à nouveau, il subit à nouveau 1d8 points de dégâts. Répétez l'opération autant de fois que vous le souhaitez pour faire monter la tension... adaptez les actions de l'apparition. Puis, juste au moment où il semble que le personnage-joueur va mourir, faites disparaître l'apparition. Les dégâts, bien sûr, n'étaient pas réels. Vordrud le nécromancien a été tué lorsqu'il a assiégé la ville de Nevermore il y a environ huit ans. Son Ombre ne connaît pas de repos. Mais pour l'instant, il est piégé dans une semi-réalité. Peut-être que vous pouvez qu'il apparaisse et disparaisse une ou deux fois d'abord sans "attaquer"...
+puis faire en sorte que cette rencontre soit le final.

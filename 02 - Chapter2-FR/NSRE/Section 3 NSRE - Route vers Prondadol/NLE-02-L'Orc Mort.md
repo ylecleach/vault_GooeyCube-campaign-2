@@ -1,0 +1,11 @@
+Demandez à quelques membres du groupe de faire un test de Sagesse (Perception) DC 16. Ceux qui réussissent verront, juste à côté de la route, ce qui semble être un corps. S'ils poursuivent leur inspection, lisez ou paraphrasez ce qui suit et montrez le Document 81 : Le Médaillon d'Argent lorsque cela est approprié.
+
+décomposition de ce qui semble être un Orque mort. Le corps semble être là depuis au moins quelques semaines, car l'odeur s'est atténuée et une grande partie de la chair a été enlevée du corps par les charognards et les insectes.
+
+Un Orque aussi loin au sud est une chose assez inhabituelle. La plupart des Orques du continent résident dans le territoire septentrional du Magdranog.
+
+**Adossé à un grand arbre noueux, le corps en décomposition de ce qui semble être un Orque mort. Le corps semble être là depuis au moins quelques semaines, car l'odeur s'est atténuée et une grande partie de la chair a été enlevée du corps par les charognards et les insectes.
+
+Un Orque aussi loin au sud est une chose assez inhabituelle. La plupart des Orques du continent résident dans le territoire septentrional du Magdranog qui s'étend sur le no man's land connu sous le nom de Vile Desolation. Ce territoire déchiré par la guerre est rempli de toutes sortes de terreurs et de morts-vivants qui sont le résultat de la guerre de dix ans entre la République et les Orokinoïdes de Magdranog. La Vile Désolation est située au-delà des frontières, au nord de Zyranthea. Cela dit, les bandes errantes d'Orcs et d'autres Demi-Hommes ne sont pas inconnues, mais seulement inhabituelles. En fouillant le corps, vous trouverez une épée courte, une dague et une pochette en cuir. Dans la pochette se trouvent cinq Silvs, huit Lecs et deux Golds ainsi qu'un étrange médaillon en argent que le groupe n'a jamais vu auparavant. Il représente un soleil noir sur le visage et une inscription sur le dos. Les mots sont inscrits dans la langue Orokinoid et disent :
+
+"Bientôt, elle se lèvera. Tout diminuera dans son ombre."

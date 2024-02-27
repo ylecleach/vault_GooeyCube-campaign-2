@@ -1,0 +1,8 @@
+Lisez ou paraphrasez ce qui suit et montrez le Document 89 : Les Gobelins lorsque c'est nécessaire.
+
+**Alors que vous arrivez à un tournant du chemin, un lapin s'élance au coin et entre vos jambes à une vitesse incroyable, avant de disparaître dans un buisson. Peu après, vous entendez des huées et des rires aigus venant de la même direction.Un grand groupe de Gobelins à l'aspect primitif vous fonce dessus, et immédiatement, leurs clameurs deviennent presque assourdissantes. Certains semblent prêts à fuir, mais la plupart brandissent leurs lances, manifestement prêts à se battre et espérant une prise plus importante qu'un lapin.Lancez l'initiative.
+
+Il s'agit d'un des nombreux groupes de chasseurs envoyés par le clan Zobgobb des gobelins de la forêt qui habitent cette région. Ils ne devraient pas poser trop de problèmes, mais les joueurs auraient tort de ne pas les considérer comme une menace. Vous pourriez éventuellement présenter ce NSRE plusieurs fois avec de légères variations pour représenter d'autres groupes de chasseurs si vous avez besoin de plus de combats, bien que vous ne vouliez pas que vos joueurs s'ennuient en combattant toujours les mêmes ennemis.Pour l'essentiel, les Orokonoïdes ont été éliminés de la République, mais il reste encore des poches de clans plus primitifs dans les zones reculées des forêts, des tourbières et des montagnes. Le clan Zobgobb est l'un d'entre eux.
+
+**The Zobgobb Hunting Party NSRE
+Stats on Battle Stats page 36

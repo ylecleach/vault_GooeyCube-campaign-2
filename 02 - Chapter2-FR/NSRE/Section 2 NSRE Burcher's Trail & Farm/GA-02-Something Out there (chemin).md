@@ -1,0 +1,5 @@
+Lorsque les joueurs sont dehors, lisez ou paraphrasez ce qui suit : 
+
+**Le vent glacial qui a soufflé toute la soirée s'arrête un instant, créant une accalmie dans le calme le plus total. Pendant cette pause, un bosquet d'arbres tout proche bruisse violemment, secouant les feuilles mortes jusqu'aux branches les plus hautes. Une ombre massive traverse la zone, bien qu'aucun nuage n'obscurcisse le clair de lune de Luneós. Pendant un instant, vous voyez deux grands points de lumière rouge briller dans la canopée avant de disparaître ; peut-être était-ce la lumière de l'étoile rouge ?** 
+
+C'est un monstre effrayant qui apparaîtra probablement dans un chapitre ultérieur. Pour l'instant... qu'il reste un mystère. La bête se déplace plus rapidement d'une branche d'arbre à l'autre que le groupe au sol, et elle ne peut être affectée par les sorts de sommeil ou d'immobilisation. Plus à venir sur cette créature effrayante.

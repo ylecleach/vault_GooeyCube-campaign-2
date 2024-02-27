@@ -1,0 +1,1 @@
+La carte comporte trois zones marquées d'un F. Il s'agit de zones où vous pouvez ajouter votre propre saveur aux Ruines d'Estranoch. Vous pouvez les utiliser pour étoffer l'histoire d'un PC ou simplement pour ajouter une ou deux rencontres afin de rendre l'assaut plus difficile. Si vous préférez ne rien ajouter, ignorez simplement les notes.

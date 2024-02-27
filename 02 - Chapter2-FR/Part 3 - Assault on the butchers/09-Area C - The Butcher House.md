@@ -1,0 +1,6 @@
+Lorsque les PJ s'approchent de la maison, ils constatent que toutes les fenêtres sont "givrées", ce qui empêche de voir l'intérieur. S'ils font le tour de la maison, ils constateront qu'il y a une porte d'entrée et une porte arrière, ainsi que deux portes donnant sur l'écurie. Il y a deux fenêtres sur les côtés sud, est et nord de la maison, mais aucune à l'ouest - car c'est là que l'étable s'appuie sur la maison. Les fenêtres sont suffisamment grandes pour qu'une créature de taille moyenne puisse y passer, mais c'est difficile si vous portez une armure. Utilisez la **_carte de la ferme du boucher_** lorsqu'ils entrent.
+
+Si le groupe casse une fenêtre et tente d'entrer, la moitié des bouchers se rendront dans la pièce où ils ont entendu la fenêtre se casser, tandis que l'autre moitié sortira pour attaquer le reste du groupe. La porte arrière est verrouillée et barrée de l'intérieur. En tant que telle, elle ne peut pas être forcée. De manière surprenante - ou peut-être suspecte - la porte d'entrée est déverrouillée et constitue la seule entrée visible.
+
+**_Note : Des_** portraits sont fournis pour la plupart des membres du clan des bouchers qui se trouvent dans la maison et ses environs. Mais, comme les combats sont plus aléatoires lorsque vous les définissez, vous devrez utiliser les portraits au fur et à mesure des interactions.
+

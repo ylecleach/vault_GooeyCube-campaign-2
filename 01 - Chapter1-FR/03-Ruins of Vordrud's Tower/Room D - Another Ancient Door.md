@@ -1,0 +1,16 @@
+Lisez ou paraphrasez ce qui suit et montrez le Document 52 : Une autre porte ancienne. 
+
+Note : Cette porte se trouve au pied de l'escalier qui descend de la salle C. 
+
+**Vous descendez d'un étage sur cet escalier périlleux, qui a été rendu dangereusement glissant par le passage du cube gluant. En bas, vous trouvez une grande porte en bronze. Une gargouille lugubre est gravée en métal vert-de-gris sur la face, mais il n'y a ni poignée, ni serrure, ni autre moyen visible d'entrer. Il n'y a qu'un étrange symbole gravé dans la tête de la gargouille.En appuyant dessus, vous pouvez voir que même les plus forts d'entre vous ne possèdent pas la force de la forcer, même en travaillant ensemble.Alors que vous regardez dans les yeux du visage cruel de la porte, vous entendez des murmures danser autour de vos oreilles. La plupart d'entre eux sont inintelligibles, mais vous pensez pouvoir distinguer quelques phrases... "Vous ne servez pas sa Majesté... partez..." "...seuls ceux qui ont un signe de sa bénédiction peuvent passer..." "...louez la Reine Sorcière...". 
+
+Celui qui devient le Muugda verra aussi un nom dans son esprit : "Malvolana". 
+
+**Vous ne trouvez pas d'entrée. Après quelques instants, les chuchotements cessent.
+
+La porte rayonne de magie (Abjuration, Conjuration, et Nécromantique) et est protégée magiquement. Si vous tentez de forcer la porte, la bouche du visage démoniaque émet une fumée noire huileuse qui inflige 7 (2d6) points de dégâts à tous ceux qui se trouvent dans une zone de 6 mètres autour de la porte pour chaque tour où ils restent dans la substance fumante (sauvegarde de Constitution DC 14 pour la moitié des dégâts). La substance brûle les poumons et la peau. La porte a 200 points de vie, est AC 15, et régénère les dégâts à raison de 20 points de vie par tour. Les attaques magiques ne l'endommagent pas. La seule clé connue de cette porte a été prise sur le corps du nécromancien par le groupe d'aventuriers qui l'a tué. Quelques années plus tard, un jeune homme du nom d'Odil Butcher-Brickendon et ses sbires ont assassiné le groupe d'aventuriers (connus sous le nom de Lames de Blonne). La clé de la porte permet de contourner les protections magiques. Bien qu'encore jeune, Odil est l'actuel chef de la famille Butcher. Il est également le chef des Shiners (bien que seuls quelques privilégiés le sachent). Odil a pris la clé pour lui car elle a des pouvoirs magiques - mais il ne sait pas que c'est la clé de cette porte.Il est possible, dans un prochain chapitre de cette campagne, que le groupe puisse acquérir cette clé - mais ils devront probablement tuer Odil pour l'obtenir. 
+
+S'ils ouvrent cette porte, ils pourront alors découvrir un terrible secret. Nous en apprendrons davantage sur Odil, les Bouchers et les Éclaireurs dans les prochains chapitres. Mais, pour l'instant, nous garderons cette histoire pour nous.
+
+Note : Bien que cela soit inhabituel dans la plupart des aventures publiées, il n'est pas rare dans nos scénarios que des fils soient laissés pour une partie ultérieure de la campagne. Cette porte est l'une d'entre elles. Le groupe n'obtiendra probablement la clé que bien plus tard dans l'histoire. Après cela, qui sait ce qui se trouve derrière la porte...
+

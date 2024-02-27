@@ -1,0 +1,1 @@
+Demandez à un PC de faire un test de Sagesse (Perception) DC 12. S'il réussit, il remarquera un objet rond et lisse sur le sol. S'il l'inspecte, il s'agit d'une bille noire de jais d'un pouce de diamètre. Elle n'est pas magique et n'a pas vraiment d'autre but que de dérouter le groupe. En réalité, c'est juste une bille noire de jais qui vaut 1 or.

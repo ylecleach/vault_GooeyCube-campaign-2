@@ -1,0 +1,7 @@
+Lisez ou paraphrasez ce qui suit et montrez le Document 16 : La fosse à bave si nécessaire.Document 16 : La fosse à bave
+
+**Après les cellules, d'autres escaliers descendent dans une petite pièce avec une fosse au centre. Une substance rouge bouillonnante empestant la viande en décomposition s'écoule des murs et se déverse dans le trou central. La puanteur est presque écrasante et vous luttez pour vous empêcher de vomir.Un couloir part de la pièce.
+
+Les PJ doivent tous faire des tests de Constitution DC 12 pour éviter de vomir. Ceux qui échouent perdent leur repas et sont empoisonnés pour la demi-heure suivante. 
+
+Note : Si le groupe est ici pendant le Festival de la Paix et que vous craignez que ces tests de Constitution ne déséquilibrent l'aventure au détriment des PJ, éliminez-les. Voici la fosse à bave du père Kenlen, remplie d'une substance fabriquée à partir d'une recette de Noxica. C'est ici que sont allés les disparus, que Kenlen a sacrifiés et dont il a jeté les corps dans la vase. Des animaux y ont également été jetés, ainsi que certains réactifs alchimiques et des corps déjà morts prélevés dans le cimetière. Tout ce dégoût est essentiel à l'invocation par Kenlen de l'Avatar de la Pourriture qui aura lieu pendant le Festival de la Paix (voir la Finale Pas si paisible dans la section ci-dessous et dans les NSRE dans la Référence du Meneur de Jeu).

@@ -1,0 +1,3 @@
+Faites savoir à l'un des joueurs qu'il a remarqué quelque chose qui attire son attention dans les arbres.
+
+**La plupart des arbres de cette région marécageuse ont des racines noueuses et des branches étrangement contournées  et vous vous êtes presque accoutumé de voir, parmi les branches tordues, des choses qui n'y sont pas. Cependant, une silhouette accroupie, à demi cachée parmi les feuilles de la canopée lointaine, reste bien réelle après un second un deuxième coup d'œil. Mais avant que vous ne puissiez regarder de plus près, elle semble remarquer votre attention et disparaît sans un bruit.

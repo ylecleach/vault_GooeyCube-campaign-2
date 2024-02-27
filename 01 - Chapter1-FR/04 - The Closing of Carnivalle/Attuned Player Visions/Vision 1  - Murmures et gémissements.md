@@ -1,0 +1,7 @@
+Vision 1 : Murmures et gémissements
+
+**Alors que vous regardez le champ sur lequel le Carnaval a été installé, tu ressents une sensation de froid et de moiteur sur ta peau. Tu regardes autour de toi... mais aucun de tes compagnons ne semblent éprouver cette sensation inconfortable. Puis, à peine audible à vos oreilles, tu entends une basse cacophonie de murmures et de gémissements, comme si un groupe de malades et de désespérés se trouvait quelque part à proximité. En écoutant... les poils de ta nuque se dressent lorsque le son s'intensifie. Il est maintenant couplé avec le bruit de pas qui se déplacent dans l'herbe à proximité. Tu regardes autour de toi mais tu ne vois rien d'anormal, et aucun de tes amis ne semblent l'entendre. Et puis... aussi vite que le son a commencé, il s'arrête. 
+
+C'est un clin d'oeil aux morts-vivants qui sont sortis de la Tour de Vordrud dans les années passées. Vous pouvez le faire réapparaître d'une manière ou d'une autre, si cela a un sens. 
+
+Ce serait bien que le Attuned PC  ait le cœur des morts-vivants qui traînent à l'extérieur de son chariot après s'être couché pour la nuit. Peut-être même que quelques zombies se montreront ! C'est la nuit noire après tout. Que les lanternes soient damnées !

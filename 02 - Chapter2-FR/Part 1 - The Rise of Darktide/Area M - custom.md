@@ -1,0 +1,6 @@
+si pas fait les corbeaux aller [[Area C - A murder of Crows]] 
+ou faire première partie ou seconde partie de [[Area I - The Wereverines]]
+
+Il y a trois zones GM que vous pouvez ajouter à l'aventure comme bon vous semble. Chacune de ces clairières peut être personnalisée si vous le souhaitez. Vous pouvez ajouter une ou deux rencontres de combat si vous en avez envie (et si vous pensez que le groupe a la vie trop facile). Mais gardez à l'esprit qu'il y a beaucoup de combats dans la Forêt Noire, et que le groupe devra être prêt à partir au coucher du soleil pour une mission entièrement nouvelle et dangereuse. Si vous préférez ne pas les remplir vous-même, vous pouvez utiliser l'un des ERNS de la section Bois sombre du Livre de référence du MJ (ou le laisser vide si vous préférez). 
+
+Ces zones pourraient également vous donner une excellente occasion d'ajouter un fil conducteur que vous souhaitez apporter à l'aventure, car ces bois sont très chargés de choses effrayantes en raison de la Tour de Vordrud et de l'histoire maléfique qui y est associée. Gardez à l'esprit que le groupe partira dans la matinée, mais qu'il est fort probable qu'il revienne dans cette zone dans un chapitre à venir.

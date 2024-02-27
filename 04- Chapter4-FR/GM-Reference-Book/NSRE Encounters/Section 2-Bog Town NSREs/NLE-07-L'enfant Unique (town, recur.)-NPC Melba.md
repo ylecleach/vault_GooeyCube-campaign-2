@@ -1,0 +1,3 @@
+Utilisez le Portrait 16 : Melba si les PJ interagissent avec elle. 
+
+Une enfant aux cheveux blonds observe le groupe depuis un coin de rue, surveillant et s'enfuyant si elle est repérée. On peut aussi la voir se cacher dans la ville, dans des endroits un peu isolés, et pratiquer des sorts, de façon assez médiocre. Elle est très prudente à ce sujet, car la ville n'aime pas la magie. Elle a également du mal à contrôler sa magie sous le coup de l'émotion. Voici Melba, la jeune fille du comptoir (elle est très curieuse de la fête et posera une tonne de questions si on s'adresse à elle).

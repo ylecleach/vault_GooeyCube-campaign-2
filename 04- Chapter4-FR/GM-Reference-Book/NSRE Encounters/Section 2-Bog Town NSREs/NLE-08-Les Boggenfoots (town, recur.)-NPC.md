@@ -1,0 +1,9 @@
+Montrez les Portraits 19 et 20 (Les Boggenfoots) si les PJ interagissent avec eux. (ce sont des Soflings ou Hobbits)
+
+Demandez à un ou deux joueurs de faire un test de Sagesse (Perception) DC 11 pour remarquer une paire de halflings conversant de manière quelque peu suspecte dans un endroit isolé quelque part dans Stuckshoe. 
+
+Vous pouvez lire ou paraphraser ce qui suit ou ajuster la rencontre en conséquence.
+
+**Plus d'un habitant de la ville que vous avez rencontré avait un air suspect ; non seulement ils vous jettent des regards méfiants en tant qu'étrangers, mais ils semblent tous vouloir garder leurs affaires privées autour de la colonie, même l'un pour l'autre. Vous avez presque commencé à vous habituer à ces regards prudents, mais deux petites silhouettes un peu plus loin dans la rue ont réussi à attirer votre attention avec leur fourrure exagérée.Ils sont courbés et semblent examiner, ou peut-être échanger quelque chose qu'ils préfèrent ne pas voir.Bien qu'ils aient le dos tourné, tous deux jettent périodiquement des coups d'œil sur leur environnement.
+
+Les halflings suspects sont **Condy et Salansy Boggenfoots** et ils sont en fait des gens plutôt bien. Mais ils ont fait une "découverte secrète" dans la tourbière qui, pensent-ils, les rendra riches. Sur l'une des îles, ils ont trouvé de "l'or"... Mais malheureusement pour eux, il s'agit en fait d'un or de fou qui n'a aucune valeur. Il y a une petite quête secondaire ici, peut-être si vous voulez l'apporter à la table. Mais pour ce qui est de l'intrigue principale, nous voulons jeter la suspicion sur les Boggenfoots afin d'atténuer celle des Falsenflamms. C'est le but de ces deux-là.

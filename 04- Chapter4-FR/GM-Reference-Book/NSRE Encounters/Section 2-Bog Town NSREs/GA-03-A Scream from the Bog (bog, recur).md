@@ -1,0 +1,6 @@
+Lisez ou paraphrasez ce qui suit si nécessaire.
+
+**Vous vous êtes habitué au bruit de fond constant de la tourbière de Blackrot, un chœur d'oiseaux, d'insectes et d'autres bêtes moins identifiables. Mais soudain, ce bourdonnement agréable est coupé par un cri à glacer le sang qui résonne dans les eaux stagnantes et réduit au silence toutes les autres créatures. Le cri est anormal, son écho rappelle celui de plusieurs dizaines de personnes hurlant de douleur et de terreur. Il est suivi d'un gémissement étrangement humide, comme celui d'un monstre mourant qui rend son dernier soupir par des poumons qui se remplissent rapidement de sang. Puis, c'est le silence total. Il faut attendre plusieurs minutes avant que les grillons ne recommencent à chanter. 
+
+Ce cri provient du Wakabago, une horrible abomination mort-vivante qui se cache dans le marais. Il a une forme physique composée principalement de boue, de branches pourries et de cadavres mutilés, mais il est animé par les esprits de dizaines, voire de centaines, d'âmes qui ont été attirées par cette monstruosité comme des bateaux dans un énorme tourbillon.Ceci peut être répété plusieurs fois pour garder les joueurs sur le qui-vive et se méfier de ce qui se cache dans le marais.
+

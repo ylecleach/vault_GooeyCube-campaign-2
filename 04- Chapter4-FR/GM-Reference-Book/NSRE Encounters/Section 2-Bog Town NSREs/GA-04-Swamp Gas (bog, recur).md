@@ -1,0 +1,5 @@
+Cet ajout fonctionne mieux le soir ou la nuit, lorsque les effets des flammes sont les plus visibles. 
+
+**Dans la tourbière, vous remarquez des ombres vacillantes là où il ne devrait y avoir que l'obscurité totale. Il y a un certain nombre de maisons délabrées disséminées dans la région, peut-être que certains habitants se trouvent parmi les arbres ? Quoi que vous pensiez d'eux, vous n'êtes pas sûr qu'ils seraient assez imprudents pour s'aventurer dans les profondeurs du marais la nuit. D'ailleurs, vous n'avez jamais vu de lanternes ou de torches scintiller aussi vigoureusement parmi les branches, ni dans des teintes aussi effroyables de vert pâle et de bleu. 
+
+Si les joueurs tentaient de trouver la source de ces lumières, elles disparaîtraient avant que le groupe ne puisse s'en approcher. Bien qu'ils aient des raisons de penser que ces lumières sont sinistres ou magiques, il s'agit dans ce cas simplement de gaz des marais qui planent au-dessus de l'eau et qui ont des interactions alchimiques mineures les uns avec les autres, créant ainsi des lumières étranges.

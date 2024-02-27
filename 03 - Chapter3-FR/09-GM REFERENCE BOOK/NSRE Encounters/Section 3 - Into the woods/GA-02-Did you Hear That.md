@@ -1,0 +1,5 @@
+Demandez à un joueur de faire un test de Sagesse (Perception) DC 10. (Le Barde Crendon s'il est là) S'ils réussissent, remettez-leur une note qui dit : 
+
+**Alors que vous marchez sur le sentier, vous pensez entendre les sons doux d'une musique de cornemuse lointaine. C'est une mélodie obsédante qui vous donne des frissons, mais qui semble s'évanouir dans les bruits de la forêt si vous essayez d'écouter attentivement... Personne d'autre dans le groupe n'entendra la musique. 
+
+Vous pouvez demander à différents joueurs d'entendre la musique tout au long de leur séjour dans les bois (ou à un seul PC de l'entendre... peut-être l'un des PC du Choix du Destin). Il est impossible de déterminer la direction ou la source de la musique. Si vous voulez vraiment être malin... procurez-vous un bon morceau de musique de cornemuse obsédante et jouez-le maintenant et dans les parties futures... et peut-être construisez-vous un petit conte autour de lui. A vous de jouer !

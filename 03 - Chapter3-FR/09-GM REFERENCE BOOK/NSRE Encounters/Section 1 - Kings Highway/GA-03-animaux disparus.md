@@ -1,0 +1,2 @@
+Demandez aux joueurs de remarquer un animal inoffensif, comme un cerf, un écureuil ou un oiseau, quelque part dans les environs. Au fur et à mesure qu'ils voient la créature, celle-ci disparaît ou se transforme en un autre animal tout aussi anodin, comme un opossum ou un lapin. Ensuite, ils entendent un ricanement impossible à localiser, provenant d'un endroit proche. Cela peut se produire à plusieurs reprises.
+

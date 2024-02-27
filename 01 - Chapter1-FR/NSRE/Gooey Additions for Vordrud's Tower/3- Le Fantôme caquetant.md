@@ -1,0 +1,3 @@
+Un fantôme caquetant réside dans la Tour de Vordrud. Il rit et émet d'autres sons bizarres à des moments inopportuns. Il ne peut pas être engagé et ne se battra pas. Mais un fort bruit de pas dans un couloir sombre....
+
+https://tabletopaudio.com/dungeon_sp.html => Utiliser le son Shimmer puis Scream dans la foulée.

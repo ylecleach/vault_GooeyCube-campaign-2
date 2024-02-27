@@ -1,0 +1,8 @@
+Lorsque le groupe arrive au pont, lisez ou paraphrasez ce qui suit et montrez le Document 54 : Le vieux pont lorsque c'est nécessaire.
+
+**Les arbres de cette zone sont un peu plus ouverts, donnant une vue décente sur le ciel couvert. La teinte de l'étoile rouge s'associe à la lumière de Luneós et de Vixen et donne à la couverture nuageuse une teinte rose maladive. On entend le vent souffler et les arbres trembler autour de soi. Il est assez large pour permettre à un petit chariot de le traverser, mais ce n'est probablement pas conseillé car vous pouvez voir clairement qu'un certain nombre de planches du plancher le long du pont sont pourries, et que la balustrade nord est presque tombée. Sur le côté nord-est du chemin, vous pouvez voir une grande parcelle de champignons luisants.
+
+Le pont est relativement stable et tiendra tant qu'il n'y aura pas plus de 800 livres sur le pont en même temps. Si cette limite est dépassée, lancez les dés de percentile. Sur un résultat de 20 ou moins, le pont s'effondre et tombe (avec tout ce qu'il contient) d'environ 3 mètres dans le lit glacé et rocailleux du ruisseau en contrebas. Les personnages qui tombent subissent 5(1d6+2) points de dégâts de matraquage. Pire encore... soustrayez 20 à votre jet de percentile pour chaque tranche de 100 livres supplémentaires au-delà de 800. Les personnages qui tombent peuvent tenter un jet de Dextérité (Acrobatie) DC 13 pour subir la moitié des dégâts. Les personnages qui se trouvent à moins d'un mètre cinquante de l'une des berges peuvent faire un test de Dextérité (Acrobatie) DC 15 pour sauter et se mettre en sécurité, évitant ainsi la chute.
+
+PS : (Aucun intéret)
+

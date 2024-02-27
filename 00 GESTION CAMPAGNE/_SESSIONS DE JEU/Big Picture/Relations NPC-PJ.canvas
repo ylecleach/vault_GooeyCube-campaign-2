@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"56f550b20ccebd93","x":-660,"y":-200,"width":400,"height":400,"type":"group","label":"Untitled group"},
+		{"id":"5325678e000b77c1","x":370,"y":207,"width":400,"height":400,"color":"4","type":"file","file":" remote_vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/PJ/Fior.md"},
+		{"id":"51bea2051fe21093","x":-180,"y":207,"width":400,"height":400,"color":"1","type":"file","file":" remote_vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/Nemesis/Filthy Butcher.md"},
+		{"id":"d35d18ffa8c0faf3","x":-380,"y":-360,"width":252,"height":78,"color":"3","type":"text","text":"PRONDADOL"}
+	],
+	"edges":[]
+}

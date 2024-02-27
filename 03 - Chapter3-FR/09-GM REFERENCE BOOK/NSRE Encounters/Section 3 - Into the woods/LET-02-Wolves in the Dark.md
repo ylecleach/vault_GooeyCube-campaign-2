@@ -1,0 +1,6 @@
+**Vous avez entendu des hurlements perçants résonner dans l'air glacial de la nuit à de nombreuses reprises, mais tout à coup, le silence est devenu sinistre. C'est alors qu'un grognement profond et grondant rompt le silence en provenance du sous-bois sur votre gauche. Il est bientôt rejoint par un grognement équivalent sur votre droite. En un instant, vous semblez être encerclé. De grandes dents brillent au clair de lune tandis que la meute de loups bondit hors de l'obscurité pour attaquer.Lancez l'initiative.
+
+Une seule grande meute de loups revendique cette bande de bois, mais elle est actuellement divisée en plusieurs bandes plus petites. Le groupe rencontrera l'une de ces bandes dans la zone G : le Sanctuaire Longtemps Perdu. Comme pour le groupe de chasseurs de gobelins, vous pourriez potentiellement organiser cette partie plus d'une fois si vous aviez vraiment besoin de rencontres supplémentaires (maintenant... nous pensons que les combats finaux avec les ogres sont probablement nombreux, alors n'en faites pas trop).
+
+**The Wolves in the Dark NSRE
+Stats on Battle Stats page 37

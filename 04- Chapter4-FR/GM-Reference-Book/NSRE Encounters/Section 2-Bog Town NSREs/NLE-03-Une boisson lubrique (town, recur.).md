@@ -1,0 +1,5 @@
+Alors que le groupe se déplace, il tombe sur l'un des habitants de la ville (ce PNJ n'est pas nommé, mais il pourrait s'agir d'un PNJ de votre cru). Il pue l'alcool et est un peu sale. Il sourit, saluant le groupe d'un "**Hullo thur**" en trébuchant, prenant le temps de lorgner l'un des membres du groupe, le regardant d'un air mécontent. **"J'aimerais bien goûter à ça"**, dit-il avant de se lécher les lèvres. 
+
+Il continue à "flirter" d'une manière très effrayante, allant même jusqu'à tendre la main pour toucher. S'il essuie un refus, il dira "**Ne sois pas prude, je ne dirais rien à ma femme non plus**". Il sourit à nouveau : "**Vous l'aimerez bien.**" Après avoir été suffisamment chahuté, il laissera le groupe tranquille et s'éloignera, mais il est probable qu'il réapparaîtra pour ennuyer les PJ à un autre moment. 
+
+Ce n'est qu'un petit exemple de la corruption qui a commencé à s'infiltrer dans la ville depuis l'arrivée du prêcheur.

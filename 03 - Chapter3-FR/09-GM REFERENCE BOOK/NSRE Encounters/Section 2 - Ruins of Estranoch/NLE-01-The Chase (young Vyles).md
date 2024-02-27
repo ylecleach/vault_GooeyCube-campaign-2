@@ -1,0 +1,15 @@
+Lisez ou paraphrasez le texte suivant :
+
+**Vous voyez une petite créature se précipiter hors d'un trou dans le mur. Étonnamment, deux autres silhouettes un peu plus grandes se faufilent rapidement par la même ouverture. Les plus grandes créatures semblent être de jeunes Bog Vyles, et elles poursuivent une sorte de lézard. Aucun d'entre eux ne semble particulièrement préoccupé par votre présence dans les ruines, et leur jeu de piste commence bientôt à s'étendre à travers votre groupe.
+
+Que faites-vous ?
+
+Demandez à deux des personnages les plus petits et les moins musclés de faire des jets de sauvegarde de Dextérité DC 10. En cas d'échec, ils tombent à terre et les jeunes Bog Vyles les écrasent dans leur course-poursuite égocentrique.
+
+Les joueurs peuvent poursuivre le lézard ; s'ils le font, ils doivent réussir un test de Dextérité (Acrobatie) DC 16. Ils peuvent aussi tenter d'arrêter les jeunes Bog Vyles, peut-être pour glaner des informations sur les ruines. Pour ce faire, chaque Bog Vyle doit réussir un test de Dextérité (Acrobatie) DC 14. Les joueurs peuvent également attaquer le lézard ou les jeunes Bog Vyles. Le lézard est un peu difficile à toucher, avec une CA de 14, alors que les Vyles n'ont qu'une CA de 11 Un seul coup suffit à les éliminer, mais attaquer sans provocation les jeunes Bog Vyles, aussi grossiers et agaçants qu'ils puissent être, est une chose bien méchante à faire, qui ne correspond pas aux valeurs du Hanataz.
+
+Si les joueurs attrapent le lézard ou le tuent, ils verront qu'il a trois yeux et une double queue, mutés par les magies de la région. Le jeune Bog Vyles demandera aux PJ de lui donner le lézard, et partagera ce qu'il peut sur les ruines s'ils le font. Ils peuvent donner une idée très générale de la taille du château, des Bog Vyles qui l'habitent et des étranges créatures mutantes qui se trouvent dans les ruines, mais ils ne sont pas particulièrement perspicaces ou bien informés. Ils seront très désemparés et bien moins utiles si les joueurs tuent le lézard, et pas du tout s'ils tuent l'un des jeunes Bog Vyles (ce qu'ils ne devraient pas faire non plus).
+
+Si les joueurs sont particulièrement gentils, l'un des Bog Vyles sortira de son vêtement souillé un morceau de parchemin sale, plié en forme grossière de rat ou de souris, et le donnera au groupe avant de s'enfuir. Si les joueurs déplient le parchemin, ils découvriront qu'il s'agit d'un vieux parchemin, **Objet spécial 42 : Parchemin de guérison.
+
+Les jeunes Bog Vyles vont probablement rassembler un certain nombre de leurs proches pour attaquer les joueurs s'ils sont cruels avec eux, s'ils tuent le lézard ou s'ils les attaquent. Si les autres Bog Vyles découvrent que les deux jeunes ont été tués par le groupe, ils seront pris de frénésie et feront de leur mieux pour tuer les joueurs en guise de représailles. D'un autre côté, si les joueurs sont serviables, ou du moins ne sont pas hostiles aux enfants vyles, les autres Bog Vyles seront plus enclins à conclure un accord pour les laisser passer à travers les ruines.

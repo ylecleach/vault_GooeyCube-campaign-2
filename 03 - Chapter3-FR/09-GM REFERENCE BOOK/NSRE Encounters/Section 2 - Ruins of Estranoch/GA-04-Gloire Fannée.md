@@ -1,0 +1,7 @@
+Lisez ou paraphrasez ce qui suit et montrez le document 87 : me Faded Sigil lorsque c'est nécessaire
+
+Bien que l'air soit généralement immobile et stagnant dans les ruines, il y a suffisamment de fissures et d'ouvertures dans les murs et les plafonds en pierre pour créer une brise soudaine occasionnelle. Un tel courant d'air apporte une vague d'odeurs de moisi à vos narines.
+Cependant, il agite également une tapisserie incrustée de saleté sur un mur voisin, une tapisserie que vous aviez presque négligée. En y regardant de plus près, vous apercevez un écu héraldique représentant un serpent noir, enroulé autour d'un poing orokonoïde tranché, sur un fond rouge. À peine visible dans la partie rouge de la tapisserie, un tableau représente des escadrons de chevaliers nettoyant une forêt et une zone marécageuse d'orques, de mortsvivants, d'ours hiboux, de brigands et d'autres ennemis.
+La tapisserie est endommagée et son nettoyage, sa réparation et son transport demanderaient des efforts considérables - une entreprise à laquelle les autres Hanataz ne seraient pas très intéressés. Si les joueurs insistent, il sera difficile de trouver quelqu'un intéressé par un artefact de la famille Estranoch.
+
+S'ils se donnent la peine de le faire, la tapisserie pourrait valoir 20 pièces d'or.

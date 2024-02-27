@@ -1,0 +1,17 @@
+Lisez ou paraphrasez ce qui suit : 
+
+**Le chemin croise un petit gué qui traverse le ruisseau. L'étrange et oppressante grisaille de la journée semble s'intensifier alors qu'un gros nuage recouvre le Sul. Soudain, depuis la forêt, au sud-ouest de vous, un cri surnaturel, résonnant, hurle à travers les arbres... C'est un son effrayant, à la fois triste et troublant. Il semble venir de la direction du chemin qui traverse le gué.** 
+
+**Que faites-vous ?** 
+
+Si le groupe avance pour enquêter, donnez à chaque PC un test de Sagesse (Perception) DC 12. S'ils échouent tous, ils ne trouveront rien. Cependant, s'ils réussissent, ils verront la forme fantomatique d'Elgret- ta, la spectre veuve, qui dérive tristement dans la forêt. **_Remarque :_** si l'un de vos joueurs utilise le personnage de l'Attachement des Secrets de joueur, il verra Elgretta sans qu'un test de perception soit nécessaire. Elgretta semblera également "s'intéresser" au PC de l'Attunement - en le regardant d'un air perplexe, en passant à travers son corps, en le "touchant", etc..... 
+
+L'histoire d'Elgretta est triste. Son mari a succombé à la fièvre rouge alors qu'ils n'étaient mariés que depuis quelques années. Juste après sa mort, le misérable nécromancien, Vordrud, a ressuscité son corps comme un serviteur non mort. Quand Elgretta le vit traîner dans les bois, elle courut vers lui et l'entoura de ses bras, avec une joie sans bornes. Son esprit, cependant, ne résidait plus dans son corps réanimé, qui lui rendit son étreinte en lui arrachant la vie. Il poursuivit ensuite sa route pour accomplir la tâche que son maître lui avait confiée. Elgretta erre maintenant dans les bois dans un chagrin perpétuel, le chagrin de sa terrible perte lui donnant forme à chaque Darktide. 
+
+Si les joueurs l'attaquent, tout ce qu'ils lanceront ou balanceront sur elle passera simplement au travers. Elle les regardera tristement, une larme spectrale coulant sur sa joue, avant de s'éloigner. S'ils choisissent de lui parler à la place, elle hésitera à interagir, mais on peut la convaincre de raconter son histoire avec des mots gentils. Le PC d'harmonisation peut l'y aider (+4 aux tests de Persuasion). 
+
+Si le groupe veut l'aider, il devra retrouver les reliquats de son corps qui se trouvent de l'autre côté du gué, et le long du chemin, dans la clairière au nord-ouest. S'ils choisissent de le faire, elle leur indiquera la direction des entraves terrestres qui la maintiennent liée au monde physique.
+
+Une fois qu'ils sont proches, demandez-leur de faire des tests raisonnables de Sagesse (Perception) et de Sagesse (Survie) pour localiser ses os. Une fois trouvés, ils devront être brûlés ou enterrés pour libérer définitivement Elgretta de son tourment. Une fois l'opération terminée, sa forme fantomatique se dissipera. Elle prononcera les mots "merci" avant de disparaître complètement. S'ils ne sont pas capables ou désireux de l'aider, elle accrochera simplement sa misérable tête et s'éloignera en flottant avant de disparaître dans la forêt. 
+
+**_Note :_** Si le groupe parvient à libérer Elgretta de sa terrible situation, donnez à tous ceux qui ont aidé un seul jet immédiat pour une carte de récompenses Gooey (il faut obtenir un 20 naturel). Pour plus d'informations sur les récompenses Gooey, consultez la section Notre philosophie et nos règles.

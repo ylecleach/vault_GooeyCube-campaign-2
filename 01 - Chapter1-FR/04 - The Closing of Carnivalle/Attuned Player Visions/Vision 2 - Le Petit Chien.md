@@ -1,0 +1,5 @@
+Vision 2 : Le petit chien
+
+**À vos pieds... semblant surgir de nulle part... vous voyez un petit chien noir aux oreilles tombantes et aux yeux brillants. Il vous jappe comme s'il vous demandait de la nourriture, assis sur ses pattes arrière. 
+
+Si le personnage-joueur se baisse pour caresser ou nourrir le chien, il disparaît. Aucun des autres membres du groupe ne le verra ou ne l'entendra. Dragoon était le chien de compagnie de Cleeva (voir l'équipage du chasseur de dragon dans la section Alliés et connaissances). Le chien a été tué par les Centipèdes Géants dans le champ il y a environ deux semaines et les enfants l'ont enterré dans le bois voisin. Si le groupe interagit avec Cleeva, peut-être fera-t-elle mention de lui. Vous pouvez faire réapparaître Dragoon par intermittence et, peut-être même, lui faire faire quelque chose pour avertir ou aider le groupe. Amusez-vous avec lui !

@@ -1,0 +1,3 @@
+**Un grand "CAW" attire votre attention. En levant les yeux, vous apercevez un petit corbeau qui vole au-dessus de vous.(Ou assis à proximité... ou sur un toit... ou n'importe où vous voulez qu'il soit).
+
+Ce corbeau est le familier de Big Daddy Butcher, et il est utilisé pour espionner la fête. Il s'appelle "Beauty". Le corbeau suivra généralement le groupe tout au long de son séjour à Stuckshoe.Il ne devrait pas toujours être visible, mais il devrait apparaître assez souvent pour faire réfléchir les joueurs.Note : Le corbeau n'est pas assez fou pour se mettre en danger - il reste hors de portée des sorts et se tient un peu à couvert pour se protéger des attaques de missiles.

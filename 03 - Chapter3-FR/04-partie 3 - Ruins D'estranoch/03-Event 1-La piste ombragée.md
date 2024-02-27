@@ -1,0 +1,9 @@
+Lisez ou paraphrasez ce qui suit et montrez Handout 06 : The Shadowed Track lorsque c'est nécessaire.
+
+**Ce qui était autrefois une route convenable se dirige à peu près vers le nord-est à travers la forêt en direction de la tourbière. Autour de vous, la forêt étouffe le vent de manière significative. En fait, elle semble plus calme que vous ne l'auriez imaginé. Au fur et à mesure que vous avancez, la piste se couvre d'une brume humide qui s'élève du sol. Vous pouvez également sentir la puanteur fétide qui émane du bourbier. C'est une odeur nauséabonde, pleine de pourriture et de décomposition. Au détour d'un virage, vous arrivez dans une zone où plusieurs crapauds lumineux sont disséminés au pied des arbres. Les crapauds brillent d'une teinte orangée et ont la forme d'un chapeau de sorcier pointu.
+
+![[Pasted image 20230829191716.png | 800]]
+
+Demandez à chaque membre du groupe de faire un test d'Intelligence (Nature) DC 14. Ceux qui réussiront le test sauront que les crapauds lumineux sont des Magecaps. Ils ont une certaine valeur dans les applications alchimiques, mais doivent être récoltés d'une certaine manière pour garantir la qualité de l'alchimie afin de ne pas gâcher la magie qu'ils contiennent. Cette méthode peut être connue de quelqu'un ayant les compétences appropriées, comme les druides ou les rôdeurs. Toute personne ayant les compétences appropriées en survie en milieu sauvage peut faire un test de Sagesse (Survie) DC 15 pour savoir qu'elles doivent être récoltées vers le milieu de la nuit et placées immédiatement dans un récipient hermétique.
+
+Ce pourrait être un bon endroit pour un NSRE, mais pas un endroit difficile (peut-être le "Hogskeeter Spawning Pool", car il ne devrait pas être trop difficile)

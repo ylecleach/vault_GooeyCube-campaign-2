@@ -1,0 +1,5 @@
+Lisez ou paraphrasez ce qui suit et montrez le Document 17 : Le sous-sol inférieur lorsque le groupe entre. 
+
+**Cette pièce assez grande semble suivre les fondations de l'église, bien que vous deviez vous trouver à au moins 15 à 20 pieds sous la chapelle proprement dite. L'eau s'infiltre par les fissures des murs de pierre, et des algues verdâtres et des moisissures se développent sur les surfaces rocheuses. L'odeur nauséabonde de la fosse dans la pièce voisine a diminué, bien qu'elle soit encore très forte. 
+
+Le Père Kenlen utilisera cette pièce pour invoquer l'Avatar de Rot pendant le Festival de la Paix (voir La Finale Pas Si Paisible NSRE dans la Référence du MJ, et les notes dans la section ci-dessous), mais pour l'instant elle est vide, tout comme l'alcôve sombre. La porte dans le mur du fond mène à un escalier caché qui donne sur l'île du dessus, mais cette sortie est dissimulée sous un certain nombre de rochers, de vieux morceaux de bois et d'autres débris. Le groupe ne devrait pas découvrir cette porte à moins que vous ne leur donniez une vision différente de la fin de l'aventure.

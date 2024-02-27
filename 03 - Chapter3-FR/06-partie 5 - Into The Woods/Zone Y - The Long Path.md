@@ -1,0 +1,3 @@
+Lisez ou paraphrasez ce qui suit:
+
+**Ici, le chemin va du nord-est au sud-ouest. Sur le côté du chemin, vous pouvez voir un certain nombre de champignons bleu-vert brillants qui scintillent dans l'obscurité sous les arbres. Au sud-est, juste à côté du chemin, on aperçoit la silhouette d'un grand hibou qui vous observe de ses yeux jaunes. Sans crier gare, l'oiseau vous hèle et s'envole dans le fourré. Les champignons sont plutôt des Winterglow Shrooms (champignons luisants).
