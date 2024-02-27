@@ -1,4 +1,4 @@
-Nouveau joueur à la table : Roch, qui incarne Corrinee Ay'Yava, l'un des 24 PJ pré-tirés de la campagne. et ce soir 8 joueurs à la table ! Exceptionnel !
+testNouveau joueur à la table : Roch, qui incarne Corrinee Ay'Yava, l'un des 24 PJ pré-tirés de la campagne. et ce soir 8 joueurs à la table ! Exceptionnel !
 
 Nouveautés: les initiatives de combat sont relancés à chaque round. Verdict ? Les joueurs et le MJ sont unanimes: c'est vraiment plus réaliste et donne plus d'intérêts aux combats. Sera donc la nouvelle norme.   
 ![[Pasted image 20240210171308.png| 400]]
