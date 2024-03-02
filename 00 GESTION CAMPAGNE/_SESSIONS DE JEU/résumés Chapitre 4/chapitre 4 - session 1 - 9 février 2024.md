@@ -1,25 +1,26 @@
- Nouveau joueur à la table : Roch, qui incarne Corrinee Ay'Yava, l'un des 24 PJ pré-tirés de la campagne. et ce soir 8 joueurs à la table ! Exceptionnel !
+ Nouveau joueur à la table : Roch, qui incarne Corrinee Ay'Yava, l'un des 24 PJ pré-tirés de la campagne. et ce soir 8 joueurs à la table ! Exceptionnel ! L' ambiance était au top !
 
-Nouveautés: les initiatives de combat sont relancés à chaque round. Verdict ? Les joueurs et le MJ sont unanimes: c'est vraiment plus réaliste et donne plus d'intérêts aux combats. Sera donc la nouvelle norme.   
+Nouveautés: les initiatives de combat sont relancées à chaque round. Verdict ? Les joueurs et le MJ sont unanimes: c'est vraiment plus réaliste et donne plus d'intérêts aux combats. Ce Sera donc la nouvelle norme.   
 ![[Pasted image 20240210171308.png| 400]]
  
 ### Votre état d'esprit
 
 Musique Mountains de Hans Zimmer (Interstellar)   
-Nous sommes le 17th du mois de Dezu'un (décembre) de l'année SC 1212, et il est environ 08h00, et vous venez de finir un début de dialogue avec les elfes noirs qui se sont présentés comme étant Aegis D'Arque et Shadrick D'Gar. Revenons un peu sur votre état d'esprit.
+Nous sommes le 17th du mois de Dezu'un (décembre) de l'année SC 1212, et il est environ 08h00, et vous venez de finir un début de dialogue avec les elfes noirs qui se sont présentés comme étant Aegis D'Arque et Shadrick D'Gar. 
+
+Mais avant cela Revenons un peu sur votre état d'esprit suite au massacre de votre famille la veille...
 
 La nuit fut rude, peut être la pire des nuits que votre courte-existence vous ai jamais donné de vivre, pleine d'angoisse, de pleurs, de rage, de doute, de regrets, et pour certains de rêves ...
 
-Au lendemain, dans le calme d'après la tempête, dans un paysage d'un voile blanc d'une pureté féérique, toutes ses émotions se mélangent dans votre esprit, le lendemain matin, sur les lieux du drame où vous vous trouvez encore, les cadavres recouverts par un lourd et épais manteau de neige, vous êtes à la fois très triste, très en colère contre les auteurs de ce massacre, mais aussi contre vous même.
+Au lendemain, dans le calme d'après la tempête, dans un paysage d'un voile blanc d'une pureté féérique, toutes ses émotions se mélangent dans votre esprit, le lendemain matin, sur les lieux du drame où vous vous trouvez encore, les cadavres recouverts par un lourd et épais manteau de neige, vous êtes à la fois très triste et très en colère contre les auteurs de ce massacre, mais aussi contre vous même.
 
-D'abord Yunsta ( enfant Hanataz), puis Frenta (adulte jeune), puis ZATIS (Helpers) , Vous étiez considéré par l'ensemble de votre troupe comme les BONDURANS ( ou"protecteurs"), et tous vous considéré même comme des héros, mais quelque part, le destin vous a manifestement détourné de cette mission, le temps de quelques heures, et puis le pire est arrivé.
+D'abord Yunsta ( enfant Hanataz), puis Frenta (adulte jeune), puis ZATIS (Helpers) , Vous étiez considéré par l'ensemble de votre troupe comme les BONDURANS ( ou"protecteurs"), et tous vous considérés même comme des héros, mais quelque part, le destin vous a manifestement détourné de cette mission, le temps de quelques heures, et puis le pire est arrivé.
 
 Toutefois au fond de votre immense chagrin inconsolable, une étincelle d'espoir subsiste, précieuse et réconfortante, quand vous pensez aux enfants qui ont été manifestement fait prisonnier par un groupe impitoyable d'elfes noirs et de gnolls.
 
-Après avoir discuté avec Aegis D'Arque et Shadrick D'Gar, vous comprenez que les assassins de la Troupe, de vos pères et mères adoptives, de Mère Salvensa, d'Anton, de (lister les prénoms), 
-sont eux même recherchés par leur peuple Drow. 
+Après avoir discuté avec Aegis D'Arque et Shadrick D'Gar, vous comprenez que les assassins de la Troupe, de vos pères et mères adoptives,  Mère Salvensa, Calnassé, Kray,  Brayan, Anton votre grand prêtre,  Stoof, Lenna,  Tevren, Freasha et Clasby les Gamers, Greyson et Grelda les bardes,  Vestia et Skizzig les mages, Selvra, Sunessy et Frenne, Dren et Calva, le vieux Strem, les deux boufons Columbina et Taelenn, Chelsea, Dren et Calva... tous deux viennent de quitter l'enfance pour Frenta... et étaient si fiers de leur nouveau statut ... sont eux même recherchés par leur propre peuple Drow. 
 
-Cela vous réconforte un peu, car vous vous sentez un peu moins seul au monde, et l'espoir de pouvoir retrouver des membres de votre famille, les enfants (Vezzy !) , grandit et surpasse votre désir pourtant très intense de vengeance.
+Cela vous réconforte un peu, car vous vous sentez un peu moins seul au monde, et l'espoir de pouvoir retrouver des membres de votre famille, les enfants  Vezzy (5 ans, voyante),  Klestia (9 ans), Strend (7 ans), Jovessa (6 ans), Creeda (4 ans), les jumeaux Trom et Trem (10 ans) , Jannig (11 ans, fils de Borag) , grandit et surpasse votre désir pourtant très intense de vengeance.
 
 Il y a un proverbe Hanataz ancien qui dit qu'un Frenta ne devient Adulte que lors qu'il perd ses parents. 
 
@@ -33,7 +34,7 @@ Cette prise de conscience, vous l'avez tous, et vous vous dites dans votre fort 
   17th du mois de Dezu'un (décembre) de l'année SC 1212, et il est environ 08h00
   ![[zoom-carte-chapitre4 1.jpg]]
 
-### Listes des morts  disparus ou en mission du massacre chez les Pré-tirées
+### Listes des morts  disparus ou en mission du massacre  
  * Vaness la druidesse, envoyée en mission par Mère Salvensa, pour aller enquêter sur le massacfre d'un cercle druidique près de Prondadol. Elle chevauche la Manticore de la troupe du Voile Bleu.
 - Theros Vegla : fils de Borag et Calnassé, à priori enlevé par les drows avec son frère Jannig et sa soeur Cassarine Vegla.
 - Calopia Sen
@@ -42,6 +43,7 @@ Cette prise de conscience, vous l'avez tous, et vous vous dites dans votre fort 
 - Kenna Naerna, Medium Humanoid, Female Human/Fey-Touched Spelldancer: enlevé par les drows (spell dancer). son père était Kray the Blade.
 - Sayaer's Kress, Medium Humanoid, Male Half-Drow Agent of Jinxx : n'était pas présent avec vous. Surement en mission pour Mère Salvensa.
 - Quember Rand, Medium Humanoid, Male Human/Earth-Touched Cleric of Kizmya : en mission sur sa propre quête dans les environs de Nevermore. (recherche d'un culte d'élémentaliste)
+- les 3 femme spell dancers: mavéa, elnass, saévra
 
 ### Suite de la conversation avec les agents de Aendun'Azuu 
 La partie reprend là ou le chapitre 3 s'était arrêté : au début de la conversation avec les deux chefs elfes noirs d'un groupe d'agents de Aendun'Azuu, les dénommés Aegis D'Arque, Shadrick D'Gar.
@@ -61,17 +63,17 @@ Cependant, les agents d'Aendun'Azuu ne resteront pas avec le groupe indéfinimen
 
 Les agents pensent que les cultistes pourraient avoir laissé certains des membres de la troupe captifs dans ce village, ou que les habitants pourraient avoir une idée de l'endroit où se trouve la forteresse secrète de la secte. Aegis pense qu'il est peu probable que cette ville marécageuse soit gardée par des membres de la secte elle-même, et que l'équipe devrait donc être capable de gérer ce qu'elle y trouvera. Il leur conseille vivement de s'y rendre immédiatement. Offrant des instructions de base sur la façon d'atteindre Stuckshoe, les Elfes Noirs indiquent également au groupe l'existence d'un agent de liaison à eux (**Tranden**), qui peut les aider.
 
-De leur côté, les agents ont l'intention de se précipiter vers le nord-est pour parler à **Droxil**, **promettant de rencontrer le groupe dans six jours à l'extrémité nort-est du Passage du Roi** (King's Crossing sur la carte), dans une clairière où les voyageurs campent souvent. En tant qu'Elfes Noirs, **Aegis** et **Shadrick** ne sont pas étrangers aux mauvaises réactions des gens, et **conseillent aux joueurs de dissimuler leur statut d'Hanataz pour leur propre sécurité**, et d'éviter d'utiliser la magie dans la ville. 
+De leur côté, les agents ont l'intention de se précipiter vers le nord-est pour parler à **Droxil**, **promettant de rencontrer le groupe dans six jours à l'extrémité nort-est du Passage du Roi** (King's Crossing sur la carte), dans une clairière où les voyageurs campent souvent. En tant qu'Elfes Noirs, **Aegis** et **Shadrick** ne sont pas étrangers aux mauvaises réactions des gens, et **conseillent aux joueurs de dissimuler leur statut d'Hanataz pour leur propre sécurité**, et **d'éviter d'utiliser la magie dans la ville. 
 
 Les agents espèrent obtenir des pistes et des contacts utiles de **Droxil**, et reviendront mieux préparés pour intégrer les jeunes Hanataz (le groupe de joueurs) dans les efforts d'interception et de capture - ou de destruction - du culte par la suite. 
 
-*  **La prêtresse s'appelle Noxica et le culte est particulièrement assoiffé de sang. Plus de quelques Duna'hadrine, et d'autres, ont été assassinés par eux de la manière la plus odieuse avant qu'ils ne s'enfuient de Nuvea'dunadra.
+*  **La prêtresse s'appelle Noxica et le culte est particulièrement assoiffé de sang. De nombreux Duna'hadrine  ont été assassinés par eux de la manière la plus odieuse avant qu'ils ne s'enfuient de Nuvea'dunadra.
 - **Le culte est "ostensiblement" dédié à Flem'eretch qui était, avant la guerre des dieux, le Seigneur de la Putréfaction. On dit que la déesse Kizmya et le dieu Jinxx ont tué Flem'eretch dans le conflit, mais comme Flem'eretch est mort, ils pensent que cette dévotion est une couverture pour un autre but plus néfaste.
 - **Ils pensent que le culte s'est séquestré quelque part au milieu de Blackrot Bog, mais ils ont jusqu'à présent été incapables de les retrouver, même en utilisant des magies de scrutation.
 - **Noxica est très charismatique et rusée, et il est probable qu'elle gagne des alliés auprès de divers groupes dans la région. Les gnolls ne sont certainement pas les seuls habitants qu'elle a ralliés à sa cause. Si les PJ ont mentionné le traître Zani aux Elfes Noirs, ils accuseront probablement son charisme d'avoir poussé le bouffon à se retourner contre la troupe.
 - **Le poison utilisé sur la troupe Hanataz est un terrible venin alchimique appelé Venzaa'de Ruen - également connu sous le nom de Black-Blood Death (mort du sang noir). Conçu pour résister aux magies de guérison, il est mortel, très coûteux à fabriquer et entraîne une mort des plus douloureuses.
-- **Si on leur demande, les agents en savent un peu plus sur le Clan des Bouchers et pensent qu'il est possible que Noxica soit d'une manière ou d'une autre de mèche avec eux. Ils n'ont pas beaucoup d'informations sur les Bouchers, cependant, et s'y intéresseront si le groupe raconte ses interactions avec le clan. Ils savent qu'il y a des membres du Clan du Boucher dans la ville-bourbier. (Note : Si vous voulez ajouter un peu de piquant à cette possibilité, à un moment donné, avant ou après le jeu de rôle, demandez à l'un des joueurs de découvrir une dague précédemment négligée, qui se trouve dans le bas du buffet de la charrette de la mère Salvensa, avec un symbole de tête de sanglier sur le pommeau.)
-- **La ville de la tourbière est connue sous le nom de "Stuckshoe" par les habitants. Soupçonnant un lien avec la secte, la Duna'hadrine a envoyé un de ses propres agents dans la ville il y a quelques mois. Il répond au nom de Tranden et attend de ses amis qu'ils s'identifient en mentionnant le nom de **"Mathias Overton"** et **"une épée d'acier émoussée" **dans la même phrase. Shadrick recommandera aux PJ d'être prudents lorsqu'ils approcheront Tranden, de peur qu'ils ne le dénoncent aux ennemis de la ville.
+- **Si on leur demande, les agents en savent un peu plus sur le Clan des Bouchers et pensent qu'il est possible que Noxica soit d'une manière ou d'une autre de mèche avec eux. Ils n'ont pas beaucoup d'informations sur les Bouchers, cependant, et s'y intéresseront si le groupe raconte ses interactions avec le clan. Ils savent qu'il y a des membres du Clan du Boucher à Bog Town (appelée Stuckshoe par ses habitants)
+- **Soupçonnant un lien avec la secte, la Duna'hadrine a envoyé un de ses propres agents dans la ville il y a quelques mois. Il répond au nom de Tranden et attend de ses amis qu'ils s'identifient en mentionnant le nom de **"Mathias Overton"** et **"une épée d'acier émoussée" **dans la même phrase. Shadrick recommandera aux PJ d'être prudents lorsqu'ils approcheront Tranden, de peur qu'ils ne le dénoncent aux ennemis de la ville.
 - **La tourbière de Blackrot est un endroit des plus effrayants, pollué par les eaux corrompues qui s'écoulent de Mu'uz Derron et abritant de nombreuses créatures dangereuses. En outre, une chaleur artificielle se dégage des eaux, de sorte que l'hiver n'est pas aussi intense dans la tourbière et ses environs... Entrez à vos risques et périls ! Le marais abrite des tribus agressives de lézards et de nombreux monstres, ainsi que des bandes de pillards assoiffés de sang qui se cachent à la périphérie. Restez sur vos gardes pendant votre voyage.
 
 ### Une survivante ...   
@@ -88,12 +90,12 @@ Après avoir soignée Corrinee, vous apprirent pas mal de nouvelles informations
 
 Voici ce que Corinee vous a appris.
 
-* Etant présent de nombreux gnolls et des elfes noirs qui achevait les blessés, bcp de tirs à distance, il y avait aussi une dizaine d'humains à l'allure de brigants patibulaires, et apparement éméchés. (ils brayait tout le temps en commun, tout en massacrant et en pillant les corps et les caravanes).
-- les protecteurs de la troupe vite inopérants, malgré les soins de Anton ou Mère Salvensa
-- combat très bref : une sorcière elfe noir donnait des ordres à ses troupes, et lancait des sorts de soins sur les combattants elfes noirs uniquement. 
+* Etaient présents de nombreux gnolls et des elfes noirs qui achevaient les blessés, beaucoup de tirs à distance, il y avait aussi une dizaine d'humains à l'allure de brigants patibulaires, et apparement éméchés. (ils brayait tout le temps en commun, tout en massacrant et en pillant les corps et les caravanes).
+- les protecteurs de la troupe devinrent vite inopérants, malgré les soins de Anton ou Mère Salvensa
+- combat très bref : une sorcière elfe noir donnait des ordres à ses troupes, et lançait des sorts de soins sur les combattants elfes noirs uniquement. 
 - dernier souvenirs: les enfants qui crient et qui hurlent,  frappés et enchainés. 
 - des détails dans leurs tenus ou équipements => chainmail-légère-noire, épée longue et hand crossbow, cape légère noire a capuche, foulard noirs, certains des spears, mais le plus marquant  était des casques en forme de crâne à l'aspect fondu et verdâtre. 
-- une présence furtive et terrible accompagnée d'une odeur nauséabonde, mélange de merde, d'odeur corporelle, qui t'a prend  le nez.   un visage démoniaque aux yeux de folie d'un humain obèse et difforme, recouvert d'immondices innommables.   L'un de vous se dit que la description est proche de l'un des membres de la famille Butchers, qui avait fuit. 
+- une présence furtive et terrible accompagnée d'une odeur nauséabonde, mélange de merde, d'odeur corporelle, qui te prend  le nez.   un visage démoniaque aux yeux de folie d'un humain obèse et difforme, recouvert d'immondices innommables.   L'un de vous se dit que la description est proche de l'un des membres de la famille Butchers, qui avait fuit. 
    ![[Pasted image 20240203222731.png | 600]]
 
 ### Rendez-vous pris dans 6 jours
@@ -110,19 +112,19 @@ Hurannan, le nouveau Bravda récemment élu démocratiquement (votre nouveau Lea
 
 Cydir se recueilla auprès du cadavre de Mère Salvensa et de son mentor Brayan.
 
-Après avoir envisagé toutes les possibilités, vous décidèrent de laisser sur-place tous les membres de la troupe qui ont été massacrés, sauf   vos mentors respectifs pour lesquels vous eurent assez de bois secs pour faire un bucher funéraire digne. 
+Après avoir envisagé toutes les possibilités, vous décidèrent de laisser sur-place tous les membres de la troupe qui ont été massacrés, sauf  vos leaders et mentors respectifs pour lesquels vous eurent assez de bois secs pour faire un bucher funéraire digne. 
 
 ### Sur la route de Stuckshoe
 sur la route, , L'une de vos deux chariots se prit dans la boue. En le dégageant, certains d'entre vous furent attaqués par de petites  lamproies des marais.  sans conséquence ... à priori...
 ### Des hommes lézards pas commode
- Peu avant d'arriver sur le village de Stuckshoe (aussi appelé **Bog Town**) vous tombèrent sur des hommes lézards (appelé des Algidians) qui grâce à leurs capacités de respiration sous l'eau et de camouflage en milieu marécageux réussirent à vous attaqure par derrière, malgré le fait qu'ils furent détectés d'assez loin. 
+ Peu avant d'arriver sur le village de Stuckshoe (aussi appelé **Bog Town**) vous tombèrent sur des hommes lézards (appelé des Algidians) qui grâce à leurs capacités de respiration sous l'eau et de camouflage en milieu marécageux réussirent à vous attaquer par derrière, malgré le fait qu'ils furent détectés d'assez loin.  
+ Le DM se rappelle que certains d'entre vous on essayer de récupérer des peaux de ces monstres, mais pourquoi donc ?
 ![[Pasted image 20240222203658.png | 600]]
 
 ### Arrivée sur Stuckshoe 
-
 Avant d'arrivée sur la ville, vous prirent le soin de planquer vos deux caravanes dans les abords de la ville, et ce pour protéger vos origines Hanataz.
 
-Ensuite, le groupe décida un peu en mode désordonné de découvrir la ville, et donc envoya en tête le barde Crendon Charn, qui n'a pas de trait de Blood-touch, et arrive à ne pas paraitre pour un Hanataz. De plus, Drezen Deven, agent de Jinxx,   se servir d'un sort de déguisement pour passer inapercu.
+Ensuite, le groupe décida un peu en mode désordonné de découvrir la ville, et donc envoya en tête le barde Crendon Charn, qui n'a pas de trait de Blood-touch, et arrive à ne pas paraitre pour un Hanataz. De plus, Drezen Deven, agent de Jinxx,   se servir d'un sort de déguisement pour passer inaperçu, et de se déguiser en vieille femme.
 
 **La ville de Stuckshoe est loin d'être une "ville", ce n'est qu'un hameau de quelques bâtiments délabrés construits sur un terrain boueux au bord de la tourbière. L'endroit pue l'eau stagnante et fétide.
 
@@ -203,3 +205,9 @@ Tranden vous chuchote:
 - Une fois qu'il a terminé, il descend sur le quai, monte dans son bateau et part à la rame dans la tourbière.
  
 
+### Bonne nuit les Zani
+J'espère que ce résumé vous a plus. Il y a bcp de noms de PNJ: ceux qui sont morts, ceux qui ont disparu, et ceux qui savent peut etre comment les retrouver. L'enquete ne fait que commencer...
+
+Pour vous endormir ce soir, un portrait du traitre qui a vendu son âme à un sombre dieu dont on ne prononce plus le nom depuis des siècles...
+
+![[Pasted image 20240301213819.png| 800]]
