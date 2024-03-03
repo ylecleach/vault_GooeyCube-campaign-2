@@ -1,6 +1,4 @@
 
-passage niveau familier de fred ?
-revoir règles sur les saut
 installer chat gpt. et creer les backgrounds des PJ
 
 Travailler Background des personnages

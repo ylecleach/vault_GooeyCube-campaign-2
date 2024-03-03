@@ -43,7 +43,7 @@ Cette prise de conscience, vous l'avez tous, et vous vous dites dans votre fort 
 - Kenna Naerna, Medium Humanoid, Female Human/Fey-Touched Spelldancer: enlevé par les drows (spell dancer). son père était Kray the Blade.
 - Sayaer's Kress, Medium Humanoid, Male Half-Drow Agent of Jinxx : n'était pas présent avec vous. Surement en mission pour Mère Salvensa.
 - Quember Rand, Medium Humanoid, Male Human/Earth-Touched Cleric of Kizmya : en mission sur sa propre quête dans les environs de Nevermore. (recherche d'un culte d'élémentaliste)
-- les 3 femme spell dancers: mavéa, elnass, saévra
+- les 3 femmes spell dancers: mavéa, elnass, saévra
 
 ### Suite de la conversation avec les agents de Aendun'Azuu 
 La partie reprend là ou le chapitre 3 s'était arrêté : au début de la conversation avec les deux chefs elfes noirs d'un groupe d'agents de Aendun'Azuu, les dénommés Aegis D'Arque, Shadrick D'Gar.
