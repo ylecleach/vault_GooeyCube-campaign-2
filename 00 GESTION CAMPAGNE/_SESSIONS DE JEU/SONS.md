@@ -19,6 +19,8 @@ SUR LA ROUTE à PIED : https://rpg.ambient-mixer.com/road-to-phandalin
 SUR LA ROUTE à CHEVAL : https://rpg.ambient-mixer.com/d-d-traveling
 FEU  DE CAMP GIPSY : https://rpg.ambient-mixer.com/ravenloft-gypsy-camp
 FORET, NUIT (grenouille, peur) : https://rpg.ambient-mixer.com/curse-of-strahd--svalich-woods
+MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
+Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
 
 
 2h de musique Celtique pas mal : https://www.youtube.com/watch?v=jiwuQ6UHMQg

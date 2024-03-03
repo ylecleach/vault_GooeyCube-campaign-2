@@ -41,3 +41,4 @@ Dans Dungeons & Dragons 5ème édition, un anneau de saut confère plusieurs ava
 En résumé, un anneau de saut confère une grande agilité et une capacité de mouvement supérieure à son porteur, lui offrant des avantages significatifs en combat et en exploration.
 
 
+

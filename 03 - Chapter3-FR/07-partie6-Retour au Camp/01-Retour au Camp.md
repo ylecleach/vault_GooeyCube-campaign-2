@@ -5,7 +5,7 @@ Note : Si le groupe a décidé d'affronter la tempête en se mettant à l'abri, 
 Selon le temps qu'il faudra au groupe pour arriver, lisez ou paraphrasez ce qui suit : 
 
 	IMPORTANT AMBIANCE: Dead can Dance - The Host of Seraphim => [[AMBIANCE SONORE]]
-=> [[AMBIANCE SONORE]]
+=> [[SONS]]
 
 *Vous retournez vers le camp, impatient de montrer vos découvertes à Mère et à Calnassé, ainsi qu'au reste de la troupe. Tout le monde voudra entendre votre histoire. Jamais un groupe de Frenta n'a rapporté autant d'argent à la troupe ! Le vent souffle plus fort maintenant, les rafales cédant la place à une poussée plus régulière. Il vous faut un peu de temps pour rejoindre le campement car la neige tombe plus abondamment et est poussée par le vent. Alors que vous approchez de l'endroit où le camp a été établi, vous sentez de la fumée - et voyez la lueur d'un grand feu. Il vient de la direction du camp. Il est bien trop grand pour être le feu de la tente ! 
 

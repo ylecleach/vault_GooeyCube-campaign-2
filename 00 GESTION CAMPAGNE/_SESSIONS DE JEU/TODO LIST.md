@@ -1,9 +1,8 @@
 
 installer chat gpt. et creer les backgrounds des PJ
+finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux.
 
 Travailler Background des personnages
-
-trouver musique de marais - plusieurs et marais la nuit.
 
 Réponse de Alphinius 03 FEB 2024
 

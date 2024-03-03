@@ -116,6 +116,7 @@ Après avoir envisagé toutes les possibilités, vous décidèrent de laisser su
 
 ### Sur la route de Stuckshoe
 sur la route, , L'une de vos deux chariots se prit dans la boue. En le dégageant, certains d'entre vous furent attaqués par de petites  lamproies des marais.  sans conséquence ... à priori...
+
 ### Des hommes lézards pas commode
  Peu avant d'arriver sur le village de Stuckshoe (aussi appelé **Bog Town**) vous tombèrent sur des hommes lézards (appelé des Algidians) qui grâce à leurs capacités de respiration sous l'eau et de camouflage en milieu marécageux réussirent à vous attaquer par derrière, malgré le fait qu'ils furent détectés d'assez loin.  
  Le DM se rappelle que certains d'entre vous on essayer de récupérer des peaux de ces monstres, mais pourquoi donc ?
@@ -124,7 +125,7 @@ sur la route, , L'une de vos deux chariots se prit dans la boue. En le dégagean
 ### Arrivée sur Stuckshoe 
 Avant d'arrivée sur la ville, vous prirent le soin de planquer vos deux caravanes dans les abords de la ville, et ce pour protéger vos origines Hanataz.
 
-Ensuite, le groupe décida un peu en mode désordonné de découvrir la ville, et donc envoya en tête le barde Crendon Charn, qui n'a pas de trait de Blood-touch, et arrive à ne pas paraitre pour un Hanataz. De plus, Drezen Deven, agent de Jinxx,   se servir d'un sort de déguisement pour passer inaperçu, et de se déguiser en vieille femme.
+Ensuite, le groupe décida un peu en mode désordonné de découvrir la ville, et donc envoya en tête le barde Crendon Charn, qui n'a pas de trait de Blood-touch, et arrive à ne pas paraitre pour un Hanataz. De plus, Drezen Deven, agent de Jinxx,   se servit de sa compétence pour se déguiser en vielle femme pour passer inaperçu.
 
 **La ville de Stuckshoe est loin d'être une "ville", ce n'est qu'un hameau de quelques bâtiments délabrés construits sur un terrain boueux au bord de la tourbière. L'endroit pue l'eau stagnante et fétide.
 
@@ -201,7 +202,7 @@ Voici Otis, un jeune homme sympathique d'environ 18 ans, qui nettoie les écurie
 ### Discussion avec Tranden
 Tranden vous chuchote:  
 - **"Nous devrons parler vite ; les murs ont des oreilles par ici, mais je suis content que vous soyez venus quand vous l'avez fait. Les choses s'échauffent ici, c'est sûr. Il y a eu des Duna'hadrine en ville au moins trois fois au cours des deux derniers mois ! Et la nuit dernière, certains bouchers (en référence à la Famille Butcher) sont revenus en ville très tard... vers la nuit des morts (Fool's Dark), je crois. Ils avaient des prisonniers avec eux. Je ne sais pas où ils les ont emmenés, ils sont partis dans un bateau en dehors de la ville. "Écoutez, c'est dangereux ici. Vous devez être prudents ; si vous êtes Hanataz, gardez-le pour vous. Ils vous tueront... ou pire, s'ils le découvrent. Et surveillez votre magie, elle n'est pas très appréciée par ici."
-- Il regarde encore un peu autour de lui et répond peut-être à quelques questions. Mais bientôt, il mettra fin à la conversation... **"Ecoutez, nous ne pouvons plus parler ici.** **Je te rejoindrai dans un endroit sûr, mais nous devons être vigilants. Voilà ce qu'on va faire. Tu devras te rendre à l'étang profond**. **Demande au pêcheur... Tanner... il est sur les quais en ce moment, il discute avec ce gros pêcheur, Burk**. **Je ne lui fais pas confiance. Mais je confierais ma vie à Tanner.** **C'est l'un des bons dans cette fosse septique. Quoi qu'il en soit... Tanner n'est pas le gros. Dis à Tanner que tu veux un guide pour pêcher et chasser le crocodile. Dis-lui que tu veux aller à l'étang profond. Quand vous y serez, pêchez un peu. Ne vous pressez pas. Puis, au bout d'une heure, donnez quelques ors à Tanner et dites-lui que vous voulez qu'il vous emmène chez moi. Il se taira. Mais assurez-vous que vous n'êtes pas suivi ! Et si vous l'êtes, assurez-vous que la personne qui vous suit ne vivra pas pour raconter l'histoire. Si Tanner te demande pourquoi tu viens me voir, dis-lui ceci : "Les poissons ne mordent pas sous la lune des fous"... compris ? Maintenant, ne pars pas avant au moins une heure. Reste dans l'évier. Laisse-moi le temps de faire le vide. Oh, et tu peux aussi faire confiance aux gens de l'écurie - Otis et sa famille, ce sont de braves gens. Mais euh... mieux vaut ne pas leur parler de tout ça."**
+- Il regarde encore un peu autour de lui et répond peut-être à quelques questions. Mais bientôt, il mettra fin à la conversation... **"Ecoutez, nous ne pouvons plus parler ici.** **Je te rejoindrai dans un endroit sûr, mais nous devons être vigilants. Voilà ce qu'on va faire. Tu devras te rendre à l'étang profond**. **Demande au pêcheur... Tanner... il est sur les quais en ce moment, il discute avec ce gros pêcheur, Burk**. **Je ne lui fais pas confiance. Mais je confierais ma vie à Tanner.** **C'est l'un des bons dans cette fosse septique. Quoi qu'il en soit... Tanner n'est pas le gros. Dis à Tanner que tu veux un guide pour pêcher et chasser le crocodile. Dis-lui que tu veux aller à l'étang profond. Quand vous y serez, pêchez un peu. Ne vous pressez pas. Puis, au bout d'une heure, donnez quelques ors à Tanner et dites-lui que vous voulez qu'il vous emmène chez moi. Il se taira. Mais assurez-vous que vous n'êtes pas suivi ! Et si vous l'êtes, assurez-vous que la personne qui vous suit ne vivra pas pour raconter l'histoire. Si Tanner te demande pourquoi tu viens me voir, dis-lui ceci : "Les poissons ne mordent pas sous la lune des fous"... compris ? Maintenant, ne pars pas avant au moins une heure. Reste dans l'auberge.  Laisse-moi le temps de faire le vide. Oh, et tu peux aussi faire confiance aux gens de l'écurie - Otis et sa famille, ce sont de braves gens. Mais euh... mieux vaut ne pas leur parler de tout ça."**
 - Une fois qu'il a terminé, il descend sur le quai, monte dans son bateau et part à la rame dans la tourbière.
  
 
@@ -210,4 +211,4 @@ J'espère que ce résumé vous a plus. Il y a bcp de noms de PNJ: ceux qui sont 
 
 Pour vous endormir ce soir, un portrait du traitre qui a vendu son âme à un sombre dieu dont on ne prononce plus le nom depuis des siècles...
 
-![[Pasted image 20240301213819.png| 800]]
+![[Pasted image 20240303161531.png]]

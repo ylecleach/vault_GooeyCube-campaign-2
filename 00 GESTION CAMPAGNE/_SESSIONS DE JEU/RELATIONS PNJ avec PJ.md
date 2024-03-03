@@ -1,6 +1,6 @@
 | PNJ Name                   | Player Character Name | Relation                                                                                                         |
 | -------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|            | groupe                | the group has delivered him from The Old Well and is grateful                                                    |
+|                            | groupe                | the group has delivered him from The Old Well and is grateful                                                    |
 | Smedley                    | groupe                | sauvé une fois de l'ours Winnie enragé                                                                           |
 | Leana Vissid the Alchimist | groupe                | Rolf est amoureux d'elle mais elle ne le sait pas. cf GM p 43. mère de la petite Emma                            |
 | Rolf Timinis               | groupe                | Connétable de la ville de Nevermore                                                                              |
