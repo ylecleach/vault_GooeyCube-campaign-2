@@ -122,6 +122,16 @@ sur la route, , L'une de vos deux chariots se prit dans la boue. En le dégagean
  Le DM se rappelle que certains d'entre vous on essayer de récupérer des peaux de ces monstres, mais pourquoi donc ?
 ![[Pasted image 20240222203658.png | 600]]
 
+Voici des images créés par le nouveau joueur Roch (très doué au demeurant), et qui exprime l'intensité de ce combat  épique.
+
+Cydir, moine du vent aveugle, qui donne une volée de coup de mains et de pied à l'un des Algidians, et le barde Crendon Charn, qui essaye de se dépétrer au corps à corps contre deux adversaires Algidians.
+
+![[Pasted image 20240304191936.png]]
+
+pendant ce temps, de l'autre côté, Drezen Devenn, l'agent de Jinxx, ferraille avec un autre Algidian, et son lapin fétiche au yeux dorée, se met à l'abri dans l'ancien chariot de Mère Salvensa. Pas fou le lapin !
+
+![[Pasted image 20240304192340.png]]
+
 ### Arrivée sur Stuckshoe 
 Avant d'arrivée sur la ville, vous prirent le soin de planquer vos deux caravanes dans les abords de la ville, et ce pour protéger vos origines Hanataz.
 

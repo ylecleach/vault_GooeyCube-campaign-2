@@ -9,3 +9,5 @@ Répétez plusieurs fois les rumeurs concernant cette fille.
 Vous pouvez demander à un habitant de pointer avec enthousiasme un bâtiment ou un arbre, en insistant sur le fait qu'il vient de voir la fille, mais si les joueurs enquêtent, il n'y a personne. En fin de compte, un ou deux d'entre eux devraient juste apercevoir une jeune fille ; cependant, il devrait s'agir soit d'une enfant locale, soit d'un fantôme de la tourbière qui disparaît derrière un obstacle lorsqu'ils essaient de s'approcher.
 
 (A RETRAIVAILLER)
+
+Cette petite fille pourrait être la fille de la sorcière du marais....

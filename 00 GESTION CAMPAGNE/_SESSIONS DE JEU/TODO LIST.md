@@ -1,7 +1,14 @@
+installer office 365 sur le mac (word)
+imprimer feuille de Erwann
+
+Chapitre 4
+- TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
+- demande du groupe à Shadrick pour demander à  Droxil s'il sait que les wagons rouges sont touchés.
+* finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux. Mettre des profils Assassin niv5.  (voir discussions avec roch)
+
 
 installer chat gpt. et creer les backgrounds des PJ
-finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux.
-
+* 
 Travailler Background des personnages
 
 Réponse de Alphinius 03 FEB 2024

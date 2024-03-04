@@ -1,11 +1,9 @@
 ### En début de partie
 * Références: [[Règles DM]], [[My Gooey Bad Table]]
-* Règles du groupe:  les minimum syndicale : avoir préparer son perso, avoir lu le résumé, relire les règles de donjons, on prévient si retard, pour les mages relire ses sorts et avoir des fiches.
-* Malus : ex Glyn était très dissipé, il a -1 sur ses jets de dés. Inventer des GoeeyMalus.
-* DM Penser que la ville n'aime pas la magie, ni les hanataz
-* Lire un peu de Lore ==> description de Blackrot Bog : [[Blackrot Bog and Environs]] et la Carte
 
-
+### Référence Chapitre 4
+* [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés
+* [[Blackrot Bog and Environs]]: pour aider à décrire les marais, faunes et flores.
 
 ### Introduction
 
@@ -13,6 +11,11 @@ Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 
 Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
 Bien qu'étant en hiver et ayant connu hier une tempète de neige exceptionnelle, vous vous retrouvez ici dans la ville de StukeShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
+
+### DM only - Rappel Timeline
+Le groupe aura  **trois ou quatre jours à partir de son arrivée** pour libérer la ville des bouchers et arrêter les plans terrifiants du père Kenlen... en supposant qu'il veuille rencontrer les agents de Duna'hadrine (**c'est un voyage de quelques heures jusqu'à la Traversée du Roi, et ensuite un voyage d'une journée entière pour la traverser)**. 
+
+Bien relire [[02-Running the Town]] sur les découpages de journée type.
 
 ### Musique d'ambiance spécifique
 
@@ -22,40 +25,67 @@ Bien qu'étant en hiver et ayant connu hier une tempète de neige exceptionnelle
 
 # Event à penser
 
+## Town or Bog
+* [[NLE-09-Vengeance (town or bog, unique)-NPC-Dresin]] : individu louche ressemblant à un elfe noir. (mais qui est en fait un elfe sylvain à la peau sombre)
+* dans le BAR, 1-2 j après l'arrivée des joueurs : [[NLE-11-Nouvelles Sinistres (town, unique)]]
+
 ## dans le marécage
+
+au moins une LET marécage par session sinon 2
+
 * [[GA-01-A fearful Gaze (town, recur-)]]: observation du wakabago
 * [[GA-03-A Scream from the Bog (bog, recur)]] : cri du wakabago à placer pour l'ambiance
 * [[GA-04-Swamp Gas (bog, recur)]]: des lumières due au gaz
+* [[GA-07-Bugs! (bog, recur)]]: touche celui qui fait une init entre 1 et 4. (1 seul PJ)
+* [[LET-02-Crocofrogs (bog, recur)]]
+* [[LET-03-Old Fathead-gros poisson (bog, recur)]]: ex lors d'une ballade en barque ou partie de pêche
+* [[LET-04-Helsacat-Enorme Crocofrogs (bog, recur)]]
+* [[LET-05-Thunderjaw (bog, may recur.)-crocodile blanc]]
+* [[LET-08-Bogger Bear(s) (bog only, on land, recur.)]]
+* [[LET-09-The Wakabago (bog or limite town, recur)]] : faire GA-01 avant - lien avec Tanner - lien avec Amancia.
+* [[NLE-01-Shurna and Feansal (Bog only, may reccur)]]: peuvent aider le groupe si besoin, mais pas avant que le groupe apprenne qu'ils sont recherchés pour meurtre.
+* [[NLE-12-Pêcheurs sur l'eau  (Bog, unique)]]: rencontre avec Tanner et Burk dans les marécages, proposition de partie de pèche au gros (thunderjaw).
 
 ### dans Bog Town
+* [[NLE-04-Une personne curieuse]]: en début de session, après le départ de l'agent. npc mineur (Arnold Bondoy = anagramme de nobody)
+* [[NLE-06-Shady Lookout (Town or bog, recurring)]]: après la mort de Tranden. A TRAVAILLER
+* [[NLE-07-L'enfant Unique (town, recur.)-NPC Melba]]: enfant Melba qui pose pleins de questions.
+* [[NLE-08-Les Boggenfoots (town, recur.)-NPC]]: mettre de la suspicion sur ce couple de hobbits, au lieu du couple Falsenflam en lien avec le père kelen.
 * [[GA-05-Un guetteur dans les branches (tow or bog, recur)]] : en gros c'est l'un des deux butchers qui surveille le groupe (Floyd or Little Doffer)
 * [[GA-06-Ce poulet me suit-il (town, recur)]]
-
-
+* [[NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
+* [[NLE-03-Une boisson lubrique (town, recur.)]]: en abord de l'auberge en présence d'une des femmes du groupe. npc mineur.
+* 
+### everywhere
+* [[GA-08-A few Others (your discretion)]] : quand un joueur cherche qq part, et que je n'ai rien prévu. mineure things.
+* [[LET-01-Not Them Again, Hogsketters (town or bog, recur)]]
+* 
 
 ## Fausse Lettre de Drezen
-![[Fausse_Lettre_Drezenn Deven_aux Butchers.docx]]
+
+![[Red Star Rising Campain_Chapiter IV_Lettre aux Boucher.docx]]
+
 Cher Butcher..
 
-Zaraghast L’ étoile rouge du 13 Dezun’un est bien arrivée comme prévu par notre grand maître ; dont
-le nom doit être tu, sous peine de recevoir sa malédiction !
-Le maître n’ai pas satisfait de vos résultats, il ne veux pas attendre un cycle de plus le Luneo et Vixen.
-Il n’y a pas assez de main d’ouvre bon marché afin de réaliser la prophétie de notre nouvel monde !
-Avez-vous oubliez nos contrats ? Vous faut ‘il quelques liqueurs de plus pour aller plus vite ? Capturez
-les halfing Cunia Frizzenfeets il seront vous aider dans vos affaire de vinasse.
+Zaraghast L’ étoile rouge du 13 Dezun’un est bien arrivée comme prévu par notre grand maître ; dont le nom doit être tu, sous peine de recevoir sa malédiction !
+Le maître n’ai pas satisfait de vos résultats, il ne peut pas attendre la fin d’un nouveau cycle de Luneo et Vixen.
 
-Votre sœur Lyla et son culte d’ufluns n’ont pas été à la hauteur de nos espoirs…me dite pas qu’une
-jeune de bande Hanataz ont pu déjouer nos plans ! Nous avons dû envoyer nos troupes pour y
-remédier, la troupe du voile bleu ne créera plus de soucis/
-Faut-il afin de racheter votre incompétences que je vous renvoie nos compagnons et finissions le
-travail nous-même.
-Voulez-vous peut être plus de fouets ? Suis certain que quelques suivant de Azemundus se feront un
-plaisir de vous rendre visite !
-N’oubliez pas, notre maître vois tout puis pensez à bien traiter notre amis arrivée pour la fête, une
-vielle dame à de l’arrivée, en ville et vous sera très utile pour la suite de nos objectifs et pendant la
-fête du village, montrer lui toute la région et nos installations, elle nous rendra des comptes ensuite
-de vos progrès.
-Que le saint Fl.. Veille sur nous tous
+Le 20th Dezu’un arrive avec sa dance de l’hiver, Il n’y a pas assez de main d’ouvre bon marché en ce moment afin de réaliser la prophétie de notre nouvel ordre, alors envoyer vos amis dans les villages ‘’participer’’ aux mystérieux tour de passe-passe de disparitions.
+
+Avez-vous oubliez les contrats qui nous lient ? Vous faut ‘il quelques liqueurs de plus pour avancer plus rapidement ?
+
+La troupe de Halfing Cunia Frizzenfeets, il seront vous aider dans vos affaires de vinasse, ils sont de bons bouilleurs en remplacement de Lyla, ils ne pensent qu’à manger et boire et fumer et ils voyagent souvent.
+Votre sœur Lyla et son culte d’ufluns n’ont pas été à la hauteur de nos espoirs…me dite pas qu’une jeune de bande Hanataz ont pu déjouer nos plans ! Nous avons dû envoyer nos troupes pour y remédier, la troupe du voile bleu ne créera plus de soucis nous avions un agent à l’intérieur.
+
+Faut-il afin de racheter vos incompétences que je vous renvoie nos compagnons et finissions le travail nous-même ? Quant serez-vous prêt ?
+
+Voulez-vous peut être plus de fouets ? Suis certain que quelques suivants de Azemundus se feront un plaisir de vous rendre visite, et ceux avant nous !
+
+N’oubliez pas, notre maître vois tout, traiter bien notre amie (Une vielle dame a dût arrivée arrivée) pour la fête du village ! Elle nous est utile pour le moment et la suite de nos objectifs. Montrer lui toute la région et nos installations, elle nous rendra des comptes sur l’évolution de vos progrès.
+
+Que le vénérable Fl.. vous accorde son pardon.
+
+
 
 ### Impact de la lettre ?
 
@@ -68,8 +98,7 @@ Que le saint Fl.. Veille sur nous tous
 * Brandele porte le sceau de Wardane: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois qu'il sera surpris au début d'un combat, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières.
 * Fior / Maxime : penser à appliquer les bonus/malus de la quete de Norcreus : voir sur sa page [[08 - Clerc nain - F'ior Lightbeard]]
 
-### A DECLENCHER au MOMENT OPPORTUN (pendant le massacre mais avant que les joueurs retourne au camp) xxx
-*
+
 
 
 ### A PENSER pendant cette partie de l'aventure

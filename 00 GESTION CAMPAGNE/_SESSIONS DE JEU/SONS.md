@@ -1,26 +1,27 @@
-TAVERN calm : https://rpg.ambient-mixer.com/d-d-fantasy-inn-pub-tavern
-TAVERN night, ambience : https://rpg.ambient-mixer.com/bustling-tavern
-TAVERN, lute, diablo like (2 flavor, track 1 or 2) : https://rpg.ambient-mixer.com/d-d-tavern-ambiance
-[Medieval Fantasy Tavern | D&D Fantasy Music and Ambience 1h08](https://www.youtube.com/watch?v=vyg5jJrZ42s) : assez variés, avec bruit de fond sympa.
-Tavern (calm, 3h) : https://youtu.be/roABNwbjZf4 
+- TAVERN calm : https://rpg.ambient-mixer.com/d-d-fantasy-inn-pub-tavern
+- TAVERN night, ambience : https://rpg.ambient-mixer.com/bustling-tavern
+- TAVERN, lute, diablo like (2 flavor, track 1 or 2) : https://rpg.ambient-mixer.com/d-d-tavern-ambiance
+- [Medieval Fantasy Tavern | D&D Fantasy Music and Ambience 1h08](https://www.youtube.com/watch?v=vyg5jJrZ42s) : assez variés, avec bruit de fond sympa.
+- Tavern (calm, 3h) : https://youtu.be/roABNwbjZf4 
 
-SOUND of SKYRIM (chilly peaks, deep peace of the valleys, wind, light storm, birds, no music): https://videogames.ambient-mixer.com/skyrim
-SOUND of SKYRIM (pluie, daytime) : https://videogames.ambient-mixer.com/skyrim--falkreath--daytime
-SKYRIM, the rift daytime : https://videogames.ambient-mixer.com/skyrim--the-rift--daytime
-SKYRIM Atmosphere (ville, forgeron, dragon au loin, grillon, bois coupé) : https://videogames.ambient-mixer.com/skyrim-atmospheres--riverwood
-DONJON 1 (goutte d'eau, bat) https://rpg.ambient-mixer.com/fantasy-dugeon
-DONJON 2 (plainte de monstres, fantomes) https://rpg.ambient-mixer.com/dungeon-atmsophere-2
-DONJON 3 (cave, goutte d'eau, peur, bat) : https://rpg.ambient-mixer.com/curse-of-strahd--death-house
-FEU DE CAMP : https://rpg.ambient-mixer.com/rpg-campfire
-PARTY CAMP : https://videogames.ambient-mixer.com/party-camp
-HAUNTED FOREST : https://rpg.ambient-mixer.com/haunted-forest---night
-CREEPY Ambiance : https://rpg.ambient-mixer.com/death-house---curse-of-strahd
-SUR LA ROUTE à PIED : https://rpg.ambient-mixer.com/road-to-phandalin
-SUR LA ROUTE à CHEVAL : https://rpg.ambient-mixer.com/d-d-traveling
-FEU  DE CAMP GIPSY : https://rpg.ambient-mixer.com/ravenloft-gypsy-camp
-FORET, NUIT (grenouille, peur) : https://rpg.ambient-mixer.com/curse-of-strahd--svalich-woods
-MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
-Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
+- SOUND of SKYRIM (chilly peaks, deep peace of the valleys, wind, light storm, birds, no music): https://videogames.ambient-mixer.com/skyrim
+- SOUND of SKYRIM (pluie, daytime) : https://videogames.ambient-mixer.com/skyrim--falkreath--daytime
+- SKYRIM, the rift daytime : https://videogames.ambient-mixer.com/skyrim--the-rift--daytime
+- SKYRIM Atmosphere (ville, forgeron, dragon au loin, grillon, bois coupé) : https://videogames.ambient-mixer.com/skyrim-atmospheres--riverwood
+- DONJON 1 (goutte d'eau, bat) https://rpg.ambient-mixer.com/fantasy-dugeon
+- DONJON 2 (plainte de monstres, fantomes) https://rpg.ambient-mixer.com/dungeon-atmsophere-2
+- DONJON 3 (cave, goutte d'eau, peur, bat) : https://rpg.ambient-mixer.com/curse-of-strahd--death-house
+- FEU DE CAMP : https://rpg.ambient-mixer.com/rpg-campfire
+- PARTY CAMP : https://videogames.ambient-mixer.com/party-camp
+- HAUNTED FOREST : https://rpg.ambient-mixer.com/haunted-forest---night
+- CREEPY Ambiance : https://rpg.ambient-mixer.com/death-house---curse-of-strahd
+- SUR LA ROUTE à PIED : https://rpg.ambient-mixer.com/road-to-phandalin
+- SUR LA ROUTE à CHEVAL : https://rpg.ambient-mixer.com/d-d-traveling
+- FEU  DE CAMP GIPSY : https://rpg.ambient-mixer.com/ravenloft-gypsy-camp
+- FORET, NUIT (grenouille, peur) : https://rpg.ambient-mixer.com/curse-of-strahd--svalich-woods
+- MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
+- Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
+- [FOREST Combat Music (youtube)](https://www.youtube.com/watch?v=morqY2DkGuk)
 
 
 2h de musique Celtique pas mal : https://www.youtube.com/watch?v=jiwuQ6UHMQg

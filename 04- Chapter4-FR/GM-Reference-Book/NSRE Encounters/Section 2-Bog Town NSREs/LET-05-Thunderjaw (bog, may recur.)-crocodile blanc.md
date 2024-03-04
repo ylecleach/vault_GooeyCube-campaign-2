@@ -1,4 +1,4 @@
-Montrez le document 114 : Th underjaw lorsque c'est nécessaire. 
+Montrez le document 114 : Thunderjaw lorsque c'est nécessaire. 
 
 Organisez cette rencontre comme vous le souhaitez. Le Thunderjaw peut simplement attaquer sur la terre ferme si les PJ sont là... ou essayer d'attraper un PJ sur un radeau ou un bateau... ou même essayer de faire chavirer un bateau. 
 
@@ -8,4 +8,6 @@ Ce monstrueux crocodile est, sans surprise, célèbre non seulement pour sa tail
 
 >**Thunderjaw Encounter
 See Battle Stats in GM Reference Book, page 49.
+
+![[Pasted image 20240304174135.png]]
 

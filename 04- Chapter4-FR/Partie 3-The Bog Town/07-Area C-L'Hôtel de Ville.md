@@ -12,3 +12,6 @@ Il n'y a rien d'intéressant dans cette pièce (mais vous pourriez y placer un a
 [[GA-08-A few Others (your discretion)]]
 
 La porte à gauche de la scène mène à une grande armoire de rangement contenant des tonneaux, des caisses, des chaises à tonneaux et bien d'autres choses encore. Ces caisses et tonneaux contiennent des décorations, des plats de service, des assiettes et de l'argenterie, du linge de maison et d'autres objets que l'on trouverait dans une salle de réunion.
+
+### Events 
+* faire venir la Maire avec son garde du corps, qui regarde s'il y a assez de matériel pour la fete de la Paix.

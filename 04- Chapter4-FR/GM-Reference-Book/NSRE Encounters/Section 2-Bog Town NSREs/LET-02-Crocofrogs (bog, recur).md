@@ -12,3 +12,5 @@ Cependant, la familiarité n'est pas une garantie de sécurité. Le marais regor
 
 >**The Crocofrogs
 See Battle Stats in GM Reference Book, page 48.
+
+![[Pasted image 20240304170648.png]]

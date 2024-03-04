@@ -9,19 +9,16 @@ Mais les bouchers exigent une redevance annuelle de dix pour cent (payée en men
 
 L'endroit est gardé par **Derpid Horngut**, un Orneri (**mi-orque/mi-humain**) qui, bien que peu intelligent, est à la fois très est à la fois très dur et très honnête. Il a quatre grands chiens de chasse nommés **Slopp, Sharger, Shogg et Slappy**, qui restent à l'intérieur du bâtiment avec Derpid.
 
-On dit aussi qu'il y a des magies et des pièges que Derpid peut manipuler à l'aide d'un talisman qu'il porte au cou. L'amulette a été donnée à Derpid par Emil Butcher, et seuls lui et Derpid connaissent les mots de commande pour contrôler les magies qui protègent le bâtiment. 
+Comme pour le bâtiment, placez des pièges et des gardes appropriés sur le coffre-fort si le groupe veut le cambrioler. L'amulette a été donnée à Derpid par Emil Butcher, et seuls lui et Derpid connaissent les mots de commande pour contrôler les magies qui protègent le bâtiment.
 
-Si le groupe veut entrer par effraction, vous pouvez mettre en place quelques pièges raisonnables et des protections magiques. 
-
-Derpid pourrait aider le groupe contre les Bouchers plus tard - s'ils n'ont pas fait quelque chose n'ont pas fait quelque chose pour se l'aliéner.
+Si le groupe veut s'introduire ici, vous pouvez mettre en place quelques pièges raisonnables et des protections magiques. Derpid pourrait en fait aider le groupe contre les Bouchers plus tard - s'ils n'ont pas fait quelque chose pour l'aliéner, bien sûr.
 
 >**Derpid and His Hounds
 See Battle Stats in GM Reference Book, page 30.
 
 La plupart des barils de poisson mariné, de céréales, de fruits secs, de viande séchée, de farine et d'autres denrées alimentaires stockées pour l'hiver ont été achetés par Herbert ou Ellis ou sont conservés par le maire en cas d'"urgence" qui affecterait l'approvisionnement alimentaire de la ville.  Il y a également un certain nombre de tonneaux de bière et de vin dans une pièce creuse pour les pour les garder au frais pendant la chaleur de l'été. Le coffre-fort est bien là, mais il contient peu de valeur en raison des frais élevés exigés par les bouchers. En effet, il est si peu utilisé qu'Emil envisage de réduire les frais, ce qui le contrarie grandement.
 
-Comme pour le bâtiment, placez des pièges et des gardes appropriés sur le coffre-fort si le groupe veut
-le cambrioler. Derpid a la combinaison (tout comme Emil Butcher), et le même talisman qui supprime les gardes du bâtiment le fait pour le coffre. 
+Comme pour le bâtiment, placez des pièges et des gardes appropriés sur le coffre si le groupe veut s'y introduire. Derpid possède la combinaison (tout comme Emil Butcher), et le même talisman qui supprime les pièges sur le bâtiment le fait pour le coffre-fort aussi.
 
 Si les PJ fouillent l'endroit avec soin, ils pourraient trouver un certain nombre d'objets volés aux Hanataz, dont la forge de Dren et Calva Steele et une petite enclume (gravée des initiales D&C), des outils de forgeron les initiales D&C), un jeu de pipes (Old Strem), et un tonneau de Stoof's Cherry Cordial rangé avec le reste dans la pièce creuse.
 

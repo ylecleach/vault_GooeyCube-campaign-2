@@ -1,4 +1,9 @@
-30 / 09 / 2022 : Francois quitte la table (pb de sommeil, vie de famille, nouveau travail)
+
+## TODO-background
+
+- parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours
+- lapin: à développer
+- veut ressacraliser le temple de Jinxx trouvé en chapitre 2 ou 3 - potentiellement une mini-aventure.
 
 
 ## Agents
@@ -111,3 +116,4 @@ quantité de personne dans ce projet. Espère que tu pourras jouer dédiant un J
 Personnellement, je trouve ce groupe de joueurs et de personnages d&#39;enfer ! ne
 changez rien ! j&#39;ai vraiment éprouvé du plaisir à vous faire vivre ces aventures que
 j&#39;espère vous vous souviendrez très longtemps.
+

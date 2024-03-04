@@ -4,3 +4,5 @@ Lisez ou paraphrasez ce qui suit :
 
 >**Not Them Again
 See Battle Stats in GM Reference Book, page 48.
+
+![[Pasted image 20240304170455.png]]

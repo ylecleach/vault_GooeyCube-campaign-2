@@ -3,3 +3,5 @@ Lisez ou paraphrasez ce qui suit lorsque les joueurs s'approchent de la zone du 
 **Un panneau devant cet espace en plein air indique "Marché de Stuckshoe", bien qu'il semble plus dédié au nettoyage du poisson et au dépeçage des reptiles que n'importe quel type de marché. Cela dit, il y a un certain nombre de tables solides à l'arrière, et vers l'avant quelques étals ouverts et des tables avec des chaises.
 
 La plupart des jours, il y aura quelques pêcheurs qui vendront du poisson et de la viande provenant de la pêche qu'ils ont faite ce jour-là. Les PJ peuvent aussi trouver des gens qui vivent dans la tourbière et qui vendent des herbes et des produits alimentaires provenant des marécages. C'est un bon endroit pour ajouter quelques PNJ à l'histoire, car les gens viennent de toute la région pour faire du commerce.
+
+Ex: la sorcière qui vient vendre ses herbes.
