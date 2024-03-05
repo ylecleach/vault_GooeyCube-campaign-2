@@ -4,4 +4,6 @@ Lisez ou paraphrasez ce qui suit et montrez le Document 16 : La fosse à bave si
 
 Les PJ doivent tous faire des tests de Constitution DC 12 pour éviter de vomir. Ceux qui échouent perdent leur repas et sont empoisonnés pour la demi-heure suivante. 
 
+Test perception sagesse 15 ou search 15 : dans le slime prêt du bord, se trouve une bague corrodée, peut etre une alliance en or, dans laquelle est gravé la lettre L stylisée, surement un symbole de nom de famille. A l'intérieur sont gravés les lettres suivantes: A & B.
+
 Note : Si le groupe est ici pendant le Festival de la Paix et que vous craignez que ces tests de Constitution ne déséquilibrent l'aventure au détriment des PJ, éliminez-les. Voici la fosse à bave du père Kenlen, remplie d'une substance fabriquée à partir d'une recette de Noxica. C'est ici que sont allés les disparus, que Kenlen a sacrifiés et dont il a jeté les corps dans la vase. Des animaux y ont également été jetés, ainsi que certains réactifs alchimiques et des corps déjà morts prélevés dans le cimetière. Tout ce dégoût est essentiel à l'invocation par Kenlen de l'Avatar de la Pourriture qui aura lieu pendant le Festival de la Paix (voir la Finale Pas si paisible dans la section ci-dessous et dans les NSRE dans la Référence du Meneur de Jeu).

@@ -22,6 +22,9 @@
 - MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 - Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
 - [FOREST Combat Music (youtube)](https://www.youtube.com/watch?v=morqY2DkGuk)
+- [Daytime Forest (top) 1 hour](https://www.youtube.com/watch?v=HAw37tUHcOo)
+- [Medieval City (realistic ambience) - 1h](https://www.youtube.com/watch?v=_52K0E_gNY0)
+- [1 hour of tavern Music | Fable under the Table](https://www.youtube.com/watch?v=2EFpqObW9hY)
 
 
 2h de musique Celtique pas mal : https://www.youtube.com/watch?v=jiwuQ6UHMQg

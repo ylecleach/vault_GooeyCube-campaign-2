@@ -132,6 +132,11 @@ pendant ce temps, de l'autre côté, Drezen Devenn, l'agent de Jinxx, ferraille 
 
 ![[Pasted image 20240304192340.png]]
 
+![[Pasted image 20240305183643.png]]
+
+![[Pasted image 20240305183657.png]]
+
+
 ### Arrivée sur Stuckshoe 
 Avant d'arrivée sur la ville, vous prirent le soin de planquer vos deux caravanes dans les abords de la ville, et ce pour protéger vos origines Hanataz.
 

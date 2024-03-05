@@ -1,13 +1,13 @@
-| Player Name | Character | Class. | Major Secrets |
-| ---- | ---- | ---- | ---- |
-| Denis | Hurannan Banai | Fighter | Luck's HAND (chosen of Kizmya), CONTACT |
-| Gerald | Cydir of the Blind Wind | Monk | MUUGDA |
-| Erwan | Drezen Deven | Agent of Jinxx | THE TRICK |
-| Maxime | Fior Lightbeard | Cleric | ATTUNEMENT |
-| Frederic | Brandele Steel | Wizard | AETERNIC ECHOES |
-| Amine | Glynn Wether | Ranger | LUMIERE DE LA LIBERTE |
-| Carole | Credon Charn | Bard | SOCIETE DE LA NOUVELLE REPUBLIQUE |
-| Roch | Corrinee Ay'Yava | Rogue |  |
+| Player Name | Character               | Class.         | Major Secrets                           |
+| ----------- | ----------------------- | -------------- | --------------------------------------- |
+| Denis       | Hurannan Banai          | Fighter        | Luck's HAND (chosen of Kizmya), CONTACT |
+| Gerald      | Cydir of the Blind Wind | Monk           | MUUGDA                                  |
+| Erwan       | Drezen Deven            | Agent of Jinxx | THE TRICK                               |
+| Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
+| Frederic    | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
+| Amine       | Glynn Wether            | Ranger         | LUMIERE DE LA LIBERTE                   |
+| Carole      | Credon Charn            | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
+| Roch        | Corrinee Ay'Yava        | Rogue          |                                         |
 
 voir rapidement si nouveau joueur pour reprendre le barde ou sinon transférer Luck's Hand 
 

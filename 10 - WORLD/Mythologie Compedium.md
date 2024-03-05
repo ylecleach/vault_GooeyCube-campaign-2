@@ -5,7 +5,7 @@ Chanze est le dieu du jeu, de la prise de risque et de la chance. Il est l'ami d
 
 Les symboles de Jinxx, le seigneur des fous 
 
-Kizmya, la déesse de la chance, sont les plus importants car ils sont considérés comme les protecteurs des gens du Voyage. 
+Kizmya, la déesse de la chance, sont les plus importants car ils sont considérés comme les protecteurs des gens du Voyage. Symbole : Trèfle bleu.
 
  Fuffahn, le seigneur des festivals, 
  Buffahn, le dieu de la brasserie, 
@@ -29,6 +29,10 @@ L'amante d'Azemundus est la déesse Iltrathea, connue comme la reine des venins.
 Grambaer: seigneur de la pierre. - peuple Goruundish.
 
 Taroenus : dieu des bêtes sauvages, et seigneur du bétail et d'autres créatures apprivoisées 
+
+**Avandu'u**
+Amancia est une prêtresse d'une secte religieuse moins connue, connue sous le nom d'Avandu'u, qui vénère les concepts d'illumination et d'introspection (incarnés par la déesse Morvenea) et l'exploration des mystères et des secrets (le dieu Mystos), tout en accueillant la libération de la douleur qui vient avec la mort (le dieu Mal'uthuk). Cet ordre religieux est plus récent, puisqu'il n'existe que depuis le Malheur. La plupart des clercs de l'Avandu'u sont regardés avec méfiance, mais comme beaucoup d'entre eux ont des pouvoirs de divination et de voyance, ils sont tolérés dans les endroits où ils s'installent. L'Avandu'u n'a pas d'église officielle, mais les adeptes de cette religion ont souvent de petits sanctuaires dédiés aux trois dieux dans leurs maisons.
+
 
 ### Norcreus
 

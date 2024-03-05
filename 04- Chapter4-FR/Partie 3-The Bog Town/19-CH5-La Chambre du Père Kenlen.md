@@ -4,7 +4,9 @@ Note : la porte d'entrée est verrouillée et seul le père Kenlen en a la clé.
 
 Dans les tiroirs de la petite armoire se trouvent les sous-vêtements et le nécessaire de rasage du prêtre, ainsi qu'un flacon d'eau de Cologne "Haven's Gates" de la parfumerie Rovensnoffer. 
 
-Dans la table de nuit se trouvent un deuxième livre de prières et une fiole d'huile. 
+Dans la table de nuit se trouvent un deuxième livre de prières et une fiole d'huile, et Il y a aussi une étrange pierre noire et lisse. (Pierre de Lune)
+![[Pasted image 20240305234903.png | 400]]
+Pierre de Lest:  https://regles-donjons-dragons.com/page1483.html
 
 Note : très bien cachée sous l'armoire (qui est fixée au mur) se trouve une petite porte métallique sécurisée par deux serrures (test de Sagesse (Perception) DC 19 pour la découvrir). 
 

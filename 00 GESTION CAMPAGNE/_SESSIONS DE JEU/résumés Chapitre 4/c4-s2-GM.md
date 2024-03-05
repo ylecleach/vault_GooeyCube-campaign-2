@@ -7,6 +7,9 @@
 
 ### Introduction
 
+Rexeplication des Lunes
+![[Pasted image 20240305212453.png]]
+
 Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 
 Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
@@ -23,7 +26,12 @@ Bien relire [[02-Running the Town]] sur les découpages de journée type.
 * [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
 
 
-# Event à penser
+# Dream ou visions à penser
+
+* première ou seconde nuit à Bog Town: [[chapter 4 - Muugda Dreams]] => Dream 1 (Gerald-Cydir)
+* première ou seconde nuit à Bog Town: [[chapter 4- Luck's Hand]] => Dream 1 (Denis-Hurranan)
+* pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Freedom Light Dream]]
+
 
 ## Town or Bog
 * [[NLE-09-Vengeance (town or bog, unique)-NPC-Dresin]] : individu louche ressemblant à un elfe noir. (mais qui est en fait un elfe sylvain à la peau sombre)
@@ -45,6 +53,7 @@ au moins une LET marécage par session sinon 2
 * [[LET-09-The Wakabago (bog or limite town, recur)]] : faire GA-01 avant - lien avec Tanner - lien avec Amancia.
 * [[NLE-01-Shurna and Feansal (Bog only, may reccur)]]: peuvent aider le groupe si besoin, mais pas avant que le groupe apprenne qu'ils sont recherchés pour meurtre.
 * [[NLE-12-Pêcheurs sur l'eau  (Bog, unique)]]: rencontre avec Tanner et Burk dans les marécages, proposition de partie de pèche au gros (thunderjaw).
+* [[LET-11-The Bog Troll]] : à placer sans faute.
 
 ### dans Bog Town
 * [[NLE-04-Une personne curieuse]]: en début de session, après le départ de l'agent. npc mineur (Arnold Bondoy = anagramme de nobody)
@@ -63,27 +72,42 @@ au moins une LET marécage par session sinon 2
 
 ## Fausse Lettre de Drezen
 
-![[Red Star Rising Campain_Chapiter IV_Lettre aux Boucher.docx]]
+![[Red Star Rising Campain_Chapiter IV_Lettre aux Boucher-20240305.docx]]
 
-Cher Butcher..
+Mon cher brave Filthy Floyd..
 
-Zaraghast L’ étoile rouge du 13 Dezun’un est bien arrivée comme prévu par notre grand maître ; dont le nom doit être tu, sous peine de recevoir sa malédiction !
-Le maître n’ai pas satisfait de vos résultats, il ne peut pas attendre la fin d’un nouveau cycle de Luneo et Vixen.
+Zaraghast L’ étoile rouge du 13 Dezu’un est bien arrivée comme prévu par notre grand maître ; dont le nom doit être tu, sous peine de recevoir son immonde bénédiction !
 
-Le 20th Dezu’un arrive avec sa dance de l’hiver, Il n’y a pas assez de main d’ouvre bon marché en ce moment afin de réaliser la prophétie de notre nouvel ordre, alors envoyer vos amis dans les villages ‘’participer’’ aux mystérieux tour de passe-passe de disparitions.
+Le maître n’est pas satisfait de vos résultats, il se lasse de voir ses nouveaux adorateur et
+que le plan final soit réussi sans encombre ! Il ne peut pas attendre la fin d’un nouveau
+cycle de Luneo et Vixen. Avez-vous oubliez les contrats qui nous lient ?
 
-Avez-vous oubliez les contrats qui nous lient ? Vous faut ‘il quelques liqueurs de plus pour avancer plus rapidement ?
+Le 20th Dezu’un arrive avec sa dance de l’hiver, Il n’y a pas assez de main d’œuvre bon
+marché en ce moment afin de réaliser la prophétie de notre nouvel ordre ; alors envoyer vos
+amis dans les villages aux alentour ‘’participer’’ aux mystérieux tour de passe-passe de
+disparitions ! Les Hanataz sont cuits, entre les pattes de notre allié Zani.
 
-La troupe de Halfing Cunia Frizzenfeets, il seront vous aider dans vos affaires de vinasse, ils sont de bons bouilleurs en remplacement de Lyla, ils ne pensent qu’à manger et boire et fumer et ils voyagent souvent.
-Votre sœur Lyla et son culte d’ufluns n’ont pas été à la hauteur de nos espoirs…me dite pas qu’une jeune de bande Hanataz ont pu déjouer nos plans ! Nous avons dû envoyer nos troupes pour y remédier, la troupe du voile bleu ne créera plus de soucis nous avions un agent à l’intérieur.
+Vous faut ‘il quelques liqueurs de plus pour avancer plus rapidement ?
+
+La troupe de Halfing Cunia Frizzenfeets ; il seront vous aider dans vos affaires de vinasse, à
+avoir une distribution à plus grande échelle. Ils sont de bons bouilleurs en remplacement de
+Lyla, ils ne pensent qu’à manger et boire et fumer et ils voyagent souvent, demander à Mme
+Bry’VEEXE.
+
+Votre ‘’sœur’’ Lyla et son culte d’Ufluns (Serviteur de Azemundus et Iltrathea) n’ont pas été
+à la hauteur de nos espoirs ! Ne me dite pas qu’une jeune de bande Hanataz ont pu déjouer
+nos plans ! Nous avons dû envoyer nos troupes pour y remédier ! La troupe du voile bleu ne
+créera plus de soucis nous avions un agent à l’intérieur.
 
 Faut-il afin de racheter vos incompétences que je vous renvoie nos compagnons et finissions le travail nous-même ? Quant serez-vous prêt ?
 
-Voulez-vous peut être plus de fouets ? Suis certain que quelques suivants de Azemundus se feront un plaisir de vous rendre visite, et ceux avant nous !
+Voulez-vous peut être plus de fouets ? Suis certain que quelques suivants de Azemundus
+Iltrathea se feront un plaisir de vous rendre visite et ceux avant nous.
+N’oubliez pas, notre maître vois tout, traiter bien notre amie Mme Bry’ VEXXE, elle a dû
+arriver pour la fête de la paix. Hahaha…Elle nous est utile ; pour le moment quant à la suite
+de nos objectifs. Montrer lui toute la région et nos installations, elle nous rendra des comptes sur l’évolution de vos progrès, espérant que ceux-ci seront sanguinaire.
 
-N’oubliez pas, notre maître vois tout, traiter bien notre amie (Une vielle dame a dût arrivée arrivée) pour la fête du village ! Elle nous est utile pour le moment et la suite de nos objectifs. Montrer lui toute la région et nos installations, elle nous rendra des comptes sur l’évolution de vos progrès.
-
-Que le vénérable Fl.. vous accorde son pardon.
+Que le vénérable Fla.. vous accorde son immonde bénédiction.
 
 
 
