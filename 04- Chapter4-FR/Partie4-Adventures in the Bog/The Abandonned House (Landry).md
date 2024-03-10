@@ -1,6 +1,6 @@
 Read or paraphrase the following and show Handout 22: The Aban- doned House. There are also The Abandoned House Maps (06 & 06A) to use as the PCs explore. To keep up the tension you could reuse The Watchful Raven NSRE, with the bird in a tall tree nearby, but flying off before the party can get close enough to attack.
 
-[[NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
+[[X- NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
 
 **À en juger par son aspect brut, cette maison à deux étages semble abandonnée. Le bois est fissuré et écaillé, et de nombreuses fenêtres sont cassées ou dépourvues de vitres. Une terrasse couverte protège le porche, où la porte d'entrée semble pendre de ses gonds. Aucun signe de vie n'est présent, et l'endroit dégage un sentiment étrange qui fait dresser les cheveux sur la tête.
 

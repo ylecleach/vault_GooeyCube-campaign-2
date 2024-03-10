@@ -49,7 +49,7 @@ Mayra connaît sa réputation et sait à quel point elle lui est utile, tant sur
 ### Frendee et Milicent Falsenflamm : 
 Frendee et Milicent Falsenflamm sont un couple marié au service de la communauté des alchimistes de Stuckshoe. Plus précisément, ils ont depuis de nombreuses années passé des accords avec les Bouchers pour leur fournir des potions utiles et des concoctions dangereuses en échange de leur protection et de gros sacs d'or. En tant que gnomes, ils se distinguent facilement au sein de la communauté insulaire, et ils sont donc très heureux de trouver un patronage lucratif qui empêche également les ivrognes et les voyous locaux de les harceler. Loin des regards des autorités, ils ont pu expérimenter des ingrédients à la moralité douteuse, comme des morceaux de corps d'humanoïdes décédés. Lorsque le nouveau prêcheur charismatique, le père Kenlen, est arrivé en ville, les Falsenflamms ont d'abord craint qu'il ne dénonce leurs pratiques douteuses, mais ils ont été ravis d'apprendre qu'il était encore plus compréhensif que les Butchers et qu'il voulait leur aide pour une variété de mélanges alchimiques étranges. Ils n'avaient jamais entendu quelqu'un prêcher comme le Père Kenlendid, et bien que son message semble peu orthodoxe, ils furent facilement pris dans sa ferveur, et devinrent des disciples dévoués.
 
-### Shurna and Feansal (les deux accusés à tord, en fuite)
+### Shurna and Feansal (les deux accusés en fuite)
 
 Utilisez les Portraits 60 et 61 : Shurna et Feansal si les PJ interagissent avec eux. 
 **Accusés à tort de meurtre**, ils se cachent dans la tourbière.** 
@@ -61,7 +61,6 @@ Shurna et Feansal sont le sujet de conversation de la ville, et constituent prob
 Notez que **seuls Amancia et Hansoo l'homme-oiseau connaissent la zone générale où ils pourraient être trouvés.** 
 
 Selon le déroulement de l'aventure (et si le groupe a besoin d'aide ici ou là), vous pouvez demander à l'un d'entre eux ou aux deux de se présenter pour les aider. Ces deux personnages peuvent intervenir de bien des façons dans l'histoire. Amusez-vous avec eux. Mais pas trop tôt... les PJ doivent d'abord apprendre qu'ils sont recherchés pour meurtre.
-
 
 ### Jedidibuh Boucher : 
 Jedidibuh, ou Jed comme on l'appelle généralement, est le chef responsable des Bouchers dans la région de Stuckshoe. En tant que cousin éloigné d'**Odil Butcher-Brickenden** dans Nevermore, Jed est lié aux membres les plus influents du clan, et est certainement une puissance à part entière parmi les organisations criminelles de la République du Sud. Jed ne voit pas l'utilité d'aspirer à la haute société et méprise ses relations qui tentent d'impressionner les citadins dans le but d'obtenir une plus grande richesse et un meilleur statut. Il soupçonne que leur loyauté envers la famille et leur méchant protecteur, les **Ufluns**, est au mieux douteuse. Peut-être parce que Jed met l'accent sur la loyauté envers le clan, de nombreux voyous locaux de Stuckshoe et de Blackrot Bog qui ont rejoint les Shiners ont été adoptés par le clan des Bouchers, dont ils ont pris le nom comme leur propre nom. Un tel fanatisme fait sans doute des subordonnés de Jed les plus dangereux de tous les Bouchers, et il n'est pas étranger au fait de les diriger personnellement dans n'importe quelle affaire peu ragoûtante dans laquelle ils s'engagent. Bien qu'il ait atteint l'âge mûr, Jed reste exceptionnellement fort, ce qu'il a gagné au cours de décennies de vie difficile dans les profondeurs de la tourbière. En ce qui concerne la hiérarchie du clan, si Jed a tendance à mener la danse, Emil "Big Daddy" Butcher est probablement tout aussi influent parmi les membres du clan dans la région de la tourbière.
@@ -100,17 +99,101 @@ Comme il n'est vraiment pas possible de peupler complètement une localité auss
 
 BOOSTER LEUR STATS, et ajouter profil Assassin
 
-- **Floyd L'immonde** (idem, n'est pas bete pour mourrir) : VOLEUR 5 EME ! il cherche à se venger !!!
-	- AC=19 (studded leather noire +1 (+3), haste (+2), peau dure (+1) , dex (+3)
-	- potion de vitesse (2) (1 min sort de haste) : https://www.dndbeyond.com/spells/haste
-	- potion d'invisibilité normal (2)
-	- potion of greater healing (2) : 4d4 +4
-	- sneak, +3D6, stench (DC 12 CON or poisoned for 1 round, slippery, pack tactics
+### Filthy Floyd
 
-- Little Doffer (ne se sacrifiera pas - personnage récurrent) : VOLEUR 5 eme !  Vengeance, mais pas suicidaire non plus
-- 
-- à détailler : sneak +3D6 + poison paralysant, 2 potions de greater invisibility (1 pour le combat).
-- 
+Niv 5 Roublard - Archétype Assassin.
+bonus maitrise : 3
+Initiative : +8 - jamais surpris, pas d'avantage pour les créatures que je vois.
+Passive perception: 10
+AC=20 (**studded leather noire +1** (+3), haste (+2), peau dure (+1) , dex (+3), ring (+1)
+PV=49
+STR 15 (+2), DEX 16 (+3), CON 16 (+3), INT 10 (0), SAG 10 (0), CHA 1 (-5)
+Weapons : 
+- [Bone Sword (shortsword, finesse)](https://www.dandwiki.com/wiki/Bone_Sword_(5e_Equipment)) ![[Pasted image 20240307214505.png]] +7 to hit - 1d6 +4 + (3d6) 
+- si coup critique:  2d6 +4 + 6d6
+poisons
+	- [drow poison](https://www.aidedd.org/dnd/poisons.php?vo=drow-poison)
+	- [poison tree](https://www.aidedd.org/dnd/poisons.php?vo=poison-tree) : DC 12 CON or 2d6 or none
+	- [giant toad poison](https://www.aidedd.org/dnd/poisons.php?vo=giant-toad-poison) DC 11 or 1d10 or none
+- arbalete de poing + poison
+![[Pasted image 20240307214447.png]]
+spécial : pack tactics: advantage if in 5' of ally (not incapacited)
+
+**Skills**
+	Discrétion (expertise):  +9 (3x2 + 3)
+	Intimidation (expertise)  +9  (3x2 + 3) 
+	Perception = +3 
+	Acrobatie = +6 = (3 +3)
+	Stench : within 5' DC 12 CON or poisoned until start of the next turn of target. is successful, immune to effect for one hour
+
+**Skills Voleur / Assassin**
+- Expertise , argot des voleurs, maitrise matériel d'empoisonneur et de déguisement
+- attaque sournoise : +3d6 si avantagé (avec arme de finess ou distance) ou si la cible se trouve à 1,5m d'un autre ennemi
+- Ruse : Dash, Disengage or Hide as a Bonus action
+- Vigilant (don 4eme) : +5 init  , jamais surpris
+- Assassinat: 
+	- avantage vs creature n'ayant pas joué un tour dans le combat.
+	- si créature surprise : le coup devient une critique (et donc )
+- Esquive instinctive (réaction pour réduire 1/2 dégats vs une attaque réussit contre lui)
+
+**Equipements**
+	- AC=20 (**studded leather noire +1** (+3), haste (+2), peau dure (+1) , dex (+3), ring (+1)
+	- ring of protection +1
+	- 2 potions de vitesse (1 min sort de haste) : https://www.dndbeyond.com/spells/haste
+		- the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the [Attack](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Attack) (one weapon attack only), [Dash](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Dash), [Disengage](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Disengage), [Hide](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide), or [Use an Object](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#UseanObject) action.
+	- 2 potion d'invisibilité normale
+	- 2 potion of greater healing  : 4d4 +4
+	- 2 potion of healing : 2d4+2
+	- 1 poudre rouge du chapitre 2
+
+### Little Doffer
+
+	comme il est très petit et visage d'enfants, il se déguise souvent en enfant pour s'approcher des ses proies (repérage essentiellement)
+
+Niv 5 Roublard - Archétype Assassin.
+bonus maitrise : 3
+Initiative : +8 - jamais surpris, pas d'avantage pour les créatures que je vois.
+Passive perception: 12
+AC=20 (**studded leather noire +1** (+3), haste (+2), dex (+4), ring (+1)
+PV=37
+STR 12 (+1), DEX 18 (+4), CON 12 (+1), INT 12 (+1), SAG 14 (+2), CHA 16 (+3)
+Weapons : 
+- [Dagger of Adrenaline](https://www.dandwiki.com/wiki/Dagger_of_Adrenaline_(5e_Equipment))  +7 to hit - 1d6 +4 + (3d6)  ![[Pasted image 20240307225345.png]]
+- si coup critique:  2d4 +4 + 6d6
+poisons
+	- [basilic eye](https://www.aidedd.org/dnd/poisons.php?vo=basilisk-eye) DC 12 or petrified tempor. save each turn to end effect.
+	- [giant spider venom](https://www.aidedd.org/dnd/poisons.php?vo=giant-spider-venom) : DC 11 or 2d8 or half
+- arbalete de poing + poison
+![[Pasted image 20240307214447.png]]
+spécial : pack tactics: advantage if in 5' of ally (not incapacited)
+
+**Skills**
+	Discrétion (expertise):  +9 (3x2 + 3)
+	Perception (expertise)  +9  (3x2 + 3) 
+	Perception = +3 
+	Acrobatie = +6 = (3 +3)
+	Stench : within 5' DC 12 CON or poisoned until start of the next turn of target. is successful, immune to effect for one hour
+
+**Skills Voleur / Assassin**
+- Expertise , argot des voleurs, maitrise matériel d'empoisonneur et de déguisement
+- attaque sournoise : +3d6 si avantagé (avec arme de finess ou distance) ou si la cible se trouve à 1,5m d'un autre ennemi
+- Ruse : Dash, Disengage or Hide as a Bonus action
+- Vigilant (don 4eme) : +5 init  , jamais surpris, 
+- Assassinat: 
+	- avantage vs creature n'ayant pas joué un tour dans le combat.
+	- si créature surprise : le coup devient une critique (et donc )
+- Esquive instinctive (réaction pour réduire 1/2 dégats vs une attaque réussit contre lui)
+
+**Equipements**
+	- AC=20 (**studded leather noire +1** (+3), haste (+2), peau dure (+1) , dex (+3), ring (+1)
+	- ring of protection +1
+	- 2 potions de vitesse (1 min sort de haste) : https://www.dndbeyond.com/spells/haste
+		- the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the [Attack](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Attack) (one weapon attack only), [Dash](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Dash), [Disengage](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Disengage), [Hide](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide), or [Use an Object](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#UseanObject) action.
+	- 2 potion d'invisibilité normale
+	- 2 potion of greater healing  : 4d4 +4
+	- 2 potion of healing : 2d4+2
+	- 1 poudre rouge du chapitre 2
+ 
 - en prison :  : grand ma, Jeb, Hez, Ehab, Cutter, Lyla
 
 ![[Pasted image 20240203082733.png]]

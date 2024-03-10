@@ -20,7 +20,7 @@ Si le groupe fouille le corps et la pièce, il trouvera ce qui suit.
 
 Vous pouvez même pimenter les choses avec un ajout gluant si vous voulez ajouter un peu de piquant à l'histoire. Vous pouvez également demander à certains PJ de faire un ou deux faux tests de Perception (où ils ne trouvent rien). C'est toujours amusant. Surtout lorsqu'ils réussissent très bien et ne trouvent rien.
 
-[[NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
+[[X- NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
 
 Note : Pendant qu'ils explorent la cabane, le brouillard extérieur s'épaissit jusqu'à ce que Tanner refuse absolument de traverser la tourbière jusqu'au matin (en supposant qu'ils soient venus ici le même jour que celui où ils ont rencontré Tranden, le premier jour des PJ dans la région). Il dira qu'ils doivent passer la nuit ici. S'ils sont venus ici à un autre moment et que la levée du brouillard n'a pas de sens, modifiez la situation comme il se doit. Quoi qu'il en soit, le groupe va se faire attaquer ici après avoir terminé son inspection de la cabane.
 

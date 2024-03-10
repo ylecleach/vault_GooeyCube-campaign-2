@@ -144,3 +144,8 @@ Je trouve que la campagne a de l’ambition. Elle semble avoir beaucoup de poten
 Mais, globalement, c’est une très bonne campagne DnD.
 
 La fin du dernier chapitre est tout bonnement le genre de déchirement qui redonne du Pep's pour la suite. C’est un peu l’effet "Ned Stark, tête coupée" de la première saison du Trône de Fer. On apprend à aimer des personnages, à les apprécier, à les côtoyer et… BOOOOM. On nous les prend, on nous les tue. Par la même occasion, on nous donne quelqu’un à haïr. Et ça, c’est bon.
+
+### REVES 
+
+* première  à Bog Town: [[chapter 4 - Muugda Dreams]] => Dream 1 (Gerald-Cydir)
+

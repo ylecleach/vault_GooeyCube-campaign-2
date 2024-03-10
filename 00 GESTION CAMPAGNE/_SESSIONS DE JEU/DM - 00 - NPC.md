@@ -18,6 +18,7 @@ tous sauf:
 - Sayaer's Kress, Medium Humanoid, Male Half-Drow Agent of Jinxx : n'était pas présent avec vous. Surement en mission pour Mère Salvensa.
 - Quember Rand, Medium Humanoid, Male Human/Earth-Touched Cleric of Kizmya : en mission sur sa propre quête dans les environs de Nevermore. (recherche d'un culte d'élémentaliste)
 - les 3 femmes spell dancers: mavéa, elnass, saévra
+- les enfants Vyles du chapitre 3
 
 ### Liste des morts du massacre chez les pré-tirées + all:
 - Grenand Savre, élève de Calnassé et Kray

@@ -31,14 +31,14 @@ Le groupe peut pêcher un peu ici, ce qui vous donne l'occasion de sortir un NSR
 
 Selon la façon dont vous voulez jouer, vous pouvez soit demander à Tanner de les laisser pour la nuit ici, à l'étang profond, soit de rester avec le groupe et de les faire "flotter" jusqu'à la maison de Tranden. 
 
-S'il les laisse, ils auront besoin d'indications pour se rendre chez Tranden - que Tanner peut leur donner. Ce n'est pas un long chemin, mais ils devront marcher vers le nord, puis faire le tour vers l'ouest (voir la carte 01 : Stuckshoe & Envi- rons). Il y a quelques bons NSRE à choisir pour pimenter cette petite marche. 
+S'il les laisse, ils auront besoin d'indications pour se rendre chez Tranden - que Tanner peut leur donner. Ce n'est pas un long chemin, mais ils devront marcher vers le nord, puis faire le tour vers l'ouest (voir la carte 01 : Stuckshoe & Environs). Il y a quelques bons NSRE à choisir pour pimenter cette petite marche. 
 
 Quoi qu'il en soit, le brouillard va continuer à se lever, et si Tanner est resté avec le groupe, il dira bientôt qu'ils devraient passer la nuit à la cabane. Si c'est le cas, il y aura plus d'opportunités pour le roleplay et pour obtenir des rumeurs et des connaissances supplémentaires. Il sera toujours prêt à les emmener chez Tranden, puisque c'est assez proche, mais il voudra le faire le plus tôt possible. 
 
 Tout membre du groupe se trouvant près de l'eau pourrait être attaqué par "Old Fathead", un poisson-chat géant mangeur d'hommes (et NSRE) qui rôde dans ces eaux.
 
 Si le groupe reste la nuit dormir :
-[[GA-03-A Scream from the Bog (bog, recur)]] : cri du wakabago à placer pour l'ambiance
+[[X-GA-03-A Scream from the Bog (bog, recur)]] : cri du wakabago à placer pour l'ambiance
 
 et ceux qui rodent dehors de la cabane la nuit :
 [[LET-05-Thunderjaw (bog, may recur.)-crocodile blanc]]

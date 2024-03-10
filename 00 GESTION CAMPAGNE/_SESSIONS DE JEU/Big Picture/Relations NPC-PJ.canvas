@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"56f550b20ccebd93","x":-660,"y":-200,"width":400,"height":400,"type":"group","label":"Untitled group"},
-		{"id":"5325678e000b77c1","x":370,"y":207,"width":400,"height":400,"color":"4","type":"file","file":" remote_vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/PJ/Fior.md"},
-		{"id":"51bea2051fe21093","x":-180,"y":207,"width":400,"height":400,"color":"1","type":"file","file":" remote_vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/Nemesis/Filthy Butcher.md"},
-		{"id":"d35d18ffa8c0faf3","x":-380,"y":-360,"width":252,"height":78,"color":"3","type":"text","text":"PRONDADOL"}
+		{"id":"56f550b20ccebd93","type":"group","x":-660,"y":-200,"width":280,"height":240,"label":"Untitled group"},
+		{"id":"d35d18ffa8c0faf3","type":"text","text":"PRONDADOL","x":-380,"y":-360,"width":252,"height":78,"color":"3"},
+		{"id":"d3714852f560d8f6","x":-180,"y":-40,"width":200,"height":80,"type":"file","file":"remote-vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/PNJ/Herbert Tou'gar.md","subpath":"#^1031ba"},
+		{"id":"f277d53c5a41b650","x":-800,"y":-381,"width":250,"height":60,"type":"text","text":"Herbert Tou'gar"}
 	],
 	"edges":[]
 }

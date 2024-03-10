@@ -1,5 +1,7 @@
 ### En début de partie
 * Références: [[Règles DM]], [[My Gooey Bad Table]]
+* redemander les alignements choisis si choisis
+* 
 
 ### Référence Chapitre 4
 * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés
@@ -7,13 +9,15 @@
 
 ### Introduction
 
-Rexeplication des Lunes
+Re-explication des Lunes
 ![[Pasted image 20240305212453.png]]
 
 Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 
-Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
-Bien qu'étant en hiver et ayant connu hier une tempète de neige exceptionnelle, vous vous retrouvez ici dans la ville de StukeShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
+Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00 et vous êtes dans la localité de Bog Town. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
+Bien qu'étant en hiver et ayant connu hier soir une tempête de neige exceptionnelle, et le massacre de votre troupe, vous vous retrouvez ici dans la ville de StukeShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
+
+Vous êtes encore très éprouvée par le massacre d'hier, et ce qui vous tient encore débout, c'est cette espoir de pouvoir retrouver des pistes pour retrouver la trace des assaillants, et ainsi tenter de sauver les enfants de la troupe.
 
 ### DM only - Rappel Timeline
 Le groupe aura  **trois ou quatre jours à partir de son arrivée** pour libérer la ville des bouchers et arrêter les plans terrifiants du père Kenlen... en supposant qu'il veuille rencontrer les agents de Duna'hadrine (**c'est un voyage de quelques heures jusqu'à la Traversée du Roi, et ensuite un voyage d'une journée entière pour la traverser)**. 
@@ -34,26 +38,29 @@ Bien relire [[02-Running the Town]] sur les découpages de journée type.
 
 
 ## Town or Bog
-* [[NLE-09-Vengeance (town or bog, unique)-NPC-Dresin]] : individu louche ressemblant à un elfe noir. (mais qui est en fait un elfe sylvain à la peau sombre)
+* [[NLE-09-Vengeance (town or bog, unique)-NPC-Dresin]] : individu louche ressemblant à un elfe noir. (mais qui est en fait un elfe sylvain à la peau sombre) : plutot pas avant le Jour2
 * dans le BAR, 1-2 j après l'arrivée des joueurs : [[NLE-11-Nouvelles Sinistres (town, unique)]]
+* [[04-Area B - The Sinkhole Tavern#Événements futurs possibles a Sinkhole|Sinkhole Events]]
+* [[04-Area B - The Sinkhole Tavern#NPC principaux de l'auberge]]
+* [[04-Area B - The Sinkhole Tavern#NPC pouvant passé]]
 
 ## dans le marécage
 
 au moins une LET marécage par session sinon 2
 
 * [[GA-01-A fearful Gaze (town, recur-)]]: observation du wakabago
-* [[GA-03-A Scream from the Bog (bog, recur)]] : cri du wakabago à placer pour l'ambiance
+* [[X-GA-03-A Scream from the Bog (bog, recur)]] : cri du wakabago à placer pour l'ambiance
 * [[GA-04-Swamp Gas (bog, recur)]]: des lumières due au gaz
 * [[GA-07-Bugs! (bog, recur)]]: touche celui qui fait une init entre 1 et 4. (1 seul PJ)
 * [[LET-02-Crocofrogs (bog, recur)]]
 * [[LET-03-Old Fathead-gros poisson (bog, recur)]]: ex lors d'une ballade en barque ou partie de pêche
-* [[LET-04-Helsacat-Enorme Crocofrogs (bog, recur)]]
+* [[X-LET-04-Helsacat-Enorme Catagator (bog, recur)]]
 * [[LET-05-Thunderjaw (bog, may recur.)-crocodile blanc]]
 * [[LET-08-Bogger Bear(s) (bog only, on land, recur.)]]
 * [[LET-09-The Wakabago (bog or limite town, recur)]] : faire GA-01 avant - lien avec Tanner - lien avec Amancia.
 * [[NLE-01-Shurna and Feansal (Bog only, may reccur)]]: peuvent aider le groupe si besoin, mais pas avant que le groupe apprenne qu'ils sont recherchés pour meurtre.
 * [[NLE-12-Pêcheurs sur l'eau  (Bog, unique)]]: rencontre avec Tanner et Burk dans les marécages, proposition de partie de pèche au gros (thunderjaw).
-* [[LET-11-The Bog Troll]] : à placer sans faute.
+* [[X-LET-11-The Bog Troll]] : à placer sans faute.
 
 ### dans Bog Town
 * [[NLE-04-Une personne curieuse]]: en début de session, après le départ de l'agent. npc mineur (Arnold Bondoy = anagramme de nobody)
@@ -62,7 +69,7 @@ au moins une LET marécage par session sinon 2
 * [[NLE-08-Les Boggenfoots (town, recur.)-NPC]]: mettre de la suspicion sur ce couple de hobbits, au lieu du couple Falsenflam en lien avec le père kelen.
 * [[GA-05-Un guetteur dans les branches (tow or bog, recur)]] : en gros c'est l'un des deux butchers qui surveille le groupe (Floyd or Little Doffer)
 * [[GA-06-Ce poulet me suit-il (town, recur)]]
-* [[NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
+* [[X- NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
 * [[NLE-03-Une boisson lubrique (town, recur.)]]: en abord de l'auberge en présence d'une des femmes du groupe. npc mineur.
 * 
 ### everywhere
@@ -136,10 +143,25 @@ Que le vénérable Fla.. vous accorde son immonde bénédiction.
 
 ## Fil de l'aventure et notes (DM)
 
+en fin de journée, le groupe revient victorieux après la mort du helsacat et du bog troll.
+la maire les félicite et leur donne rdv à 16h00 dans l'auberge.
 
+la nuit du 17th drezen met l'oiseau. mort dans la bouteille de vin des elfes noirs.
+il dépose la lettre sur le comptoir de l'auberge.
 
+18th matin 08h00 :
+drezen plus déguisé. met des marques des butchers sur le panneau d'info et un symbole de jinxx chez Otis. (safe)
 
+le groupe se réunit pour aller dans la direction de l'est vers les butchers.
+Hurranan informe Tanner de la mort de Tranden.
+Tanner leur indique la direction pour aller voir la sorcière.
 
+Amancia donne 4 anti dotes
+
+todo : travailler les réponses pour cydir de la sorcière. retravailler les traductions.
+voir si elle soigne le nain qui est blessé
+
+envoyer le rève à gerald : done
 
 ## Notes pour chaque perso à reporter dans leur fiche
 

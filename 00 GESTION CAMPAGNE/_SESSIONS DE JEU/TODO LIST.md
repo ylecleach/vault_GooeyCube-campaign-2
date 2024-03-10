@@ -1,5 +1,21 @@
+déterminer impact de la lettre de Drezen sur la suite des évènements
+
+todo : travailler les réponses pour cydir de la sorcière. retravailler les traductions.
+voir si elle soigne le nain qui est blessé
+
+
+points de règles à revoir
+
+- règle de surprise
+- règle nage et dans l'eau
+- conditions météo et visibilité
+
 installer office 365 sur le mac (word)
 imprimer feuille de Erwann
+
+consolider liste NPC
+
+figurines wakabago
 
 Chapitre 4
 - TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!

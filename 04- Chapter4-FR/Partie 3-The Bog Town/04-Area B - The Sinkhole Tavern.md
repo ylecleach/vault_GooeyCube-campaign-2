@@ -31,7 +31,7 @@ Pendant que la fête se déroule, l'un des hommes en colère s'adresse au blond.
 
 L'homme blond leur jette à tous deux un regard sévère. **"Je ne sais pas trop pour quelle raison vous vous battez, mais nous en reparlerons plus tard. Pour l'instant, vous allez tous les deux laisser vos parts là où elles sont, et attendre que tout soit divisé. Et si je vous vois encore vous battre, vous le regretterez.**". Et sur ce, les deux groupes se détournent et se dirigent vers les portes aux extrémités opposées du bar.
 
-### Jouer la Taverne
+# Jouer la Taverne
 Le Sinkhole est tenu par un homme grand et un peu corpulent nommé **Herbert Tou'gar,** qui est tout à fait capable de se débrouiller tout seul si nécessaire. Comme c'est le seul endroit de la région où les gens peuvent se rassembler à part l'hôtel de ville, la taverne est souvent occupée et sera un endroit idéal pour le groupe afin d'obtenir des informations, de jouer un peu, et peut-être même de se livrer à un bon combat ! 
 
 **Chambres**
@@ -63,7 +63,7 @@ Sinon, si la personne dit qu'elle l'est, ou si elle ne répond pas, il dira quel
 
 Enfin, en s'éloignant, il dira nonchalamment... **"Et bien sûr, ne causez pas de problèmes, sinon nous devrons vous chasser de la ville. Ou vous pendre. Adieu, mes amis. Venez me voir à la chapelle et donnez votre dû aux dieux."**
 
-### Happenings in The Sinkhole Tavern
+# Happenings in The Sinkhole Tavern
 Comme on le sait, une bonne taverne est un endroit idéal pour que toutes sortes d'événements ... eh bien... se produisent. Et le Sink ne fait pas exception à la règle. Il est probable que le groupe vienne ici plus d'une fois, alors n'hésitez pas à peupler l'endroit comme il se doit lorsque les PJ se présentent. Pour cette première visite, nous vous aiderons à démarrer, mais au fur et à mesure que l'intrigue progresse, vous devrez déterminer qui ils rencontreront ici et comment ces personnages s'intègrent dans l'histoire.
 
 Encore une fois, si vous avez une bonne maîtrise des PNJ de la ville, improviser (ou même planifier à l'avance) les futures rencontres ne devrait pas être un problème. 
@@ -74,7 +74,7 @@ Tips
 
 Comme il s'agit de la première visite des PJ au Trou d'eau, elle devrait servir de point de départ idéal pour l'aventure dans la ville et ses environs. Nous utiliserons également les interactions ici pour présenter certains des PNJ importants de l'histoire. Vous pouvez certainement ajouter quelques personnages, surtout si vous souhaitez apporter votre propre touche à l'histoire, mais n'en mettez pas trop pour ne pas submerger les PJ. Nous avons déjà ajouté quelques PNJ "moins importants" à cette scène pour vous (pas de portrait). D'ailleurs, dans nos jeux domestiques, lorsque nous avons plusieurs PNJ complexes en même temps (comme c'est souvent le cas dans une taverne), il est utile d'avoir quelques notes pour guider le jeu de rôle, comme celles qui suivent.
 
-### Le bar lui-même : 
+# Le bar lui-même : 
 Certaines choses à découvrir dans l'auberge Sinkhole devraient être dévoilées lentement ; ne les donnez pas toutes en même temps. Comme indiqué plus haut, des tests aléatoires de Sagesse (Perception) DC 14 peuvent être effectués un certain nombre de fois au cours du séjour du groupe. 
 
 Certains ne devraient être que des leurres (ce qui frustre toujours un joueur qui fait un bon jet et n'obtient pas de récompense) tandis que d'autres devraient fournir des informations ou une découverte (voir les ajouts gluants pour des idées, et ajoutez-en quelques-uns si l'envie vous en prend). 
@@ -84,30 +84,34 @@ Certains ne devraient être que des leurres (ce qui frustre toujours un joueur q
 - Une grande bouteille de verre foncé gravée de motifs ornementaux se trouve derrière le bar, à côté d'autres bouteilles d'alcool et de vin. Il s'agit de l'Eazza'ayss, une boisson fermentée puissante, mais douce et délicieuse, fabriquée à partir de champignons que l'on ne trouve que dans l'Underdelve. Elle est conservée ici comme l'une des préférées des Elfes Noirs qui viennent rarement dans la ville. **Donnez à n'importe quel PJ faisant un test de Sagesse (Perception) DC 17 une certaine connaissance de la bouteille**. Si on lui demande, Herbert explique que les Elfes Noirs viennent occasionnellement en ville et laissent une caisse de cette boisson. Il n'en vendra pas au groupe.
 - Un symbole de tête de porc gravé sur l'un des plateaux de table ressemble beaucoup à l'emblème du Clan des Bouchers que les PJ ont déjà vu.- Une paire de cruches sur l'étagère derrière le bar affichent le logo du Clan des Bouchers sur leur face. Si on lui pose la question, Herbert répond qu'il les achète aux bouchers qui vivent un peu plus loin dans la tourbière, bien qu'il ne sache pas exactement où. Ils l'appellent "**Boggy Hooch**" et les gens l'aiment beaucoup. **Notez que cette eau-de-vie n'est pas corrompue comme la gnôle de Nevermore**.
 
-### Le tableau d'affichage : 
+# Le tableau d'affichage 
+
 Sur le mur près de la porte d'entrée est accroché un tableau d'affichage avec quelques éléments d'intérêt potentiel. Montrez le Document 06 : Le tableau d'affichage et voyez ce que les PJ trouvent en le regardant.
 ![[Pasted image 20240203073401.png]]
 
 ![[Pasted image 20240203073454.png | 600]]
 
-### NPC principaux de l'auberge:
 
-### Herbert Tou'gar
+
+
+# NPC principaux de l'auberge
+
+## Herbert Tou'gar
 [[NPC-BOGTOWN]]
 
-### Braenda Macintarn et Norden Barve (Portrait 05 et 06) : 
+## Braenda Macintarn et Norden Barve (Portrait 05 et 06) : 
 d'autre info sur [[NPC-BOGTOWN]]
 Ces deux-là sont assis dans un coin reculé et discutent. Ils se montreront amicaux envers les PJ s'ils sont approchés, et Braenda pourrait même s'approcher et souhaiter la bienvenue aux PJ en ville. Ils valent bien une ou deux rumeurs tirées de [[chapter 4 rumors & Lore]] et un dialogue inoffensif du type "comment est le temps/où venez-vous". En réalité, ces deux-là font partie d'une petite bande de voyous dirigée par Zefren Churr, qui est de mèche avec les Bouchers. Ils organisent un racket de protection dans la ville et** évalueront les PC en vue d'un vol potentiel (et pire encore)**. 
 
 Ce sont eux qui ont assassiné Doc Venton et qui ont ensuite piégé Feansal Dynari'is et Shurna Grondanna pour le meurtre. Nous reviendrons sur cette histoire au fur et à mesure que l'aventure se poursuivra. Vous trouverez également des informations croustillantes sur le darkdeed dans la section Rumeurs & Lore. Ces deux personnes partiront après avoir accueilli le groupe en ville. Leur départ rendra les interactions du groupe avec Tranden beaucoup moins compliquées. Note : ils peuvent revenir si vous le souhaitez. Voir ci-dessous.
 
-### Hurpnik, Zella et Tomm (non représenté) : 
+### Hurpni, Zella et Tomm (non représenté) : 
 Ces trois pêcheurs vivent dans l'une des maisons en rangée. Ils ont une relation intéressante, car Zella est "mariée" à la fois à Hurpnik et à Tomm, qui sont des trappeurs de chats et de crocodiles accomplis, ainsi que des pêcheurs. Les trois sont un peu ivres, mais ils peuvent engager la conversation et lancer une ou deux rumeurs.
 
-### Tranden Hurks (Portrait 04) : 
+## Tranden Hurks (Portrait 04) : 
 Il s'agit de l'agent dont Shadrick et Aegis ont parlé au groupe. Il est assis près de la cheminée, fumant une pipe et buvant une bière. Il sait aussi qu'il est un peu suspect et sera très prudent avant de parler aux PJ dans le bar, même s'ils donnent les bons mots de passe de la bonne manière. Utilisez les notes de la section Parler à Tranden ci-dessous pour guider la conversation des PJ avec l'agent. Évitez de lire si possible et faites de votre mieux pour établir un dialogue de qualité et quelque peu intense. Essayez de faire passer un peu de la peur que ressent Tranden dans l'interaction.
 
-### Parler à Tranden
+## Parler à Tranden
 Comme parler à Tranden peut entraîner des problèmes à la fois pour l'agent et pour le groupe, les PJ intelligents seront prudents dans la façon dont ils l'approchent et interagissent avec lui. S'ils se trompent et menacent de faire sauter la couverture de Tranden, celui-ci fera de son mieux pour s'extraire de la situation, même si cela signifie compromettre les PJ. Il ne veut pas mourir d'une bêtise de leur part. Mais si les PJ tentent de faire preuve d'un peu de subtilité, il les récompensera en conséquence. 
 
 Après la mention des codes **"Mathias Overton" et "une épée en acier émoussé"**, le contact toussera et dira au groupe qu'il pourrait être en mesure de les aider. 
@@ -120,17 +124,21 @@ Une fois qu'ils se seront présentés, Tranden se penchera vers eux et leur chuc
 - Il regarde encore un peu autour de lui et répond peut-être à quelques questions. Mais bientôt, il mettra fin à la conversation... **"Ecoutez, nous ne pouvons plus parler ici.** **Je te rejoindrai dans un endroit sûr, mais nous devons être vigilants. Voilà ce qu'on va faire. Tu devras te rendre à l'étang profond**. **Demande au pêcheur... Tanner... il est sur les quais en ce moment, il discute avec ce gros pêcheur, Burk**. **Je ne lui fais pas confiance. Mais je confierais ma vie à Tanner.** **C'est l'un des bons dans cette fosse septique. Quoi qu'il en soit... Tanner n'est pas le gros. Dis à Tanner que tu veux un guide pour pêcher et chasser le crocodile. Dis-lui que tu veux aller à l'étang profond. Quand vous y serez, pêchez un peu. Ne vous pressez pas. Puis, au bout d'une heure, donnez quelques ors à Tanner et dites-lui que vous voulez qu'il vous emmène chez moi. Il se taira. Mais assurez-vous que vous n'êtes pas suivi ! Et si vous l'êtes, assurez-vous que la personne qui vous suit ne vivra pas pour raconter l'histoire. Si Tanner te demande pourquoi tu viens me voir, dis-lui ceci : "Les poissons ne mordent pas sous la lune des fous"... compris ? Maintenant, ne pars pas avant au moins une heure. Reste dans l'auberge. Laisse-moi le temps de faire le ménage. Oh, et tu peux aussi faire confiance aux gens de l'écurie - Otis et sa famille, ce sont de braves gens. Mais euh... mieux vaut ne pas leur parler de tout ça."**
 - Une fois qu'il a terminé, il descend sur le quai, monte dans son bateau et part à la rame dans la tourbière.
 
-### Le maire et Turdig : 
+## Le maire et Turdig : 
 Peu après la rencontre avec Tranden, le maire Joleen Horster et Turdig "Hamhand" Silverston arrivent. Lorsqu'ils arrivent, lisez ou paraphrasez ce qui suit et montrez les portraits 07 : Maire Joleen Horster et 08 : Turdig "Hamhand" Silverston:
 
 **Soudain, la porte d'entrée s'ouvre et une grande femme en robe rose à froufrous, avec un chapeau et un éventail, entre dans la maison. Elle est suivie d'un nain costaud aux yeux actifs et au teint très clair, qui porte une hache et fume une pipe à long tuyau. La femme salue le barman et s'approche directement de votre groupe avec un grand sourire. D'une voix douce, elle dit : " Eh bien, je le déclare ! Quel intéressant petit groupe de voyageurs ! Je suis Joleen Horster, maire de Stuckshoe... et voici mon associé, Sir Turdig Silverston. Lorsque nous avons appris que nous avions des invités en ville, nous nous sommes empressés de venir vous accueillir comme il se doit ! Qui êtes-vous, mes chéris ?"
 
 Joleen est beaucoup plus rusée qu'il n'y paraît. Elle s'est mise à dos les Butchers, et si quelque chose se passe en ville, elle veut le savoir. Turdig est à la fois son amant et son garde du corps. Il n'est pas enclin à la conversation. La maire engagera les PJ dans un discours poli, et pourra leur donner quelques informations sur l'histoire du village. Elle lancera peut-être une ou deux rumeurs sur le groupe, mais rien qui ne puisse les aider contre les Elfes Noirs ou les Bouchers. Elle essaiera de convaincre le groupe de tuer le catagator que les habitants appellent "Hellsacat" et paiera volontiers la récompense affichée. Cette créature a mangé son petit chien "Sweetums" il y a à peine une semaine. Elle encouragera également le groupe à venir au prochain festival de la paix. Joleen et Turdig ne resteront pas longtemps.
 
-### Zefren Churr et le retour de Braenda et Norden 
+
+
+## Événements futurs possibles a Sinkhole
+
+**Event J2 - Zefren Churr et le retour de Braenda et Norden**
+
 (Portraits 09,05, et 06 )
 Braenda et Norden reviendront avec leur chef **Zefren**, pour le présenter au groupe le jour 2. 
-
 Cela devrait être un petit roleplay amusant. Les hommes de main de Zefren attendent tous à l'extérieur, donc si des bagarres éclatent, il a des renforts. Il devrait avoir un ton amical mais légèrement menaçant après que quelques plaisanteries aient été échangées. Il expliquera qu'il **"travaille pour les pouvoirs en place"** dans la ville et que **"ces gens-là sont assez dangereux et n'aiment pas être contrariés par qui que ce soit"**. Il dira aux PJ que la "**taxe des aventuriers est de 5 pièces d'or par tête, plus dix pour cent de tout trésor que vous aurez pris ou de toute prime que vous aurez gagnée dans les parages".** "**MAIS**"... dit-il... "**si vous capturez ou tuez ces deux bâtards assassins (il montre le panneau d'affichage), je peux faire en sorte que votre taxe ne soit que de cinq pour cent**. "Cette rencontre devrait être assez intense, mais nous vous recommandons d'éviter le combat avec la bande de Churr pour l'instant. Si le groupe refuse de payer les 5 pièces d'or, Churr ne se battra pas. Il dira quelque chose comme...**"Vous faites une petite erreur aujourd'hui, mes amis. Je reviendrai à Sulrise. Je vous recommande de reconsidérer votre position pour ne pas en faire une plus grosse demain."** Il part ensuite avec ses laquais. Le parti ne l'aimera probablement pas beaucoup après cela, mais c'est ce que nous voulons, n'est-ce pas ? Cela dit, essayons d'éviter que les PJ ne les combattent pour l'instant. 
 Si un combat éclate, demandez au Constable Flynn et à l'adjoint Arzada de se montrer pour l'interrompre.
 
@@ -140,9 +148,9 @@ See Battle Stats in GM Reference Book, page 29.
 >**Constable Flynn and Deputy Arzada
 See Battle Stats in GM Reference Book, page 29
 
-### Événements futurs possibles a Sinkhole
-D'autres événements pourraient se produire dans la taverne (et dans les chambres du groupe) : 
 
+**D'autres événements pourraient se produire dans la taverne (et dans les chambres du groupe) :**** 
+**
 - Un pêcheur essayant de vendre un catagator dépecé... 
 - un vol ou une effraction dans une chambre... 
 - un bruit effrayant dans la nuit à l'extérieur... 
@@ -151,8 +159,6 @@ D'autres événements pourraient se produire dans la taverne (et dans les chambr
 Il y a beaucoup de choses à votre disposition. Pour vous aider un peu, voici quelques événements juteux qui pourraient se produire ici **dans les prochains jours (et nuits)**. 
 
 Vous trouverez d'autres options dans les NSRE et les ajouts gluants dans la référence du MJ.
-
-### Events : put a X
 
 - Un corbeau entre par la fenêtre de l'une de leurs chambres (ou de la taverne) au bon moment et le groupe le voit... mais il s'enfuit.Les PJ ne le savent probablement pas encore, mais l'oiseau appartient à Emil Butcher. 
 
@@ -164,7 +170,7 @@ Vous trouverez d'autres options dans les NSRE et les ajouts gluants dans la réf
 
 - Le groupe voit la lumière du hall projeter une ombre sous sa porte, comme si quelqu'un se tenait à l'extérieur et écoutait. Lorsqu'ils ouvrent la porte, cependant, ce n'est qu'Herbert qui essuie le mur (ou l'a-t-il fait ?).
 
-### Final Word on the Sinkhole
+### NPC pouvant passé
 Gardez à l'esprit que la taverne est le principal lieu de rassemblement des habitants de la ville et de ceux qui vivent dans la région des marais. Et comme les aventuriers sont probablement logés dans les chambres à louer, vous aurez probablement plusieurs occasions de leur faire rencontrer des gens comme 
 - les Falsenflamms, 
 - ou Condy et Salansy Boggenfoots, 

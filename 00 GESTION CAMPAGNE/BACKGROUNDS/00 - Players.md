@@ -12,18 +12,18 @@
 voir rapidement si nouveau joueur pour reprendre le barde ou sinon transférer Luck's Hand 
 
 
-| Character | PV MAX | Perception | AC | bonus init | Align | niv 4 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Hurannan | 54 | 2 | 20 | 4 |  | yes |
-| Cydir | 46 | 2 | 17 | 5 | LN-(CN) | yes |
-| Drezen | 41 | 4 | 17 | 4 | CB | yes |
-| Vaness | 21 | 6 | 13 | 3. Niv 3 en attente |  |  |
-| Brandele | 32 | 3 | 14 | 2 |  | yes |
-| Glynn | 54 | 2 | x | 2 |  | yes |
-| Crendon | 37 | 0 | 17 | 4+3 |  | yes sauf pv |
-| Fior | 62 | 4 | 19 | 1 | NG | yes |
-| Corrinee Ay’Yava |  | 4 |  |  |  | pv |
-| Killer (hound) | 16 | 5 | 14 |  |  |  |
+| Character        | PV MAX | Perception | AC  | bonus init          | Align   | niv 4 |
+| ---------------- | ------ | ---------- | --- | ------------------- | ------- | ----- |
+| Hurannan         | 54     | 2          | 20  | 4                   | NG      | yes   |
+| Cydir            | 46     | 2          | 17  | 5                   | LN-(CN) | yes   |
+| Drezen           | 41     | 4          | 17  | 4                   | CG      | yes   |
+| Vaness           | 21     | 6          | 13  | 3. Niv 5 en attente |         |       |
+| Brandele         | 32     | 3          | 14  | 2                   |         | yes   |
+| Glynn            | 54     | 2          | x   | 2                   | CG      | yes   |
+| Crendon          | 37     | 0          | 17  | 4+3                 |         | yes   |
+| Fior             | 62     | 4          | 22  | 1                   | NG      | yes   |
+| Corrinee Ay’Yava |        | 4          |     |                     |         |       |
+| Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 
 liste emails : denisperson@yahoo.fr, bracasse@hotmail.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com
