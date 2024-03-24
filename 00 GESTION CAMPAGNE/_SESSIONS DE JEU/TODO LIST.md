@@ -5,7 +5,7 @@ voir si elle soigne le nain qui est blessé
 
 
 points de règles à revoir
-
+règle sur le poison : https://www.nerdsandscoundrels.com/poison-5e/
 - règle de surprise
 - règle nage et dans l'eau
 - conditions météo et visibilité

@@ -10,17 +10,17 @@
 
 ### Introduction
 
-Re-explication des Lunes
-![[Pasted image 20240305212453.png]]
-
 Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 
-Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00 et vous êtes dans la localité de Bog Town. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
-Bien qu'étant en hiver et ayant connu hier soir une tempête de neige exceptionnelle, et le massacre de votre troupe, vous vous retrouvez ici dans la ville de StukeShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
-
-Vous êtes encore très éprouvée par le massacre d'hier, et ce qui vous tient encore débout, c'est cette espoir de pouvoir retrouver des pistes pour retrouver la trace des assaillants, et ainsi tenter de sauver les enfants de la troupe.
+Nous sommes le 18th du mois de Dezu'un de l'année SC 1212, et il est environ 11h00
 
 ### DM only - Rappel Timeline
+
+J1 à stuckshoe: done
+J2:
+J3
+J4 : Festival
+
 Le groupe aura  **trois ou quatre jours à partir de son arrivée** pour libérer la ville des bouchers et arrêter les plans terrifiants du père Kenlen... en supposant qu'il veuille rencontrer les agents de Duna'hadrine (**c'est un voyage de quelques heures jusqu'à la Traversée du Roi, et ensuite un voyage d'une journée entière pour la traverser)**. 
 
 Bien relire [[02-Running the Town]] sur les découpages de journée type.

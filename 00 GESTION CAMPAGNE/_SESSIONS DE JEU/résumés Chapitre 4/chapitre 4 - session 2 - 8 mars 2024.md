@@ -1,10 +1,10 @@
- 8 joueurs avec personnage niveau 4 à la table. Un démarrage un peu tardif vers 21h00. Maxime le seul arrivé à l'heure : un gooey reward à tirer. Mention spéciale aussi pour Amine arrivé en 2ème.
+ 8 joueurs avec personnages niveau 4 à la table. Un démarrage un peu tardif vers 21h00. Maxime le seul arrivé à l'heure : un gooey reward à tirer. Mention spéciale aussi pour Amine arrivé en 2ème.
 
 ![[Pasted image 20240210171308.png| 400]]
  
 ### Introduction
 
-Re-explication des Lunes
+Re-explication du fonctionnement des Lunes du monde de Zyathé:
 ![[Pasted image 20240305212453.png]]
 
 Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
@@ -18,6 +18,8 @@ Vous êtes encore très éprouvée par le massacre d'hier, et ce qui vous tient 
 # Une partie de pêche
 Vous vous regroupèrent donc à 6 pour vous répartir sur 2 barques louées aux pontons de Bog Town.
 
+![[Pasted image 20240324205754.png]]
+
 # Pendant la soirée ...
 
 **Brandele** en profita pour passer du temps à l'auberge (2h et la nuit) pour étudier sa magie, et retranscrire plusieurs sorts sur son spell book. 
@@ -25,15 +27,18 @@ Vous vous regroupèrent donc à 6 pour vous répartir sur 2 barques louées aux 
 ![[Pasted image 20240310093601.png]]
 
 Drezen de son côté, déguisé en vieille femme, mis en oeuvre son plan pendant la soirée dans l'auberge, et repéra plusieurs choses dans l'auberge, concernant les boissons (il devra vous en parler). Il réussit à placer une fausse lettre manuscrite sur le comptoir de l'auberge.
-La nuit du 17th drezen mis l'oiseau mort ramassé à la fin du chapitre 3 dans la bouteille de vin réservés pour certains clients elfes noirs. Il met aussi des marques des butchers sur le panneau d'info et un symbole de Jinxx chez Otis.
 
-Drezen qui s'ennuyait un peu alla voir, toujours déguisé en vieille femme, qui du groupe était resté dans les chambres.
+![[Pasted image 20240324205942.png]]
+
+Ce que le groupe ignone: La nuit du 17th drezen mis l'oiseau mort ramassé à la fin du chapitre 3 dans la bouteille de vin réservés pour certains clients elfes noirs. Il met aussi des marques des butchers sur le panneau d'info et un symbole de Jinxx chez Otis.
+
+Drezen, déguisé en vieille femme et qui s'ennuyait un peu alla voir si certains membres du groupe était resté dans les chambres.
 
 ![[Pasted image 20240310101656.png]]
-![[Pasted image 20240310102119.png ]]
+
 # L'étang profond
 
-Tanner le pécheur et votre guide, vous conduit donc dans le marais dans la zone dite **l'étang profond** qui se trouve devant plusieurs cabanes de pêcheur. 
+Tanner le pêcheur et votre guide, vous conduit donc dans le marais vers la zone dite **l'étang profond** qui se trouve devant plusieurs cabanes de pêcheur. 
 
 Vous êtes répartis sur deux barques:
 - barque 1: Tanner, Fior, Cydir, Crendon
@@ -44,18 +49,18 @@ Vous êtes répartis sur deux barques:
 
 # Discussions avec Tanner
 
-Pendant la traversée, Tanner vous raconta pas mal de choses sur la faune du marais comme les monstres appelés localement 
+Pendant la traversée, Tanner vous raconta pas mal de choses sur la faune du marais comme les monstres qui appelés localement:
 - "Helsacat", un catagator particulièrement énorme et nuisible, dévoreur d'enfants et même de villageois. 
-- "Thunderjaw", un énorme crocodile blanc
-- "Old Fathead", un énorme poisson mangeur d'homme, qui est selon Tanner la prise rêvée de tout pêcheur
-- Wakabago : un esprit du marais.
+- "Thunderjaw", un énorme crocodile blanc, au dimension titanesque
+- "Old Fathead", un énorme poisson mangeur d'homme, qui est selon Tanner la prise rêvée pour tout pêcheur qui se respecte
+- Wakabago : un esprit du marais qui absorbent les âmes des pauvres victimes qui ont le malheur de croiser son chemin
+- 
+# Rumeurs
 
 Tanner vous donna aussi les rumeurs suivantes:
 
-# Rumeurs
+**La maison abandonné vers l'est est la demeure des Landry, une famille qui a perdue sa fille, qui était tombé amoureuse d'un joueur de poker Hanataz. Il ne sait pas ce que sont devenus les parents.**
 
-**La maison abandonné vers l'est est la demeure des Landry, une famille qui a perdue sa fille, qui était tombé amoureuse d'un joueur de poker Hanataz. Il ne sait pas ce que sont devenus les parents.****
-**
 **Les anciens qui vivent à des kilomètres dans les marais commencent à perdre la tête au bout d'un certain temps. L'un d'eux est venu faire réparer ses outils à la forge de Sundra, et il a essayé de me convaincre qu'il avait vu les arbres bouger pendant la nuit. Ils ont arraché leurs racines et ont commencé à se promener comme s'ils avaient quelque chose à faire. Je lui ai demandé s'ils avaient entamé une gigue, et il s'est fâché avec moi. Il a dit que non, ils ne faisaient pas de gigue, mais qu'ils chuchotaient entre eux, et qu'il n'y avait pas de brise cette nuit-là, alors c'est comme ça. Il prétend même qu'ils parlaient de lui, jusqu'à ce qu'il fasse le signe de Wardane. Il doit y avoir de drôles d'émanations qui se dégagent de la tourbière pour qu'on puisse voir de telles absurdités !"
 
 **"Vous avez vu cette étoile rouge dans le ciel ces derniers temps ? J'en ai parlé au Père Kenlen, et il m'a dit de ne pas m'en inquiéter. En général, il sait mieux que quiconque, mais je n'en suis pas si sûr cette fois. Je... je jure qu'on aurait dit qu'il me suivait. Et j'étais dans la tourbière hier, et j'ai vu cette sorcière, Amansia, faire des signes et brûler ces herbes puantes, comme pour éloigner quelque chose dans le ciel. Je ne crois pas toujours à toutes ces histoires, mais on se pose parfois des questions..."
@@ -78,7 +83,7 @@ Tanner vous indique que c'est le Wakabago ! Vous êtes réellement inquiet car l
 
 La barque 1 décida d'aller accoster sur le ponton, pendant que la barque 2 resta à 50 feets du ponton. Tanner alla chercher des cannes à pêches ainsi que des appats vivants et alla les distribuer aux occupants des deux barques. (il utilisa donc la barque 1 pour rejoindre la barque 2, puis revint au ponton).
 
-Vous commencèrent à pêcher pendant une demi-heure, pendant qu'un voile de brume, typique du moment de la journée (16h30 en hiver), se lève et rend la visibilité difficile.
+Comme cela était convenu avec Tranden, vous commencèrent à pêcher pendant une demi-heure, comme de simples pêcheurs, pendant qu'un voile de brume, typique du moment de la journée (16h30 en hiver), commence à se lever et rend la visibilité difficile.
 
 # Helsacat (catagator)
 Quand tout à coup, les occupants de la barque 2 furent attaqué par un monstre qui s'avéra être le fameux "Helsacat".
@@ -87,13 +92,22 @@ Quand tout à coup, les occupants de la barque 2 furent attaqué par un monstre 
 
 "Heureusement", les occupants de la barque 2 ne furent pas surpris, malgré la brume, et virent arriver à pleine vitesse un énorme monstre foncer sur la barque.
 
-Hurranan et Corrinne firent tout deux au premier round deux formidables attaques. (l'un 25 pdv en utilisant ses "ultimes" de guerriers, et l'autre 22 en sneak attaque). glyn eu le temps de blesser un peu plus le Catagator, et Corrinee (qui n'était pas surprise alors qu'elle était sur le ponton), acheva le monstre d'un tir incroyablement ajusté. Monstre tué en 1 round, et qui n'a pas pu agir.
+![[Pasted image 20240324210246.png]]
+
+Hurranan et Corrinne firent tout deux au premier round deux formidables attaques. (l'un 25 pdv en utilisant ses "ultimes" de guerriers et son épée enflammée, et l'autre 22 en sneak attaque).
+
+![[Pasted image 20240324210120.png]]
+
+![[Pasted image 20240324210151.png]]
+Glyn eu le temps de blesser un peu plus le Catagator, et Corrinee (qui n'était pas surprise alors qu'elle était sur le ponton), acheva le monstre d'un tir incroyablement ajusté. Monstre tué en 1 round, et qui n'a pas pu agir.
+
+![[Pasted image 20240324212528.png]]
 
 	Vous échappérent de peu à la noyade en armure au fond du marais. (avertissement du DM). Il n'est pas prudent d'être sur des zones d'eau en armure lourde.
 
 Après ce combat tendu, mais bref, vous décidèrent de découper la bête (récompense de 50 gp au village), et de revenir sur les pontons.
 
-Tanner vous invita dans les cabanes afin de vous reposer, et vous indique que le brouillard devient trop épais, et qu'il pense que vous allez devoir passer la nuit sur place.
+Tanner vous invita dans les cabanes afin de vous reposer, et vous indiqua que le brouillard devient trop épais et dangeureux à traverser de nuit,  et qu'il pense que vous allez devoir passer la nuit sur dans la cabane de pêcheur.
 
 **À l'intérieur de la cabane se trouve un four en briques avec quelques piles de bois, de vieilles casseroles et poêles, quelques lanternes cabossées et quatre hamacs suspendus à des poutres. Une table en bois de travers trône au centre de la pièce, avec quatre petits tonneaux en guise de chaises. L'endroit est sale et en désordre, mais on comprend qu'il puisse constituer un répit dans la tourbière. La porte est solide, et une longue barre de métal se trouve à proximité pour la barrer de l'intérieur. De lourds volets de bois sont suspendus pour couvrir les fenêtres.
 
@@ -117,9 +131,9 @@ Vous arrivèrent par l'arrière de la cabane à pied.
 
 ![[Pasted image 20240310104156.png | 800]]
 
-Vous entreprient de fouiller le corps et la pièce
+Vous entreprirent de fouiller le corps et la cabane de Tranden:
 - Une section ouverte du sol où une cache secrète se trouve maintenant vide.
-- L'arme du crime est un objet spécial 01 : la dague de Jinxx avec une lame ondulée et un visage de bouffon sur le pommeau. Sa ressemblance avec une dague que Columbina (l'un des bouffons de la troupe) portait vous trouble.
+- L'arme du crime est un **objet spécial 01 : la dague de Jinxx avec une lame ondulée et un visage de bouffon sur le pommeau**. Sa ressemblance avec une dague que Columbina (l'un des bouffons de la troupe) portait vous trouble.
 - Les cendres de nombreux papiers flottent dans la cheminée, comme si quelqu'un avait détruit des preuves. En fouillant les cendres vous trouvèrent les restes d'un journal, dont quelques pages n'ont été que partiellement brûlées.
 
 ![[Pasted image 20240310104653.png]]
@@ -134,44 +148,53 @@ Pendant ce temps, Cydir fit le tour de la cabane pour surveiller. quand tout à 
 
 **Un grand "CAW" attire votre attention. En levant les yeux, vous apercevez un petit corbeau qui vole au-dessus de vous et qui se pose au niveau de la fenêtre de la cabane. Le corbeau regarde à l'intérieur de la cabane, et vous croisez son regard.
 
+![[Pasted image 20240324210806.png]]
+
 Cydir chargea le corbeau pour tenter de l'intercepter, mais le corbeau, pas fou, s'envola à tire d'aile.
 
 En observant le corbeau partir, vous remarquèrent qu'il prit une trajectoire plein est.
 
-Vous rentrèrent à la cabane pour aller y passer la nuit.
+Vous rentrèrent à la cabane de Tanner pour aller y passer la nuit.
 
 # La nuit dans les marais
-Bien fatigué de cette journée, pleine de rebondissement, et qui s'est soldé par l'assasinat de Tranden, l'agent d'Aendun'Azuu,  vous trouvez dans cette cabane de pécheur et par l'accueil de Tanner qui vous prépare un festin avec la dépouille du Catagator,  un certain réconfort. 
+Bien fatigué de cette journée, pleine de rebondissements, et qui s'est soldée par l'assassinat de Tranden, l'agent d'Aendun'Azuu,  vous trouvez dans cette cabane de pécheur et dans l'accueil chaleureuse de Tanner qui vous prépare un festin avec la dépouille du Catagator,  un certain réconfort. 
 
-Toutefois, les évènements d'hier et d'aujourd'hui, vous conduisirent à organiser, sous les conseils avisé de votre Bravda, des tours de garde par deux. Sur les Trois tours de garde, vous vous firent attaqués lors du second tour pris par Crendon et Fior par 
+Toutefois, les évènements d'hier et d'aujourd'hui, vous conduisirent à organiser, sous les conseils avisé de votre Bravda adoré, des tours de garde par deux. Sur les trois tours de garde, vous vous firent attaqués lors du second tour pris par Crendon et Fior par une créature monstrueuse. 
 
 # Un Troll des Marais
 Pendant les rondes du nain Fior Lighbeard autour de la cabane, il vit deux mains énormes s'accrocher sur le ponton. Très surpris, Fior se mit à hurler pour prévenir, et se réfugia au fond de la cabane pour observer à quoi il avait à faire, tout en amenant avec lui Crendon complètement insconcient du danger.
 
-Une créature géante très musclée, verte, pleine de poils, sortie du marais pour se tenir debout sur le ponton.
+![[Pasted image 20240324212442.png]]
 
-![[Pasted image 20240310110730.png]]
+Une créature géante très musclée, verte, pleine de poils verts mouillés, sortit du marais pour se tenir debout sur le ponton.
+
+![[Pasted image 20240310110730.png| 500]]
 
 Le combat démarra petit à petit , avec deux combattants au premier round, et au bout du deuxième round, vous étiez 4 à taper sur ce monstre qui regénère de ses blessures, sauf après qu'Hurannan, en bondissant sur le monstre sur 10 m, lui ai fait goutté de son épée longue de feu.
 
 Fior jugeant que le combat avait duré trop longtemps, et que le Troll pouvait potentiellement s'enfuir en attrapant et noyant l'un des combattans en armure, utilisa sa carte "Hero Point" précieuse gardée depuis longtemps, et chargea seul ce Troll des Marais.
 
+![[Pasted image 20240324212023.png]]
+
 Il fit grâce à la carte, un critique avec sa hâche magique Giant Slayer, et fit plus de 31 pdv. ce qui acheva le troll des marais. 
+
+![[Pasted image 20240324212402.png]]
 
 Hurannan découpa la tête du troll comme trophée pour le ramener le lendemain au village.
 
 Le reste de la nuit fut tranquille et vous put bénéficier d'un repos long.
 
 # Retour au Village
-Le groupe revient victorieux après la mort du helsacat et du bog troll, et l'annonce de la mort de Helsacat auprès des pécheurs présents au ponton, s'affairant pour commencer leur journée de labeur, se propagea en 5 min.
+Le groupe revient victorieux après la mort du **Helsacat** et du **Bog Troll**, et l'annonce de la mort de Helsacat auprès des pêcheurs présents au ponton s'affairant pour commencer leur journée de labeur, se propagea en 5 min.
 
-La **maire Jolen Horster** arriva accompagner de son garde du corps nain, **Turdig "Hamhand" Silverstone**,  les félicitent et leur donne **rdv à 16h00 dans l'auberge SinkHole** pour payer une tournée générale en l'honneur des "pourfendeurs" du Helsacat et du Troll des marais.
-
+La **maire Jolen Horster** arriva accompagner de son garde du corps nain, **Turdig "Hamhand" Silverstone**,  et vous les félicitèrent et  vous donna **rdv à 16h00 dans l'auberge SinkHole** pour payer une tournée générale en l'honneur des "pourfendeurs" du Helsacat et du Troll des marais.
 
 | Maire Joleen Hoster                  | Turdig "Hamhand" Silverstone         |
 | ------------------------------------ | ------------------------------------ |
 | ![[Pasted image 20240310112502.png]] | ![[Pasted image 20240310112513.png]] |
-Vous allèrent chercher Drezen (plus déguisé) et Brandele à l'auberge, et vous demandèrent à Tanner de vous accompagner vers la cabane de Amancia la Sorcière du Marais. Hurranan informe Tanner de la mort de Tranden.
+Vous allèrent chercher Drezen (qui a enlevé son déguisement de vieille dame) et Brandele à l'auberge, et vous demandèrent à Tanner de vous accompagner vers la cabane de Amancia la Sorcière du Marais. 
+
+Hurranan informe Tanner de la mort de Tranden, et vous repartirent vers les Marais en direction de la cabane de la sorcière que Tranden connait bien.
 
 
 # La Cabane de la Sorcière du Marais
@@ -185,16 +208,17 @@ Vous débarquèrent à 9 (vous plus Tanner) avec vos deux barques.
 
 Vous rencontrèrent une personne haute en couleur, Amancia Tel'Quens.
 
+| Amancia Tel'Quens, Prêtresse de la secte de Avandu'u |
+| ---------------------------------------------------- |
+| ![[Pasted image 20240310114032.png \| 400]]          |
+|                                                      |
+|                                                      |
 **Description de Amancia:**
 Duna'hadrineri (mi-humaine, mi-du'na'hadrine), elle a une allure assez exotique. Vêtue de l'habit d'une prêtresse d'**Avandu'u**, elle est forte, sulfureuse, mystérieuse et très intelligente... mais elle n'est pas non plus du genre à se laisser marcher sur les pieds. 
 
-| Amancia Tel'Quens, Prêtresse de la secte de Avandu'u |
-| ---------------------------------------------------- |
-| ![[Pasted image 20240310114032.png \| 600]]          |
-|                                                      |
 Votre mage érudite Brandele vous apprirent les informations suivantes sur la secte des Avandu'u.
 
-# secte des **Avandu'u**
+# Secte des **Avandu'u**
 Amancia est une prêtresse d'une secte religieuse moins connue, connue sous le nom d'Avandu'u, qui vénère les concepts d'illumination et d'introspection (incarnés par la déesse Morvenea) et l'exploration des mystères et des secrets (le dieu Mystos), tout en accueillant la libération de la douleur qui vient avec la mort (le dieu Mal'uthuk). Cet ordre religieux est plus récent, puisqu'il n'existe que depuis le Malheur. La plupart des clercs de l'Avandu'u sont regardés avec méfiance, mais comme beaucoup d'entre eux ont des pouvoirs de divination et de voyance, ils sont tolérés dans les endroits où ils s'installent. L'Avandu'u n'a pas d'église officielle, mais les adeptes de cette religion ont souvent de petits sanctuaires dédiés aux trois dieux dans leurs maisons.
 
 # Dialogue avec Amancia
@@ -209,9 +233,10 @@ Ensuite, elle sera franche avec les PJ, et après s'être présentée, elle leur
 
 **"Je suis heureuse que vous n'ayez pas tué mon ami. Je m'appelle Amancia Tel'Quens. Quels sont vos noms ?"
 
-Ensuite elle vous raconta un peu sa vie : Amancia n'a que peu d'adeptes dans la région et se trouve ici principalement parce qu'elle est un peu ermite. Née d'une prêtresse duna'hadrine de Morvenea dans le Nuvea'dunadra qui fréquentait un prêtre de Mystos en visite, elle semblait destinée à l'Avandu'u dès sa naissance. En raison de la vénération de Mal'uthuk, sa mère ne tolérait pas qu'Amancia vive à Nuvea'dunadra et, par conséquent, Amancia est partie il y a une **vingtaine d'années pour trouver sa place ici, dans la tourbière**. 
+Ensuite, très à l'aise avec vous,  elle vous raconta un peu sa vie : Amancia n'a que peu d'adeptes dans la région et se trouve ici principalement parce qu'elle est un peu ermite. Née d'une prêtresse duna'hadrine de Morvenea dans le Nuvea'dunadra qui fréquentait un prêtre humain de Mystos en visite, elle semblait destinée à l'Avandu'u dès sa naissance. En raison de la vénération de Mal'uthuk, sa mère ne tolérait pas qu'Amancia vive à Nuvea'dunadra et, par conséquent, Amancia est partie il y a une **vingtaine d'années pour trouver sa place ici, dans la tourbière**. 
 
 Dans vos discussions avec elle, vous apprirent les infos suivantes:
+
 * "Certains habitants de la ville ont participé au raid contre votre peuple. Je les ai vus rapporter des marchandises volées, et au moins un qui a été fait prisonnier. Je ne suis pas sûr de qui ils étaient tous, mais je sais que les Bouchers étaient impliqués, ainsi que quelques Elfes Noirs... peut-être d'autres personnes aussi... Churr et les siens. Tous ceux qui ont aidé ont pris une part des chariots. Tous sont repartis avec des choses, certains avec beaucoup de choses. Je pense que le Père Kenlen a essayé d'aider mais il a autant peur des Bouchers que les autres.
 * "Il y a une souillure dans la ville... une pourriture et une fermentation... de l'intérieur jusqu'à la peau. Les choses ne sont pas toujours ce qu'elles semblent être, sous les ombres et les yeux embrumés. Méfiez-vous de ceux qui portent les masques de l'ancien - celui qui s'efforce encore de trouver sa place dans l'inoccupé. Cherchez les mensonges dans les vérités profondes où le bien est caché sous le mal et où la propreté est tachée par la maladie et l'immondice."
 - "Je pense que les brasseurs, les Fausses Flammes, sont impliqués dans de sombres affaires. Je pense qu'il y a un culte qui recherche un grand mal ici dans le marais. Et je pense que les Fausses Flammes le savent. Ou qu'elles en font partie ! Mais quoi qu'il en soit, je sais que les Gnomes sont impliqués dans les Bouchers. Si vous voulez savoir où se trouve l'enceinte du clan Butcher, il va falloir vous adresser à eux deux.
@@ -219,7 +244,14 @@ Dans vos discussions avec elle, vous apprirent les infos suivantes:
 * "Quelque chose de maléfique s'agite dans les profondeurs de la tourbière et apporte avec lui une pestilence qui a disparu du monde depuis longtemps. Elle déchire ceux qui portent le voile bleu, mais ne le détruit pas. Les chevaliers des profondeurs apportent des nouvelles et la mort. Suivez leurs paroles à vos risques et périls... mais suivez leurs paroles, vous le devez."
 * "Les Bouchers ne sont qu'un pion pour celle qui recherche les plus grandes ténèbres. Mais à leur tête se trouve un serpent à crocs qui cherche une fin des plus terribles. Il est inconnu d'eux, et c'est à lui que vous vous opposerez, même jusqu'à votre propre mort. Vous irez jusqu'aux profondeurs de l'abîme. Et c'est peut-être là que vous trouverez votre destinée".
 
-Amancia donne 4 anti dotes
+Ensuite, vous discutez avec la sorcière sur votre poursuite auprès des assassins elfes noirs de votre troupe. Après avoir évoqués le poison qui a été retrouvée de multiples fois sur le corps des membres de la troupe, mais aussi sur le malheureux Tranden, Amancia vous proposa des potions d'anti-poisons qu'elle a pu réaliser elle même ces derniers temps, car elle trouvait qu'il y avait beaucoup de passage d'elfes noirs ces derniers temps.
+
+
+Amancia vous donne 
+* 4 anti dotes de poison de "percechaussée" : https://www.aidedd.org/dnd/herbes.php?vf=percechaussees
+* 4 potions de protection contre le poison (niv2) : https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-poison (neutralize un effet de poison aussi, et protège pas mal).
+
+
 
 
 
