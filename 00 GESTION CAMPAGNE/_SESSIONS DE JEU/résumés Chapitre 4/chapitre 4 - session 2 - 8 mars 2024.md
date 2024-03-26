@@ -24,17 +24,17 @@ Vous vous regroupèrent donc à 6 pour vous répartir sur 2 barques louées aux 
 
 **Brandele** en profita pour passer du temps à l'auberge (2h et la nuit) pour étudier sa magie, et retranscrire plusieurs sorts sur son spell book. 
 
-![[Pasted image 20240310093601.png]]
+![[Pasted image 20240310093601.png|600]]
 
-Drezen de son côté, déguisé en vieille femme, mis en oeuvre son plan pendant la soirée dans l'auberge, et repéra plusieurs choses dans l'auberge, concernant les boissons (il devra vous en parler). Il réussit à placer une fausse lettre manuscrite sur le comptoir de l'auberge.
+Drezen de son côté, déguisé en vieille femme, mis en oeuvre son plan pendant la soirée dans l'auberge. Pour se fondre dans le décor, Drezen se mit à jouer aux cartes contre plusieurs villageois dont un dénommé "**Sondris Adrinn**", et se présenta sous le pseudonyme de "Hazdana br'y VEXXE". Elle gagna sa partie de carte, et offrit une tournée à toute l'auberge pour 10 PO (avec l'intention de faire diversion en saôulant les clients). Drezen repéra plusieurs choses dans l'auberge, concernant les boissons (il devra vous en parler). Il réussit à placer une fausse lettre manuscrite sur le comptoir de l'auberge.
 
-![[Pasted image 20240324205942.png]]
+![[Pasted image 20240324205942.png|600]]
 
 Ce que le groupe ignone: La nuit du 17th drezen mis l'oiseau mort ramassé à la fin du chapitre 3 dans la bouteille de vin réservés pour certains clients elfes noirs. Il met aussi des marques des butchers sur le panneau d'info et un symbole de Jinxx chez Otis.
 
 Drezen, déguisé en vieille femme et qui s'ennuyait un peu alla voir si certains membres du groupe était resté dans les chambres.
 
-![[Pasted image 20240310101656.png]]
+![[Pasted image 20240310101656.png|600]]
 
 # L'étang profond
 
@@ -92,16 +92,16 @@ Quand tout à coup, les occupants de la barque 2 furent attaqué par un monstre 
 
 "Heureusement", les occupants de la barque 2 ne furent pas surpris, malgré la brume, et virent arriver à pleine vitesse un énorme monstre foncer sur la barque.
 
-![[Pasted image 20240324210246.png]]
+![[Pasted image 20240324210246.png|600]]
 
 Hurranan et Corrinne firent tout deux au premier round deux formidables attaques. (l'un 25 pdv en utilisant ses "ultimes" de guerriers et son épée enflammée, et l'autre 22 en sneak attaque).
 
-![[Pasted image 20240324210120.png]]
+![[Pasted image 20240324210120.png | 600]]
 
-![[Pasted image 20240324210151.png]]
+![[Pasted image 20240324210151.png |600]]
 Glyn eu le temps de blesser un peu plus le Catagator, et Corrinee (qui n'était pas surprise alors qu'elle était sur le ponton), acheva le monstre d'un tir incroyablement ajusté. Monstre tué en 1 round, et qui n'a pas pu agir.
 
-![[Pasted image 20240324212528.png]]
+![[Pasted image 20240324212528.png|600]]
 
 	Vous échappérent de peu à la noyade en armure au fond du marais. (avertissement du DM). Il n'est pas prudent d'être sur des zones d'eau en armure lourde.
 
@@ -129,14 +129,14 @@ Vous arrivèrent par l'arrière de la cabane à pied.
 
 **Lorsque la porte bascule, l'odeur cuivrée du sang vous parvient aux narines. La scène qui s'offre à vous est effroyable. Des éclaboussures rouges parsèment chaque surface et la pièce est complètement désordonnée. Les quelques meubles sont renversés et cassés, et toutes sortes de petits objets jonchent le sol. Au fond de la cabane, entouré d'empreintes de pas ensanglantées, un corps gît au milieu d'une mare de sang séché - un poignard dépasse de sa poitrine. Le feu dans l'âtre tout proche s'est éteint. Une odeur de merde embaume la pièce, mais vous ne voyez pas d'où peut provenir cette odeur.
 
-![[Pasted image 20240310104156.png | 800]]
+![[Pasted image 20240310104156.png | 600]]
 
 Vous entreprirent de fouiller le corps et la cabane de Tranden:
 - Une section ouverte du sol où une cache secrète se trouve maintenant vide.
 - L'arme du crime est un **objet spécial 01 : la dague de Jinxx avec une lame ondulée et un visage de bouffon sur le pommeau**. Sa ressemblance avec une dague que Columbina (l'un des bouffons de la troupe) portait vous trouble.
 - Les cendres de nombreux papiers flottent dans la cheminée, comme si quelqu'un avait détruit des preuves. En fouillant les cendres vous trouvèrent les restes d'un journal, dont quelques pages n'ont été que partiellement brûlées.
 
-![[Pasted image 20240310104653.png]]
+![[Pasted image 20240310104653.png| 500]]
 
 - Dans un coin se trouve le bouchon d'une cruche. Gravé sur le dessus, le symbole de la "tête de cochon" est reconnu par le groupe comme étant le signe du clan des Butchers.
 
@@ -148,7 +148,7 @@ Pendant ce temps, Cydir fit le tour de la cabane pour surveiller. quand tout à 
 
 **Un grand "CAW" attire votre attention. En levant les yeux, vous apercevez un petit corbeau qui vole au-dessus de vous et qui se pose au niveau de la fenêtre de la cabane. Le corbeau regarde à l'intérieur de la cabane, et vous croisez son regard.
 
-![[Pasted image 20240324210806.png]]
+![[Pasted image 20240324210806.png|600]]
 
 Cydir chargea le corbeau pour tenter de l'intercepter, mais le corbeau, pas fou, s'envola à tire d'aile.
 
@@ -164,21 +164,21 @@ Toutefois, les évènements d'hier et d'aujourd'hui, vous conduisirent à organi
 # Un Troll des Marais
 Pendant les rondes du nain Fior Lighbeard autour de la cabane, il vit deux mains énormes s'accrocher sur le ponton. Très surpris, Fior se mit à hurler pour prévenir, et se réfugia au fond de la cabane pour observer à quoi il avait à faire, tout en amenant avec lui Crendon complètement insconcient du danger.
 
-![[Pasted image 20240324212442.png]]
+![[Pasted image 20240324212442.png|600]]
 
 Une créature géante très musclée, verte, pleine de poils verts mouillés, sortit du marais pour se tenir debout sur le ponton.
 
-![[Pasted image 20240310110730.png| 500]]
+![[Pasted image 20240310110730.png| 400]]
 
 Le combat démarra petit à petit , avec deux combattants au premier round, et au bout du deuxième round, vous étiez 4 à taper sur ce monstre qui regénère de ses blessures, sauf après qu'Hurannan, en bondissant sur le monstre sur 10 m, lui ai fait goutté de son épée longue de feu.
 
 Fior jugeant que le combat avait duré trop longtemps, et que le Troll pouvait potentiellement s'enfuir en attrapant et noyant l'un des combattans en armure, utilisa sa carte "Hero Point" précieuse gardée depuis longtemps, et chargea seul ce Troll des Marais.
 
-![[Pasted image 20240324212023.png]]
+![[Pasted image 20240324212023.png|600]]
 
 Il fit grâce à la carte, un critique avec sa hâche magique Giant Slayer, et fit plus de 31 pdv. ce qui acheva le troll des marais. 
 
-![[Pasted image 20240324212402.png]]
+![[Pasted image 20240324212402.png|600]]
 
 Hurannan découpa la tête du troll comme trophée pour le ramener le lendemain au village.
 
@@ -200,7 +200,7 @@ Hurranan informe Tanner de la mort de Tranden, et vous repartirent vers les Mara
 # La Cabane de la Sorcière du Marais
 **La petite cabane qui se trouve dans cette crique est ornée de nombreux carillons, cristaux et autres objets suspendus à l'avant-toit. Un chat gris foncé aux yeux jaunes vous regarde par la fenêtre.
 
-![[Pasted image 20240310113757.png | 800]]
+![[Pasted image 20240310113757.png | 600]]
 
 Vous débarquèrent à 9 (vous plus Tanner) avec vos deux barques.
 
@@ -210,9 +210,7 @@ Vous rencontrèrent une personne haute en couleur, Amancia Tel'Quens.
 
 | Amancia Tel'Quens, Prêtresse de la secte de Avandu'u |
 | ---------------------------------------------------- |
-| ![[Pasted image 20240310114032.png \| 400]]          |
-|                                                      |
-|                                                      |
+| ![[Pasted image 20240310114032.png \| 300]]          |
 **Description de Amancia:**
 Duna'hadrineri (mi-humaine, mi-du'na'hadrine), elle a une allure assez exotique. Vêtue de l'habit d'une prêtresse d'**Avandu'u**, elle est forte, sulfureuse, mystérieuse et très intelligente... mais elle n'est pas non plus du genre à se laisser marcher sur les pieds. 
 
@@ -227,7 +225,7 @@ Au début, elle est méfiante
 
 **"Je vous ai vus vous rendre chez Tranden avant qu'il ne soit tué. Qu'est-ce que vous aviez à faire avec mon collègue ?" 
 
-Le code secret que le parti a utilisé avec Tranden la convainqua, et Tanner qui est avec vous, il se porte garant pour vous. 
+Le code secret que le groupe a utilisé avec Tranden la convainqua, et Tanner qui est avec vous, se porta garant pour vous. 
 
 Ensuite, elle sera franche avec les PJ, et après s'être présentée, elle leur dira carrément ce qu'elle soupçonne. 
 

@@ -1,40 +1,46 @@
-### En début de partie
-### En début de partie
-* Références: [[Règles DM]], [[My Gooey Bad Table]]
+### En début de partie / références
+* Références: [[Règles DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
-* 
-
-### Référence Chapitre 4
-* [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés
+* [[NPC-BOGTOWN]]
+* * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés
 * [[Blackrot Bog and Environs]]: pour aider à décrire les marais, faunes et flores.
+### Musique d'ambiance spécifique
+* [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
+* [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
+### A PENSER
+* utiliser les deux voleurs assassins Butchers (et leur poisons stylés) pour corser l'aventure ou les combats, voir tuer un joueur qui le mérite (ou pas)
+* Little Doffer peut infiltrer et apparaitre sous forme d'enfant (ex dans l'auberge)
+* 
+* My Gooey Bad Table !
 
 ### Introduction
 
-Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
-
-Nous sommes le 18th du mois de Dezu'un de l'année SC 1212, et il est environ 11h00
+- Musique de Marais 
+- Nous sommes le 18th du mois de Dezu'un de l'année SC 1212, et il est environ 11h00
+- Reprise dans la cabane d'amancia [[The Bog Witch's Shack]]
 
 ### DM only - Rappel Timeline
 
-J1 à stuckshoe: done
-J2:
+J1 : arrivée à stuckshoe: done
+
+J2: rencontre avec Amancia, les joueurs ont bcp d'infos : sur la direction des butchers, sur les alchimistes gnomes, sur le père Garett, sur la maison abandonné et sa triste histoire.
+Il faut vraiment essayer de ralentir les joueurs, avec des rencontres balèzes qui les force à se réfugier ou se reposer.
+
 J3
+
 J4 : Festival
 
 Le groupe aura  **trois ou quatre jours à partir de son arrivée** pour libérer la ville des bouchers et arrêter les plans terrifiants du père Kenlen... en supposant qu'il veuille rencontrer les agents de Duna'hadrine (**c'est un voyage de quelques heures jusqu'à la Traversée du Roi, et ensuite un voyage d'une journée entière pour la traverser)**. 
 
 Bien relire [[02-Running the Town]] sur les découpages de journée type.
 
-### Musique d'ambiance spécifique
-
-* [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
-* [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
 
 
 # Dream ou visions à penser
 
 * première ou seconde nuit à Bog Town: [[chapter 4 - Muugda Dreams]] => Dream 1 (Gerald-Cydir)
 * première ou seconde nuit à Bog Town: [[chapter 4- Luck's Hand]] => Dream 1 (Denis-Hurranan)
+* troisième nuit à Bog Town : Dream 2 (Gérald-Cydir) : [[chapter 4 - Muugda Dreams]] cela rendra encore plus intense le jour suivant.
 * pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Freedom Light Dream]]
 
 

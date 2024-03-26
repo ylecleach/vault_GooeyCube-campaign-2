@@ -101,6 +101,9 @@ BOOSTER LEUR STATS, et ajouter profil Assassin
 
 ### Filthy Floyd
 
+Pour beaucoup, il est difficile de croire qu'il existe un homme sous les quantités considérables de boue et d'excréments qui s'accrochent à Floyd. En fait, la plupart se grattent la tête car il semble tout à fait impossible qu'une personne vivant dans une telle saleté n'ait pas déjà succombé à une horrible maladie. Le surnom de "Filthy Floyd" ne rend pas justice à cet homme atrocement vil.
+
+![[Pasted image 20240326070026.png| 200]]
 Niv 5 Roublard - Archétype Assassin.
 bonus maitrise : 3
 Initiative : +8 - jamais surpris, pas d'avantage pour les créatures que je vois.
@@ -147,8 +150,11 @@ spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 	- 1 poudre rouge du chapitre 2
 
 ### Little Doffer
+Son apparence et sa voix aiguë semblent indiquer que ce petit bonhomme bourru est un enfant livré à lui-même dans les bois. Son esprit mordant et son attitude désagréable semblent bien trop aigres et lassés du monde pour que quelqu'un les ait développés à un si jeune âge.
 
-	comme il est très petit et visage d'enfants, il se déguise souvent en enfant pour s'approcher des ses proies (repérage essentiellement)
+![[Pasted image 20240326070202.png| 200]]
+
+Custom: comme il est très petit et visage d'enfants, il se déguise souvent en enfant pour s'approcher des ses proies (repérage essentiellement)
 
 Niv 5 Roublard - Archétype Assassin.
 bonus maitrise : 3
