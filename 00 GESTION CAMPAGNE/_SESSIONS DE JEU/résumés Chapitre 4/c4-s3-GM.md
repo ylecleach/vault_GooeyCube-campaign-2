@@ -10,6 +10,13 @@
 ### A PENSER
 * utiliser les deux voleurs assassins Butchers (et leur poisons stylés) pour corser l'aventure ou les combats, voir tuer un joueur qui le mérite (ou pas)
 * Little Doffer peut infiltrer et apparaitre sous forme d'enfant (ex dans l'auberge)
+* Aléatoirement un peu partout
+	* Patrouille de Braenda Macintarn et Norden Barve (gang de Zefren Churr) - Evil
+	* Constable Flynn (Good), et son bras droit Andos Arzada (CN- corrompu, enclin Shiners/Butchers)
+	* les 3 pêcheurs Hurpnik, Zella et Tomm (drôle de couples à trois et bien bourée !)
+	* Ellis la commercante (culte de Kenlen)
+	* La Mairesse Joleen Horster et Turdig le nain amant et garde du corps. (en grippe avec les Butchers)
+
 * 
 * My Gooey Bad Table !
 
