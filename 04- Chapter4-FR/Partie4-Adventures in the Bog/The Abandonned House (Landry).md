@@ -1,4 +1,4 @@
-Read or paraphrase the following and show Handout 22: The Aban- doned House. There are also The Abandoned House Maps (06 & 06A) to use as the PCs explore. To keep up the tension you could reuse The Watchful Raven NSRE, with the bird in a tall tree nearby, but flying off before the party can get close enough to attack.
+Read or paraphrase the following and show Handout 22: The Abandoned House. There are also The Abandoned House Maps (06 & 06A) to use as the PCs explore. To keep up the tension you could reuse The Watchful Raven NSRE, with the bird in a tall tree nearby, but flying off before the party can get close enough to attack.
 
 [[X- NLE-02-The Watchful Raven (Town or Bog, recurring)]]: un corbeau espionne le groupe. (celui de Daddy Butcher)
 
@@ -25,7 +25,7 @@ Les cultistes n'ont pas trouvé cette porte, et lorsque le groupe la trouvera, l
 
 Une fois qu'ils ont ouvert la porte cachée, lisez ou paraphrasez ce qui suit.
 
-**L'ouverture de la porte dissimulée révèle un petit espace derrière le placard, apparemment non dérangé par ceux qui ont saccagé la maison. À l'intérieur, cinq bocaux à conserves sont posés sur des étagères, chacun contenant une pièce de monnaie différente. À côté d'eux se trouve une boîte en bois de bonne facture, tachée et finie.
+**L'ouverture de la porte dissimulée révèle un petit espace derrière le placard, apparemment non dérangé par ceux qui ont saccagé la maison. À l'intérieur, cinq bocaux à conserves sont posés sur des étagères, chacun contenant une pièce de monnaie différente. À côté d'eux se trouve une boîte en bois de bonne facture.
 
 Il y a 54 Copps, 52 Silvs, 23 Elles, 19 Golds et 7 Plats dans les pots. Si les PJ ouvrent la boîte, ils y trouveront une poupée tricotée à la main avec des yeux en boutons, une couverture rose, un médaillon avec l'image d'une jeune fille peinte à l'intérieur et "Ophélie" gravé au dos, et ce qui semble être un journal. 
 
@@ -68,12 +68,13 @@ Ces marcheurs en décomposition ont été laissés ici par le père Kenlen pour 
 ### AH5: The Attic (grenier)
 Lisez ou paraphrasez ce qui suit lorsque le groupe monte les marches.
 
-**Les escaliers montent au grenier. Il n'y a pas grand-chose à voir, si ce n'est une table au centre de la pièce, sur laquelle est posée une lanterne. Cinq chaises sont disposées autour de la table. Deux d'entre elles sont munies des " élévateurs " communément utilisés par les Halflings, Soflings, Gnomes et autres petites gens pour s'asseoir à des comptoirs plus hauts et autres. Une boîte en métal se trouve dans un coin.
+**Les escaliers montent au grenier. Il n'y a pas grand-chose à voir, si ce n'est une table au centre de la pièce, sur laquelle est posée une lanterne. Cinq chaises sont disposées autour de la table. Deux d'entre elles sont munies des réhausseurs communément utilisés par les Halflings, Soflings, Gnomes et autres petites gens pour s'asseoir à des comptoirs plus hauts et autres. Une boîte en métal se trouve dans un coin.
 
 Si les joueurs ouvrent cette boîte, montrez-leur le Document 24 : Les masques étranges. 
 8 masques étranges se trouvent dans la boite.
 
-Il y a aussi des gants de cuir magique de dextérité +2 ![[Pasted image 20240305234506.png]]
+Il y a aussi des gants de cuir magique de dextérité +2 
+![[Pasted image 20240305234506.png]]
 
 
 

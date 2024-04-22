@@ -9,9 +9,6 @@
 | Carole      | Credon Charn            | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
 | Roch        | Corrinee Ay'Yava        | Rogue          |                                         |
 
-voir rapidement si nouveau joueur pour reprendre le barde ou sinon transférer Luck's Hand 
-
-
 | Character        | PV MAX | Perception | AC  | bonus init          | Align   | niv 4 |
 | ---------------- | ------ | ---------- | --- | ------------------- | ------- | ----- |
 | Hurannan         | 54     | 2          | 20  | 4                   | NG      | yes   |

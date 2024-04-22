@@ -6,6 +6,8 @@ Feedback en fin de session :
 - rechercher de Borag prioritaire : on en saura plus en chapitre 6 !
 - bcp de quete secondaire en tiroir qui n'apporte rien à court-moyen terme.
 
+Sablier pour temps de parole et d'actions.
+
 ## From Yves to players
 
 Rappel pour l'ensemble des joueurs.

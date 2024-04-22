@@ -33,9 +33,9 @@ Bien relire [[02-Running the Town]] sur les découpages de journée type.
 
 # Dream ou visions à penser
 
-* première ou seconde nuit à Bog Town: [[chapter 4 - Muugda Dreams]] => Dream 1 (Gerald-Cydir)
-* première ou seconde nuit à Bog Town: [[chapter 4- Luck's Hand]] => Dream 1 (Denis-Hurranan)
-* pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Freedom Light Dream]]
+* première ou seconde nuit à Bog Town: [[chapter 4 - Dreams Muugda player]] => Dream 1 (Gerald-Cydir)
+* première ou seconde nuit à Bog Town: [[chapter 4- Dream Luck's Hand]] => Dream 1 (Denis-Hurranan)
+* pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Dream Freedom Light]]
 
 
 ## Town or Bog

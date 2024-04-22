@@ -9,7 +9,7 @@ Lisez ou paraphrasez ce qui suit pendant que le groupe s'approche de la zone et 
 **L'eau qui ondule sur le fond du bateau et l'ambiance de la tourbière sont les seuls bruits que vous entendez lorsque vous approchez de l'enceinte du Boucher. La brume s'étend autour de vous, donnant à la zone une impression sinistre. Puis le brouillard se dissipe, et devant vous se profile l'enceinte du Boucher. De votre point de vue, vous pouvez voir trois bâtiments délabrés, chacun situé sur l'une des trois îles étroitement espacées, avec un petit lagon au milieu. Des passerelles en bois forment des ponts entre les îles, où quelques bateaux sont amarrés dans la zone centrale. De la fumée s'échappe des cheminées des trois structures. Au-dessus de la puanteur de la tourbière, on perçoit une forte odeur d'alcool en fermentation. Soudain, au loin, le grognement strident d'un catagator semble vous annoncer le combat qui vous attend.
 Que faite vous ?
 
-Comme la plupart des combats, celui-ci peut prendre de nombreuses directions et donner lieu à toutes sortes d'événements intéressants si vous vous y prenez bien. Mais quelle que soit la façon dont vous le menez, nous vous encourageons à le rendre épique. Dans ce type de combat, nous nous efforçons souvent d'assurer une certaine intensité, avec une fin en apothéose. Nous vous recommandons donc d'utiliser les modificateurs de difficulté comme il se doit pour que les joueurs soient vraiment mis au défi. N'oubliez pas que si un membre du groupe meurt, Amancia utilisera son parchemin "Ressusciter les morts" pour le ramener à la vie.
+Comme la plupart des combats, celui-ci peut prendre de nombreuses directions et donner lieu à toutes sortes d'événements intéressants si vous vous y prenez bien. Mais quelle que soit la façon dont vous le menez, nous vous encourageons à le rendre épique. Dans ce type de combat, nous nous efforçons souvent d'assurer une certaine intensité, avec une fin en apothéose. Nous vous recommandons donc d'utiliser les modificateurs de difficulté comme il se doit pour que les joueurs soient vraiment mis au défi. N'oubliez pas que si un membre du groupe meurt, **Amancia utilisera son parchemin "Ressusciter les morts" pour le ramener à la vie.**
 
 De plus, si le groupe libère "le prisonnier" de la cellule du sous-sol, il pourra également rejoindre le combat aux côtés des PJ. 
 
@@ -19,7 +19,7 @@ Par ailleurs, si vous pensez que le groupe va marcher sur les Bouchers, vous pou
 
 Ou, si le groupe a déjà eu affaire à Churr, ajoutez simplement quelques cousins bouchers de votre cru.
 
-Vous trouverez ci-dessous les descriptions de l'intérieur des trois bâtiments. Chacun possède des caractéristiques de combat pour ceux qui y habitent, mais il n'y a pratiquement aucune chance que le groupe se batte "maison par maison" car, au premier signe de problème, les cris de ceux qui sont attaqués devraient faire venir la plupart des Bouchers de la région.
+Vous trouverez ci-dessous les descriptions de l'intérieur des trois bâtiments. Chacun possède des caractéristiques de combat pour ceux qui y habitent, mais il n'y a pratiquement aucune chance que le groupe se batte "maison par maison" car, au premier signe de problème, les cris de ceux qui sont attaqués devraient faire venir la plupart des Bouchers de la zone.
 
 # A. The Big House
 Lisez ou paraphrasez ce qui suit lorsque le groupe s'approche de la maison principale.
@@ -33,7 +33,7 @@ Lisez ou paraphrasez ce qui suit lorsque les PJ entrent, en adaptant le texte si
 
 **L'ouverture de la porte révèle un espace de vie assez spacieux et peu soigné. Une grande cheminée en pierre domine la pièce, avec plusieurs fauteuils à bascule devant elle et une pile de bûches fendues sur le côté. Un manteau de bois dépasse de la façade en pierre, sur lequel sont posés un certain nombre de bougies, trois pipes sur un petit support et une boîte de feuilles de pipe. Au centre de la pièce, derrière les fauteuils à bascule, se trouvent un canapé usé et deux fauteuils faciles, sous lesquels se trouve un tapis poussiéreux. Des taches sombres sur le tapis indiquent qu'au moins un des chiens de la maison n'est pas bien dressé. La légère odeur d'urine qui flotte dans l'air semble confirmer cette hypothèse. Sur une table d'appoint se trouvent un tonneau à main et cinq chopes en étain. Au fond de la pièce, une petite table et deux chaises ont été fabriquées à partir de fûts. Sur la table, un jeu de dames semble être en cours. Dans le mur nord se trouvent deux portes en bois qui mènent probablement à des chambres à coucher. Une troisième porte au fond semble mener à l'arrière de la maison, et une échelle grimpe jusqu'au grenier obscur situé au-dessus.
 
-C'est là que vivent **Emil "Big Daddy"** et **Ethel Butcher**, ainsi que Furdner et Mayra (Portraits 26, 27, 28 et 21). Emil et Ethel dorment dans l'une des chambres et Mayra dans l'autre. Furdner dort dans le grenier et pourrait bien sauter sur le groupe.
+C'est là que vivent **Emil "Big Daddy"** et **Ethel Butcher**, ainsi que **Furdner** et **Mayra** (Portraits 26, 27, 28 et 21). Emil et Ethel dorment dans l'une des chambres et Mayra dans l'autre. ==Furdner dort dans le grenier== et pourrait bien sauter sur le groupe.
 
 Note : A moins que le groupe n'ait pris des mesures extraordinaires, les Bouchers sont probablement prêts à les accueillir. **Drunella le chien** est dans la fleur de l'âge et se fera un plaisir de croquer tout aventurier entreprenant qui essaierait d'entrer dans la maison. De plus, si elle entend quelque chose de "fâcheux" à l'extérieur, elle se met à hurler. Et puis, **il y a ce maudit corbeau !**
 
@@ -66,7 +66,7 @@ Lisez ou paraphrasez ce qui suit lorsque les PJ entrent dans la pièce.
 
 C'est la chambre de Mayra. Les portes s'ouvrent sur une salle de bain commune et un placard. Le bougeoir en argent vaut 3 pièces d'or pour le bon acheteur, et un petit pot de 43 Copps et 12 Silvs se trouve dans le tiroir de la table de nuit - avec une brosse à cheveux, un rasoir, du savon de rasage et un flacon de parfum à la rose. 
 
-L'armoire contient quelques robes, des bas, des sous-vêtements et deux paires de chaussures. En cherchant bien, les joueurs trouveront un petit coffre d'espoir caché sous l'armoire : test de Sagesse (Perception) DC 13 pour remarquer qu'il y a un panneau avant mal fixé au fond de l'armoire. A l'intérieur de la petite boîte en bois se trouvent : un certain nombre de lettres, une rose pressée, une jarretière bleue, et 6 Plats dans une petite sacoche en cuir. 
+L'armoire contient quelques robes, des bas, des sous-vêtements et deux paires de chaussures. En cherchant bien, les joueurs trouveront un petit coffre  caché sous l'armoire : test de Sagesse (Perception) DC 13 pour remarquer qu'il y a un panneau avant mal fixé au fond de l'armoire. A l'intérieur de la petite boîte en bois se trouvent : un certain nombre de lettres, une rose pressée, une jarretière bleue, et 6 Plats dans une petite sacoche en cuir. 
 
 Après inspection, les lettres sont des lettres d'amour d'une personne anonyme. Il s'agit principalement de poésie et de prose ringarde, mais quelque chose dans l'une d'entre elles attire votre attention. À ce stade, remettez aux joueurs le **Document 28 : La redoutable lettre d'amour**. Cette lettre est celle du père Kenlen et, si vous avez bien travaillé votre magie, c'est peut-être à ce moment-là que le groupe découvre enfin que c'est un méchant.
 
@@ -111,11 +111,75 @@ Sur la cheminée se trouvent un jeu de dés dans une boîte en fer, un jeu de ha
 
 Dans la cuisine, plusieurs placards sont remplis de vaisselle, de casseroles, d'argenterie et d'autres ustensiles de cuisine. Une trappe mène à un petit garde-manger aux murs de pierre, situé sous la cuisine proprement dite. On y trouve un crocodile dépecé suspendu, plusieurs tonneaux remplis de viande salée, de haricots secs, de pommes de terre d'hiver et deux petits tonneaux de bière.
 
-Selon les circonstances, on peut y trouver Jedidibuh Butcher (Portrait 31) et sa grenouille crocodile, affectueusement appelée Craphead. Le crocofrog comprend des ordres simples comme "attaquer" et "rester", et est très dévoué à Jedidibuh. 
+Selon les circonstances, on peut y trouver Jedidibuh Butcher (Portrait 31) et sa grenouille crocodile, affectueusement appelée **Craphead**. Le crocofrog comprend des ordres simples comme "attaquer" et "rester", et est très dévoué à Jedidibuh. 
 
-Si le groupe parvient à entrer ici sans se faire repérer, la grenouille crocodile sera derrière le rideau et pourra surprendre le groupe. Comme pour toutes les autres rencontres dans l'enceinte, vous devrez ajuster en fonction des actions du groupe. Note : Si Filthy Floyd et/ou Little Doofer ont survécu au chapitre 2, ils sont peut-être ici. Si c'est le cas, vérifiez leurs statistiques dans le chapitre 2 : Le plus sale des esprits. Nous espérons vraiment qu'ils sont ici, car le groupe veut probablement en avoir un morceau (en supposant qu'ils se soient échappés). Si ce n'est pas le cas, et que le groupe s'amuse trop, ajoutez quelques Bouchers supplémentaires en utilisant les statistiques.
+Si le groupe parvient à entrer ici sans se faire repérer, la grenouille crocodile sera derrière le rideau et pourra surprendre le groupe. Comme pour toutes les autres rencontres dans l'enceinte, vous devrez ajuster en fonction des actions du groupe. 
+
+Note : Si **Filthy Floyd et/ou Little Doofer** ont survécu au chapitre 2, ils sont peut-être ici. Si c'est le cas, vérifiez leurs statistiques dans le chapitre 2 : Le plus sale des esprits. Nous espérons vraiment qu'ils sont ici, car le groupe veut probablement en avoir un morceau (en supposant qu'ils se soient échappés). Si ce n'est pas le cas, et que le groupe s'amuse trop, ajoutez quelques Bouchers supplémentaires en utilisant les statistiques.
 
 >**The South Shack Encounter
 >See Battle Stats in GM Reference Book, page 35.
 
 Note: Les stats du crocofrogs sont décrites page 35.
+
+### The Basement
+
+Lisez ou paraphrasez ce qui suit lorsque les PJ descendent les escaliers. Montrer la carte 11A : Le sous-sol de la cabane sud.
+
+Les escaliers descendent vers un sous-sol aux murs de pierre. Un certain nombre de casiers et de boîtes sont entreposés ici, et il y a deux petites cellules avec des portes à barreaux. L'une des cellules est vide, mais dans l'autre, vous pouvez voir un corps, recouvert d'une couverture sale, allongé sur un petit lit de camp contre le mur.
+
+**Important** : Alors... qui est allongé sur le lit de camp ? Cela dépend un peu de vous et de vos joueurs. 
+
+C'est **Theros Vegla**, fils de Borag, Bravda disparu. **_Medium Humanoid, Male Half-Orc/Ogre-Touched Barbarian_**
+il a été enlevé par les drows (avec les enfants), avec son frère Jannig et sa soeur Cassarine Vegla. Il ne se souvient de plus grand chose.
+
+![[Pasted image 20240329201649.png| 300]]
+
+Il peut s'agir d'un pré-générique de Frenta du chapitre 1 si vous voulez qu'un PNJ aide le groupe ou si vous avez perdu un PJ et que vous avez besoin d'en faire venir un nouveau. 
+
+Dans ce cas, n'importe quel pré-générique du chapitre 1 que le joueur souhaiterait jouer conviendrait (ou même un Frenta de son cru). 
+
+Il peut aussi s'agir d'un autre personnage de votre choix qui n'est pas un "PNJ de la troupe principale". (Important : il ne doit évidemment pas s'agir d'une des victimes que les PJ ont remarquées après l'assaut, ni d'un danseur de sorts, ni d'un Yunsta, et certainement pas de Zani le bouffon). 
+
+Quel que soit votre choix, **ils sont drogués au laudanum mélangé à du Boggy Hooch**, et il faudra un peu de temps pour les "dégriser" et obtenir leur histoire. Ils ont été drogués en permanence depuis leur capture, mais ils savent que les Bouchers les gardaient prisonniers et ne permettaient pas au père Kenlen de les utiliser pour le sacrifice rituel prévu au festival de la paix. 
+
+Apparemment, les Bouchers savaient que Kenlen préparait quelque chose, et avaient leur propre plan pour s'occuper de lui au moment où le rituel commencerait. Le prisonnier a entendu ces choses et sait que Kenlen est probablement de mèche avec le culte de Noxica et que "quelque chose de terrible" est prévu pour la Fête de la Paix.
+
+Si les choses se sont déroulées à peu près selon la chronologie des événements, la Fête de la Paix devrait commencer dans l'après-midi du jour suivant l'assaut du groupe sur l'enceinte des Bouchers. Si ce n'est pas le cas, vous devrez faire quelques ajustements. Voir l'épilogue de l'enceinte du Boucher ci-dessous.
+
+### D - The Lagoon.
+
+Lisez ou paraphrasez ce qui suit lorsque le groupe s'approche de la lagune. 
+
+**Au centre des trois îles se trouve une petite lagune où les Butchers amarrent leurs bateaux. Vous pouvez voir que l'eau ici semble plus profonde, à en juger par sa couleur. Il y a du mouvement sous la surface... des ombres de créatures plutôt grandes qui nagent.
+
+Le lagon a trois catagators qui font de cet endroit leur maison.Les Butchers les nourrissent pour les garder et ils "pourraient" attaquer n'importe quel non-Butcher sur l'île selon la façon dont vous voulez les jouer (et la dureté de votre groupe). Ils ne sont pas apprivoisés comme Craphead, cependant. Cela dit, vous pouvez les jouer comme des animaux de compagnie si vous voulez renforcer la défense de l'enceinte, ou les laisser être plus passifs si vous craignez de submerger le groupe. Cependant, il ne fait aucun doute que si quelqu'un saute (ou tombe) dans le lagon, les catagators penseront que c'est l'heure du déjeuner !
+
+>**_Three Catagators_
+>_See Battle Stats in GM Reference Book, page 36._
+
+### Butcher Compound Epilogue
+
+Merveilleux ! Nous espérons vraiment que votre groupe a été victorieux dans ce combat et qu'il s'agissait d'un moment de revanche épique pour vos joueurs. En vérité, ils méritaient bien un peu de revanche pour tout ce qui leur est arrivé. C'était sans doute doublement satisfaisant si Floyd et/ou Doofer étaient là. 
+
+Cela dit, peut-être qu'un ou deux Bouchers se sont encore échappés... et c'est très bien ainsi, car leurs rôles ne sont pas encore joués. Passons maintenant à la phase suivante. En supposant que le groupe soit venu ici après avoir interrogé les Falsenflamms et que le festival de la paix soit prévu pour le lendemain, nous sommes sur la bonne voie. 
+
+Mais... comme nous n'avons pas fixé de date précise pour le Festival de la paix, si nous nous trompons un peu, ce n'est pas grave. Vous pouvez ajuster le moment où la cérémonie de la Fête de la Paix commencera en fonction des actions du groupe et du moment de leur arrivée à l'enceinte du Boucher. Cela suppose bien sûr que vous avez pu les empêcher de découvrir certaines choses sous la chapelle jusqu'à présent et que le groupe n'a pas encore rencontré le Père Kenlen et ses sbires. Une fois que le groupe a parlé au "prisonnier" (et éventuellement interrogé un ou deux bouchers), il devrait apprendre que le Père Kenlen a des intentions néfastes pour la ville lors du Festival de la Paix, et qu'il va causer la mort de plus d'une personne à la chapelle. Votre décision devrait probablement être basée sur l'état de santé du groupe, car le final du Festival de la Paix sera un combat tout aussi difficile que celui de l'Enceinte du Boucher (voir la section ci-dessous et Le Finale Pas Si Paisible NSRE dans la Référence du Meneur de Jeu).
+
+### _The Not-So-Peaceful Finale_
+
+Sachez que même si La Fin Pas Si Paisible est présentée comme une NSRE (voir la Référence du MJ), nous n'impliquons pas du tout que vous ne devriez pas jouer cette dernière partie de l'aventure de Bog Town (qui est aussi l'étape la plus critique). En fait, nous voulons absolument que vous la fassiez, à moins que quelque chose ne l'empêche de se dérouler (comme le père Kenlen tué plus tôt par le groupe ou toute autre interférence substantielle). Cela dit, comme cette fin comporte un certain degré d'ambiguïté situationnelle et temporelle, il nous a semblé important de vous laisser la possibilité de l'inclure, de la modifier radicalement ou même de ne pas l'inclure, en fonction de ce qui s'est passé jusqu'à présent dans le chapitre.
+
+L'objectif est de faire arriver la fête au moment où le Festival de la Paix a commencé et où le Père Kenlen a fait boire à certains habitants du village du "Punch de la Paix"... qui est en fait une substance qui altère l'esprit et qui plonge ceux qui la boivent dans une léthargie et un état d'ébriété (et permet à Gloozinbile, l'Avatar de la Pourriture, de les consommer facilement).
+
+Au festival, il y aura à boire et à manger, Derpid jouera du violon et Otis du banjo. Certains habitants de la ville viennent d'arriver, tandis que d'autres n'ont pas encore bu. L'objectif est d'organiser une petite bataille amusante avec l'arrivée de l'Avatar pourri et la confrontation du groupe avec Kenlen, les serviteurs de Kenlen, les marcheurs pourris de Kenlen et, bien sûr, le gros et méchant blob en décomposition qu'est Gloozinbile. Les joueurs risquent donc de se sentir un peu intimidés face à une force aussi redoutable.
+
+Cela dit, nous espérons que vous pourrez faire en sorte que certains habitants de la ville s'impliquent pour aider le groupe et que le combat soit un fullondybrook, les joueurs pouvant même (peut-être) prendre le contrôle d'un PNJ chacun dans le cadre de la bataille. Notez que chacun des PNJ susceptibles d'aider le groupe est "court-circuité" dans la section NSRE "Finale pas si paisible", en même temps que tous les méchants potentiels. Melba y figure même, car il serait très amusant de la voir lancer son premier sort de missile magique (ou quelque chose d'encore plus puissant) au bon moment pour sauver l'un des PJ.
+
+Otis, Hansoo l'Oiseleur, Derpid, Sundra, et même Amancia, qui aura deviné le terrible complot et arrivera probablement à peu près en même temps que les PJ (avec Feansal, Shurna, et tous les autres que vous voudrez ajouter), pourraient être des aides précieuses pour le groupe, mais gardez à l'esprit que la plupart des habitants auront trop peur (ou seront trop sous l'influence du coup de poing de la paix) pour aider.
+
+S'ils sont encore en vie, les Falsenflamms, Ellis et l'adjoint Arzada seront tous là pour aider Kenlen (Arzada aura assommé le statique et l'aura enfermé dans l'une des cellules de la prison). Vous pouvez même ajouter quelques méchants "non encore nommés" au cas où les jeunes penseraient que la bataille pourrait être trop facile pour les PJ. D'un autre côté, vous pouvez également ajouter quelques habitants supplémentaires si vous pensez que les PJ sont en difficulté. Les pages consacrées à la Finale pas si paisible dans la Référence MGM offrent quelques options pour vous permettre de jouer avec.
+
+Nous espérons vraiment qu'il s'agira d'une bataille grandiose et spectaculaire, avec toutes sortes de possibilités pour la fête.
+
+

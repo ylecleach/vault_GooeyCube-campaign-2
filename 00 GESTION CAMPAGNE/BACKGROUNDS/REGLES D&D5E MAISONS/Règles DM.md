@@ -5,6 +5,15 @@ le joueur choisi parmi :
 - ou 2 dés , on retient le meilleur - pas de minima.
 - spécial : le joueur peut ajouter +1 pv par carte gooey reward non encore utilisé. utiliser ce +1 pv dépense la carte qui est remise au DM. Le +1 pv peut permettre de dépasser le maximum du dé de vie. ex: 1d10 => 10 + 2 pv = 12 pv max en plus.
 
+**Référence Règles 
+
+- [x] [règle sur le poison](https://www.nerdsandscoundrels.com/poison-5e/)
+- [x] [règle de surprise](https://www.dicedragons.co.uk/blogs/tabletop-tips/how-surprise-works-dnd-5e#:~:text=Any%20character%20or%20monster%20that,other%20members%20aren't.%E2%80%9D)
+- [x] [règle nage et dans l'eau](https://olddungeonmaster.com/2022/04/02/dd-5e-above-and-below-the-waves/#:~:text=You%20must%20make%20a%20DC,minutes%20if%20wearing%20heavy%20armor.&text=You%20can%20hold%20your%20breath,to%201%20%2B%20your%20Constitution%20modifier.)
+- [x] [Vision and Light](https://www.dandwiki.com/wiki/5e_SRD:Vision_and_Light) : dim light: disadvantage on perception checks (-5 for passive checks)
+* [x] [Weather Events](https://www.5esrd.com/gamemastering/the-environment/weather-events/)
+
+
 ### Règles de Saut
 
 1. **Distance de Saut de Base** : Un personnage peut sauter en longueur jusqu'à sa valeur de Force en pieds s'il a une course d'au moins 10 pieds avant le saut. La distance de saut en hauteur est la moitié de cette distance en longueur.

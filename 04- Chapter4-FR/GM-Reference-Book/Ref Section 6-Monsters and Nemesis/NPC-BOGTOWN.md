@@ -1,6 +1,6 @@
 
 ### Herbert Tou'gar, 
-propriétaire de l'Evier (Portrait 02) : Herbert est l'équivalent d'un combattant plutôt coriace, adepte du gourdin, de la masse et de l'arbalète. Il n'est pas méchant mais n'est pas non plus réticent à "faire un marché" qui soit "dans le gris" pour ainsi dire. Il n'est pas non plus dupe et ne veut pas finir mort comme Doc Venton (voir ci-dessous Braenda Macintarn et Norden Barve pour plus de détails). Il soupçonne les bouchers d'avoir volé les marchandises qu'ils ont apportées en ville la veille et garde le silence sur le tonneau de bière épicée (il dira qu'il la fabrique lui-même, si on le lui demande). Il porte une bague avec un rubis rouge portant un dispositif de crâne en fusion subtilement gravé à la surface de la gemme : DC 20 Sagesse (Perception) pour remarquer la marque. Les Elfes Noirs lui ont offert cet anneau en échange de : 1) Garder le silence sur leurs mouvements ; 2) Enregistrer les événements inhabituels dans la ville - en particulier l'arrivée d'étrangers ; et 3) Leur faire part des rumeurs qu'il entend.
+propriétaire de l'auberge Sinkhole (Portrait 02) : Herbert est l'équivalent d'un combattant plutôt coriace, adepte du gourdin, de la masse et de l'arbalète. Il n'est pas méchant mais n'est pas non plus réticent à "faire un marché" qui soit "dans le gris" pour ainsi dire. Il n'est pas non plus dupe et ne veut pas finir mort comme Doc Venton (voir ci-dessous Braenda Macintarn et Norden Barve pour plus de détails). Il soupçonne les bouchers d'avoir volé les marchandises qu'ils ont apportées en ville la veille et garde le silence sur le tonneau de bière épicée (il dira qu'il la fabrique lui-même, si on le lui demande). Il porte une bague avec un rubis rouge portant un dispositif de crâne en fusion subtilement gravé à la surface de la gemme : DC 20 Sagesse (Perception) pour remarquer la marque. Les Elfes Noirs lui ont offert cet anneau en échange de : 1) Garder le silence sur leurs mouvements ; 2) Enregistrer les événements inhabituels dans la ville - en particulier l'arrivée d'étrangers ; et 3) Leur faire part des rumeurs qu'il entend.
 Herbert est une bonne source d'information, sauf sur les Elfes Noirs qui visitent la ville. Note : Si on l'interroge sur les Bouchers, il sera un peu prudent dans ce qu'il dira, mais pas totalement évasif. Il ne sait pas où vivent les Bouchers, mais il sait qu'ils viennent à l'église de temps en temps et qu'ils ont tendance à rester entre eux. Il aime leur "Boggy Hooch" et le sert fièrement dans sa taverne. 
 
 Important : si Doofer, Filthy Frank ou n'importe quel autre boucher a survécu à la rencontre avec le groupe au chapitre 2, ils sont venus en ville pour rejoindre les bouchers ici (à l'exception de Wilbur, qui  irait à Nevermore). Ce fait vous donne l'occasion de lancer une grande rumeur "PEMO" (Piss-Em-Off) sur le groupe. Ainsi... en fonction des survivants, Herbert pourrait dire quelque chose comme : **"Hé... vous n'êtes pas les premiers à avoir posé des questions sur les Butchers ces derniers temps. Oui, en effet. Il n'y a pas si longtemps, quelques personnes sont venues en ville pour poser des questions sur eux.  L'un d'eux était vraiment petit et avait des cheveux en pétard. L'autre sentait le sang et j'ai dû le virer du bar. Ils ont dit qu'ils avaient une sorte de relation."
@@ -82,6 +82,8 @@ Malgré ces bizarreries, ses parents, Emil et Ethel, ainsi que sa sœur Mayra, s
 ### Dresin Sondra'salna
 [[NLE-09-Vengeance (town or bog, unique)-NPC-Dresin]]
 Cet individu est en fait un Verdea'hadrineri (un demi-elfe d'ascendance elfique sylvestre). Son apparence est le résultat d'une touche d'ombre et de sang prononcée. Il s'appelle Dresin Sondra'salna et vit dans une ferme isolée au fin fond de la tourbière. Il ne vient qu'occasionnellement à Stuckshoe pour se ravitailler, et n'aime pas particulièrement les gens qui y vivent. Ce sentiment est quelque peu partagé, mais il est là depuis assez longtemps pour être accepté, et son commerce de peaux de qualité et de réactifs magiques provenant des profondeurs de la tourbière est respecté. Il n'a aucun lien avec les elfes noirs et n'a même jamais été en ville en même temps qu'eux. Il peut cependant affirmer que les Algides, les Gnolls et d'autres groupes dangereux se déplacent plus fréquemment dans la tourbière depuis quelques mois. Il ne sera pas particulièrement amical lorsqu'il transmettra les informations qu'il connaît, mais il sera franc et honnête dans l'espoir de convaincre le groupe d'aller de l'avant et de le laisser tranquille. Il s'agit d'un autre PNJ que vous pouvez utiliser pour enrichir l'histoire si vous le souhaitez.
+### Sundra Strikenston (portrait 17)
+Enfin, la naine **Sundra Strikenston** (Portrait 17), dure et courageuse, vit au bout de la rangée et possède une petite forge derrière sa maison. Si le groupe s'oppose aux Bouchers, elle leur fournira probablement des informations et, si elle en a l'occasion, pourra même donner **un coup de marteau sur quelques têtes de Bouchers.** 
 
 ### Burzle et Cletus Butcher : 
 Burzle et Cletus sont chargés de gérer les alambics prolifiques du Boucher dans l'enceinte près de Stuckshoe. Ils ont des décennies d'expérience à eux deux, ayant commencé dans cet art alors qu'ils n'étaient que de jeunes garçons. Ils savent comment produire un vin qui se vendrait pour des dizaines d'or à Darkenhaven, ou au contraire une liqueur si forte qu'elle pourrait tuer un Catagator. Peu d'autres intérêts viennent perturber les activités de ce couple. Conscients de l'importance de leur travail pour l'ensemble du clan, ils n'ont pas peur d'échantillonner lourdement leurs propres produits ou d'exiger de leurs proches une feuille de pipe de qualité lorsqu'ils se rendent en ville.
@@ -133,10 +135,10 @@ spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 - Expertise , argot des voleurs, maitrise matériel d'empoisonneur et de déguisement
 - attaque sournoise : +3d6 si avantagé (avec arme de finess ou distance) ou si la cible se trouve à 1,5m d'un autre ennemi
 - Ruse : Dash, Disengage or Hide as a Bonus action
-- Vigilant (don 4eme) : +5 init  , jamais surpris
+- ==Vigilant (don 4eme) : +5 init  , jamais surpris==
 - Assassinat: 
 	- avantage vs creature n'ayant pas joué un tour dans le combat.
-	- si créature surprise : le coup devient une critique (et donc )
+	- si créature surprise : le coup devient une critique (et donc les bonus de sneak sont doublés )
 - Esquive instinctive (réaction pour réduire 1/2 dégats vs une attaque réussit contre lui)
 
 **Equipements**
@@ -152,9 +154,11 @@ spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 ### Little Doffer
 Son apparence et sa voix aiguë semblent indiquer que ce petit bonhomme bourru est un enfant livré à lui-même dans les bois. Son esprit mordant et son attitude désagréable semblent bien trop aigres et lassés du monde pour que quelqu'un les ait développés à un si jeune âge.
 
-![[Pasted image 20240326070202.png| 200]]
+![[Pasted image 20240326070202.png | 300]]
 
-Custom: comme il est très petit et visage d'enfants, il se déguise souvent en enfant pour s'approcher des ses proies (repérage essentiellement)
+Custom: comme il est très petit et visage d'enfants, il se déguise souvent en enfant pour s'approcher des ses proies (repérage essentiellement).
+
+**Ennemi juré**: le barde Crendon car c'est a cause de lui que sa famille a été massacrée à moitié. Ca sera sa première cible.
 
 Niv 5 Roublard - Archétype Assassin.
 bonus maitrise : 3
@@ -164,8 +168,8 @@ AC=20 (**studded leather noire +1** (+3), haste (+2), dex (+4), ring (+1)
 PV=37
 STR 12 (+1), DEX 18 (+4), CON 12 (+1), INT 12 (+1), SAG 14 (+2), CHA 16 (+3)
 Weapons : 
-- [Dagger of Adrenaline](https://www.dandwiki.com/wiki/Dagger_of_Adrenaline_(5e_Equipment))  +7 to hit - 1d6 +4 + (3d6)  ![[Pasted image 20240307225345.png]]
-- si coup critique:  2d4 +4 + 6d6
+- [Dagger of Adrenaline (rare)](https://www.dandwiki.com/wiki/Dagger_of_Adrenaline_(5e_Equipment))  +7 to hit - 1d6 +4 + (3d6)  ![[Pasted image 20240307225345.png]]
+	- ==si coup critique:  2d4 +4 + 6d6 + dagger of Adrenaline + poisons==
 poisons
 	- [basilic eye](https://www.aidedd.org/dnd/poisons.php?vo=basilisk-eye) DC 12 or petrified tempor. save each turn to end effect.
 	- [giant spider venom](https://www.aidedd.org/dnd/poisons.php?vo=giant-spider-venom) : DC 11 or 2d8 or half
@@ -174,11 +178,10 @@ poisons
 spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 
 **Skills**
-	Discrétion (expertise):  +9 (3x2 + 3)
+	Discrétion (expertise):  +10 (3x2 + 4)
 	Perception (expertise)  +9  (3x2 + 3) 
 	Perception = +3 
 	Acrobatie = +6 = (3 +3)
-	Stench : within 5' DC 12 CON or poisoned until start of the next turn of target. is successful, immune to effect for one hour
 
 **Skills Voleur / Assassin**
 - Expertise , argot des voleurs, maitrise matériel d'empoisonneur et de déguisement

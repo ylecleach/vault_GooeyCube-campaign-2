@@ -1,4 +1,4 @@
-### Dream #1 - Avalé par le Marais
+### X Dream #1 - Avalé par le Marais
 
 Le Muugda sera un peu en retrait parmi les visions de ce chapitre, du moins une fois que le groupe sera arrivé au domaine d'Aeverlund, car le personnage à l'écoute sera naturellement au centre de l'attention dans un lieu aussi hanté. Cependant, **pendant qu'il est à Stuckshoe et sur la route**, le Muugda devrait avoir l'occasion de développer son rôle unique. Il devrait recevoir ce rêve pendant l'une des nuits passées à Stuckshoe et dans les environs, mais cela pourrait fonctionner si le groupe passait également une nuit sur la route.
 

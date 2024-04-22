@@ -166,3 +166,18 @@ Je me doutais de la fin du chapitre 3!
 Encore merci pour le travail que tu fais pour nous et nous rendre la campagne cool à jouer, avec les modifications que tu apportes pour rendre les parties fluides et agréables.
 
 DES BISOUS.
+
+# Quete de Rédemption d'Aeliéra
+
+Rêve ou Vision:
+
+Tu flottes dans les airs dans les environs d'une ville cotière que tu reconnais bien, et il fait grand soleil, tel un albatros au large de la côte de Nevermore, au milieu de la baie de Cribb, tu peux voir une statue d'albâtre représentant une belle femme s'élevant d'un îlot rocheux. La statue est assez haute, peut-être 70 pieds ou plus, et peut être vue par les navires qui naviguent dans la baie. 
+
+"Trouve-moi, mon héros, et protecteur-paladin, et Prie toute la nuit, Trouve mes fleurs d'étoiles, Prends-en trois, et Fabrique une potion pour lever la malédiction qui pèse sur toi, sur nous"
+
+**The Maiden - La Vierge**
+par Benn Williams
+
+Contexte : **Au large de la côte de Nevermore**, au milieu de la baie de Cribb, on peut voir une statue d'albâtre représentant une belle femme s'élevant d'un îlot rocheux. La statue est assez haute, peut-être 70 pieds ou plus, et peut être vue par les navires qui naviguent dans la baie. Ceux qui grimpent jusqu'à la statue trouvent le socle entouré de fleurs blanches odorantes qui ont la forme d'une étoile. La statue est une ancienne représentation d'Aeliera, la déesse de la miséricorde. Les fleurs qui poussent sur l'île sont appelées "fleurs d'étoiles" et sont porteuses d'une imprégnation magique que l'on dit provenir de la main d'Aeliera elle-même. Bien que les fleurs ne soient pas confinées à cet endroit et qu'elles poussent ailleurs, elles sont assez rares et, à ce titre, très prisées. L'île et les fleurs étoilées sont surveillées par un certain nombre d'esprits des eaux qui ont été fournis par ***Aquera*** pour aider sa déesse sœur à protéger l'endroit contre ceux qui voudraient lui faire du mal - ou qui chercheraient à prendre plus que leur "juste part" des fleurs magiques. 
+
+Bien qu'Aeliera soit miséricordieuse, elle est consciente de la rareté de ces fleurs. C'est pourquoi elle n'autorise qu'un voyageur à cueillir trois fleurs d'étoiles, et pas plus de dix par groupe visitant l'île. Il est dit qu'une fleur d'étoile peut être utilisée pour remplacer un ingrédient dans la fabrication d'une potion bénéfique (soigner, guérir, enlever les malédictions). Il est également dit que les personnes maudites peuvent passer une nuit sur l'île lorsque Luneós brille pleinement, en priant à la base. Lorsque le Sul se lève, le personnage peut faire un test de Constitution avec avantage. Une réussite signifie que la malédiction est levée, un échec signifie que la déesse n'a pas trouvé le personnage digne de l'être. Une prière de ce type ne peut être faite qu'une fois par an. Notez que les fleurs étoilées sont également récoltées par les Fay'aree et les Elvishfolk, qui les trouvent dans les forêts du Wesverd, et qu'ils en tirent une boisson délicieuse appelée Starflower Ale. Cette boisson est à la fois rafraîchissante et puissante, et ne doit pas être consommée sans précaution.

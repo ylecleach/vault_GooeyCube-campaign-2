@@ -21,46 +21,16 @@
 - FORET, NUIT (grenouille, peur) : https://rpg.ambient-mixer.com/curse-of-strahd--svalich-woods
 - MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 - Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
+- [Swamp Ambiance at Night - 3h : ](https://www.youtube.com/watch?v=ih4_1FyVjaY&ab_channel=TheGuildofAmbience)
 - [FOREST Combat Music (youtube)](https://www.youtube.com/watch?v=morqY2DkGuk)
 - [Daytime Forest (top) 1 hour](https://www.youtube.com/watch?v=HAw37tUHcOo)
+- [# Enclosed Forest | Eerie Fauna, Creepy Noises, Nighttime Ambience | 3 Hours](https://www.youtube.com/watch?v=9b20XeIfjs8&ab_channel=MichaelGhelfiStudios)
 - [Medieval City (realistic ambience) - 1h](https://www.youtube.com/watch?v=_52K0E_gNY0)
 - [1 hour of tavern Music | Fable under the Table](https://www.youtube.com/watch?v=2EFpqObW9hY)
-
+- [Dungeon Exploration - 1h - M. Ghelfi](https://www.youtube.com/watch?v=zR3qytNX82o&ab_channel=MichaelGhelfiStudios)
+- 
 
 2h de musique Celtique pas mal : https://www.youtube.com/watch?v=jiwuQ6UHMQg
-
-Track list: 
-[0:00](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=0s) -- Prophecy 
-[5:34](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=334s) -- Song of Brotherhood 
-[8:07](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=487s) -- Land of the Free 
-[12:30](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=750s) -- Legend 
-[16:17](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=977s) -- A Celtic Lore 
-[19:36](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=1176s) -- Gaelic Earth 
-[21:43](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=1303s) -- Cliffs of Moher 
-[24:40](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=1480s) -- Fear no Darkness 
-[27:44](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=1664s) -- Crann Na Beatha 
-[31:47](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=1907s) -- Ode to the Fallen 
-[36:26](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=2186s) -- Wolf Blood 
-[39:31](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=2371s) -- Myth 
-[41:54](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=2514s) -- Breath of the Forest 
-[44:54](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=2694s) -- Welcome Home 
-[48:32](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=2912s) -- Evocation 
-[51:20](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=3080s) -- Kingdom of Bards 
-[55:47](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=3347s) -- Circle of Life 
-[59:17](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=3557s) -- Fairy Forest 
-[1:01:52](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=3712s) -- Where I Belong 
-[1:06:01](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=3961s) -- Spirits of the Wild 
-[1:08:36](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=4116s) -- Ride 
-[1:12:10](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=4330s) -- Beautiful Dreams 
-[1:15:46](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=4546s) -- Dance with the Trees 
-[1:19:00](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=4740s) -- Rune Magic 
-[1:21:50](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=4910s) -- A Celtic Tale 
-[1:25:24](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=5124s) -- Child of the Highlands 
-[1:27:38](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=5258s) -- For the King 
-[1:31:07](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=5467s) -- Wild Flower 
-[1:34:19](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=5659s) -- Callirus 
-[1:36:40](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=5800s) -- Dreamtide 
-[1:42:12](https://www.youtube.com/watch?v=jiwuQ6UHMQg&t=6132s) -- Spring Charm
 
 
 [Lord of the Rings | The Shire - Music & Ambience](https://youtu.be/30b7_S0paCQ)

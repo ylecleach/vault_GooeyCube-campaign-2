@@ -13,7 +13,7 @@ Vous pouvez également montrer la carte 04 : Le comptoir d'Ellis.
 **A l'intérieur, vous trouvez un magasin général relativement bien approvisionné, avec toutes sortes de marchandises - de la nourriture aux outils et à la quincaillerie, en passant par les vêtements et les articles divers. En regardant l'inventaire, vous vous dites que ce modeste magasin semble relativement bien approvisionné compte tenu de l'éloignement de Stuckshoe. 
 
 
-De nombreux articles courants peuvent être achetés ici à un prix modique (65% de chances qu'un article courant recherché par le groupe soit disponible, et les articles évidents devraient avoir un pourcentage plus élevé). Note : Si vous utilisez la stratégie "Make Money Easy" du Gooey Cube pour les objets, ajoutez 10% au prix moyen. 
+De nombreux articles courants peuvent être achetés ici à un prix modique (**65% de chances qu'un article courant recherché par le groupe soit disponible**, et les articles évidents devraient avoir un pourcentage plus élevé). Note : Si vous utilisez la stratégie "Make Money Easy" du Gooey Cube pour les objets, ajoutez 10% au prix moyen. 
 
 Objets disponibles + description :
 https://5emagic.shop/shop/comptoir-commercial-98996a0b0 (refaire la liste à minima)

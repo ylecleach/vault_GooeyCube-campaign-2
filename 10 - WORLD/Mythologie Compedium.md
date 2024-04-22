@@ -51,3 +51,34 @@ Les morts ne reposent pas en paix sur Zyathé, surtout après le cataclysme magi
 - un casque fermé (Wardane) ; 
 - et un œil ouvert dans un cercle (Zendraca).
 
+AELIERA
+
+a e l i e r a (or Aelyera)
+
+La Miséricordieuse. Déesse de l'attention, de la charité, de la bonté, de la guérison. Patronne des guérisseurs, des donneurs et des personnes de nature charitable.
+
+Symbole : Symbole des trois gouttes
+
+Noms des ordres
+- Clercs : Les mains qui guérissent
+- Paladins : les chevaliers bleus
+- Les moines : L'Ordre de la Merci
+- Les gardiens : Les quelques charitables
+
+Les temples d'Aeliera servent principalement d'hôpitaux, les prières et les services accompagnant les traitements pour tous, des personnes enrhumées aux grands malades.
+
+Darkenhaven : temple "Le Très Miséricordieux Tabernacle de la Bienveillance" de Darkenhaven (bouquin de Lore n#2 p116) qui est dédié à _Buurne, Harmonea, and Aeliera_
+
+D'autres temples en West Verdestia: Wavecrest, Suundrun, Queensport, Ebiz, Naukratis, Kyn'or, Havensdom.
+
+D'autres temples en East Verdestia: AetherDeep, Serenity Isle (isle of the Azure Opal)
+
+Utilisant les dons pour faire fonctionner ces chapelles, les disciples de la déesse de la miséricorde acceptent les pauvres aussi facilement que les riches. Malheureusement, leur nombre n'est jamais suffisant pour aider tous ceux qui ont besoin de soins, mais toute ville assez chanceuse pour avoir une église d'Aeliera assez importante
+s'en trouve grandement améliorée.
+
+Souvent, ces chapelles d'infirmerie s'étendent à toute une rue ou un quartier, avec des soupes populaires, des logements pour les sans-abri et des entreprises caritatives qui fournissent des emplois aux chômeurs et des vêtements ou d'autres biens abordables aux pauvres. D'autres dévots de la déesse, plus agités, se déplacent en tant que guérisseurs itinérants, à la recherche de zones dépourvues de sanctuaires. Ils soignent non seulement les maladies physiques, mais encouragent aussi les personnes en deuil et prêtent main forte ou donnent ce qu'ils ont à ceux qui se trouvent dans une situation difficile. 
+
+Les adeptes d'Aeliera sont donc les bienvenus partout où les gens sont malades et en difficulté.
+Les riches et les puissants se méfient parfois de l'adoration accordée à Aeliera, craignant que ses temples ne deviennent des foyers d'agitation contre leur pouvoir. C'est parfois le cas, mais les clercs de la déesse prêchent toujours la paix et l'harmonie à ceux dont ils s'occupent, et laissent aux disciples d'Haleona ou de Buurne le soin de fomenter des révolutions contre l'injustice.
+
+Par conséquent, les temples d'Aeliera peuvent être mal tolérés, même dans les pays dominés par des souverains maléfiques. Après tout, les méchants souffrent toujours de maladies et de maux, et les dirigeants maléfiques qui sont intelligents se rendent compte que des subordonnés en bonne santé sont plus productifs que des subordonnés en mauvaise santé. Ils sont aussi, peut-être, un peu moins en quête de réparation et de châtiment que les vrais désespérés.

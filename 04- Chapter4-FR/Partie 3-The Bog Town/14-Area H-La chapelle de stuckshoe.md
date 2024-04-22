@@ -4,9 +4,11 @@ S'ils ont eu vent que le père Kenlen est un vilain sac à merde avant le Festiv
 
 Si les PJ ne sont arrivés que pour une visite, lisez ou paraphrasez ce qui suit et montrez le Polycopié 13 : La Chapelle de Stuckshoe. Vous pouvez également montrer le Portrait 03 : Le Père Garret Kenlen au moment opportun (et le Portrait 21 : Mayra (Boucher), si elle est là). 
 
-Note : **Alors que le groupe s'approche de l'île sur laquelle se trouve la chapelle, une odeur de détritus en décomposition et de boue rance imprègne la zone. Notez l'odeur florale plus agressive, mais n'en faites pas trop ; nous ne voulons pas être trop évidents maintenant, n'est-ce pas ?
+Note : **Alors que le groupe s'approche de l'île sur laquelle se trouve la chapelle, une odeur de détritus en décomposition et de boue rance imprègne la zone. 
 
-**La chapelle Stuckshoe se trouve sur une petite île en face de la ville proprement dite. Construite en pierre grise mortifiée, elle possède un clocher et des portes en bois endommagées à l'entrée principale. Comme tous les bâtiments de la région, elle a été endommagée par les intempéries et n'est pas très bien entretenue, la mousse recouvrant les fondations. La structure est haute de près de deux étages, avec de petites fenêtres en plein air sur les côtés et un clocher qui dépasse de la ligne du toit. En arrivant sur le quai, la puanteur de la tourbière s'accentue, mais se mêle maintenant à l'odeur forte et plutôt nauséabonde des fleurs qui, malgré l'hiver, fleurissent actuellement sur l'île. Leur espèce n'est pas celle que vous connaissez : petite, avec des fleurs d'un vert brunâtre plus foncé.
+Notez l'odeur florale plus agressive, mais n'en faites pas trop ; nous ne voulons pas être trop évidents maintenant, n'est-ce pas ?
+
+**La chapelle Stuckshoe se trouve sur une petite île en face de la ville proprement dite. Construite en pierre grise , elle possède un clocher et des portes en bois endommagées à l'entrée principale. Comme tous les bâtiments de la région, elle a été endommagée par les intempéries et n'est pas très bien entretenue, la mousse recouvrant les fondations. La structure est haute de près de deux étages, avec de petites fenêtres en plein air sur les côtés et un clocher qui dépasse de la ligne du toit. En arrivant sur le quai, la puanteur de la tourbière s'accentue, mais se mêle maintenant à l'odeur forte et plutôt nauséabonde des fleurs qui, malgré l'hiver, fleurissent actuellement sur l'île. Leur espèce n'est pas celle que vous connaissez : petite, avec des fleurs d'un vert brunâtre plus foncé.
 
 ![[Pasted image 20240206072018.png | 600]]
 

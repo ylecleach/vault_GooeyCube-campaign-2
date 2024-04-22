@@ -147,5 +147,5 @@ La fin du dernier chapitre est tout bonnement le genre de déchirement qui redon
 
 ### REVES 
 
-* première  à Bog Town: [[chapter 4 - Muugda Dreams]] => Dream 1 (Gerald-Cydir)
+* première  à Bog Town: [[chapter 4 - Dreams Muugda player]] => Dream 1 (Gerald-Cydir)
 

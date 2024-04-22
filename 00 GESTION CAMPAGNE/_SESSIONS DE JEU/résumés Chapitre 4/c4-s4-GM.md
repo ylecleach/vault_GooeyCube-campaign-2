@@ -7,13 +7,14 @@
 ### Musique d'ambiance spécifique
 * [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
 * [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
-### A PENSER-NPC
+### A PENSER-PC
 * Gant Maudit de Corrinee : à déclencher en situation de stress.[Gant de Maladresse](https://regles-donjons-dragons.com/page1502.html) qui se comporte comme des gants de dextérité +2 avant que le curse ne commence. (situation critique de danger)
-
+* Maxime: Vleek le démon qui l'importune de plus en plus. Puis faire rêve à l'occasion d'un dodo ou perte de connaissance (poison ou sort). voir [[08 - Clerc nain - F'ior Lightbeard]]
+### A PENSER-NPC
+* attaque du WAKABAGO sur la route des Butchers ou autres tour dans le marais.
 * Event à venir : vol discret d'ingrédients dans la cabane des gnomes => iront se plaindre le soir auprès du constable.
+* Père Garett Kenlen: pas content du tout d'avoir été charmé par le groupe => il enverra tous les hommes de mains possible pour les surveiller, et notamment pour les achever lors de la rencontre avec les Butchers.
 * les personnages n'ont pas été du tout agréable avec les Gnomes => conséquences à trouver => les butchers prévenus.
-
-
 * utiliser les deux voleurs assassins Butchers (et leur poisons stylés) pour corser l'aventure ou les combats, voir tuer un joueur qui le mérite (ou pas)
 * Little Doffer peut infiltrer et apparaitre sous forme d'enfant (ex dans l'auberge)
 * Aléatoirement un peu partout
@@ -22,7 +23,7 @@
 	* les 3 pêcheurs Hurpnik, Zella et Tomm (drôle de couples à trois et bien bourée !)
 	* Ellis la commercante (culte de Kenlen)
 	* La Mairesse Joleen Horster et Turdig le nain amant et garde du corps. (en grippe avec les Butchers)
-	* Mayra Butcher (seconde compagne du Père Kenlen) - au template ou à la taverne
+	* Mayra Butcher (seconde compagne du Père Kenlen) - à la chapelle ou à la taverne
 	* Killer le Molosse aime bien Furdner Butcher, mais pas Filthy Floyd ou Little Doffer
 
 Autres méchants sur le coude:
@@ -36,15 +37,15 @@ Autres méchants sur le coude:
 
 ### Introduction
 - Musique de Marais 
-- Nous sommes le 18th du mois de Dezu'un de l'année SC 1212, et il est environ 11h00
-- Reprise dans la cabane d'amancia [[The Bog Witch's Shack]]
+- Nous sommes le 18th du mois de Dezu'un de l'année SC 1212, et il est environ 14h00
+- Reprise dans la chapelle avec le père garett kenlen et mayra butcher sa maitresse.
 
 ### DM only - Rappel Timeline
 
 Le groupe aura  **trois ou quatre jours à partir de son arrivée** pour libérer la ville des bouchers et arrêter les plans terrifiants du père Kenlen... en supposant qu'il veuille rencontrer les agents de Duna'hadrine (**c'est un voyage de quelques heures jusqu'à la Traversée du Roi, et ensuite un voyage d'une journée entière pour la traverser)**. 
-J1 : arrivée à stuckshoe: done
+J1 (done): arrivée à stuckshoe: done
 
-J2: rencontre avec Amancia, les joueurs ont bcp d'infos  et donc peuvent rechercher / aller vers :
+J2 (done): rencontre avec Amancia, les joueurs ont bcp d'infos  et donc peuvent rechercher / aller vers :
 * sur la direction des butchers,
 * sur les alchimistes gnomes,
 * sur le père Garett (au temple)
@@ -53,7 +54,7 @@ J2: rencontre avec Amancia, les joueurs ont bcp d'infos  et donc peuvent recherc
 Il faut vraiment essayer de ralentir les joueurs, avec des rencontres balèzes qui les force à se réfugier ou se reposer.
 
 * Se faire attaquer par les Wakabago et être "sauvé" par Shurna et Feansal.
-* Enquêtez sur la vieille maison de Landry. Trouvez des indices et recueillez plus d'informations.
+* ~~Enquêtez sur la vieille maison de Landry. Trouvez des indices et recueillez plus d'informations.~~
 * Faites d'autres rencontres et assistez à d'autres événements dans la tourbière.
 * Faites-vous aborder par Churr et sa bande de voyous.
 * Obtenir le soutien de quelques habitants de la ville.

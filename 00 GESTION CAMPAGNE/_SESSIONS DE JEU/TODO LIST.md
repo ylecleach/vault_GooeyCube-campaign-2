@@ -1,31 +1,35 @@
-déterminer impact de la lettre de Drezen sur la suite des évènements
+Ecrire et communiquer les Règles de bien séance du Groupe
 
-todo : travailler les réponses pour cydir de la sorcière. retravailler les traductions.
-voir si elle soigne le nain qui est blessé
+Revoir les Blood Touch : se servir de chatgpt pour ré-inventer la table.
+
+Travailler  les objectifs de chaque personnage : 2 courts termes, et 1 moyen terme, et 1 long-terme pour ceux qui savent. et les valider.
+
+Demander à chaque joueur de réviser la liste de leurs objectifs personnels à la fin de chaque partie.
 
 
-points de règles à revoir
-règle sur le poison : https://www.nerdsandscoundrels.com/poison-5e/
-- règle de surprise
-- règle nage et dans l'eau
-- conditions météo et visibilité
+- [ ] déterminer impact de la lettre de Drezen sur la suite des évènements
+- [ ] travailler les réponses pour cydir de la sorcière. retravailler les traductions.
+- [ ] voir si elle soigne le nain qui est blessé
+- [ ] monter figurine du wakabago pour la prochaine session
 
-installer office 365 sur le mac (word)
-imprimer feuille de Erwann
-
-consolider liste NPC
 
 figurines wakabago
 
 Chapitre 4
-- TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
-- demande du groupe à Shadrick pour demander à  Droxil s'il sait que les wagons rouges sont touchés.
-* finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux. Mettre des profils Assassin niv5.  (voir discussions avec roch)
+- [ ] TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
+- [ ] demande du groupe à Shadrick pour demander à  Droxil s'il sait que les wagons rouges sont touchés.
+* [x] finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux. Mettre des profils Assassin niv5.  (voir discussions avec roch)
 
-
-installer chat gpt. et creer les backgrounds des PJ
-* 
-Travailler Background des personnages
+**Background des personnages
+- [ ] installer chat gpt. et creer les backgrounds des PJ
+- [ ] Travailler Background Corrinee
+- [ ] Travailler Background Drezen
+- [ ] Travailler Background Fior
+- [ ] Travailler Background Hurranan
+- [ ] Travailler Background Cydir
+- [ ] Travailler Background Glynn
+- [ ] Travailler Background Crendon
+- [ ] Travailler Background Brandele
 
 Réponse de Alphinius 03 FEB 2024
 
@@ -54,7 +58,7 @@ TRADUIRE :
 REGARDER LE NIVEAU DE SPOIL des CHAPITRES 1,2,3  pour ERWAN
 REGARDER LE NIVEAU DE SPOIL des VOLUMES 2 et. 3 du LORE pour Erwan
 
-ecrire et communiquer les Règles du Groupe
+
 
 préparer évènement du 22 th Dezu'un Jour du Bouffon. => demander à Alphinius ce qu'il peut se passer
 

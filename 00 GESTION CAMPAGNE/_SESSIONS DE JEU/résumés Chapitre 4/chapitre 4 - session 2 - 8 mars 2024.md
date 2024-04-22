@@ -11,7 +11,7 @@ Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 
 Nous sommes le 17th du mois de Dezu'un de l'année SC 1212, et il est environ 16h00 et vous êtes dans la localité de Bog Town. Le soleil commence à bien décliner, et on voit déjà l'étoile rouge Zaraghast qui apparait, donnant parfois l'impression de recouvrir d'un Voile Rouge tout ce qu'elle éclaire.
 
-Bien qu'étant en hiver et ayant connu hier soir une tempête de neige exceptionnelle, et le massacre de votre troupe, vous vous retrouvez ici dans la ville de StukeShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
+Bien qu'étant en hiver et ayant connu hier soir une tempête de neige exceptionnelle, et le massacre de votre troupe, vous vous retrouvez ici dans la ville de StuckShoe (ou appellé Bog Town par ses habitants) où la température est plus douce, du fait des lieux marécageux, qui sont réchauffés par la Murkflow River dont l'origine remonte à la montagne Mu'uz Derron.
 
 Vous êtes encore très éprouvée par le massacre d'hier, et ce qui vous tient encore debout, c'est cette espoir de pouvoir retrouver des pistes pour retrouver la trace des assaillants, et ainsi tenter de sauver les enfants de la troupe.
 
@@ -30,7 +30,7 @@ Drezen de son côté, déguisé en vieille femme, mis en oeuvre son plan pendant
 
 ![[Pasted image 20240324205942.png|600]]
 
-Ce que le groupe ignone: La nuit du 17th drezen mis l'oiseau mort ramassé à la fin du chapitre 3 dans la bouteille de vin réservés pour certains clients elfes noirs. Il met aussi des marques des butchers sur le panneau d'info et un symbole de Jinxx chez Otis.
+Ce que le groupe ignore: La nuit du 17th drezen mis l'oiseau mort ramassé à la fin du chapitre 3 dans la bouteille de vin réservés pour certains clients elfes noirs. Il met aussi des marques des butchers sur le panneau d'info et un symbole de Jinxx chez Otis.
 
 Drezen, déguisé en vieille femme et qui s'ennuyait un peu alla voir si certains membres du groupe était resté dans les chambres.
 
@@ -162,7 +162,7 @@ Bien fatigué de cette journée, pleine de rebondissements, et qui s'est soldée
 Toutefois, les évènements d'hier et d'aujourd'hui, vous conduisirent à organiser, sous les conseils avisé de votre Bravda adoré, des tours de garde par deux. Sur les trois tours de garde, vous vous firent attaqués lors du second tour pris par Crendon et Fior par une créature monstrueuse. 
 
 # Un Troll des Marais
-Pendant les rondes du nain Fior Lighbeard autour de la cabane, il vit deux mains énormes s'accrocher sur le ponton. Très surpris, Fior se mit à hurler pour prévenir, et se réfugia au fond de la cabane pour observer à quoi il avait à faire, tout en amenant avec lui Crendon complètement insconcient du danger.
+Pendant les rondes du nain Fior Lighbeard et de Crendon Charn autour de la cabane, Fior vit deux mains énormes s'accrocher sur le ponton. Très surpris, Fior se mit à hurler pour prévenir, et conscient du danger que cela présentait de rester sur le ponton, il attrapa Crendon par le bras, inconscient du danger, et le ramena sur la terre ferme pour ne pas être à porter de l'eau et du troll des marais. 
 
 ![[Pasted image 20240324212442.png|600]]
 
