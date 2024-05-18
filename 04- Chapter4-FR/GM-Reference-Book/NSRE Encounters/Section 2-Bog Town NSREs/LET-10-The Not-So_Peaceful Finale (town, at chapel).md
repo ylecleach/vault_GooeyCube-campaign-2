@@ -8,7 +8,9 @@ Voici quelques conseils pour le déroulement de l'événement:
 
 La bataille culminante du Festival de la Journée de la Paix restera sans aucun doute dans l'histoire locale comme l'un des événements les plus mouvementés, les plus confus et les plus ironiquement nommés de mémoire d'homme pour les habitants de Stuckshoe. 
 
-Les joueurs seront aidés par un certain nombre de citadins heureux d'être libérés du joug des Bouchers et qui ne toléreront pas que le culte du Père Kenlen prenne leur place.La façon dont la rencontre commencera et qui sera impliqué variera en fonction des actions et des choix du groupe au cours des derniers jours. Cependant, pour vous donner un plan de base, les citadins commenceront à arriver en milieu de matinée et à se mélanger dans et autour de la chapelle. 
+Les joueurs seront aidés par un certain nombre de citadins heureux d'être libérés du joug des Bouchers et qui ne toléreront pas que le culte du Père Kenlen prenne leur place.La façon dont la rencontre commencera et qui sera impliqué variera en fonction des actions et des choix du groupe au cours des derniers jours. 
+
+Cependant, pour vous donner un plan de base, les citadins commenceront à arriver en milieu de matinée et à se mélanger dans et autour de la chapelle. 
 
 Le père Kenlen aura à sa disposition le punch du Jour de la Paix et, avec tous ses laquais présents, il encouragera fortement les gens à boire un peu de ce punch dans LA CHAPELLE. Une fois que la plupart des gens seront arrivés, Kenlen commencera à prêcher pendant un moment. 
 

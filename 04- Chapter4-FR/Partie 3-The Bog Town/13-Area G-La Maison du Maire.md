@@ -15,10 +15,12 @@ La maison du maire est l'une des plus belles résidences de toute la région. Bi
 En général, le maire ne cherche pas à se battre avec les PJ, même si, avec Turdig, ils pourraient leur donner du fil à retordre. Mais au cas où les choses tourneraient mal, recherchez leurs coordonnées dans la section BattleStats. 
 
 **Cachette secrète**
-De plus, si le groupe finit par fouiller la maison, il trouvera le Document 12 : Une certaine note et, caché derrière une peinture, un coffre-fort mural. 
+De plus, si le groupe finit par fouiller la maison, il trouvera le **Document 12 : Une certaine note et, caché derrière une peinture, un coffre-fort mural. 
 
 Note : le coffre est piégé par un piège à aiguilles contenant du poison de bogs (test de Constitution DC 15 ou 6 (1d6+3) points de dégâts et 2 (1d4) heures d'empoisonnement). Un test de Sagesse (Perception) DC 14 permet de trouver le piège et un test de Dextérité DC 13 est nécessaire pour l'enlever, l'échec déclenchant le piège.
+
 L'ouverture du coffre nécessite **la clé de Joleen** ou un test de Dextérité DC 14 réussi en utilisant les Outils du Voleur. 
+
 A l'intérieur se trouve un petit coffre contenant 55 Plats, 200 Ors, et six gemmes d'améthyste valant 40 Ors chacune.
 
 Important : Si vous voulez que le groupe trouve la note mentionnée ci-dessus sans entrer par effraction dans la maison de la maire (ou la kidnapper/tuer), il y a plusieurs façons de le faire

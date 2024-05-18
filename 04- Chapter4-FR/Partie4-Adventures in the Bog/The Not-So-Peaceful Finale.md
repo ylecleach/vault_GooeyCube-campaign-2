@@ -1,0 +1,17 @@
+Sachez que même si La Fin Pas Si Paisible est présentée comme une NSRE (voir la Référence du MJ), 
+
+
+
+nous n'impliquons pas du tout que vous ne devriez pas jouer cette dernière partie de l'aventure de Bog Town (qui est aussi l'étape la plus critique). En fait, nous voulons absolument que vous la fassiez, à moins que quelque chose ne l'empêche de se dérouler (comme le père Kenlen tué plus tôt par le groupe ou toute autre interférence substantielle). Cela dit, comme cette fin comporte un certain degré d'ambiguïté situationnelle et temporelle, il nous a semblé important de vous laisser la possibilité de l'inclure, de la modifier radicalement ou même de ne pas l'inclure, en fonction de ce qui s'est passé jusqu'à présent dans le chapitre.
+
+L'objectif est de faire arriver la fête au moment où le Festival de la Paix a commencé et où le Père Kenlen a fait boire à certains habitants du village du "Punch de la Paix"... qui est en fait une substance qui altère l'esprit et qui plonge ceux qui la boivent dans une léthargie et un état d'ébriété (et permet à Gloozinbile, l'Avatar de la Pourriture, de les consommer facilement).
+
+Au festival, il y aura à boire et à manger, Derpid jouera du violon et Otis du banjo. Certains habitants de la ville viennent d'arriver, tandis que d'autres n'ont pas encore bu. L'objectif est d'organiser une petite bataille amusante avec l'arrivée de l'Avatar pourri et la confrontation du groupe avec Kenlen, les serviteurs de Kenlen, les marcheurs pourris de Kenlen et, bien sûr, le gros et méchant blob en décomposition qu'est Gloozinbile. Les joueurs risquent donc de se sentir un peu intimidés face à une force aussi redoutable.
+
+Cela dit, nous espérons que vous pourrez faire en sorte que certains habitants de la ville s'impliquent pour aider le groupe et que le combat soit un fullondybrook, les joueurs pouvant même (peut-être) prendre le contrôle d'un PNJ chacun dans le cadre de la bataille. Notez que chacun des PNJ susceptibles d'aider le groupe est "court-circuité" dans la section NSRE "Finale pas si paisible", en même temps que tous les méchants potentiels. Melba y figure même, car il serait très amusant de la voir lancer son premier sort de missile magique (ou quelque chose d'encore plus puissant) au bon moment pour sauver l'un des PJ.
+
+Otis, Hansoo l'Oiseleur, Derpid, Sundra, et même Amancia, qui aura deviné le terrible complot et arrivera probablement à peu près en même temps que les PJ (avec Feansal, Shurna, et tous les autres que vous voudrez ajouter), pourraient être des aides précieuses pour le groupe, mais gardez à l'esprit que la plupart des habitants auront trop peur (ou seront trop sous l'influence du coup de poing de la paix) pour aider.
+
+S'ils sont encore en vie, les Falsenflamms, Ellis et l'adjoint Arzada seront tous là pour aider Kenlen (Arzada aura assommé le statique et l'aura enfermé dans l'une des cellules de la prison). Vous pouvez même ajouter quelques méchants "non encore nommés" au cas où les jeunes penseraient que la bataille pourrait être trop facile pour les PJ. D'un autre côté, vous pouvez également ajouter quelques habitants supplémentaires si vous pensez que les PJ sont en difficulté. Les pages consacrées à la Finale pas si paisible dans la Référence MGM offrent quelques options pour vous permettre de jouer avec.
+
+Nous espérons vraiment qu'il s'agira d'une bataille grandiose et spectaculaire, avec toutes sortes de possibilités pour la fête.

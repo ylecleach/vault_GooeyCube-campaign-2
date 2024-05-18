@@ -15,7 +15,7 @@ De plus, si le groupe libère "le prisonnier" de la cellule du sous-sol, il pour
 
 **Si la bataille commence vraiment à mal tourner pour le groupe, Shurna et/ou Feansal peuvent venir aider. => p51 GM
 
-Par ailleurs, si vous pensez que le groupe va marcher sur les Bouchers, vous pouvez aussi demander à Churr et à sa bande d'être là quand le groupe arrive. 
+Par ailleurs, si vous pensez que le groupe va marcher sur les Bouchers, vous pouvez aussi demander à Churr et à sa bande d'être là quand le groupe arrive. + Wakabago ?
 
 Ou, si le groupe a déjà eu affaire à Churr, ajoutez simplement quelques cousins bouchers de votre cru.
 
@@ -26,7 +26,7 @@ Lisez ou paraphrasez ce qui suit lorsque le groupe s'approche de la maison princ
 
 **Le bâtiment le plus au nord semble être la maison principale de l'enceinte. Elle est plus grande que les deux autres, construite en pierre et en bois, et semble un peu mieux entretenue. Les fenêtres sont recouvertes de volets et la porte d'entrée semble assez solide.
 
-Si le parti entre...
+Si le groupe entre...
 
 ### 1.The Main Room
 Lisez ou paraphrasez ce qui suit lorsque les PJ entrent, en adaptant le texte si le combat s'engage immédiatement. Vous pouvez également montrer la **carte 09 : La grande maison** au moment où ils entrent dans la pièce.
@@ -56,6 +56,7 @@ L'armoire contient les vêtements d'Emil et d'Ethel : pantalons, chemises, robes
 
 La commode contient des sous-vêtements, des chaussettes, des fichus, des bas, des jarretières et une paire de corsets. 
 
+Piège !
 Il y a une petite niche dans le plancher sous le lit : DC 15 Sagesse (Perception) pour la trouver si l'on cherche activement sous le lit. Elle contient un coffre-fort en métal verrouillé et piégé, dont Emil a la clé pour l'ouvrir (et contourner le piège). Une personne ayant la compétence appropriée peut détecter le piège sur un test de Sagesse (Perception) DC 15. L'enlever est plus difficile, car il faut faire un test de Dextérité DC 17 avec des outils de voleur. Le piège contient du poison gazeux de brume verte, auquel toutes les personnes présentes dans la pièce seront exposées, mais celles qui se trouvent en dehors du rayon de 5 pieds autour du coffre bénéficient d'un avantage sur la sauvegarde : DC 14 sauvegarde de Constitution ou 3 (1d6) dégâts de poison. La personne directement exposée doit réussir un second jet de sauvegarde de Constitution DC 14 pour éviter de perdre connaissance pendant 1d10 +20 minutes. Si la victime échoue aux deux jets, elle est également empoisonnée pendant l'heure qui suit. Le coffre contient **122 ors et 23 platines, ainsi qu'un talisman** qui permet de manipuler les barrières de protection de l'entrepôt de la ville.
 
 ### 3.Mayra’s Bedroom
@@ -80,7 +81,7 @@ En ouvrant la porte, les PJ découvriront une installation de distillation assez
 
 Lisez ou paraphrasez ce qui suit.
 
-**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très sub- stantielle. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce.
+**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très  sophistiquée. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce.
 
 La pièce n'est pas facile à parcourir en raison du labyrinthe d'équipements. Il fait également assez sombre à l'intérieur. Ainsi, un boucher connaissant bien les lieux pourrait échapper aux poursuites en sortant par la porte arrière. Il n'y a pas grand-chose de valeur ici, mais la distillerie entière vaut probablement plus de 900 Golds. 
 
@@ -111,7 +112,7 @@ Sur la cheminée se trouvent un jeu de dés dans une boîte en fer, un jeu de ha
 
 Dans la cuisine, plusieurs placards sont remplis de vaisselle, de casseroles, d'argenterie et d'autres ustensiles de cuisine. Une trappe mène à un petit garde-manger aux murs de pierre, situé sous la cuisine proprement dite. On y trouve un crocodile dépecé suspendu, plusieurs tonneaux remplis de viande salée, de haricots secs, de pommes de terre d'hiver et deux petits tonneaux de bière.
 
-Selon les circonstances, on peut y trouver Jedidibuh Butcher (Portrait 31) et sa grenouille crocodile, affectueusement appelée **Craphead**. Le crocofrog comprend des ordres simples comme "attaquer" et "rester", et est très dévoué à Jedidibuh. 
+Selon les circonstances, on peut y trouver ***Jedidibuh Butcher (Portrait 31)*** et sa grenouille crocodile, affectueusement appelée **Craphead**. Le crocofrog comprend des ordres simples comme "attaquer" et "rester", et est très dévoué à Jedidibuh. 
 
 Si le groupe parvient à entrer ici sans se faire repérer, la grenouille crocodile sera derrière le rideau et pourra surprendre le groupe. Comme pour toutes les autres rencontres dans l'enceinte, vous devrez ajuster en fonction des actions du groupe. 
 
@@ -131,7 +132,7 @@ Les escaliers descendent vers un sous-sol aux murs de pierre. Un certain nombre 
 **Important** : Alors... qui est allongé sur le lit de camp ? Cela dépend un peu de vous et de vos joueurs. 
 
 C'est **Theros Vegla**, fils de Borag, Bravda disparu. **_Medium Humanoid, Male Half-Orc/Ogre-Touched Barbarian_**
-il a été enlevé par les drows (avec les enfants), avec son frère Jannig et sa soeur Cassarine Vegla. Il ne se souvient de plus grand chose.
+il a été enlevé par les drows (avec les enfants), avec son frère Jannig et sa soeur Cassarine Vegla. Il ne se souvient de plus grand chose. Il pourra être très utile pour s'occuper des enfants retrouvés (à inventer) pendant que le groupe part à l'aventure et libre. Il pourra aussi s'occuper des caravanes.
 
 ![[Pasted image 20240329201649.png| 300]]
 
@@ -143,7 +144,7 @@ Il peut aussi s'agir d'un autre personnage de votre choix qui n'est pas un "PNJ 
 
 Quel que soit votre choix, **ils sont drogués au laudanum mélangé à du Boggy Hooch**, et il faudra un peu de temps pour les "dégriser" et obtenir leur histoire. Ils ont été drogués en permanence depuis leur capture, mais ils savent que les Bouchers les gardaient prisonniers et ne permettaient pas au père Kenlen de les utiliser pour le sacrifice rituel prévu au festival de la paix. 
 
-Apparemment, les Bouchers savaient que Kenlen préparait quelque chose, et avaient leur propre plan pour s'occuper de lui au moment où le rituel commencerait. Le prisonnier a entendu ces choses et sait que Kenlen est probablement de mèche avec le culte de Noxica et que "quelque chose de terrible" est prévu pour la Fête de la Paix.
+IMPORTANT: Apparemment, les Bouchers savaient que Kenlen préparait quelque chose, et avaient leur propre plan pour s'occuper de lui au moment où le rituel commencerait. Le prisonnier a entendu ces choses et sait que Kenlen est probablement de mèche avec le culte de Noxica et que "quelque chose de terrible" est prévu pour la Fête de la Paix.
 
 Si les choses se sont déroulées à peu près selon la chronologie des événements, la Fête de la Paix devrait commencer dans l'après-midi du jour suivant l'assaut du groupe sur l'enceinte des Bouchers. Si ce n'est pas le cas, vous devrez faire quelques ajustements. Voir l'épilogue de l'enceinte du Boucher ci-dessous.
 
@@ -166,20 +167,5 @@ Cela dit, peut-être qu'un ou deux Bouchers se sont encore échappés... et c'es
 
 Mais... comme nous n'avons pas fixé de date précise pour le Festival de la paix, si nous nous trompons un peu, ce n'est pas grave. Vous pouvez ajuster le moment où la cérémonie de la Fête de la Paix commencera en fonction des actions du groupe et du moment de leur arrivée à l'enceinte du Boucher. Cela suppose bien sûr que vous avez pu les empêcher de découvrir certaines choses sous la chapelle jusqu'à présent et que le groupe n'a pas encore rencontré le Père Kenlen et ses sbires. Une fois que le groupe a parlé au "prisonnier" (et éventuellement interrogé un ou deux bouchers), il devrait apprendre que le Père Kenlen a des intentions néfastes pour la ville lors du Festival de la Paix, et qu'il va causer la mort de plus d'une personne à la chapelle. Votre décision devrait probablement être basée sur l'état de santé du groupe, car le final du Festival de la Paix sera un combat tout aussi difficile que celui de l'Enceinte du Boucher (voir la section ci-dessous et Le Finale Pas Si Paisible NSRE dans la Référence du Meneur de Jeu).
 
-### _The Not-So-Peaceful Finale_
-
-Sachez que même si La Fin Pas Si Paisible est présentée comme une NSRE (voir la Référence du MJ), nous n'impliquons pas du tout que vous ne devriez pas jouer cette dernière partie de l'aventure de Bog Town (qui est aussi l'étape la plus critique). En fait, nous voulons absolument que vous la fassiez, à moins que quelque chose ne l'empêche de se dérouler (comme le père Kenlen tué plus tôt par le groupe ou toute autre interférence substantielle). Cela dit, comme cette fin comporte un certain degré d'ambiguïté situationnelle et temporelle, il nous a semblé important de vous laisser la possibilité de l'inclure, de la modifier radicalement ou même de ne pas l'inclure, en fonction de ce qui s'est passé jusqu'à présent dans le chapitre.
-
-L'objectif est de faire arriver la fête au moment où le Festival de la Paix a commencé et où le Père Kenlen a fait boire à certains habitants du village du "Punch de la Paix"... qui est en fait une substance qui altère l'esprit et qui plonge ceux qui la boivent dans une léthargie et un état d'ébriété (et permet à Gloozinbile, l'Avatar de la Pourriture, de les consommer facilement).
-
-Au festival, il y aura à boire et à manger, Derpid jouera du violon et Otis du banjo. Certains habitants de la ville viennent d'arriver, tandis que d'autres n'ont pas encore bu. L'objectif est d'organiser une petite bataille amusante avec l'arrivée de l'Avatar pourri et la confrontation du groupe avec Kenlen, les serviteurs de Kenlen, les marcheurs pourris de Kenlen et, bien sûr, le gros et méchant blob en décomposition qu'est Gloozinbile. Les joueurs risquent donc de se sentir un peu intimidés face à une force aussi redoutable.
-
-Cela dit, nous espérons que vous pourrez faire en sorte que certains habitants de la ville s'impliquent pour aider le groupe et que le combat soit un fullondybrook, les joueurs pouvant même (peut-être) prendre le contrôle d'un PNJ chacun dans le cadre de la bataille. Notez que chacun des PNJ susceptibles d'aider le groupe est "court-circuité" dans la section NSRE "Finale pas si paisible", en même temps que tous les méchants potentiels. Melba y figure même, car il serait très amusant de la voir lancer son premier sort de missile magique (ou quelque chose d'encore plus puissant) au bon moment pour sauver l'un des PJ.
-
-Otis, Hansoo l'Oiseleur, Derpid, Sundra, et même Amancia, qui aura deviné le terrible complot et arrivera probablement à peu près en même temps que les PJ (avec Feansal, Shurna, et tous les autres que vous voudrez ajouter), pourraient être des aides précieuses pour le groupe, mais gardez à l'esprit que la plupart des habitants auront trop peur (ou seront trop sous l'influence du coup de poing de la paix) pour aider.
-
-S'ils sont encore en vie, les Falsenflamms, Ellis et l'adjoint Arzada seront tous là pour aider Kenlen (Arzada aura assommé le statique et l'aura enfermé dans l'une des cellules de la prison). Vous pouvez même ajouter quelques méchants "non encore nommés" au cas où les jeunes penseraient que la bataille pourrait être trop facile pour les PJ. D'un autre côté, vous pouvez également ajouter quelques habitants supplémentaires si vous pensez que les PJ sont en difficulté. Les pages consacrées à la Finale pas si paisible dans la Référence MGM offrent quelques options pour vous permettre de jouer avec.
-
-Nous espérons vraiment qu'il s'agira d'une bataille grandiose et spectaculaire, avec toutes sortes de possibilités pour la fête.
 
 

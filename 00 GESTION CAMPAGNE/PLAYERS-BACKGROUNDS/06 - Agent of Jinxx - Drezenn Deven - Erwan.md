@@ -1,10 +1,20 @@
 
 ## TODO-background
 
+Objectifs court-terme
 - parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours
-- lapin: à développer
-- veut ressacraliser le temple de Jinxx trouvé en chapitre 2 ou 3 - potentiellement une mini-aventure.
+- Derzen dois se cacher, car identifié par “Little duffer”
+- tenir Hurannan informé de tes plans (à faire peut etre HRP si pas le temps en parties)
+- contact avec Corinee:  qui peux aider à être discret et faire liaison de connection des informations du groupe. ( magie, lapin, etc)
+- laisser à Crendon des indices sous forme de poème
 
+Objectif Moyen-terme
+- veut ressacraliser le temple de Jinxx trouvé en chapitre 2 ou 3 - potentiellement une mini-aventure
+- veut comprendre pourquoi son lapin a les yeux doré
+- apprendre à se soigner: à discuter - il y a pleins de facons. (potions, compétences, sorts)
+
+Objectifs Long-terme
+* je veux jouer mon rôle d’agent, donc infiltrer le groupe des butcher et les agents elf noir et autre de cultistes de flemmerertch. Avec Hadazna Bry’vexxe ( mais certainement pousse à la séparation de la trame narrative du jdr classique).
 
 ## Agents
 

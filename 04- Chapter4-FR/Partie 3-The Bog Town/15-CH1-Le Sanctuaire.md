@@ -27,6 +27,7 @@ Après un peu de roleplay, il mettra en garde le groupe contre les Bouchers (en 
 
 En vérité, le prêtre serait absolument ravi si le groupe éliminait ce qu'il perçoit comme son principal obstacle à la prise de contrôle de la ville. Ainsi, **il racontera aux PJ les actes odieux du clan des Bouchers : vols, enlèvements, extorsions, etc**. et **qu'il les soupçonne d'être ceux qui ont assassiné Doc Venton et piégé les deux accusés**.
 
+# Garett Kenlen - Dialogues possibles
 => Il ne sait cependant pas exactement où se trouve leur complexe dans la tourbière, et ne peut donc pas les y guider. D'autres sujets pourraient être abordés, en fonction du moment où le groupe lui rend visite et de ce qu'il discute avec lui :
 - Les elfes noirs : **"Oui... certains d'entre eux sont venus dans notre ville par intermittence. Personne ne sait d'où ils viennent, car ils font très attention à ne pas être repérés dans leurs allées et venues. Mais je suis très inquiet de ce qu'ils font ici. Les Bouchers sont de mèche avec eux... j'en suis certain."**
 - Les alchimistes gnomes (Frendee et Milicent Falsenflamms) : **"Oui... les brasseurs sont venus ici pour éviter un passé sordide. Ils ont connu les bas-fonds de Gloomport et travaillent maintenant pour la ville, aidant à guérir les maux de ceux qui les entourent. Ils sont vraiment changés dans leur façon de faire."**

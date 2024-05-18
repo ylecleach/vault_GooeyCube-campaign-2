@@ -68,3 +68,20 @@ Elle a tué pour la première fois lors de la session du 9 février 2024. Si ell
 Elle est hantée par ce premier meurtre et s'inquiète de la sombre prophétie qui la concerne. Comme elle n'a personne à qui se confier pour le moment, elle tente de garder son trouble et sa marque dans le dos secret et faire comme si de rien n'était.
 
 
+
+# PARPG
+
+## Objectif à court terme
+* retrouver les enfants de la troupe et les mettre en sécurité.
+
+## Objectifs moyen terme
+* parler aux elfes des bois qui l'ont amené dans la troupe
+
+## Objectif long terme
+* découvrir son secret (tatouage)
+* 
+je pense qu'elle même ne le sait pas encore car son monde vient de s'effondrer et l'avenir semble bien incertain.
+
+Elle s'interroge beaucoup cependant sur la marque dans son dos et elle commence à s'inquièter de ce que l'on disait sur elle etant enfant. Elle se dit qu'elle doit aller parler aux elfes dont elle est issue si le destin lui en accorde l'occasion. Elle est très attaché au mode de vie nomade des anathaz et espère qu'un jour ils reprendront la route comme avant.
+
+

@@ -39,7 +39,7 @@ Tout à coup, Drezen, pourtant bien caché dans l'ombre, se prit un carreau d'ar
 
 ![[Pasted image 20240409183521.png]]
 
-Pendant ce temps, Brandele, envoya son fidèle corbeau en repérage pour voir si d'autres créatures étaient dans la maison. Son corbeau repéra 10 formes humanoïdes complètement immobiles au premier étage.
+Pendant ce temps, Brandele, envoya sa fidèle chouette en repérage pour voir si d'autres créatures étaient dans la maison. Son corbeau repéra 10 formes humanoïdes complètement immobiles au premier étage.
 
 Pendant le même temps, ne savant pas trop ce qui se passait, Crendon Charn, hésita longuement, mais décida d'envoyer un sort de Vague Tonnante depuis l'intérieur de la maison au niveau du premier étage, pour prendre cible à peu près les créatures que lui avaient décrites Brandele Steele la mage. 
 
@@ -160,17 +160,19 @@ Mayra, est pourtant une jeune très avenante au charme certains, portant une bel
 
 Elle semble avoir reçue une éducation digne des grandes métropoles, et il vous parait très improbable qu'une femme de cette classe sociale soit venue s'installer dans ce marécage.
 
-La conversation prit un très mauvais tournant. Mayra commanca à appeler à l'aide, et à ce moment précis, à l'entrée de la chapelle vous entendirent : "Cessez d'importuner cette personne dans ma chapelle", et vous reconnirent immédiatement le père Garett Kenlen que vous aviez croisé à l'auberge.
+La conversation prit un très mauvais tournant. Mayra commenca à appeler à l'aide, et à ce moment précis, à l'entrée de la chapelle vous entendirent : "Cessez d'importuner cette personne dans ma chapelle", et vous reconnirent immédiatement le père Garett Kenlen que vous aviez croisé à l'auberge.
 
 Il s'en suivi encore un dialogue difficile, où le grand Inquisiteur et maître nain Fior, posant tout un tas de questions mettant le Père Garett très mal à l'aise. Voyant que l'interrogatoire ne donnait pas grande chose, alors Brandele lanca avec succès un sort de Charm Person sur le père Garett.
 
-Pendant une conversation en privé entre Garett et Brandele, sous l'emprise du sort de charme personne, il reconnut avoir une liaison avec Mayra, et vous appris que Mayra fait parti de la famille Butcher locale : "oui... nous sommes amoureux. J'aimerais l'épouser, mais son père n'est pas d'accord. Il n'est pas du genre à favoriser les dieux de la bonté et de la loi."
+Pendant une conversation en privé entre Garett et Brandele, sous l'emprise du sort de charme personne, il reconnut avoir une liaison avec Mayra, et vous appris que Mayra fait parti de la famille Butcher locale, mais qu'elle était issu de la noblesse : "oui... nous sommes amoureux. J'aimerais l'épouser, mais son père n'est pas d'accord. Il n'est pas du genre à favoriser les dieux de la bonté et de la loi."
 
-Il vous informa des actes odieux du clan des Butchers: vols, enlèvements, extorsions, et espère qu'un jour, un groupe de héros viendra mettre un terme à leur agissements et de facon définitive. Beaucoup de gens sont fatigués des Butchers, mais peu se plaignent par crainte des représailles.
+Le père Garett Kenlen l'informa aussi des actes odieux du clan des Butchers: vols, enlèvements, extorsions, et espère qu'un jour, un groupe de héros viendra mettre un terme à leur agissements et de facon définitive. Beaucoup de gens sont fatigués des Butchers, mais peu se plaignent par crainte des représailles.
 
 Il vous dit aussi de vous méfier du gang de Zefren Churr, qui est fidèle aux Butchers.
 
 Le reste de la discussion entre Brandele et le Père Garett Kenlen s'apparenta à une discussion entre amis, mais elle n'apprit rien de plus.
+
+Le groupe parla ouvertement d'une possibilité de prendre en otage Mayra Butcher, devant elle et le Père Garett.
 
 Le sort de Charme Person est encore actif (30 min), et vous vous doutez que le Père Garett Kenlen ne le prendra pas bien du tout quand l'effet du sort se dissipera, d'autant plus que la magie semble ne pas être tolérée du tout dans le village. 
 

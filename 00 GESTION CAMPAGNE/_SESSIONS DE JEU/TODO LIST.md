@@ -1,3 +1,12 @@
+One point pour Roch qui a pris des notes : la voyante amancia leur avait dit que le gang de churr avait participer aux massacres.
+
+imprimer la lettre de drezen pour les joueurs
+
+One point pour le roleplay et les actions de Fior
+
+Dresin reste avec le groupe.
+
+
 Ecrire et communiquer les Règles de bien séance du Groupe
 
 Revoir les Blood Touch : se servir de chatgpt pour ré-inventer la table.
@@ -8,12 +17,10 @@ Demander à chaque joueur de réviser la liste de leurs objectifs personnels à 
 
 
 - [ ] déterminer impact de la lettre de Drezen sur la suite des évènements
-- [ ] travailler les réponses pour cydir de la sorcière. retravailler les traductions.
-- [ ] voir si elle soigne le nain qui est blessé
 - [ ] monter figurine du wakabago pour la prochaine session
+- [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
+- [ ] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
 
-
-figurines wakabago
 
 Chapitre 4
 - [ ] TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
