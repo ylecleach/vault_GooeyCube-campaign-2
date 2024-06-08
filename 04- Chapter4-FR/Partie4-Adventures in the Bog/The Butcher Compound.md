@@ -7,11 +7,20 @@ On peut même imaginer que l'un d'entre eux, que l'on "croyait" mort, se présen
 Lisez ou paraphrasez ce qui suit pendant que le groupe s'approche de la zone et montrez le **Document 27 : Le complexe du boucher.** Ajustez si nécessaire en fonction de l'heure du jour ou de la nuit. Vous pouvez également montrer la **carte 08 : Le complexe du boucher** au fur et à mesure qu'ils entrent dans la pièce.
 
 **L'eau qui ondule sur le fond du bateau et l'ambiance de la tourbière sont les seuls bruits que vous entendez lorsque vous approchez de l'enceinte du Boucher. La brume s'étend autour de vous, donnant à la zone une impression sinistre. Puis le brouillard se dissipe, et devant vous se profile l'enceinte du Boucher. De votre point de vue, vous pouvez voir trois bâtiments délabrés, chacun situé sur l'une des trois îles étroitement espacées, avec un petit lagon au milieu. Des passerelles en bois forment des ponts entre les îles, où quelques bateaux sont amarrés dans la zone centrale. De la fumée s'échappe des cheminées des trois structures. Au-dessus de la puanteur de la tourbière, on perçoit une forte odeur d'alcool en fermentation. Soudain, au loin, le grognement strident d'un catagator semble vous annoncer le combat qui vous attend.
+
+Il y a pas mal de barques sur les différentes iles, ce qui vous indiquent qu'il peut y avoir pas mal de monde.
+- 2 barques pour les Lackey de Churrs (de 6 pers. chaque) -1 barque
+- 1 barque pour les Falsenflams (petite pour des enfants) -1 
+- 1 barque pour les assassins (pour 2 personnes) 
+- 1 barge-barque pour les livraisons de la distillerue
+- 3 barques pour la famille Butchers -2
+- 1 barque pour Mayra (2 pers.) -1
+
 Que faite vous ?
 
 Comme la plupart des combats, celui-ci peut prendre de nombreuses directions et donner lieu à toutes sortes d'événements intéressants si vous vous y prenez bien. Mais quelle que soit la façon dont vous le menez, nous vous encourageons à le rendre épique. Dans ce type de combat, nous nous efforçons souvent d'assurer une certaine intensité, avec une fin en apothéose. Nous vous recommandons donc d'utiliser les modificateurs de difficulté comme il se doit pour que les joueurs soient vraiment mis au défi. N'oubliez pas que si un membre du groupe meurt, **Amancia utilisera son parchemin "Ressusciter les morts" pour le ramener à la vie.**
 
-De plus, si le groupe libère "le prisonnier" de la cellule du sous-sol, il pourra également rejoindre le combat aux côtés des PJ. 
+De plus, si le groupe libère "le prisonnier" de la cellule du sous-sol, il pourra également rejoindre le combat aux côtés des PJ. => bof bof, car il est sous l'emprise de substance incapacitante.
 
 **Si la bataille commence vraiment à mal tourner pour le groupe, Shurna et/ou Feansal peuvent venir aider. => p51 GM
 
@@ -37,7 +46,9 @@ C'est là que vivent **Emil "Big Daddy"** et **Ethel Butcher**, ainsi que **Furd
 
 Note : A moins que le groupe n'ait pris des mesures extraordinaires, les Bouchers sont probablement prêts à les accueillir. **Drunella le chien** est dans la fleur de l'âge et se fera un plaisir de croquer tout aventurier entreprenant qui essaierait d'entrer dans la maison. De plus, si elle entend quelque chose de "fâcheux" à l'extérieur, elle se met à hurler. Et puis, **il y a ce maudit corbeau !**
 
-Il n'y a rien de vraiment précieux dans la pièce à part les tasses en étain (1 or chacune), la feuille de pipe dans l'étain et le jeu de dames. Les pièces du jeu de dames sont en fait faites d'onyx et d'ivoire, et le plateau est fabriqué à la main à partir de bois d'ébène et de frêne blanc - pour le bon acheteur, il pourrait valoir de 20 à 25 ors. La boîte de feuilles de pipe contient environ trois "sachets-mesures" de Wafflewend's Winter Red, une feuille de Halfling très fine provenant des champs de Wafflewend à Andvalla. La boîte entière vaut environ 11 pièces d'or. Si les joueurs montent au grenier, ils trouveront un lit malodorant avec une pile de vêtements tout aussi odorante (et, s'il n'a pas déjà sauté dessus, un Furdner des plus sales et des plus puants). Dans un petit trou au bout du lit se trouve une pochette de cuir contenant 22 Silvs et 3 Golds.
+Il n'y a rien de vraiment précieux dans la pièce à part les tasses en étain (1 or chacune), la feuille de pipe dans l'étain et le jeu de dames. Les pièces du jeu de dames sont en fait faites d'onyx et d'ivoire, et le plateau est fabriqué à la main à partir de bois d'ébène et de frêne blanc - pour le bon acheteur, il pourrait valoir de 20 à 25 ors. La boîte de feuilles de pipe contient environ trois "sachets-mesures" de Wafflewend's Winter Red, une feuille de Halfling très fine provenant des champs de Wafflewend à Andvalla. La boîte entière vaut environ 11 pièces d'or. S
+
+i les joueurs montent au grenier, ils trouveront une pièce qui sent la merde,  un lit malodorant avec une pile de vêtements tout aussi odorante (et, s'il n'a pas déjà sauté dessus, un Furdner des plus sales et des plus puants), et deux lits de camps qui sert à Little Doffer et Filthy Floyd. Dans un petit trou au bout du lit se trouve une pochette de cuir contenant 22 Silvs et 3 Golds.
 
 >**The Big House Encounter
 >See Battle Stats in GM Reference Book, page 33.
@@ -81,7 +92,7 @@ En ouvrant la porte, les PJ découvriront une installation de distillation assez
 
 Lisez ou paraphrasez ce qui suit.
 
-**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très  sophistiquée. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce.
+**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très  sophistiquée. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce. plusieurs chiens de grandes tailles monte la garde de la distillerie, dont Killer. Un chenil semble avoir été improvisé à l'arrière de la distillerie.
 
 La pièce n'est pas facile à parcourir en raison du labyrinthe d'équipements. Il fait également assez sombre à l'intérieur. Ainsi, un boucher connaissant bien les lieux pourrait échapper aux poursuites en sortant par la porte arrière. Il n'y a pas grand-chose de valeur ici, mais la distillerie entière vaut probablement plus de 900 Golds. 
 
@@ -150,7 +161,7 @@ Si les choses se sont déroulées à peu près selon la chronologie des événem
 
 ### D - The Lagoon.
 
-Lisez ou paraphrasez ce qui suit lorsque le groupe s'approche de la lagune. 
+Lisez ou paraphrasez ce qui suit lorsque le groupe s'approche du lagon. 
 
 **Au centre des trois îles se trouve une petite lagune où les Butchers amarrent leurs bateaux. Vous pouvez voir que l'eau ici semble plus profonde, à en juger par sa couleur. Il y a du mouvement sous la surface... des ombres de créatures plutôt grandes qui nagent.
 

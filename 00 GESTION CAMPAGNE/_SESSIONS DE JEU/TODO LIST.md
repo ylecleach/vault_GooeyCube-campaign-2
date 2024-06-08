@@ -1,31 +1,28 @@
-One point pour Roch qui a pris des notes : la voyante amancia leur avait dit que le gang de churr avait participer aux massacres.
 
-imprimer la lettre de drezen pour les joueurs
-
-One point pour le roleplay et les actions de Fior
-
-Dresin reste avec le groupe.
-
-
-Ecrire et communiquer les Règles de bien séance du Groupe
-
-Revoir les Blood Touch : se servir de chatgpt pour ré-inventer la table.
-
-Travailler  les objectifs de chaque personnage : 2 courts termes, et 1 moyen terme, et 1 long-terme pour ceux qui savent. et les valider.
-
-Demander à chaque joueur de réviser la liste de leurs objectifs personnels à la fin de chaque partie.
-
-
-- [ ] déterminer impact de la lettre de Drezen sur la suite des évènements
-- [ ] monter figurine du wakabago pour la prochaine session
-- [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
+**Preparation Campagne**
+* [ ] PA-RPG initier - Goals joueurs, et une fois fait, les écrire sur une feuille A4.
+* [ ] Lapin: developer background. mission de surveiller la chouette. prie Jinxx, et essaye de rentrer en communication avec Salvensa.
+* [ ] regarder les guildes d'aventuriers dans le Vol1
+* [ ] Chapter 5: lire en diagonale
+* [ ] lire les autres contenus pour voir possibilité de re-use / Goals.
+* [ ] Faire une timeline avec excalidraw
+* [ ] Ecrire et communiquer les Règles de bien séance du Groupe
+* [ ] Revoir les Blood Touch : se servir de chatgpt pour ré-inventer la table.
+* [ ] Travailler  les objectifs de chaque personnage : 2 courts termes, et 1 moyen terme, et 1 long-terme pour ceux qui savent. et les valider.
+* [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
 - [ ] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
+- [ ] définir les goals du NPC Dresin : voir ce que chatgpt peut faire, notamment pour générer une liste de sorts, équipements, armes.
 
+**PA-RPG**
+* Demander à chaque joueur de réviser la liste de leurs objectifs personnels à la fin de chaque partie.
+
+**Prochaine session**
+- [ ] monter / peindre figurine du wakabago pour la prochaine session
+- [ ] préparer figurines pour les deux prochaines grosses rencontres. (Butcher et Fete de la paix)
 
 Chapitre 4
 - [ ] TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
 - [ ] demande du groupe à Shadrick pour demander à  Droxil s'il sait que les wagons rouges sont touchés.
-* [x] finaliser les profils de Filthy Floyd et Little Doffer : (equipement , compétences, caract, armes), et aussi leur agenda / lieux. Mettre des profils Assassin niv5.  (voir discussions avec roch)
 
 **Background des personnages
 - [ ] installer chat gpt. et creer les backgrounds des PJ
@@ -72,18 +69,11 @@ préparer évènement du 22 th Dezu'un Jour du Bouffon. => demander à Alphinius
 
 relire les règles 5e
 
-préparer en // un arbre de décision via un logiciel pour voir les choix qui s'offrent aux joueurs, mais aussi pour voir toutes les pistes ouvertes. (voir si plugin dans obsidian) : Canva
-
-
-rdv passage de niv pour :
-- denis (profiter de son passage à chatou)
-
-
 lister toutes les rencontres non faites en chapitre 1, 2, 3 pour improvisations.
 
 Chapter 4: préparer : directive: être au maximum open.
 
-Chapter 5: lire en diagonale
+
 
 
 ### OLD TODO LIST

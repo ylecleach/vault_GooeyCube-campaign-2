@@ -1,0 +1,24 @@
+En supposant que le groupe ait éliminé les Bouchers et mis fin aux horribles événements de la chapelle du père Kenlen, ils sont probablement des héros pour la ville. Certains des individus non corrompus (comme Otis, Sundra Strikenston, Condy et Salansy Boggenfoots, Hansoo l'homme-oiseau, Herbert et, plus particulièrement, Feansal, Shurna et Amancia) prendront la tête de la réorganisation de la ville.
+
+En fonction de qui est encore en vie et en bonne santé après les événements effrayants, beaucoup de choses changeront dans le petit village. Si le maire Joleen et Turdig sont encore là, ils seront bannis (et pourraient réapparaître plus tard, n'est-ce pas ?)
+
+L'agent Flynn sera découvert dans la cellule de la prison et pourrait bien mentir pour se tirer d'affaire. Sundra sera choisie comme maire "intérimaire" jusqu'à ce que des élections en bonne et due forme soient organisées, et Shurna et Feansal prendront en charge les fonctions de police de la ville. 
+
+Quoi qu'il en soit, avant le départ des PJ, les bonnes gens de Stuckshoe festoieront avec eux dans l'auberge Sinkhole et remercieront les dieux d'avoir envoyé ce groupe de "libérateurs" pour les sauver tous d'une mort certaine. 
+
+Donnez un bon roleplay à cet événement, car le groupe mérite vraiment la gratitude de la ville. Peut-être les habitants leur demanderont-ils de rester, surtout s'ils ont appris la vérité sur le massacre de la troupe. Quoi qu'il en soit, quoi qu'il arrive au groupe à partir de maintenant, il aura des amis dévoués à Stuckshoe. Une fois le festin et les discours terminés, les PJ partiront probablement en quête de leur rendez-vous avec les agents de la Duna'hadrine.
+
+Lisez ou paraphrasez ce qui suit lorsque le groupe quittera la ville.
+
+**Au son du cliquetis régulier des sabots des chevaux et du grincement du chariot qui roule sur la voie ferrée vers l'ouest, vous quittez la ville de Stuckshoe, saluant ce qui semble être tous les habitants de la région. Au détour d'un virage, en haut de la colline, vous apercevez la petite Melba, un canif à la main et un grand sourire aux lèvres, qui vous fait un signe de la main. Il est intéressant de noter que c'est avec des sentiments quelque peu contradictoires que vous vous apprêtez à quitter ce petit village malodorant, mais c'est aussi l'un des rares endroits au monde où l'on peut dire que l'on a vraiment des amis. 
+
+**Alors que vous réfléchissez, vous vous souvenez de quelque chose que Mère Salvensa disait souvent... "Mes enfants, souvenez-vous toujours qu'il est bon de faire le bien, surtout si cela peut apporter de la lumière dans les endroits sombres."  En passant devant le panneau qui annonce l'arrivée des gens dans la ville, vous remarquez que certains mots ont été rayés, de sorte que le panneau dit maintenant "Shizzats welcome"... ce qui est un bel hommage, même avec l'injure. Vous ne pouvez vous empêcher de sourire un peu en pensant à ce que Borag, Calnassé ou Kray diraient. Il ne fait aucun doute qu'ils seraient fiers de vous.
+
+**En regardant vers l'avant, la route continue avec la King's Highways encore à quelques heures de route. Une fois sur place, vous pourriez très certainement continuer vers le nord en direction de The King's Crossing pour rencontrer à nouveau les agents des Elfes Noirs, et finalement vous rendre à Prondadol pour trouver Verasis, comme Mère Salvensa vous l'a conseillé dans son dernier souffle. Mais ce n'est pas votre seul choix. En effet, vous pouvez également tourner vers le sud et retourner vers Nevermore, peut-être même voyager jusqu'à la grande ville de Darkenhaven où, dit-on, les personnes touchées par le sang sont les bienvenues. Là, vous pourriez même commencer une nouvelle vie. Il est étrange de constater que ces mêmes décisions se présentent à vous à chaque instant, comme si elles mettaient à l'épreuve votre détermination et votre engagement envers les membres de votre famille qui pourraient encore être en vie..... Alors, Zatis, qu'allez-vous faire maintenant ?
+
+# Sur la route à nouveau
+Comme dans le cas du Chemin le moins fréquenté, le but de cette section est de fournir quelques rencontres pendant que le groupe voyage après avoir quitté Stuckshoe. Selon le moment où ils ont quitté la ville, vous pouvez ajuster les descriptions si nécessaire (s'ils sont partis plus vers le soir par exemple). 
+
+**Il faudra quelques heures au groupe** pour atteindre l'extrémité sud du King's Crossing, et la plupart campent sur place pour éviter de parcourir la longue chaussée désolée pendant la nuit. Les PJ le savent, car ils ont déjà emprunté ce chemin. 
+
+Comme pour toutes les rencontres du Livre d'Aventure, les combats listés ci-dessous sont associés aux statistiques de combat du Livre de Référence du MJ. Il y a également une bonne sélection de rencontres sur la route dans la section NSRE.Comme toujours cependant, faites preuve de discrétion avec les NSRE mortels, car un trop grand nombre d'entre eux pourrait submerger le groupe.

@@ -47,11 +47,14 @@ Cela pourrait bien être lié au fait que Melba a, à l'occasion, fait preuve d'
 Kenlen, car le prêcheur a fait preuve de beaucoup de discrétion et de compréhension à leur égard. Presque parias parmi les habitants de Stuckshoe,  Marda et Melba ont trouvé leur place dans la congrégation du prédicateur.
 
 ### Maire Joleen Horster (LE) : 
-Joleen Horster est une femme dont les aspirations dépassent de loin l'humble milieu dans lequel elle est née et a été élevée. La République méridionale est assez pauvre et rurale par rapport à d'autres régions du pays. Le maire Horster considère la direction de Stuckshoe comme la première étape pour sortir de ce marigot, mais en attendant, elle fait tout son possible pour s'habiller, parler et se comporter comme les nobles dames de Darkenhaven, ou du moins comme elle pense qu'elles le font.Malgré tous les efforts qu'elle fait pour se présenter comme une noble femme urbaine et élégante, beaucoup ont été trompés en pensant que Joleen était une marionnette superficielle et stupide. Pourtant, elle est bien plus qu'un joli minois. La maire s'est positionnée comme une alliée importante des Butchers et, contrairement à beaucoup de leurs autres associés, comme une personne sur laquelle ils peuvent compter, plutôt que comme un simple laquais jetable.
+Joleen Horster est une femme dont les aspirations dépassent de loin l'humble milieu dans lequel elle est née et a été élevée. La République méridionale est assez pauvre et rurale par rapport à d'autres régions du pays. Le maire Horster considère la direction de Stuckshoe comme la première étape pour sortir de ce marigot, mais en attendant, elle fait tout son possible pour s'habiller, parler et se comporter comme les nobles dames de Darkenhaven, ou du moins comme elle pense qu'elles le font.Malgré tous les efforts qu'elle fait pour se présenter comme une noble femme urbaine et élégante, beaucoup ont été trompés en pensant que Joleen était une marionnette superficielle et stupide. Pourtant, elle est bien plus qu'un joli minois. **La maire s'est positionnée comme une alliée importante des Butchers** et, contrairement à beaucoup de leurs autres associés, comme une personne sur laquelle ils peuvent compter, plutôt que comme un simple laquais jetable.
 
 Joleen est beaucoup plus rusée qu'il n'y paraît. Elle s'est mise à dos les Butchers, et si quelque chose se passe en ville, elle veut le savoir. Turdig est à la fois son amant et son garde du corps. Il n'est pas enclin à la conversation. La maire engagera les PJ dans un discours poli, et pourra leur donner quelques informations sur l'histoire du village. Elle lancera peut-être une ou deux rumeurs sur le groupe, mais rien qui ne puisse les aider contre les Elfes Noirs ou les Bouchers. 
 
 **Elle essaiera de convaincre le groupe de tuer le catagator que les habitants appellent "Hellsacat" et paiera volontiers la récompense affichée. Cette créature a mangé son petit chien "Sweetums" il y a à peine une semaine. Elle encouragera également le groupe à venir au prochain festival de la paix. Joleen et Turdig ne resteront pas longtemps.
+
+Custom:
+pour la campagne: la fausse lettre de Drezen qui implique les Bouchers, fait qu'elle ne peut plus les protéger. Elle retourne sa veste, et envoit le groupe de héros se les faire. Les joueurs pourront trouver une lettre préparé par Emil (Document 12), mais non envoyé à Joleen.
 
 ### Turdig "Hamhand" Silverston (LE): 
 Turdig Silverston est un nain pâle et bien bâti dont la famille vit en surface dans les environs de Stuckshoe depuis de nombreuses générations. Il est officiellement le garde du corps du maire de la ville, Mlle Joleen Horster, mais il est de notoriété publique qu'il entretient avec elle une relation bien plus intime que celle d'un simple employé. Au-delà du double rôle de sa relation professionnelle et privée avec Joleen, il montre peu d'intérêt pour qui que ce soit ou quoi que ce soit d'autre. Son discours, même avec les autres habitants, est brutal, direct et aussi limité que possible. Où que le maire aille, il s'assure d'être à quelques pas, sa hache toujours prête. Bien que personne n'utilise ce terme lorsqu'il est à portée de voix, Turdig est universellement connu sous le nom de "**Hamhand**" à Stuckshoe, en raison de ses poings prodigieusement gras. Plus que capables d'assommer des voyous endurcis d'un seul coup, ces poings rendent le nain notoirement maladroit, et il lui arrive fréquemment de laisser tomber des objets ou de les renverser avec ses mains surdimensionnées. Il y a bien longtemps que personne n'a eu l'outrecuidance de rire de ces moments embarrassants.
@@ -69,7 +72,7 @@ Mayra connaît sa réputation et sait à quel point elle lui est utile, tant sur
 ### Frendee et Milicent Falsenflamm : 
 Frendee et Milicent Falsenflamm sont un couple marié au service de la communauté des alchimistes de Stuckshoe. Plus précisément, ils ont depuis de nombreuses années passé des accords avec les Bouchers pour leur fournir des potions utiles et des concoctions dangereuses en échange de leur protection et de gros sacs d'or. En tant que gnomes, ils se distinguent facilement au sein de la communauté insulaire, et ils sont donc très heureux de trouver un patronage lucratif qui empêche également les ivrognes et les voyous locaux de les harceler. Loin des regards des autorités, ils ont pu expérimenter des ingrédients à la moralité douteuse, comme des morceaux de corps d'humanoïdes décédés. Lorsque le nouveau prêcheur charismatique, le père Kenlen, est arrivé en ville, les Falsenflamms ont d'abord craint qu'il ne dénonce leurs pratiques douteuses, mais ils ont été ravis d'apprendre qu'il était encore plus compréhensif que les Butchers et qu'il voulait leur aide pour une variété de mélanges alchimiques étranges. Ils n'avaient jamais entendu quelqu'un prêcher comme le Père Kenlen, et bien que son message semble peu orthodoxe, ils furent facilement pris dans sa ferveur, et devinrent des disciples dévoués.
 
-### Shurna and Feansal (les deux accusés en fuite)
+### Shurna and Feansal (les deux accusés en fuite)-p51
 
 Shurna "Subtle Breeze" Grondanna et Feansal Dynari'is : Shurna et Feansal sont deux des plus belles personnes de la ville, ayant toutes deux vécu dans les environs pendant la plus grande partie de leur vie. Au fil du temps, ils ont fini par en avoir assez des abus que les Bouchers infligeaient aux habitants de Stuckshoe et des environs. Avec DocVenton et quelques autres, ils ont comploté pour faire tomber le clan des bouchers et rétablir l'ordre dans le village. Malheureusement pour eux, les murs ont des oreilles à Stuckshoe, et leur plan a été découvert. Peu après, Doc Venton fut retrouvé assassiné de la plus terrible des manières et des preuves reliant Shurna et Feansal furent trouvées sur les lieux. Sachant qu'ils sont innocents, les deux s'enfuient dans les marais pour éviter d'être pendus pour un crime qu'ils n'ont pas commis. Shurna est un moine de l'Ordre de la Voie Noire, au service de Quisis. Feansalis est un Duna'hadrineri, c'est-à-dire une personne d'origine à la fois elfique et humaine, qui sait manier la lame et l'arc.
 
@@ -113,6 +116,21 @@ Cet individu est en fait un Verdea'hadrineri (un demi-elfe d'ascendance elfique 
 
 Dresin est un Verdea'hadrineri, c'est-à-dire un être mi-elfe mi-humain d'origine elfique sylvestre. Ses traits elfiques sombres apparents sont le résultat d'une touche de sang d'ombre prononcée. Il vit dans une ferme isolée au fin fond des marais. Il ne s'entend pas particulièrement bien avec les habitants de Stuckshoe, mais il reconnaît que vivre près d'une ville moins éloignée lui causerait encore plus d'ennuis. En l'état actuel des choses, c'est un chasseur émérite, et il est tout à fait capable de trouver et d'identifier des plantes et des champignons rares dans les marais, qui ont une valeur considérable. Les seules personnes avec lesquelles il est un tant soit peu amical sont les autres parias qui vivent dans les marais, comme Amancia, la sorcière des tourbières. Elle est peut-être la seule à savoir que Dresin est en fait un lanceur de sorts assez puissant, ce qui est très certainement lié à son toucher sanguin.
 
+Capacités :
+* Hide in shadow (nature)
+* Tir à distance + poison (champignon) paralysant
+* identification / usage plantes et champignons
+* Sorts
+
+**=== Goal-short term ===
+* [ ] aider les joueurs pour se débarasser des Butchers (connait le lieu)
+
+![[Pasted image 20240608072145.png]]
+
+![[Pasted image 20240608072300.png]]
+
+![[Pasted image 20240608072315.png]]
+![[Pasted image 20240608072338.png]]
 
 ### Autres "bonnes gens" de la ville de la tourbière
 Comme il n'est pas possible de peupler complètement une petite localité comme la ville de la tourbière et ses environs, nous fournissons quelques noms d'autres personnes que le groupe pourrait rencontrer, que vous pourrez utiliser selon vos besoins. 
@@ -172,7 +190,7 @@ PV=49
 STR 15 (+2), DEX 16 (+3), CON 16 (+3), INT 10 (0), SAG 10 (0), CHA 1 (-5)
 Weapons : 
 - [Bone Sword (shortsword, finesse)](https://www.dandwiki.com/wiki/Bone_Sword_(5e_Equipment)) ![[Pasted image 20240307214505.png]] +7 to hit - 1d6 +4 + (3d6) 
-- si coup critique:  2d6 +4 + 6d6
+- si la cible est surprise => coup critique:  2d6 +4 + 6d6 + bone sword + poisons
 poisons
 	- [drow poison](https://www.aidedd.org/dnd/poisons.php?vo=drow-poison)
 	- [poison tree](https://www.aidedd.org/dnd/poisons.php?vo=poison-tree) : DC 12 CON or 2d6 or none
@@ -206,7 +224,6 @@ spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 	- 2 potion d'invisibilité normale
 	- 2 potion of greater healing  : 4d4 +4
 	- 2 potion of healing : 2d4+2
-	- 1 poudre rouge du chapitre 2
 
 ### Little Doffer
 Son apparence et sa voix aiguë semblent indiquer que ce petit bonhomme bourru est un enfant livré à lui-même dans les bois. Son esprit mordant et son attitude désagréable semblent bien trop aigres et lassés du monde pour que quelqu'un les ait développés à un si jeune âge.
@@ -225,8 +242,9 @@ AC=20 (**studded leather noire +1** (+3), haste (+2), dex (+4), ring (+1)
 PV=37
 STR 12 (+1), DEX 18 (+4), CON 12 (+1), INT 12 (+1), SAG 14 (+2), CHA 16 (+3)
 Weapons : 
-- [Dagger of Adrenaline (rare)](https://www.dandwiki.com/wiki/Dagger_of_Adrenaline_(5e_Equipment))  +7 to hit - 1d6 +4 + (3d6)  ![[Pasted image 20240307225345.png]]
-	- ==si coup critique:  2d4 +4 + 6d6 + dagger of Adrenaline + poisons==
+- [Dagger of Adrenaline +3 (rare)](https://www.dandwiki.com/wiki/Dagger_of_Adrenaline_(5e_Equipment))  +7 to hit - 1d6 +4 + (3d6)  ![[Pasted image 20240307225345.png]]
+	- si la cible est surprise:  2d4 +4 + 6d6 + dagger of Adrenaline + poisons
+	- si avantage: 1d4+4 + 3d6 + dagger of Adrenaline + poisons
 poisons
 	- [basilic eye](https://www.aidedd.org/dnd/poisons.php?vo=basilisk-eye) DC 12 or petrified tempor. save each turn to end effect.
 	- [giant spider venom](https://www.aidedd.org/dnd/poisons.php?vo=giant-spider-venom) : DC 11 or 2d8 or half
@@ -247,7 +265,7 @@ spécial : pack tactics: advantage if in 5' of ally (not incapacited)
 - Vigilant (don 4eme) : +5 init  , jamais surpris, 
 - Assassinat: 
 	- avantage vs creature n'ayant pas joué un tour dans le combat.
-	- si créature surprise : le coup devient une critique (et donc )
+	- si créature surprise : le coup devient une critique (et donc les bonus de sneak sont doublés )
 - Esquive instinctive (réaction pour réduire 1/2 dégats vs une attaque réussit contre lui)
 
 **Equipements**

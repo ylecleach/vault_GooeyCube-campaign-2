@@ -51,6 +51,6 @@ Ne jamais voir la fin des jours.
 
 Quand le voile s'étend sur Zyathé,
 Et que les ombres brûlent la création...
-Du pleuple viendra la Lumière,
+Du peuple viendra la Lumière,
 dit-on, l'abomination.
 

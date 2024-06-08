@@ -21,6 +21,7 @@
 - FORET, NUIT (grenouille, peur) : https://rpg.ambient-mixer.com/curse-of-strahd--svalich-woods
 - MARAIS: Musique de Marais (youtube, 5 min): https://www.youtube.com/watch?v=qgJV7dz4K1c
 - Dark Swamp - exploration ambiance (avec des bruits de wakabago): https://www.youtube.com/watch?v=kzBx8TWcrG4 - top ultime
+- [Swam Sounds at Night - Frogg, Crickets, Light Rain, Forest Nature](https://www.youtube.com/watch?v=ih4_1FyVjaY&ab_channel=TheGuildofAmbience) : top
 - [Swamp Ambiance at Night - 3h : ](https://www.youtube.com/watch?v=ih4_1FyVjaY&ab_channel=TheGuildofAmbience)
 - [FOREST Combat Music (youtube)](https://www.youtube.com/watch?v=morqY2DkGuk)
 - [Daytime Forest (top) 1 hour](https://www.youtube.com/watch?v=HAw37tUHcOo)

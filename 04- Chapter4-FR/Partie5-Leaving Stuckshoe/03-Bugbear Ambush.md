@@ -1,0 +1,20 @@
+La récente tempête a poussé de nombreuses créatures à se cacher, mais d'autres savent que c'est l'occasion rêvée de chasser sans concurrence. Parmi eux, un groupe rusé de Bugbears, qui sait qu'il y a toujours quelques voyageurs malchanceux pris sur la route après un tel blizzard. Heureusement pour le groupe, les guerriers n'ont pas été engagés ou dominés par le culte de Noxica, comme c'est le cas pour de nombreux autres groupes peu recommandables de la région. Malheureusement, ils sont toujours prêts à tuer et à piller tous ceux qui passent près de leur embuscade. Lisez ou paraphrasez ce qui suit et montrez le Document 31 : Les Bugbears attaquent lorsque les Bugbears apparaissent.
+
+![[Pasted image 20240518074701.png | 400]]
+
+**La journée est devenue entièrement grise car les nuages au-dessus de la tête bloquent le soleil. Le brouillard qui émerge de la tourbière chaude s'élève doucement jusqu'à ce qu'il dérive sur la route, atteignant maintenant au moins la hauteur de la taille pour la plupart d'entre vous. La brume et la neige atténuent le bruit des sabots des chevaux et des roues des chariots, tandis que la forêt environnante semble retenir son souffle dans un silence inquiétant. Bien que vous marchiez dans la nature, il y a quelque chose de presque claustrophobique dans ce silence.
+
+Si un joueur a une Perception passive de 16 ou plus, il entendra un amas de neige tomber d'une branche sur le sol d'un côté. C'est le seul avertissement que le groupe aura de l'embuscade à venir, car les Bugbears ont pris d'excellentes précautions pour rester cachés. Ceux qui remarqueront le son ne seront pas surpris lorsque le combat commencera ; tous les autres le seront. Les Bugbears attaquent avant que les plus perspicaces n'aient eu le temps d'avertir les autres.
+
+**Soudain, des bois autour de vous surgissent un certain nombre de grands humanoïdes couverts de fourrure, les armes prêtes à l'emploi. Ils hurlent et hurlent en chargeant votre position !.... Lancez l'initiative !
+
+>**_The Bugbear Ambush Encounter_
+_See Battle Stats in GM Reference Book, page 36._
+
+
+La neige sur la route et dans les environs compte comme un **terrain difficile**, mais environ la moitié des Bugbears devraient être cachés derrière des arbres à moins de 15 pieds, assez près pour atteindre le groupe au premier tour. L'autre moitié lancera des javelots en s'approchant. Notez que les Bugbears ont probablement sous-estimé le danger que représente le groupe, et qu'ils recherchent un butin facile, pas un combat à mort. Les joueurs peuvent craindre que ces créatures soient associées au culte, à juste titre ; s'ils essaient d'achever les Bugbears pendant qu'ils courent, ceux-ci se rendront. Ils peuvent parler des phrases simples de la langue commune, ce qui permet de les interroger. Les Bugbears ont peu d'informations à offrir. Ils peuvent transmettre des connaissances de base sur la région, mais il ne s'agira pas de choses que les joueurs ne savent pas déjà.
+
+Si un ou plusieurs joueurs réussissent un test de Charisme (Intimidation) ou de Charisme (Persuasion) DC 15, les Bugbears raconteront qu'ils ont remarqué que des gnolls, des gobelins et même des Algidiens se déplaçaient dans le marais et empiétaient sur leur territoire. L'un d'entre eux avouera également avoir vu des "Doon'hadras" se déplacer dans la tourbière. Cependant, ils ne connaissent pas de base d'opérations ou d'autres détails. Les Bugbears offriront au groupe une poignée de sacs pour épargner leur vie, contenant des pièces, des anneaux et d'autres petits objets de valeur d'une valeur de 25 ors. Ils offriront également 2 outres à vin pleines et un sac de pain rassis, de fromage et de viande séchée, assez pour nourrir les joueurs pendant plusieurs jours. Ils promettent presque tout ce qu'on leur demande, y compris de cesser d'attaquer les voyageurs, mais un test de Sagesse (perspicacité) DC 17 réussi révélera que, bien qu'ils soient suffisamment effrayés pour cesser pour le moment, il est peu probable qu'ils s'en tiennent à une telle promesse à long terme.
+
+
+
