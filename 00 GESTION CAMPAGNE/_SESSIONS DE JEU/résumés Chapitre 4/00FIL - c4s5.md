@@ -95,7 +95,10 @@ Ethel bien blessé, arrive voir son mari
 
 Cydir fait semblant de planter la fille pour que Big Daddy parle. 1 au dé, et blesse Crendon.
 
+
+
 ===
+
 sorts de fred
 Entraves de givre (evocation, niv2), Flou, Spider Climb, Peau d'écorce, Speak with
 Dead, Hate, Respiration Aquatique, Petite Hutte de Leomund.

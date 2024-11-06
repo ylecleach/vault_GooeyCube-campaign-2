@@ -92,7 +92,7 @@ En ouvrant la porte, les PJ découvriront une installation de distillation assez
 
 Lisez ou paraphrasez ce qui suit.
 
-**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très  sophistiquée. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce. plusieurs chiens de grandes tailles monte la garde de la distillerie, dont Killer. Un chenil semble avoir été improvisé à l'arrière de la distillerie.
+**L'ouverture de la porte révèle une pièce sombre contenant une distillerie très  sophistiquée. À la faible lumière des charbons ardents dans les fosses situées sous les grandes bouilloires en cuivre, vous pouvez voir un labyrinthe de tuyaux, de récipients, de tonneaux empilés et de tables couvertes de cruches. L'odeur de la fumée et de l'alcool envahit la pièce. plusieurs chiens de grandes tailles monte la garde de la distillerie. Un chenil semble avoir été improvisé à l'arrière de la distillerie.
 
 La pièce n'est pas facile à parcourir en raison du labyrinthe d'équipements. Il fait également assez sombre à l'intérieur. Ainsi, un boucher connaissant bien les lieux pourrait échapper aux poursuites en sortant par la porte arrière. Il n'y a pas grand-chose de valeur ici, mais la distillerie entière vaut probablement plus de 900 Golds. 
 

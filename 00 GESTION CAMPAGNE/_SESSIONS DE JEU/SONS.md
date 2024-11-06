@@ -29,7 +29,6 @@
 - [Medieval City (realistic ambience) - 1h](https://www.youtube.com/watch?v=_52K0E_gNY0)
 - [1 hour of tavern Music | Fable under the Table](https://www.youtube.com/watch?v=2EFpqObW9hY)
 - [Dungeon Exploration - 1h - M. Ghelfi](https://www.youtube.com/watch?v=zR3qytNX82o&ab_channel=MichaelGhelfiStudios)
-- 
 
 2h de musique Celtique pas mal : https://www.youtube.com/watch?v=jiwuQ6UHMQg
 

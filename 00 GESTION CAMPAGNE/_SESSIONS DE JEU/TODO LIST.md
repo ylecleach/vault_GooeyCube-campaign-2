@@ -1,5 +1,7 @@
 
 **Preparation Campagne**
+* [ ] Event à caller pour 20 Dezzuun
+* [ ] Event à caller pour 22 Dezzuun
 * [ ] PA-RPG initier - Goals joueurs, et une fois fait, les écrire sur une feuille A4.
 * [ ] Lapin: developer background. mission de surveiller la chouette. prie Jinxx, et essaye de rentrer en communication avec Salvensa.
 * [ ] regarder les guildes d'aventuriers dans le Vol1

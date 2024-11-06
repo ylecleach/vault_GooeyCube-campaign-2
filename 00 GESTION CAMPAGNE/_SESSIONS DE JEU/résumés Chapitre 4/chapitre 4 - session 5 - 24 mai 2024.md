@@ -350,7 +350,40 @@ Il est drogué  au laudanum mélangé à du Boggy Hooch**, et il faudra surement
 
 Il a été enlevé par les drows (avec les enfants), avec son frère Jannig et sa soeur Cassarine Vegla. Il ne se souvient de plus grand chose, à part d'être tombé rapidement au combat, probablement à cause du poison des elfes noirs les ayant attaqués.
 
-DM : Cliffhanger encore ! ca devient une habitude ;-)
+
+### Cliffanger dans la chambre de Mayra
+Pendant ce temps Corrinee, va fouiller un peu les chambres et rentre dans la chambre de Mayra.
+
+**La porte s'ouvre, révélant une chambre à coucher avec un grand lit en laiton recouvert d'une couette froufroutante à motifs floraux. Une simple table de nuit est placée à côté du lit, avec un napperon en dentelle et une bougie dans un porte-bougie en argent. Sur le côté de la pièce se trouvent une petite armoire et une table d'appoint sur laquelle reposent un lavabo et une cruche. Des rideaux de dentelle recouvrent la fenêtre. Une porte ouverte mène à un placard. L'endroit sent le parfum de la rose.Les portes s'ouvrent sur une salle de bain commune et un placard.
+
+![[s8_mayra_room_0.jpg]]
+
+
+En fouillant la chambre, Corrinee trouve un petit coffre  caché sous l'armoire derrière un panneau avant mal fixé au fond de l'armoire. Elle lance un sort main de mage pour ouvrir le coffre. 
+
+(DM: pour info, c'est grâce à sa spécialisation Arcane Trickster  lui permet de rendre sa main de mage invisible et de l'utiliser dans ses capacités de vol à la tire et escamotage)
+
+A l'intérieur se trouvent : un certain nombre de lettres, une rose pressée, une jarretière bleue, et 6 Plats dans une petite sacoche en cuir. 
+
+Drezen entra susbrepticement voir ce que fait Corrinee.
+
+![[s8_mayra_room_3.jpg]]
+
+Après inspection, les lettres sont des lettres d'amour d'une personne anonyme. Il s'agit principalement de poésie et de prose ringarde, mais quelque chose dans l'une d'entre elles attire votre attention. À ce stade, remettez aux joueurs le **Document 28 : La redoutable lettre d'amour**. 
+
+![[Pasted image 20240628092455.png]]
+
+![[s8_mayra_room_5.jpg]]
+
+
+LOOT DIVERS
+ Le bougeoir en argent vaut 3 pièces d'or pour le bon acheteur, et un petit pot de 43 Copps et 12 Silvs se trouve dans le tiroir de la table de nuit - avec une brosse à cheveux, un rasoir, du savon de rasage et un flacon de parfum à la rose. 
+
+L'armoire contient quelques robes, des bas, des sous-vêtements et deux paires de chaussures. 
+
+Fin de session
+	Il est environ midi du 19th Dezu'un, SC1212.
+
 
 Je vous dis à après demain, sauf Erwan qui a une contrainte forte malheureusement.
 
