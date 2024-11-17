@@ -1,7 +1,10 @@
 
 **Preparation Campagne**
+* [ ] Ajouter photo combat wakabago figurines dans le résumé chapitre 4 session 6
 * [ ] Event à caller pour 20 Dezzuun
 * [ ] Event à caller pour 22 Dezzuun
+* [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
+- [ ] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
 * [ ] PA-RPG initier - Goals joueurs, et une fois fait, les écrire sur une feuille A4.
 * [ ] Lapin: developer background. mission de surveiller la chouette. prie Jinxx, et essaye de rentrer en communication avec Salvensa.
 * [ ] regarder les guildes d'aventuriers dans le Vol1
@@ -11,16 +14,14 @@
 * [ ] Ecrire et communiquer les Règles de bien séance du Groupe
 * [ ] Revoir les Blood Touch : se servir de chatgpt pour ré-inventer la table.
 * [ ] Travailler  les objectifs de chaque personnage : 2 courts termes, et 1 moyen terme, et 1 long-terme pour ceux qui savent. et les valider.
-* [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
-- [ ] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
 - [ ] définir les goals du NPC Dresin : voir ce que chatgpt peut faire, notamment pour générer une liste de sorts, équipements, armes.
 
 **PA-RPG**
 * Demander à chaque joueur de réviser la liste de leurs objectifs personnels à la fin de chaque partie.
 
 **Prochaine session**
-- [ ] monter / peindre figurine du wakabago pour la prochaine session
-- [ ] préparer figurines pour les deux prochaines grosses rencontres. (Butcher et Fete de la paix)
+- [x] monter / ~~peindre~~ figurine du wakabago pour la prochaine session
+- [x] préparer figurines pour les deux prochaines grosses rencontres. (Butcher et Fete de la paix)
 
 Chapitre 4
 - [ ] TODO : parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours => déterminer la suite !!!!
@@ -37,7 +38,18 @@ Chapitre 4
 - [ ] Travailler Background Crendon
 - [ ] Travailler Background Brandele
 
-Réponse de Alphinius 03 FEB 2024
+
+### Information importante et confidentielle sur la campagne en cours de production
+Yes... this is a good idea. And for me... just because they WANT to rescue the children right now doesn't mean they get to. This happens to protagonists all the time. The bad guys aren't just sitting around waiting for them to come. They have their own plans and goals. Sometimes the PCs don't get to do whatever they want in terms of the story line.
+The design of the adventure is that they have to do more investigations to help save the children. And in the interim... they will meet Belania at the Hrumm house. That is a great set of tales that I do think they will enjoy.
+For Chapter 6/7 they will go BACK to Nevermore as the "trail" of the kids will lead them there.
+They will then learn about a nefarious organization called the Ride... will come up against Butcher-Brickendon who is literally poisoning the town with his evil moonshine... fight a number of terrifying foes... and ultimately learn about Vileflame Keep in the swamp where they must go to rescue the children.
+Then they will go there and fight Noxica and her minions.It should be epic.
+But Nevermore is after Hrumm Manor and it should be a great adventure.
+
+
+
+### Réponse de Alphinius 03 FEB 2024
 
 * where is Stuckshoe on the map, which road is between Stuckshoes and main roads ? 
 

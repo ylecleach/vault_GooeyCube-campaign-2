@@ -34,8 +34,8 @@ Cette prise de conscience, vous l'avez tous, et vous vous dites dans votre fort 
   17th du mois de Dezu'un (décembre) de l'année SC 1212, et il est environ 08h00
   ![[zoom-carte-chapitre4 1.jpg]]
 
-### Listes des morts  disparus ou en mission du massacre  
- * Vaness la druidesse, envoyée en mission par Mère Salvensa, pour aller enquêter sur le massacfre d'un cercle druidique près de Prondadol. Elle chevauche la Manticore de la troupe du Voile Bleu.
+### Listes des   disparus ou en mission  
+ * Vaness la druidesse, envoyée en mission par Mère Salvensa, pour aller enquêter sur le massacre d'un cercle druidique près de Prondadol. Elle chevauche la Manticore de la troupe du Voile Bleu.
 - Theros Vegla : fils de Borag et Calnassé, à priori enlevé par les drows avec son frère Jannig et sa soeur Cassarine Vegla.
 - Calopia Sen
 - Karlus Fole, paladin de Kizmya, Male Myruun/Abyssal-touch : partie en mission pour Mère Salvensa, pour aller dans des iles lointaines, à la recherche d'information concernant un monstre aquatique de légende qui aurait été aperçue il y a quelques mois.

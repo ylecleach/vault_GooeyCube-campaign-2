@@ -57,7 +57,7 @@ Bien qu'il ne soit qu'explicitement le chef des dieux bons légitimes, Radean oc
 - un casque fermé (Wardane) ; 
 - et un œil ouvert dans un cercle (Zendraca).
 
-AELIERA
+### AELIERA
 
 a e l i e r a (or Aelyera)
 

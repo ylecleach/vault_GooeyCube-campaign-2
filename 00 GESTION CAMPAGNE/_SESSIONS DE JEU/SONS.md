@@ -3,6 +3,7 @@
 - TAVERN, lute, diablo like (2 flavor, track 1 or 2) : https://rpg.ambient-mixer.com/d-d-tavern-ambiance
 - [Medieval Fantasy Tavern | D&D Fantasy Music and Ambience 1h08](https://www.youtube.com/watch?v=vyg5jJrZ42s) : assez variés, avec bruit de fond sympa.
 - Tavern (calm, 3h) : https://youtu.be/roABNwbjZf4 
+- Fantasy Medieval/Tavern Music - Celtic Music, Tavern Ambience, Relaxing Music: https://www.youtube.com/watch?v=0wIC1_wG7_o&ab_channel=TheSoulofWind
 
 - SOUND of SKYRIM (chilly peaks, deep peace of the valleys, wind, light storm, birds, no music): https://videogames.ambient-mixer.com/skyrim
 - SOUND of SKYRIM (pluie, daytime) : https://videogames.ambient-mixer.com/skyrim--falkreath--daytime
@@ -54,3 +55,7 @@ Mettre la musique de Metalicca For Whom the Bell Tools
 
 Dead Can Dance - Host of Seraphim
 ![[z01 - Dead Can Dance - The Host Of Seraphim.mp3]]
+
+DIVERS - ambiance celtique pour le DM 
+
+* Alan Stivell - Concert TV 1911 : https://www.youtube.com/watch?v=w7BIK4qp0EA&t=3079s&ab_channel=PelloGarcia (et tri marlelo vers min 51)

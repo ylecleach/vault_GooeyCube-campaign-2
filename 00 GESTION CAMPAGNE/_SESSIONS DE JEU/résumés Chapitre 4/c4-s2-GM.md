@@ -1,8 +1,7 @@
 ### En début de partie
-### En début de partie
 * Références: [[Règles DM]], [[My Gooey Bad Table]]
 * redemander les alignements choisis si choisis
-* 
+*
 
 ### Référence Chapitre 4
 * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés

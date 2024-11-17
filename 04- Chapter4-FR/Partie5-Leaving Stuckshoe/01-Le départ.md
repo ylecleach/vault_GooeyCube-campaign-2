@@ -1,8 +1,8 @@
 En supposant que le groupe ait éliminé les Bouchers et mis fin aux horribles événements de la chapelle du père Kenlen, ils sont probablement des héros pour la ville. Certains des individus non corrompus (comme Otis, Sundra Strikenston, Condy et Salansy Boggenfoots, Hansoo l'homme-oiseau, Herbert et, plus particulièrement, Feansal, Shurna et Amancia) prendront la tête de la réorganisation de la ville.
 
-En fonction de qui est encore en vie et en bonne santé après les événements effrayants, beaucoup de choses changeront dans le petit village. Si le maire Joleen et Turdig sont encore là, ils seront bannis (et pourraient réapparaître plus tard, n'est-ce pas ?)
+En fonction de qui est encore en vie et en bonne santé après les événements effrayants, beaucoup de choses changeront dans le petit village. Si le maire **Joleen** et Turdig **sont** encore là, ils seront **bannis** (et pourraient réapparaître plus tard, n'est-ce pas ?)
 
-L'agent Flynn sera découvert dans la cellule de la prison et pourrait bien mentir pour se tirer d'affaire. Sundra sera choisie comme maire "intérimaire" jusqu'à ce que des élections en bonne et due forme soient organisées, et Shurna et Feansal prendront en charge les fonctions de police de la ville. 
+L'agent **Flynn** sera découvert dans la cellule de la prison et pourrait bien mentir pour se tirer d'affaire. **Sundra sera choisie comme maire "intérimaire" j**usqu'à ce que des élections en bonne et due forme soient organisées, et Shurna et Feansal prendront en charge les fonctions de police de la ville. 
 
 Quoi qu'il en soit, avant le départ des PJ, les bonnes gens de Stuckshoe festoieront avec eux dans l'auberge Sinkhole et remercieront les dieux d'avoir envoyé ce groupe de "libérateurs" pour les sauver tous d'une mort certaine. 
 
