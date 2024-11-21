@@ -27,7 +27,7 @@ Vous avez tous entendus des murmures, mais très peu d'entre vous ont osé / eu 
 	* et faire rapidement [[NLE-01-The Chase (young Vyles)]]
 	
 - au retour, faire la rencontre avec le vendeur ambulant:  [[NLE-04-Le Joyeux Bricoleur]] qui permettra aux joueurs de faire des ventes / achats basiques. SENSIBILISER le groupe sur les notions d'emcombrements.
-	- pendant cette rencontre, lancer la première quete du personnage CONTACT (Denis) lorsqu'il est seul : [[Continuing Secrets]] (pas fait)
+	- pendant cette rencontre, lancer la première quete du personnage CONTACT (Denis) lorsqu'il est seul : [[remote-vault/03 - Chapter3-FR/09-GM REFERENCE BOOK/Sections de Référence/Ref Section 7 - Major Player Secrets/Continuing Secrets]] (pas fait)
 ###  En rentrant au camp
 * Au retour, lorsque Drezen s'entretiendra avec Mère, elle lui confiera une Dagger of Jinxx +1 (magique-cf page 76 Magicka), avec 3 emplacements d'injection de substances. 
 * Elle lui confiera qu'elle a eu une vision où elle vit Jinxx et toi dans le même rêve, en train de combattre Flemmeretch à la Dague, arme préférée de Jinxx.

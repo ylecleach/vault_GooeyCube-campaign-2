@@ -169,7 +169,7 @@ DM:  au global le groupe a pris peu de dégats, mais a cramé bcp de pouvoirs, s
 
 Après 3 rounds. de combat intensif, le wakabago tombe. (180 PV, c'est vraiment pas assez)
 
-Vous eurent l'idée de faire une priere de groupe, plus jeter de l'eau bénite sur le corps inerte du Wakabago.
+Drezenn Deven eut l'idée de faire une prière de groupe, et de  jeter de l'eau bénite sur le corps inerte du Wakabago.
 
 Tout à coup, un tourbillon de lumière émane du corps du Wakabago, et monte vers le ciel, illuminant le marais et une explosion de force qui blesse certains membres de votre groupe. Le bruit de la faune du Marais reprend son cours normal, indication pour vous que le Wakabago est mort.
 
@@ -179,7 +179,6 @@ Vous reprirent immédiatement la route vers l'église.
 
 ### Combat Final à l'église de Stuckshoe
 
-Note du DM : Roch n'a pas eu le temps de faire des image 3d pour cette rencontre épique.
 
 Vous réussirent à descendre sur une mauvaise île cela vous faisant perdre plus de 10 min.
 
@@ -197,19 +196,28 @@ Crendon aura pu entendre un garde répondant à un villageois qui voulait entrer
 
 Crendon lance un fracassement derrière les gardes pour casser le barrage et exploser la porte d'entrée.
 
-Les lackey de churr sont neutralisés par le souffle de l'explosion.
+Les lackey de churr sont neutralisés par le souffle de l'explosion, certains , dont Chur, étant projetés à l'intérieur de l'église.
+
+![[Pasted image 20241120105709.png]]
 
 Crendon rentre dans l'église et remarque que:
 - le père Kenlen est en train de faire un sermon devant une assemblée de plusieurs villageois complètement ébétée, voire pour certains endormis. Il s'agit de l'effet du Punch du Père Kenlen qui a saoulé et drogué ceux qui en ont bu un demi-verre.
 - La maire Joleen est aussi dans l'église, sous emprise du punch, ainsi que Mayra Butcher, accompagné de Furdner Butcher. (ce dernier est aussi sous l'emprise de la drogue mise dans le punch)
 
+![[Pasted image 20241120105752.png]]
+
 Credon lance un parchemin de silence ciblé sur le père Kenlen. Cette action aura été clé pour interrompre le rituel d'invocation de Gloozinbile the Avatar of Rot.
 
-Le groupe entre dans l'église.
+![[Pasted image 20241120105828.png]]
+![[Pasted image 20241120105842.png]]
 
 Fior fait une AO sur Churr 20 avec Cleaver : -23 pdv
 
+![[Pasted image 20241120110032.png]]
+
 Le père Kenlen qui ne peut plus compléter son rituel, se dirige vers l'une des portes arrière de la salle principale, et ouvre la porte. 10 zombies "Rooted Walkers" sont lachés sur vous.
+
+![[Pasted image 20241120110052.png]]
 
 Crendon lance un fracassement dans la pièce des zombies, ce qui était bien jouée, encore une fois.
 
@@ -241,6 +249,11 @@ Fin de combat - il est 2h30 IRL et 13h30 dans le jeu.
 j'ai eu beaucoup de plaisir à préparer et dérouler ces 3 rencontres. le résultat était clairement atteint. je n'ai jamais eu autant de feedbacks positifs après une session, et je vous en remercie encore car cela m'a fait et me fait toujours chaud au coeur, c'est motivant. Comme quoi, les combats, c'est important d'en mettre, mais avec une intensité, et des combats qui ont un sens. (pas un simple : vous tombez devant un monstre).
 
 RDV le 22 novembre pour la reprise du scénario après 5 mois moins une semaine d'arrêt, vraiment indépendant de ma volonté. that's life. J'espère ne jamais avoir a reproduire une pause aussi longue dans la campagne. Il y a tant à faire encore.
+
+### Zoom sur Monde
+le cercle rouge indique où vous êtes actuellement.
+
+![[map-chapter4-session07.pdf]]
 
 
 

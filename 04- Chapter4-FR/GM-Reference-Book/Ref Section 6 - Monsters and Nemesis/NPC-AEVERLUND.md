@@ -86,6 +86,8 @@ La vérité est que Drusrella est morte il y a quelques années et qu'elle est d
 Vorgun avait d'autres projets de vie que de préparer les repas d'un noble oublié dans les terres sauvages du sud de la République. Cependant, une série de mauvaises décisions l'ont éloigné des principales colonies où il aurait pu être reconnu. Et, après tout, son habileté avec les couteaux se traduisait étonnamment bien en talent de cuisinier. Il s'avère qu'il a un bon palais pour les différentes herbes et épices, ce qu'il n'aurait jamais découvert dans son travail précédent. C'est ainsi qu'il prépare un impressionnant éventail de plats exotiques et décadents pour Lord Creston, ainsi qu'un repas suffisamment copieux pour satisfaire les autres membres du personnel. Mais les vieilles habitudes ont la vie dure, et Vorgun s'est retrouvé entraîné dans les intrigues diaboliques qui imprègnent le domaine d'Aeverlund. Recruté par la secte, il a été chargé de préparer des préparations moins savoureuses que d'habitude et de remettre ses couteaux au travail. Au cours de son service auprès du précédent chef, Salvé Bonchon, il a appris l'existence d'un rituel permettant d'acquérir les compétences culinaires de l'ancien chef. Malheureusement pour Bonchon, il s'agissait de préparer et de consommer le cerveau de Bonchon dans le cadre d'une recette extrêmement difficile. Mais à ce stade, un tel acte n'inquiète guère Vorgun, qui l'a exécuté il y a déjà un certain temps. Heureusement pour l'aspirant cuisinier, il semble que cela ait plutôt bien fonctionné.
 
 
+
+
 ## Les fantômes les plus sympathiques
 
 ### Bloosky Brendle 
@@ -111,6 +113,8 @@ Almred Drann était un demi-elfe originaire de Prondadol qui a passé les premi�
 Almred décida de rentrer chez lui plus tôt que prévu et, bien que Creston fût contrarié de le laisser partir, il accepta de le renvoyer avec un bon salaire pour sa famille. Cependant, alors qu'Almred tentait de partir, la secte le traqua, le tua et donna son corps en pâture à l'engeance vile de Zanvitchu. Aujourd'hui, Almred est enfermé dans le manoir sous forme d'esprit. Il a tendance à s'attarder dans la salle à manger privée et dans les autres endroits où il a servi Lord Creston. Il est naturellement attristé par son sort, ce qui le rend silencieux et stoïque, mais il reste un bon juge de caractère et espère désespérément être libéré, ne serait-ce que pour s'arranger pour que quelqu'un s'occupe d'Elosia, de Nadi et de Tamen.
 
 
+
+
 ## Les fantômes peu amicaux
 
 Les fantômes peu sympathiques devraient vous procurer, à vous et à vos joueurs, beaucoup de plaisir dans le prochain chapitre, car le manoir Hrumm devient une base d'opérations pour le groupe. Dans l'immédiat, cependant, ils seront surtout ennuyeux et odieux.
@@ -130,6 +134,8 @@ Doozen Fulbitz était l'assistant d'Heronius Hrumm à la fin de sa vie, et il es
 
 ### Sayndra Sheels (57)
 Sayndra Sheels était, selon les critères de presque tout le monde, une femme remarquablement attirante, un fait qui a sans aucun doute influencé la décision d'Heronius de l'engager comme gouvernante en chef. Il n'était pas non plus surprenant qu'elle finisse par devenir la maîtresse d'Heronius, et beaucoup se demandaient pourquoi sa femme Felina n'était pas intervenue plus tôt. Peut-être avait-elle d'abord cru que son intérêt pour Sayndra était occulte plutôt que charnel, puisque le couple avait séduit ensemble plusieurs jeunes femmes à Darkenhaven, toutes utilisées dans de sombres rituels. Mais lorsque Felina comprit qu'Heronius avait des relations sexuelles avec la gouvernante, elle demanda à Kastrenna de préparer un poison mortel et de le mettre dans le verre de vin de Sayndra, ce qui eut un effet mortel immédiat. Par la suite, Heronius et Felina parvinrent à une sorte d'entente, Heronius ne prenant plus de maîtresse. Quant à Sayndra, son esprit s'attarde au manoir, généralement dans le fumoir, où elle tente de goûter aux plaisirs de la vie. Elle est assez coquette et se montre amicale avec ceux qui lui rendent la pareille.
+
+
 
 
 

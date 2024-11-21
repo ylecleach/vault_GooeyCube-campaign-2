@@ -11,7 +11,7 @@ Faites monter la tension de la tempête dans l'esprit des joueurs... en commenç
 
 ### A PENSER 
 	
-  *  quete du personnage CONTACT (Denis) lorsqu'il est seul : [[Continuing Secrets]] (pas fait)
+  *  quete du personnage CONTACT (Denis) lorsqu'il est seul : [[remote-vault/03 - Chapter3-FR/09-GM REFERENCE BOOK/Sections de Référence/Ref Section 7 - Major Player Secrets/Continuing Secrets]] (pas fait)
   * Brandele porte le sceau de Wardane: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois qu'il sera surpris au début d'un combat, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières.
   * Fior / Maxime : penser à appliquer les bonus/malus de la quete de Norcreus : voir sur sa page [[08 - Clerc nain - F'ior Lightbeard]]
 

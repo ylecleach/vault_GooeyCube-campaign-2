@@ -1,16 +1,33 @@
+
+### Visions-Rêves
+* [ ] [[Continuing Secrets (chapter4)#L'appel de la pierre (PC Muugda)]]
+* [ ] [[Continuing Secrets (chapter4)#La Carte du Fou (Le Trick PC)]] - erwan - Long Couloir (1-4)
+* [ ] [[chapter 4 - Dream Freedom Light]] : pour Roch quand **Leaving Stuckshoe**
+* [ ] [[chapter 4 - Dream The Attuned#Vision 1 Echos du passé]]: maxime - moment de calme, comme lorsque le groupe attend de parler à Creston, ou passe un moment tranquille dans l'une des salles communes du manoir
+* [ ] [[chapter 4 - Dream The Attuned#Vision 2 La mort de Zerben]]: si maxime regarde par une fenêtre, prêt d'une fenêtre sur le front principal du manoir.
+* [ ] [[chapter 4 - Ethernic Echoes]]: rêve pendant l'une des nuits où les joueurs dorment dans le manoir de Hrumm. 
+* [ ] [[chapter 4 - Vision - The Trick#Vision 1 An Unfriendly Reminder]]:lorsque les brumes se refermeront autour du groupe à l'approche d'Aeverlund. Cependant, cela fonctionnera également s'ils se promènent sur le terrain après leur arrivée, ou même s'ils regardent par l'une des nombreuses fenêtres du manoir. 
+* [x] [[chapter 4 - Dreams Muugda player]] : les deux rêves ont été faits
+* [x] première ou seconde nuit à Bog Town: [[chapter 4- Dream Luck's Hand]] => Dream 1 (Denis-Hurranan)
+### A penser PJ
+* KILLER : va-t-il rejoindre son maître ? des tests à faire.. Amine doit faire preuve d'imagination pour le récupérer. pour le moment, il reste avec Fior.
+* **Gant Maudit de Corrinee** : à déclencher en situation de stress.[Gant de Maladresse](https://regles-donjons-dragons.com/page1502.html) qui se comporte comme des gants de dextérité +2 avant que le curse ne commence. (situation critique de danger)
+* (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières. peut lui sauver la vie contre une attaque des assassins.
+
+
 ### En début de partie / références
 
 * GooeyReward: pour le Bravda qui a bien géré le groupe la dernière fois.
 * Références: [[Règles DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-BOGTOWN]]
+* [[NPC-AEVERLUND]]
 * * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés
 * [[Blackrot Bog and Environs]]: pour aider à décrire les marais, faunes et flores.
-* rappeler que les shizzats et la magie ne sont pas bien vu dans Bog Town.
 * - Mage : expliquer qu'il peut scribe un sort pendant chaque repo long. (règle spéciale)
 * [[Theros Vegla]]:  voir préciser ses objectifs pendant la session
 
-**Contexte (DM)**
+## Contexte (DM)
 En supposant que le groupe ait éliminé les Bouchers et mis fin aux horribles événements de la chapelle du père Kenlen, ils sont probablement des héros pour la ville. Certains des individus non corrompus (comme Otis, Sundra Strikenston, Condy et Salansy Boggenfoots, Hansoo l'homme-oiseau, Herbert et, plus particulièrement, Feansal, Shurna et Amancia) prendront la tête de la réorganisation de la ville.
 
 En fonction de qui est encore en vie et en bonne santé après les événements effrayants, beaucoup de choses changeront dans le petit village. Si le maire **Joleen** et Turdig **sont** encore là, ils seront **bannis** (et pourraient réapparaître plus tard, n'est-ce pas ?)
@@ -38,14 +55,15 @@ Note : La vision dans le noir ne pénètre pas le brouillard, et les lanternes c
 
 ### Introduction
 - Nous sommes le 19th du mois de Dezu'un de l'année SC 1212, et il est environ 13h30
+- Rappeler la carte du monde
 - Vous venez de finir le combat final dans l'église contre Le père Kenlen et ses sbires et zombies (voir résumé).
-- Vous avez pleins de prisoniers
+- Vous avez pleins de prisoniers qu'il faut gérer (ou pas)
 - Vous êtes amis avec pas mal de NPC alliés.
 - Alliés présents: Amancia et Hansoo, Tanner, Sundra la forgeronne, feansal, shurna, Dresin l'elfe des bois ranger à la peau sombre.
 	- Prisonner: Big Daddy Butcher et Ether sa femme, Jeddidibuh, Frenden Falsenflams
 * RDV : vos alliés elfes  noirs vous donnent rendez vous dans six jours à l'extrémité nord-est du Passage du Roi** (King's Crossing sur la carte)
 
-Redécrire l'ambiance dans l'église:
+Redécrire l'ambiance dans l'église SI BESOIN
 
 **En entrant, l'odeur capiteuse de l'encens qui brûle est une bonne nouvelle après la puanteur nauséabonde de la tourbière. Un autel est placé contre le mur du fond, au-dessus duquel est suspendu un grand soleil orangé à neuf rayons, avec un heaume fermé en son centre. 
 
@@ -77,7 +95,14 @@ Entrepot de Stuckshoe
 Prison
 * le constable Flynn a été mis en prison par Azarda
 
-### Evenements proche
+En gros, pas la peine de faire perdre du temps dans Stuckshoe, les joueurs ont déjà passé bcp de temps.
+
+### Timeline Sur la route départ de Stuckshow
+* [[01-Le départ]]
+* [[chapter 4 - Dream Freedom Light]] : pour Roch quand **Leaving Stuckshoe**
+* [[02-Moment de réflexion-vision hanatique#Une Vision Mystérieuse (Muugda player)]]
+* [[03-Bugbear Ambush]]
+* [[02-Moment de réflexion-vision hanatique#Voir des fantomes (player Attuned)]]
 
 
 
@@ -85,33 +110,6 @@ Prison
 * [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
 * [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
 
-### A PENSER-PJ
-* KILLER : va-t-il rejoindre son maître ? des tests à faire.. Amine doit faire preuve d'imagination.
-* Gant Maudit de Corrinee : à déclencher en situation de stress.[Gant de Maladresse](https://regles-donjons-dragons.com/page1502.html) qui se comporte comme des gants de dextérité +2 avant que le curse ne commence. (situation critique de danger)
-* (Once) : Brandele porte le sceau de Wardane: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières. peut lui sauver la vie contre une attaque des assassins.
-
-### A PENSER-NPC
-
-* Braenda Macintarn et Norden Barve => vont prendre la tangente assez vite, et peut etre retournerons dans les aventures
-* Constable Flynn (Good, anti-butcher), et son bras droit Andos Arzada (CN- corrompu, enclin Shiners/Butchers)
-* les 3 pêcheurs Hurpnik, Zella et Tomm (drôle de couples à trois et bien bourée !)
-	* Ellis la commercante (culte de Kenlen)
-	* La Mairesse Joleen Horster et Turdig le nain amant et garde du corps. (en grippe avec les Butchers)
-	* Mayra Butcher (seconde compagne du Père Kenlen) - à la chapelle ou à la taverne
-	* Killer le Molosse aime bien Furdner Butcher, mais pas Filthy Floyd ou Little Doffer
-
-Autres méchants sur le coude:
-
-* ***Blarge McFarney :** Le chef des voyous de Churr que le groupe pourrait rencontrer dans la tourbière ou ailleurs.
-* **Varden Farkinson** et **Cassie "Broke-nose" Borfendown** : Un couple de Churr's Thugs.
-* **Doogie**, **Jezabelle**, et **Gorfis Butcher** : Trois autres membres du clan Butcher en visite depuis l'extérieur de la ville.
-* **Blustish** et **Yappren Mudderston** : Deux jeunes voyous en herbe qui pourraient suivre la fête ou essayer de cambrioler leurs chambres. Ils sont frères et vivent dans la tourbière. 
-* **Gravendook** **Hamberdangles** : Un voyou Sofling qui se cache dans la Bog Town après un casse à Prondadol.
-
-
-# Dream ou visions à penser
-
-* [ ] pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Dream Freedom Light]]
 
 
 

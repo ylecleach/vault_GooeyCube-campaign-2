@@ -1,3 +1,4 @@
+
 | Player Name | Character               | Class.         | Major Secrets                           |
 | ----------- | ----------------------- | -------------- | --------------------------------------- |
 | Denis       | Hurannan Banai          | Fighter        | Luck's HAND (chosen of Kizmya), CONTACT |
@@ -5,9 +6,9 @@
 | Erwan       | Drezen Deven            | Agent of Jinxx | THE TRICK                               |
 | Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
 | Frederic    | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
-| Amine       | Glynn Wether            | Ranger         | LUMIERE DE LA LIBERTE                   |
+| Amine       | Glynn Wether            | Ranger         | ~~LUMIERE DE LA LIBERTE~~               |
 | Carole      | Credon Charn            | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
-| Roch        | Corrinee Ay'Yava        | Rogue          |                                         |
+| Roch        | Corrinee Ay'Yava        | Rogue          | LUMIERE DE LA LIBERTE                   |
 
 | Character        | PV MAX | Perception | AC  | bonus init          | Align   | niv 4 |
 | ---------------- | ------ | ---------- | --- | ------------------- | ------- | ----- |
@@ -19,20 +20,23 @@
 | Glynn            | 54     | 2          | x   | 2                   | CG      | yes   |
 | Crendon          | 37     | 0          | 17  | 4+3                 |         | yes   |
 | Fior             | 62     | 4          | 22  | 1                   | NG      | yes   |
-| Corrinee Ay’Yava |        | 4          |     |                     |         |       |
+| Corrinee Ay’Yava |        | 4          |     |                     |         | yes   |
 | Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 
-liste emails : denisperson@yahoo.fr, bracasse@hotmail.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com
+liste emails : denisperson@yahoo.fr, bracasse@hotmail.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr 
 
-Joaquim 06 52 36 28 89 j.senouni@gmail.com => a joué Crendon Charn pour le chapter 2 (niv 1 à 2), quitte le groupe en aout 2023
-Sofiane 06 33 70 53 70 Sofiane.zeghlache@gmail.com => a joué Drezen Devenn pour le chapter 2 (niv 1 à 2), quitte le groupe en aout 2023
+Joeur précédents:
+
+- Joaquim 06 52 36 28 89 j.senouni@gmail.com => a joué Crendon Charn pour le chapter 2 (niv 1 à 2), quitte le groupe en aout 2023
+- Sofiane 06 33 70 53 70 Sofiane.zeghlache@gmail.com => a joué Drezen Devenn pour le chapter 2 (niv 1 à 2), quitte le groupe en aout 2023
 
 25 aout 2023 : deux nouveaux joueurs/joueuses
 Caroline Bonneric (femme de Fred): mailto:carole.bonneric@gmail.com, discord cassiopee008, 0606663775
 Erwan Bodez (contact de Denis) : erwannbo@gmail.com
 09 février 2024: nouveau joueur (à ma demande)
 Roch Menigoz : rmenigoz@yahoo.fr
+
 
 
 

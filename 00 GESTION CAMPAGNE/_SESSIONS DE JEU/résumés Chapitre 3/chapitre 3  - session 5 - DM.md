@@ -39,7 +39,7 @@ autre salle non faite :
 - visions du muugda (programmée dans l'aventure)
 - apparition très fugace (coin de l'oeil)  du dieu jinxx à un joueur, pendant un combat lors que Dreven (Elu de Jinxx) tue un adversaire.
 - au retour, faire la rencontre avec le vendeur ambulant:
-	- pendant cette rencontre, lancer la première quete du personnage CONTACT (Denis) lorsqu'il est seul : [[Continuing Secrets]]
+	- pendant cette rencontre, lancer la première quete du personnage CONTACT (Denis) lorsqu'il est seul : [[remote-vault/03 - Chapter3-FR/09-GM REFERENCE BOOK/Sections de Référence/Ref Section 7 - Major Player Secrets/Continuing Secrets]]
 - Au retour, lorsque Drezen s'entretiendra avec Mère, elle lui confiera une Dagger of Jinxx +1 (magique-cf page 76 Magicka). Elle lui confiera qu'elle a eu une vision où elle vit Jinxx et toi dans le même rêve, en train de combattre Flemmeretch à la Dague, arme préférée de Jinxx.
 		
 

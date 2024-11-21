@@ -9,7 +9,7 @@ Le Muugda sera un peu en retrait parmi les visions de ce chapitre, du moins une 
 **À un moment donné, au milieu de cette confusion, une seule silhouette commence à se dessiner avec des détails précis, alors que tout ce qui vous entoure reste vague. Au départ, elle semble avoir l'apparence d'une souche pourrie, à moitié enfoncée dans le sol boueux. Cependant, quelque chose dans les crêtes noueuses et les nœuds contorsionnés suggère un cadre sinistre, jusqu'à ce que vous ne puissiez pas vous empêcher de voir un visage hideux qui vous regarde. Des asticots rampent dans le bois tendre et pourri, laissant des plaies dans l'horrible visage qui suintent d'une sève noire et ichoreuse. Vous avez l'impression que cette abomination est une idole, qui a été témoin d'un nombre incalculable d'éons d'histoire, attendant avec une patience infinie que vous arriviez. Un gargouillis profond emplit vos oreilles, comme si l'effroyable icône parlait, mais le son vous retourne l'estomac et vous ne comprenez pas. Avant que vous ne puissiez en savoir plus, vous vous sentez tomber et vous vous réveillez en sursaut dans votre lit.
 
 
-### Dream 2 - la prophétie se répète
+### X Dream 2 - la prophétie se répète
 
 Étant donné l'importance des paroles de la prophétie que le P.C. Muugda a déjà entendues, il serait bon qu'elles se répètent sous la forme d'un rêve qui ne soit pas entouré de toutes les autres "choses". Au moment que vous jugerez opportun dans ce chapitre, lisez ce qui suit au PC Muugda en privé.
 

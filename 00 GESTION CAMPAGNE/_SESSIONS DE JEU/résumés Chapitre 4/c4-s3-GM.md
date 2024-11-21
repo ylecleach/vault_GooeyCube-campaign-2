@@ -77,7 +77,7 @@ Bien relire [[02-Running the Town]] sur les découpages de journée type.
 * première ou seconde nuit à Bog Town: [[chapter 4 - Dreams Muugda player]] => Dream 1 (Gerald-Cydir)
 * première ou seconde nuit à Bog Town: [[chapter 4- Dream Luck's Hand]] => Dream 1 (Denis-Hurranan)
 * troisième nuit à Bog Town : Dream 2 (Gérald-Cydir) : [[chapter 4 - Dreams Muugda player]] cela rendra encore plus intense le jour suivant.
-* pendant Leaving Stuckshoe : Amine vera [[chapter 4 - Dream Freedom Light]]
+* pendant Leaving Stuckshoe : xxx vera [[chapter 4 - Dream Freedom Light]]
 
 
 ## Town or Bog
@@ -168,7 +168,7 @@ Que le vénérable Fla.. vous accorde son immonde bénédiction.
 ### A PENSER  xxx
 * Murton : remplacer la zone N par la zone W + X si besoin car il est intéressant de rencontrer ce NPC. (présent au chapitre 4)
 * caser la [[NLE-07-The Knothole]] : pipe magique de Sundruun.
-* quete du personnage CONTACT (Denis) lorsqu'il est seul : [[Continuing Secrets]] (pas fait)
+* quete du personnage CONTACT (Denis) lorsqu'il est seul : [[remote-vault/03 - Chapter3-FR/09-GM REFERENCE BOOK/Sections de Référence/Ref Section 7 - Major Player Secrets/Continuing Secrets]] (pas fait)
 * Brandele porte le sceau de Wardane: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois qu'il sera surpris au début d'un combat, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières.
 * Fior / Maxime : penser à appliquer les bonus/malus de la quete de Norcreus : voir sur sa page [[08 - Clerc nain - F'ior Lightbeard]]
 

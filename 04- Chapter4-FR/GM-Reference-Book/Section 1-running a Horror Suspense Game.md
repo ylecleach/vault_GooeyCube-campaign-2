@@ -76,6 +76,7 @@ Ceci est particulièrement important pour les rencontres de combat. Ne les laiss
 Dans ce cas, le tic-tac de l'horloge est la distance du conflit et le temps que le MJ leur accorde pour prendre une décision.
 
 En tant que MJ, vous essayez de connecter le joueur à son personnage en augmentant la menace et le danger pour les personnages et en les imposant aux joueurs. Ils doivent réagir dans leur personnage pour faire face à la menace. Les joueurs ressentent cette pression intense parce qu'ils n'ont pas le temps de prendre une décision pour des personnages qui sont dans une situation de danger immédiat. Cela leur donne une idée de l'anxiété que leurs personnages devraient ressentir à ce moment-là. Si vous le faites bien, vous aurez réussi à connecter les joueurs à leurs personnages, l'histoire semblera plus réelle et les conséquences auront désormais un sens. En résumé, poussez l'action, n'attendez pas vos joueurs.
+
 ## Qui a peur du noir ?
 L'adage "moins, c'est plus" est l'un des meilleurs conseils qu'un MJ puisse recevoir lorsqu'il s'agit de raconter une histoire vraiment effrayante et terrifiante. Même avec une participation limitée mais convaincante du MJ, l'imagination des joueurs évoque tout ce dont ils ont besoin. Par exemple, imaginez que vous entendez un bruit à l'extérieur.
 

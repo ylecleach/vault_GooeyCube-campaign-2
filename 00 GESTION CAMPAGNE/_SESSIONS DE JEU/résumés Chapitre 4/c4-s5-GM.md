@@ -252,7 +252,7 @@ NPC présents:
 ### A PENSER  xxx
 * Murton : remplacer la zone N par la zone W + X si besoin car il est intéressant de rencontrer ce NPC. (présent au chapitre 4)
 * caser la [[NLE-07-The Knothole]] : pipe magique de Sundruun.
-* quete du personnage CONTACT (Denis) lorsqu'il est seul : [[Continuing Secrets]] (pas fait)
+* quete du personnage CONTACT (Denis) lorsqu'il est seul : [[remote-vault/03 - Chapter3-FR/09-GM REFERENCE BOOK/Sections de Référence/Ref Section 7 - Major Player Secrets/Continuing Secrets]] (pas fait)
 * Fior / Maxime : penser à appliquer les bonus/malus de la quete de Norcreus : voir sur sa page [[08 - Clerc nain - F'ior Lightbeard]]
 
 
