@@ -8,5 +8,6 @@ Son collier porte une étiquette avec le mot "**Sculper**" d'un côté, et de l'
 
 Les tonneaux sont tous estampillés des mots "Brigh'stone Brewery, Dragon's Cross" et d'un symbole de pierres brillantes. Il y a quelques semaines, ce chariot a été attaqué par un troll des tourbières, qui s'est emparé de son conducteur et de ses chevaux. Sculper était un animal de compagnie bien-aimé de Ragnar, qui apprécierait beaucoup que le collier lui soit rendu un jour.
 
+	DC connaissance region DC 12
 Note : Mu'uz Derron est l'ancien vestige en ruine de la grande cité volante éthernienne de **Telsenthradd**, qui volait dans les cieux avant le Malheur de la Ruine en utilisant les pouvoirs d'incroyables magies. Lors du grand cataclysme, la cité s'est complètement retournée et est tombée lentement à la surface de Zyathé. Aujourd'hui, elle infiltre les résidus de ses magies corrompues dans les cours d'eau qui coulent sur ses flancs. Celles-ci se combinent pour former la rivière Murkflow, qui se jette dans la tourbière Blackrot et est à l'origine des étranges phénomènes qui s'y déroulent.
 

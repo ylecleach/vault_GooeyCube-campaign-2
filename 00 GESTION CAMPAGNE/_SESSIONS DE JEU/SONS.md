@@ -12,7 +12,6 @@
 - DONJON 1 (goutte d'eau, bat) https://rpg.ambient-mixer.com/fantasy-dugeon
 - DONJON 2 (plainte de monstres, fantomes) https://rpg.ambient-mixer.com/dungeon-atmsophere-2
 - DONJON 3 (cave, goutte d'eau, peur, bat) : https://rpg.ambient-mixer.com/curse-of-strahd--death-house
-- FEU DE CAMP : https://rpg.ambient-mixer.com/rpg-campfire
 - PARTY CAMP : https://videogames.ambient-mixer.com/party-camp
 - HAUNTED FOREST : https://rpg.ambient-mixer.com/haunted-forest---night
 - CREEPY Ambiance : https://rpg.ambient-mixer.com/death-house---curse-of-strahd

@@ -8,6 +8,8 @@ Lorsque le groupe atteint la chaussée, montrez le Document 34 : La Traversée d
 
 ![[Pasted image 20240518081310.png]]
 
+	Faire test de connaissance de la region DC 16
+
 Note : Jusqu'ici, la Route du Roi contournait la tourbière de Blackrot, se frayant un chemin à travers la forêt adjacente pour éviter le marais lui-même.Mais ici, la tourbière s'étend trop au sud-est, et la contourner ajouterait plusieurs jours de voyage pour atteindre Prondadol et au-delà.Ainsi, dans les premiers jours de la République de Zyranthea, une chaussée traversant Blackrot a été construite à un coût non négligeable en argent et en vies - deux choses que la nation naissante ne pouvait pas se permettre d'épargner. Mais relier les nombreuses villes signataires de la République était d'une importance capitale si la nouvelle nation voulait survivre aux épreuves qu'elle ne manquerait pas de subir de toutes parts.Les eaux magiques de la tourbière gardent les températures ambiantes plus chaudes que prévu, et ne gèleront pas malgré la neige au sol.Le pont-jetée peut cependant être recouvert de glace. Si vous avez envie de commencer la journée en beauté, c'est peut-être l'endroit idéal pour un NSRE mortel.
 
 # Traverser la chaussée

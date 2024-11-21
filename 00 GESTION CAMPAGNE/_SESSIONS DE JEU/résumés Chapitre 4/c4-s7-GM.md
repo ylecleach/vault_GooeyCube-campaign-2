@@ -17,7 +17,6 @@
 
 ### En début de partie / références
 
-* GooeyReward: pour le Bravda qui a bien géré le groupe la dernière fois.
 * Références: [[Règles DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-BOGTOWN]]
@@ -61,7 +60,7 @@ Note : La vision dans le noir ne pénètre pas le brouillard, et les lanternes c
 - Vous êtes amis avec pas mal de NPC alliés.
 - Alliés présents: Amancia et Hansoo, Tanner, Sundra la forgeronne, feansal, shurna, Dresin l'elfe des bois ranger à la peau sombre.
 	- Prisonner: Big Daddy Butcher et Ether sa femme, Jeddidibuh, Frenden Falsenflams
-* RDV : vos alliés elfes  noirs vous donnent rendez vous dans six jours à l'extrémité nord-est du Passage du Roi** (King's Crossing sur la carte)
+- ***RDV : vos alliés elfes  noirs vous donnent rendez vous dans six jours à l'extrémité nord-est de la Chaussée du Roi au Camp du Roi***
 
 Redécrire l'ambiance dans l'église SI BESOIN
 
@@ -101,13 +100,31 @@ En gros, pas la peine de faire perdre du temps dans Stuckshoe, les joueurs ont d
 * [[01-Le départ]]
 * [[chapter 4 - Dream Freedom Light]] : pour Roch quand **Leaving Stuckshoe**
 * [[02-Moment de réflexion-vision hanatique#Une Vision Mystérieuse (Muugda player)]]
-* [[03-Bugbear Ambush]]
+* [[03-Bugbear Ambush]]: première rencontre - pas trop de challenge
 * [[02-Moment de réflexion-vision hanatique#Voir des fantomes (player Attuned)]]
+* [[04-The King's Highway]] : illusion du choix si nécessaire si jamais vont vers prondadol ou nevermore
+	* si vers nevermore: [[LET-04-Ruined Roadside Shrine (road, uniq ocur)]]
+	* si vers nevermore: [[NLE-05-The Ancient Tree (road, unique occur)]] : pas urgent de faire mais bien plus tard (contexte sur complot andvalla)
+* [[05-Arrivée au campement]]: arrivée dans une clairière, le soir. avant de traverser 
+	* faire [[NLE-01-The Red Star (once, Road)]] : très court une fois installé
+* [[06-Une visite norturne]]
+* [[07-The King's Crossing]]
+	* après 10 min sur la Chaussée du Roi, faire [[LET-05-Suspicious Travelers (road, uniq occur)]] (optionel si le temps): parle des Spectres Gris, rebelles de l'andvalla. prend du temps.
+* [[08-Le wagon brisé]] : rapide
+* [[09-Nature's Laws]] : rapide
+* [[10-la Clairière du nord (Camp du Roi)]]: seconde nuit. message trouvé. Le groupe bascule ensuite dans la seconde partie.
+* [[02-Two on the Road]]
+* [[03-Brigands Ahoy]] : 10 brigants pas très costaud. (seconde rencontre)
+* [[04-The Young Traveler]]
+* 
+* 
 
 
 
 ### Musique d'ambiance spécifique
 * [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
+* FEU  DE CAMP GIPSY : https://rpg.ambient-mixer.com/ravenloft-gypsy-camp
+* PARTY CAMP : https://videogames.ambient-mixer.com/party-camp : plus calme
 * [Dark Swamp - exploration ou nuit (avec des bruits de wakabago)](https://www.youtube.com/watch?v=kzBx8TWcrG4)
 
 

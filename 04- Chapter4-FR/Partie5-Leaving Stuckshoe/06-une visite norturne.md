@@ -2,21 +2,21 @@ Le MJ peut recentrer les joueurs en demandant quel personnage prendra le premier
 
 Elle doit également se dérouler en deux parties, le MJ alternant entre deux joueurs : le personnage de garde et le personnage accordé. 
 
-**Vous pouvez le faire en privé ou autour d'une table** (si votre groupe ne fait pas trop de méta-jeu). Lisez ou paraphrasez ce qui suit au PC de garde.
+	**Vous pouvez le faire en privé ou autour d'une table** (si votre groupe ne fait pas trop de méta-jeu). Lisez ou paraphrasez ce qui suit au PC de garde.
 
 **Il est difficile d'évaluer le temps qui s'est écoulé depuis que vous avez commencé votre tour de garde - peut-être une heure, selon vos meilleures estimations. Le ciel nocturne est nuageux et vous ne pouvez voir ni Luneós, ni d'autres lunes ou étoiles. Le ciel nocturne est nuageux et on ne voit ni Luneós, ni aucune autre lune, ni aucune étoile. L'air est humide et glacial, le froid traverse vos couches emmitouflées. Mais par chance, il y a peu ou pas de brise - probablement une bénédiction de Kizmya.
 
-A peu près au même moment, le PC accordé (attuned player) devrait faire un rêve ou avoir une vision qui commence comme suit : 
+	A peu près au même moment, le PC accordé (attuned player) devrait faire un rêve ou avoir une vision qui commence comme suit : 
 
 **comme tant de nuits ces derniers temps, votre sommeil est agité, mais vous ne pouvez pas y échapper non plus. Vous vous trouvez aux portes d'un grand manoir. Le même grand manoir que dans le rêve éveillé que vous avez fait juste après avoir quitté Stuckshoe. Il se profile à nouveau devant vous, sinistre et imposant, son ombre vous engloutissant là où vous vous trouvez. Vous pouvez sentir la douleur, l'angoisse et la malveillance de cet endroit. Vous sentez la peur, votre propre peur, monter en vous. Vous voulez fuir, vous cacher, mais la peur commence à vous submerger et la panique s'empare de vous. Vous essayez de vous réveiller, mais vous ne pouvez pas....
 
-Quelque temps plus tard, peut-être après quelques "hululements et hurlements" dans la forêt brumeuse, le PC de garde notera ce qui suit : 
+	Quelque temps plus tard, peut-être après quelques "hululements et hurlements" dans la forêt brumeuse, le PC de garde notera ce qui suit : 
 
 **une silhouette solitaire dissimulée dans une cape à capuchon marche le long de la route en direction de la chaussée. Mais vous n'entendez aucun bruit de leurs pas sur le gravier, la neige et la glace. Une lanterne, suspendue à un bout de bois tordu que le voyageur tient dans sa main, est la seule source de lumière, quoique faible. Le brouillard s'écarte au fur et à mesure que la silhouette avance, comme si sa seule présence la gênait, et pourtant le brouillard résiste, s'enroulant autour de son ennemi, essayant de le dévorer. Le voyageur poursuit sa route vers la chaussée et se retourne pour regarder dans votre direction. C'est une jeune femme. Que faites-vous ? 
 
 Le PJ de garde peut essayer de parler au voyageur sur la route ou de réveiller le reste du groupe. Une fois que le PJ de garde a indiqué son action, **revenez au PJ Accordé** et lisez ou paraphrasez ce qui suit au personnage Accordé, peut-être même en insérant son nom à la place du mot "ami" lorsque les apparitions lui parlent. Vous pouvez ensuite leur donner le Document 33 : Un rêve d'elle. Mais il est sans doute préférable de le faire en direct.
 
-PC Accordé (Fior):
+	PC Accordé (Fior):
 **Le rêve se poursuit... apportant une peur et une panique anesthésiantes qui proviennent de l'intensité de la souffrance et du mal qui vous entourent dans ce lieu.
 dans cet endroit. Même en sachant qu'il s'agit d'un cauchemar d'un rêve ne vous donne aucun répit ni aucun sentiment de contrôle. Votre rythme cardiaque est rapide et vous ressentez le besoin impérieux de courir en criant hors du sombre domaine. Soudain, vous sentez que vous n'êtes pas seul. Au moment où vous réalisez que quelqu'un est derrière vous, une main se pose doucement sur votre épaule. Pourtant, malgré la douceur du contact, vous êtes effrayé, mais apparemment incapable de bouger.
 
@@ -26,9 +26,12 @@ dans cet endroit. Même en sachant qu'il s'agit d'un cauchemar d'un rêve ne vou
 
 **De plus, beaucoup ont besoin de votre aide dans les circonstances les plus difficiles. Je ne peux en dire plus. Que Jinxx soit votre guide, et que la déesse de la chance soit avec vous. "Vous ne voyez jamais son visage, mais le son de sa voix mélodieuse est quelque chose que vous n'oublierez jamais. Le champ de fleurs sauvages et les chariots commencent à disparaître. Les rires et la musique deviennent de plus en plus silencieux jusqu'à ce que vous n'entendiez plus rien, et finalement vous vous retrouvez dans l'obscurité, et même cela s'estompe pour vous endormir à nouveau. C'est le premier sommeil vraiment paisible et réparateur que vous avez eu depuis des jours.
 
-Maintenant, revenez au PC de garde. S'il tente de parler au voyageur, permettez-lui de le faire dans un effort de roleplaying. Si le PJ tente d'utiliser sa première action pour alerter le groupe, alors tous les autres peuvent se réveiller sauf le personnage à l'écoute. Quelle que soit l'action du PC de garde, lisez ou paraphrasez ce qui suit : Note : Même si les PJ essaient de la suivre, elle disparaîtra.
+	Maintenant, revenez au PC de garde. 
+S'il tente de parler au voyageur, permettez-lui de le faire dans un effort de roleplaying. Si le PJ tente d'utiliser sa première action pour alerter le groupe, alors tous les autres peuvent se réveiller sauf le personnage à l'écoute. Quelle que soit l'action du PC de garde, lisez ou paraphrasez ce qui suit : 
 
-PC de Garde:
+Note : Même si les PJ essaient de la suivre, elle disparaîtra.
+
+	PC de Garde:
 **Le capuchon de la voyageuse dissimule une grande partie de son visage dans des ombres aussi profondes que la nuit, mais on peut voir qu'elle sourit alors qu'elle poursuit sa route en direction de la Croisée des rois. Il y a un sentiment de paix et de chaleur dans ce doux sourire... un peu comme une mère donne à ses enfants lorsqu'elle les regarde avec fierté. La jeune femme reporte son attention sur la route, la lumière de la lanterne s'estompant à mesure que les brumes se resserrent autour d'elle. Avec sa cape entièrement relevée, elle se fond dans la nuit, et il n'y a plus que l'obscurité elle-même sur la route.
 
 Si le reste du groupe a été réveillé par le PC de garde, il a vu la femme masquée et encapuchonnée sourire et s'enfoncer dans l'obscurité brumeuse. Le personnage accordé reste endormi et devra être réveillé physiquement d'un repos très profond et paisible ; il sera le seul à comprendre ce qui s'est réellement passé cette nuit. Si quelqu'un tente de retrouver la Voyageuse le long de la route, il ne la trouvera pas, ni aucune preuve de son passage. S'ils en ont besoin, rappelez-leur les dangers de voyager la nuit, par des températures glaciales, avec le brouillard et la brume qui obscurcissent leur vision.
