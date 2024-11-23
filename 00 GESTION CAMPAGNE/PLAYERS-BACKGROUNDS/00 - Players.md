@@ -20,7 +20,7 @@
 | Glynn            | 54     | 2          | x   | 2                   | CG      | yes   |
 | Crendon          | 37     | 0          | 17  | 4+3                 |         | yes   |
 | Fior             | 62     | 4          | 22  | 1                   | NG      | yes   |
-| Corrinee Ay’Yava |        | 4          |     |                     |         | yes   |
+| Corrinee Ay’Yava | 27     | 4          | 17  | 6                   |         | yes   |
 | Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 

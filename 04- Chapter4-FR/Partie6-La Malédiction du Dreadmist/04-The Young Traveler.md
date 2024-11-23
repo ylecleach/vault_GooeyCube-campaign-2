@@ -57,7 +57,7 @@ Si on lui demande sa présence sur la route au niveau de la chaussée, elle rép
 Si, à un moment donné de la conversation, les PJ lui proposent de monter avec eux, lisez ou paraphrasez ce qui suit : 
 
 
-« Vous êtes très aimable et je vous suis reconnaissant de vous être arrêté pour moi. » Belaclimbs se lève comme si elle n'était pas étrangère à la conduite d'un tel chariot. « Merci de m'avoir aidée. Vous faites honneur à votre peuple. Que Kizmya vous guide dans votre voyage et que Jinxx vous protège sur le chemin que vous emprunterez. » Elle s'enveloppera étroitement dans sa cape, avec le capuchon presque entièrement relevé.
+**« Vous êtes très aimable et je vous suis reconnaissant de vous être arrêté pour moi. » Belaclimbs se lève comme si elle n'était pas étrangère à la conduite d'un tel chariot. « Merci de m'avoir aidée. Vous faites honneur à votre peuple. Que Kizmya vous guide dans votre voyage et que Jinxx vous protège sur le chemin que vous emprunterez. » Elle s'enveloppera étroitement dans sa cape, avec le capuchon presque entièrement relevé.
 
 Il est évidemment impossible de prévoir toutes les questions qui pourraient être posées à Belania, mais nous espérons vous avoir donné suffisamment d'éléments pour bien l'interpréter. Nous voulons que le groupe soit surpris par son ancien lieu de travail à Aeverlund et par tout ce qui s'y passe. 
 

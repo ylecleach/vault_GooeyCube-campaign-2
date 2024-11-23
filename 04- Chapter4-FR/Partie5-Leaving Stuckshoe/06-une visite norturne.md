@@ -4,7 +4,7 @@ Elle doit également se dérouler en deux parties, le MJ alternant entre deux jo
 
 	**Vous pouvez le faire en privé ou autour d'une table** (si votre groupe ne fait pas trop de méta-jeu). Lisez ou paraphrasez ce qui suit au PC de garde.
 
-**Il est difficile d'évaluer le temps qui s'est écoulé depuis que vous avez commencé votre tour de garde - peut-être une heure, selon vos meilleures estimations. Le ciel nocturne est nuageux et vous ne pouvez voir ni Luneós, ni d'autres lunes ou étoiles. Le ciel nocturne est nuageux et on ne voit ni Luneós, ni aucune autre lune, ni aucune étoile. L'air est humide et glacial, le froid traverse vos couches emmitouflées. Mais par chance, il y a peu ou pas de brise - probablement une bénédiction de Kizmya.
+**Il est difficile d'évaluer le temps qui s'est écoulé depuis que vous avez commencé votre tour de garde - peut-être une heure, selon vos meilleures estimations. Le ciel nocturne est nuageux et vous ne pouvez voir ni Luneós, ni d'autres lunes ou étoiles. L'air est humide et glacial, le froid traverse vos couches emmitouflées. Mais par chance, il y a peu ou pas de brise - probablement une bénédiction de Kizmya.
 
 	A peu près au même moment, le PC accordé (attuned player) devrait faire un rêve ou avoir une vision qui commence comme suit : 
 

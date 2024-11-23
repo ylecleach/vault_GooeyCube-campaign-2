@@ -31,11 +31,11 @@ En supposant que le groupe ait éliminé les Bouchers et mis fin aux horribles �
 
 En fonction de qui est encore en vie et en bonne santé après les événements effrayants, beaucoup de choses changeront dans le petit village. Si le maire **Joleen** et Turdig **sont** encore là, ils seront **bannis** (et pourraient réapparaître plus tard, n'est-ce pas ?)
 
-L'agent **Flynn** sera découvert dans la cellule de la prison et pourrait bien mentir pour se tirer d'affaire. **Sundra sera choisie comme maire "intérimaire" j**usqu'à ce que des élections en bonne et due forme soient organisées, et Shurna et Feansal prendront en charge les fonctions de police de la ville. 
+L'agent **Flynn** sera découvert dans la cellule de la prison et pourrait bien mentir pour se tirer d'affaire. **Sundra sera choisie comme maire "intérimaire" j**usqu'à ce que des élections en bonne et due forme soient organisées, et **Shurna et Feansal** prendront en charge les fonctions de police de la ville. 
 
 Quoi qu'il en soit, avant le départ des PJ, les bonnes gens de Stuckshoe festoieront avec eux dans l'auberge Sinkhole et remercieront les dieux d'avoir envoyé ce groupe de "libérateurs" pour les sauver tous d'une mort certaine. 
 
-Donnez un bon roleplay à cet événement, car le groupe mérite vraiment la gratitude de la ville. Peut-être les habitants leur demanderont-ils de rester, surtout s'ils ont appris la vérité sur le massacre de la troupe. Quoi qu'il en soit, quoi qu'il arrive au groupe à partir de maintenant, il aura des amis dévoués à Stuckshoe. Une fois le festin et les discours terminés, les PJ partiront probablement en quête de leur rendez-vous avec les agents de la Duna'hadrine.
+**Donnez un bon roleplay à cet événement**, car le groupe mérite vraiment la gratitude de la ville. Peut-être les habitants leur demanderont-ils de rester, surtout s'ils ont appris la vérité sur le massacre de la troupe. Quoi qu'il en soit, quoi qu'il arrive au groupe à partir de maintenant, il aura des amis dévoués à Stuckshoe. Une fois le festin et les discours terminés, les PJ partiront probablement en quête de leur rendez-vous avec les agents de la Duna'hadrine.
 
 [[01-Le départ]]
 
@@ -116,10 +116,6 @@ En gros, pas la peine de faire perdre du temps dans Stuckshoe, les joueurs ont d
 * [[02-Two on the Road]]
 * [[03-Brigands Ahoy]] : 10 brigants pas très costaud. (seconde rencontre)
 * [[04-The Young Traveler]]
-* 
-* 
-
-
 
 ### Musique d'ambiance spécifique
 * [Marais - Bog Town](https://www.youtube.com/watch?v=qgJV7dz4K1c)
