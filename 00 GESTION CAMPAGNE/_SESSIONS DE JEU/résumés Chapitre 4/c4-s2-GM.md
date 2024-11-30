@@ -1,5 +1,5 @@
 ### En début de partie
-* Références: [[Règles DM]], [[My Gooey Bad Table]]
+* Références: [[Règles Maisons du DM]], [[My Gooey Bad Table]]
 * redemander les alignements choisis si choisis
 *
 

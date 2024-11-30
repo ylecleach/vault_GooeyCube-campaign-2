@@ -5,7 +5,7 @@ One point pour le roleplay et les actions de Fior
 One for Drezen : pour sa lettre
 pour les autres : d20 : sur 18-20
 
-* Références: [[Règles DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Règles Maisons du DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-BOGTOWN]]
 * * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés

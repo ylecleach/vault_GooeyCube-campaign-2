@@ -1,5 +1,7 @@
 
 **Preparation Campagne**
+* [ ] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
+* [ ] discord: voir avec maxime pour avoir un chan privé par joueur.
 * [ ] Ajouter photo combat wakabago figurines dans le résumé chapitre 4 session 6
 * [ ] Event à caller pour 20 Dezzuun
 * [ ] Event à caller pour 22 Dezzuun

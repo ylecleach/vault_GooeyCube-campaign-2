@@ -1,0 +1,7 @@
+_(Manor, recurring)_
+Ce NSRE peut se produire plusieurs fois à différents endroits du manoir. N'hésitez pas à adapter ou à modifier son format en fonction de vos besoins. Ces événements sont de courte durée et ont pour but d'ajouter de la tension et du suspense. Ils peuvent être « vus et entendus » par un seul membre du groupe ou par tous, à la discrétion du MJ.
+1. **Vous entendez des pas de bottes lourdes qui descendent le couloir juste derrière la porte de cette pièce. Talon-pointe, talon-pointe. La personne qui marche ne s'arrête pas et les pas s'estompent au loin...
+2. **Au moment où vous vous installez pour vous détendre, le calme vous invitant à dormir, vous entendez des pas au-dessus de vous, peut-être dans une pièce ou un couloir de l'étage supérieur. Des va-et-vient, des pas. 
+3. **Vous n'avez pas dû dormir très longtemps quand vous êtes soudain réveillé en sursaut par ces bruits de pas lourds dans le couloir. Mais cette fois, les bruits de pas s'arrêtent à la porte, et vous entendez quelqu'un essayer de tourner la poignée, puis la remuer, comme s'il essayait d'entrer dans votre chambre.
+
+Si les PJ enquêtent, ils ne trouveront personne dans un couloir ou une chambre.Même s'ils ouvrent la porte immédiatement, il n'y aura personne. Cette rencontre pourrait bien être expliquée comme une autre illusion psychique dans laquelle les magies tordues de la maison, le mal toujours présent, et les propres peurs des personnages créent l'apparence d'événements surnaturels ou les pas et autres bruits pourraient être l'œuvre de véritables fantômes.

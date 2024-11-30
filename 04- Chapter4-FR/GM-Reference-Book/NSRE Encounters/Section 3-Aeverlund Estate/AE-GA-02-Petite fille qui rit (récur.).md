@@ -1,0 +1,5 @@
+Lisez ou paraphrasez le texte suivant et adaptez-le si nécessaire. 
+
+**En marchant dans le couloir faiblement éclairé, vous entendez le bruit d'une fille qui rit. Il semble qu'elle soit un peu plus loin devant vous, mais les ombres ne permettent pas d'en être sûr. Le fait qu'il s'agisse d'un rire enjoué, dans un endroit comme celui-ci, est un peu déconcertant. Que faites-vous ? 
+
+Les PJ ne pourront pas rattraper la petite fille, et ne la verront pas non plus. C'est au MJ de décider s'il s'agit d'une manifestation psychique ou de l'esprit de Zara elle-même. Ceci peut être utilisé pour guider le groupe vers certains événements ou manifestations dans le manoir. N'oubliez pas d'être subtil et de l'utiliser avec parcimonie. L'illusion du choix est un outil puissant, mais si vous en abusez, elle devient perceptible et les joueurs reconnaîtront que vous les guidez.

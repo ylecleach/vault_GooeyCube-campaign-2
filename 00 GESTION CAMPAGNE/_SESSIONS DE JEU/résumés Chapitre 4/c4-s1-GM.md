@@ -1,5 +1,5 @@
 ### En début de partie
-* Point de VIE niv 4 à faire pour les joueurs qui Brandele et Crendon Charn, Amine, Denis, Max => [[Règles DM]]
+* Point de VIE niv 4 à faire pour les joueurs qui Brandele et Crendon Charn, Amine, Denis, Max => [[Règles Maisons du DM]]
 * Gestion : Initiative : on relance à chaque round on prend 30 s svp
 * Démarrage: préciser l'heure de démarrage.
 * Règles du groupe:  les minimum syndicale : avoir préparer son perso, avoir lu le résumé, relire les règles de donjons, on prévient si retard, pour les mages relire ses sorts et avoir des fiches.

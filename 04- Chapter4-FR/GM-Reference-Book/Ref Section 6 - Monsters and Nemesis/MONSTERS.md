@@ -21,6 +21,122 @@ Le Gloorkest est un être unique, une créature qui n'a que peu ou pas d'équiva
 
 Gardien d'un piège magique quasi inéluctable et sans égal, rares sont ceux qui ont entendu parler du Gloorkest, et encore moins vu la bête. Il semble être une créature de chair et de sang, et son rugissement guttural rappelle celui d'autres grands prédateurs, bien qu'il reste un son assez distinctif et étrangement résonnant. Les corps déchiquetés de ses victimes semblent avoir été déchiquetés par de grandes dents et des griffes. Le Gloorkest semble être infaillible dans sa capacité à traquer sa proie, bien que le fait qu'il attaque ou qu'il se contente d'intimider ceux qui sont piégés dans les brumes pourrait bien être déterminé par une puissance extérieure.
 
+Le Gloorkest est une créature mystérieuse et mortelle qui garde un piège magique presque impossible à éviter dans le Manoir Aeverlund, enveloppé d'un épais brouillard. Sa forme exacte reste un mystère en raison du brouillard qui l'entoure constamment. On sait peu de choses sur le Gloorkest, et encore moins de personnes l'ont vu et ont survécu pour raconter leur rencontre.
+
+Voici ce que l'on sait de lui :
+
+- **Gardien du piège:** Le Gloorkest est le gardien d'un piège magique presque inévitable.
+- **Apparence brumeuse :** Un épais brouillard entoure toujours son corps, rendant son observation difficile.
+- **Créature de chair et de sang :** Malgré son aura surnaturelle, il semble être une créature physique.
+- **Rugissement guttural:** Son rugissement rappelle celui des grands prédateurs, mais avec un écho particulier et distinctif.
+- **Dents et griffes acérées :** Les victimes du Gloorkest portent des marques de morsures et de griffures profondes, suggérant de grandes dents et des griffes puissantes.
+- **Traqueur implacable :** Il traque ses proies avec une précision infaillible, que ce soit par ses propres moyens ou sous l'influence d'une force extérieure.
+- **Motifs mystérieux :** On ignore s'il attaque systématiquement ou s'il se contente d'intimider ceux qui sont pris au piège dans la brume.
+
+**Informations supplémentaires pour le Maître du Jeu:**
+
+- Le Gloorkest est une créature très dangereuse et difficile à vaincre.
+- Il est lié au brouillard qui entoure le Manoir Aeverlund et semble se déplacer librement à l'intérieur de ses limites.
+- Il est possible que le Gloorkest ait été attiré plus près du manoir pour éviter une autre créature dangereuse, le "gloorkest", qui habite également le domaine.
+- Les joueurs peuvent observer le Gloorkest à travers un télescope magique situé dans le Manoir Aeverlund.
+
+Le Gloorkest est une créature fascinante et terrifiante qui ajoute une dimension de danger et de mystère au Manoir Aeverlund. Son rôle précis dans l'histoire et sa véritable nature restent à découvrir par les joueurs.
+
+### Statistiques du Gloorkest
+
+Le Gloorkest est une créature dangereuse trouvée dans Blackrot Bog, un marécage perfide situé dans le territoire de Sotharenn de la République de Zyranthea. Il est décrit comme le gardien d'un piège magique presque impossible à éviter, enveloppé d'un épais brouillard.
+
+Voici ses statistiques, tirées de la page 37 du _GM Reference Book_ pour _The Dreadmist Curse_ :
+
+**Gloorkest**
+
+- Monstruosité de grande taille, chaotique neutre
+- **Classe d'armure :** 21 (armure naturelle)
+- **Points de vie :** 300 (20d10 + 80)
+- **Vitesse :** 12 mètres
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|15 (+2)|19 (+4)|11 (+0)|15 (+2)|8 (-1)|
+
+- **Compétences :** Perception +3
+- **Résistances aux dégâts :** feu ; contondants, perforants et tranchants provenant d'attaques non magiques
+- **Immunités aux dégâts :** froid, foudre, poison, psychique
+- **Immunités aux conditions :** charmé, effrayé, paralysé, empoisonné
+- **Sens :** vision nocturne 18 mètres, Perception passive 15
+- **Langues :** inconnue
+- **Défi :** 9 (5 000 XP)
+- **Résistance à la magie :** Le Gloorkest a l'avantage aux jets de sauvegarde contre les sorts et autres effets.
+
+**Capacités spéciales :**
+
+- **Mastodonte imprégné de brume :** Tant que le Gloorkest reste dans la Brume Funeste, au début de son tour, il peut obtenir l'avantage à tous les jets d'attaque de mêlée qu'il effectue pendant ce tour.
+- **Traqueur de brume :** Le Gloorkest connaît la direction et la distance de toute créature de taille P ou supérieure tant qu'elle reste dans la Brume Funeste et qu'elle se trouve sur le même plan d'existence que le Gloorkest.
+- **Implacable :** Si le Gloorkest subit 14 dégâts ou moins qui le réduiraient à 0 point de vie, il est réduit à 1 point de vie à la place.
+
+**Actions :**
+
+- **Attaque multiple :** Le Gloorkest effectue trois attaques : une avec sa morsure et deux attaques de coup.
+    - **Morsure :** Attaque d'arme au corps à corps : +9 pour toucher, portée 1,50 mètre, une cible. Touché : 9 (1d8 + 5) dégâts perforants.
+    - **Coup :** Attaque d'arme au corps à corps : +9 pour toucher, portée 1,50 mètre, une cible. Touché : 18 (2d12 + 5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 15 ou être étourdie pendant un round.
+
+**Actions légendaires :**
+
+Le Gloorkest peut effectuer 1 action légendaire parmi les options ci-dessous. Cette action légendaire ne peut être effectuée qu'à la fin du tour d'une autre créature. Les actions légendaires dépensées sont récupérées au début de chaque tour.
+
+- **Attaque :** Le Gloorkest effectue une attaque de morsure ou de coup.
+- **Se glisser dans la brume :** Le Gloorkest se déplace jusqu'à la moitié de sa vitesse, et aucune réaction ne peut être effectuée en raison de ce mouvement.
+
+**Informations contextuelles:**
+
+- Blackrot Bog est un vaste marécage pollué par les résidus magiques de la ville volante étherne détruite, Telsenthradd, qui est maintenant la montagne Mu’uz Derron.
+- La Brume Funeste est une caractéristique magique dangereuse du marais.
+- Le Gloorkest est rarement vu, et encore moins souvent par ceux qui survivent à la rencontre. Sa forme exacte est inconnue, obscurcie par le brouillard.
+- On pense que le Gloorkest est une créature de chair et de sang, son rugissement semblable à celui des grands prédateurs, mais avec un écho particulier.
+
+**Remarque :** Il est déconseillé aux joueurs de combattre le Gloorkest, car ils ne sont probablement pas assez puissants pour le vaincre. Le Gloorkest est principalement un élément d'intrigue pour dissuader les joueurs d'explorer le marais.
+
+### Statistiques de l'Ooblekk
+
+L'Ooblekk est un type de mort-vivant rare et horrible qui présente de nombreuses caractéristiques communes avec les vases. Il se forme généralement dans des endroits où de nombreux corps humanoïdes sont laissés sans sépulture pour se décomposer ensemble, en particulier dans un étang ou une autre petite étendue d'eau stagnante.
+
+Voici les statistiques de l'Ooblekk, tirées du _GM Reference Book_ pour _The Dreadmist Curse_ :
+
+**Ooblekk**
+
+- Vase mort-vivant de taille G, neutre mauvais
+- **Classe d'armure :** 13 (armure naturelle)
+- **Points de vie :** 57 (6d12 + 18)
+- **Vitesse :** 3 mètres
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|6 (-2)|16 (+3)|4 (-3)|6 (-2)|1 (-5)|
+
+- **Vulnérabilités aux dégâts :** radiant
+- **Immunités aux dégâts :** poison, nécrotique
+- **Résistances aux dégâts :** acide, froid, feu ; contondants, perforants et tranchants provenant d'armes non magiques
+- **Immunités aux conditions :** aveuglé, charmé, sourd, épuisement, effrayé, empoisonné, à terre, inconscient
+- **Sens :** vision aveugle 18 mètres (aveugle au-delà de ce rayon), Perception passive 8
+- **Défi :** 3 (700 XP)
+
+**Capacités spéciales :**
+
+- **Partiellement amorphe :** L'Ooblekk peut se déplacer dans un espace aussi étroit que 30 cm de large sans être contraint.
+- **Apparence trompeuse :** Tant qu'il reste immobile, l'Ooblekk est indiscernable d'un étang d'eau saumâtre stagnante.
+
+**Actions :**
+
+- **Attaque multiple :** L'Ooblekk effectue 3 attaques avec ses Pseudopodes osseux (chacune contre des cibles différentes si possible).
+    - **Pseudopode osseux :** Attaque d'arme au corps à corps : +6 pour toucher, portée 4,50 mètres, une cible. Touché : 7 (1d6 + 4) dégâts contondants plus 9 (2d8) dégâts nécrotiques. De plus, la cible doit effectuer un jet de sauvegarde de Constitution DD 12. En cas d'échec, la cible subit 4 (1d8) dégâts perforants supplémentaires provenant des os brisés du pseudopode de l'Ooblekk, est empoisonnée et voit sa vitesse réduite de moitié. Ces effets durent jusqu'au début du prochain tour de l'Ooblekk.
+
+**Modificateurs de difficulté :**
+
+- **Groupe faible :** Réduisez les points de vie de l'Ooblekk à 40 et faites-lui effectuer 1 attaque de moins à chaque tour, pour un total de 2.
+- **Groupe avancé :** Augmentez les points de vie de l'Ooblekk à 70.
+- **Rendre le combat difficile :** En plus des points de vie supplémentaires, augmentez la durée de l'état empoisonné et de la réduction de vitesse d'un jet de sauvegarde raté à 2 rounds.
+- **Rendre le combat encore plus difficile :** En plus de tout ce qui précède, faites effectuer une attaque supplémentaire à chaque tour, pour un total de 4.
+
 ### Withercorse
 La formation de ces êtres est mal connue, mais il semble qu'elle soit liée à des cas peu fréquents où un autre type de créature mort-vivante parvient à contracter une maladie, la contagion elle-même « meurt » mais reste active, et est alors transmise à un hôte vivant. La malheureuse victime sera lentement vidée de toute vitalité jusqu'à ce que son corps meure et qu'elle devienne un Withercorse - même si son esprit reste très conscient de la souffrance qu'elle a endurée. Ces individus conservent une grande partie de leur mémoire et de leur personnalité antérieures, bien que la douleur permanente de leur affliction conduise la plupart d'entre eux à une folie diabolique. Extérieurement, cependant, le corps semble se rétablir et, avec un maquillage soigneux, il peut être difficile de discerner que la personne est un mort-vivant, mis à part l'**horrible odeur de pourriture** qui la suit généralement dans un nuage. Une fois décédée, la créature morte-vivante n'est plus directement infectieuse et il est peu probable qu'elle crée d'autres Withercorses. Cependant, ils ont la capacité de contrôler les personnes vivantes en les incitant à consommer la chair infectée du Withercorse. Pour ce faire, ils font cuire des chaires pour en faire des tartes ou mélangent des morceaux de peau morte dans une tasse de flava. Ces serviteurs sont parfois connus sous le nom de Witherserfs. Il faut quelques semaines à quelques mois de consommation continue pour que l'asservissement devienne permanent, période pendant laquelle ils peuvent encore être sauvés. Cependant, s'il ingère suffisamment de chair de Withercorse sans le vouloir, le serf expirera lui-même et deviendra un éternel serviteur mort-vivant de son maître. Heureusement, il n'existe que très peu de Withercorses, car le processus de création nécessite un alignement parfait de circonstances hautement improbables. Les conditions exactes qui permettent à une maladie corrompue de passer d'une créature morte-vivante à un être vivant sont à peine attestées ; il est compréhensible que peu d'érudits aient eu l'occasion d'étudier le sujet, et qu'encore moins oseraient essayer si l'occasion se présentait. Cependant, on suppose que l'individu qui contracte la maladie doit avoir été exposé auparavant à une zone ou à une créature par laquelle la magie noire de l'Umbra circule avec une virulence particulière. De plus, il est supposé que la personne malade doit également être dans un état de faiblesse physique lorsqu'elle est infectée, car la plupart d'entre elles sont capables de combattre la maladie avec un minimum d'efforts. Il est donc probable que ceux qui succombent à ce fléau unique doivent être affaiblis à la fois dans leur corps et dans leur esprit, parmi d'autres facteurs plus ésotériques. En fin de compte, les Withercorses semblent n'être apparus que depuis environ deux cents ans, et sont concentrés dans la moitié nord de Verdestia Ouest. Certains sages pensent même qu'il s'agit d'une création intentionnelle du nécromancien mort-vivant Kalnovich, qui règne sur la région.
 

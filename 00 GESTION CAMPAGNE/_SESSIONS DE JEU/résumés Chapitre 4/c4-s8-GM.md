@@ -1,3 +1,8 @@
+Outils / discord
+* Lien Discord: 
+* channels à penser: Visions / Loot / aventure (si joueur à distance)
+
+demander aux joueurs le contenu de la cachette de Mère Salvensa dans son chariot.
 
 ### Visions-Rêves
 * [ ] [[Continuing Secrets (chapter4)#L'appel de la pierre (PC Muugda)]]
