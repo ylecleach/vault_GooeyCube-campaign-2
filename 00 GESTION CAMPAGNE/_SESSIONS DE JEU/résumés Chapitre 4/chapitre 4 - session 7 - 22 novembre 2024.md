@@ -28,15 +28,15 @@ Vous avez plusieurs  prisonniers :Big Daddy Butcher et Ether sa femme, Jeddidibu
 
 Cydir évacue les villageois de l'église, et ferme la porte de l'église pour laisser le groupe seul avec Le Père Kenlen. Il s'ensuit un interrogatoire très violent pour tenter de faire parler le Père Garett Kenlen.
 
-interrogatoire du Père Kenlen 
+![[Pasted image 20241201220006.png]]
 
 Credon lance un sort de Zone de Vérité.
 Mayra et Père Kenlen sont interrogés à l'intérieur, assis et ligoté sur des chaises.
 Mayra rate ton jet de sauvergarde, et dit la vérité, mais Kenlen réussit son jet de sauvegarde et n'est pas sous l'influence du sort de vérité.
 
-
 Corrinee déguisé en Mayra, parle à Kenlen pour tenter de le faire parler et de savoir où sont cachés les enfants hanataz. Malheureusement cela échoue. 
-Huranann met des poings américains, et frappe Kenlen qui était déjà très blessé par le groupe pendant la bataille de l'église. Le coup le mis presque KO, et Kenlen peine à vous regarder, du sang de son front coulant sur ses yeux.
+
+Huranann met des poings américains, et frappe Kenlen qui était déjà très blessé par le groupe pendant la bataille de l'église. Le coup le mis presque KO, et Kenlen peine à vous regarder, du sang de son front coulant sur ses yeux. Le Père Kenlen avoue son allégeance à Noxica, et ne sait pas où sont les enfants enlevés.
 
 ![[Pasted image 20241126140857.png]]
 
@@ -44,8 +44,14 @@ Huranann met des poings américains, et frappe Kenlen qui était déjà très bl
 
 ![[Pasted image 20241126140806.png]]
 
+Dans une dernière tentative d'en savoir plus et de faire parler le Père Kenlen, Corrinne lance un sort de Déguisement et se déguise en Noxica en utilisant les quelques bribes de souvenirs dont elle se souvient lorsqu'elle la vu très brièvement pendant le Massacre de la Troupe du Voile Bleu.
 
-Le Père Kenlen avoue son allégeance à Noxica, et ne sait pas où sont les enfants enlevés.
+![[church_examination_7.jpg]]
+![[church_examination_8.jpg]]
+![[church_examination_9.jpg]]
+![[church_examination_10.jpg]]
+
+Profitant d'un état de faiblesse du Père Kenlen, qui avait du sang plein le visage et les yeux, mais aussi complètement sonné, Corrinee réussit à imiter la voix de Noxica parfaitement, et lui poser plusieurs questions pour tenter de savoir où était les enfants. Malheureusement, même si le subterfuge était particulièrement réussit, les questions de cette Noxica apparaissant subitement, indiquèrent au Père Kenlen que ce n'était pas la vraie Noxica. Il finit par cracher du sang, en priant à la gloire de Flemmerech.
 
 Sundra Strikeston frappe à la porte de l'église et demande à ce qu'on ouvre la porte que vous vous empressèrent d'ouvrir.
 
@@ -91,7 +97,7 @@ Vous firent dont un repos long et vous repartirent sur la route  le lendemain ma
 
 
 # Au revoir Stuckshoe
-**Au son du cliquetis régulier des sabots des chevaux et du grincement du chariot qui roule sur la voie  vers l'ouest, vous quittez la ville de Stuckshoe, saluant ce qui semble être tous les habitants de la région. Au détour d'un virage, en haut de la colline, vous apercevez la petite Melba, un canif à la main et un grand sourire aux lèvres, qui vous fait un signe de la main. Il est intéressant de noter que c'est avec des sentiments quelque peu contradictoires que vous vous apprêtez à quitter ce petit village malodorant, mais c'est aussi l'un des rares endroits au monde où l'on peut dire que l'on a vraiment des amis. 
+20th Dezzu'un SC 1212 **Au son du cliquetis régulier des sabots des chevaux et du grincement du chariot qui roule sur la voie  vers l'ouest, vous quittez la ville de Stuckshoe, saluant ce qui semble être tous les habitants de la région. Au détour d'un virage, en haut de la colline, vous apercevez la petite Melba, un canif à la main et un grand sourire aux lèvres, qui vous fait un signe de la main. Il est intéressant de noter que c'est avec des sentiments quelque peu contradictoires que vous vous apprêtez à quitter ce petit village malodorant, mais c'est aussi l'un des rares endroits au monde où l'on peut dire que l'on a vraiment des amis. 
 
 **Alors que vous réfléchissez, vous vous souvenez de quelque chose que Mère Salvensa disait souvent... "Mes enfants, souvenez-vous toujours qu'il est bon de faire le bien, surtout si cela peut apporter de la lumière dans les endroits sombres."  En passant devant le panneau qui annonce l'arrivée des gens dans la ville, vous remarquez que certains mots ont été rayés, de sorte que le panneau dit maintenant "Shizzats welcome"... ce qui est un bel hommage, même avec l'injure. Vous ne pouvez vous empêcher de sourire un peu en pensant à ce que Borag, Calnassé ou Kray diraient. Il ne fait aucun doute qu'ils seraient fiers de vous.
 
@@ -136,7 +142,7 @@ Le reste de la nuit se passa bien.
 Le matin, vous eurent beaucoup de mal à réveiller Fior, qui dormait très profondément et paisiblement.
 
 # The King's Crossing
-**Le matin arrive sans autre perturbation. Le brouillard s'est un peu dissipé, mais le ciel est toujours couvert et indique qu'il pourrait neiger plus tard. La température ne dépassera pas le point de congélation avant quelques heures, mais on ne peut pas se permettre d'attendre aussi longtemps pour se mettre en route vers la chaussée. Au nord, malgré le brouillard, on peut apercevoir la grande arche de pierre qui marque l'entrée sud de King's Crossing. 
+21 Dezzu'un SC 1212  **Le matin arrive sans autre perturbation. Le brouillard s'est un peu dissipé, mais le ciel est toujours couvert et indique qu'il pourrait neiger plus tard. La température ne dépassera pas le point de congélation avant quelques heures, mais on ne peut pas se permettre d'attendre aussi longtemps pour se mettre en route vers la chaussée. Au nord, malgré le brouillard, on peut apercevoir la grande arche de pierre qui marque l'entrée sud de King's Crossing. 
 
 ![[Pasted image 20241124224039.png]]
 
@@ -174,10 +180,10 @@ Voici la note :
 
 Le groupe va camper pour la nuit. L'enclos est solide et permet aux animaux de passer la nuit.
 
-La nuit se passe bien, et vous vous réveillez le matin du 21th de Dezzu'un SC 1212.
+La nuit se passe bien, et vous vous réveillez le matin du 22th de Dezzu'un SC 1212.
 
 # Deux sur la route
-**Le matin se lève avec le brouillard lugubre qui a caractérisé votre voyage jusqu'à présent - le Sul est enveloppé alors qu'il se lève à l'est. Bien que la brume ne soit pas assez épaisse pour rendre le voyage dangereux, elle dissimule monstres et brigands. Après le petit-déjeuner, vous reprenez la route en direction du nord, vers une ville où vous avez autant de chances d'être lynché que d'être accueilli. Car si vous ne faites plus partie d'une troupe, vous êtes toujours Hanataz. Et toujours Blood-touch (touché par le sang). Et depuis que vous n'êtes que des Yunstas, on vous répète qu'il ne faut jamais entrer dans une ville ou un village - on vous a averti à plusieurs reprises que dans beaucoup de ces endroits, vous pourriez être emprisonné. 
+22th Dezzu'un SC 1212  **Le matin se lève avec le brouillard lugubre qui a caractérisé votre voyage jusqu'à présent - le Sul est enveloppé alors qu'il se lève à l'est. Bien que la brume ne soit pas assez épaisse pour rendre le voyage dangereux, elle dissimule monstres et brigands. Après le petit-déjeuner, vous reprenez la route en direction du nord, vers une ville où vous avez autant de chances d'être lynché que d'être accueilli. Car si vous ne faites plus partie d'une troupe, vous êtes toujours Hanataz. Et toujours Blood-touch (touché par le sang). Et depuis que vous n'êtes que des Yunstas, on vous répète qu'il ne faut jamais entrer dans une ville ou un village - on vous a averti à plusieurs reprises que dans beaucoup de ces endroits, vous pourriez être emprisonné. 
 
 **En tant que Frenta, vous n'avez jamais pénétré dans une ville ou un village, si ce n'est pour les apercevoir en passant sur la route. En réalité, seuls quelques membres de votre troupe ont pénétré dans ces lieux, et encore, rarement. La troupe s'approvisionnait généralement auprès de marchands qui venaient dans notre camp vendre des articles de mauvaise qualité et des denrées alimentaires à des prix scandaleusement élevés.
 

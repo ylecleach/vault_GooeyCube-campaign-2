@@ -1,0 +1,16 @@
+Lisez ou paraphrasez ce qui suit et montrez le document 66 : Le magasin et le garde-manger.
+
+![[Pasted image 20241205220531.png]]
+
+**Le sol en planches de bois, les murs en pierre et le plafond plâtré, ainsi que l'abondance de tonneaux, de fûts, de caisses et de sacs indiquent que cette pièce est une salle de stockage et de garde-manger. Des orbes arcaniques nichés dans les supports muraux apportent de la lumière. Des étagères allant du sol au plafond, le long d'un mur, contiennent de petites caisses de produits secs et des bocaux en verre contenant des douzaines de fruits et légumes différents. Un coin de la pièce a été réservé à une collection de petits outils pour les réparations de base dans la maison. Il y a également deux chariots, chacun avec une poubelle et des chiffons, des brosses et des balais, qui devaient servir à nettoyer les pièces du niveau principal. Le sol présente une usure considérable due à des années de déplacement de caisses, de boîtes et de tonneaux à l'intérieur et à l'extérieur de la salle du garde-manger. Les taches dues à un nombre indéterminé de liquides renversés au fil des ans donnent au sol en bois un aspect marbré. Mais c'est la trappe située au milieu du plancher qui est la plus intrigante. Bien qu'elle s'ouvre probablement pour révéler un escalier menant à une cave utilisée pour le stockage des denrées périssables et des viandes, et peut-être aussi à une cave à vin privée, elle offre la seule étincelle d'intérêt dans cette pièce par ailleurs banale.
+
+La salle de stockage et de garde-manger du manoir mesure 30 pieds sur 20 pieds, avec trois portes orientées vers le nord, l'ouest et le sud. Il n'y a rien d'important ou de précieux à découvrir ici. La double porte au nord mène à la cuisine (1-12). La porte à l'ouest mène à la salle de bain privée (1-10). Les doubles portes au sud s'ouvrent sur le pont de la plate-forme de service. La trappe est munie d'un escabeau qui descend à une chambre froide et à une assez grande cave à vin - qui est remplie à moitié d'une grande variété de millésimes de bons à très bons vins. Voir les salles B-9 et B-10. Un monte-plats descend à la chambre froide (B-9).
+
+### Événements de la salle
+
+**Saveur effrayante** : Les joueurs entendront régulièrement les bruits de grattage de grosses vermines parmi les tonneaux, les boîtes et les sacs de cette pièce, mais ne pourront pas en trouver la source 
+
+**Tendez les tous**: En entrant dans la salle de stockage, les joueurs trouveront des taches sombres et fraîches qui s'infiltrent dans les planches usées. Une inspection plus approfondie révèle peu de détails, mais les taches ont une odeur délicate et révoltante qui est étrangement familière, mais difficile à situer.
+
+**Faites-les flipper** : Le moulin se met à tourner de lui-même, réduisant lentement quelque chose en une fine poudre. Si les joueurs enquêtent, ils ne trouveront aucun grain brut qui pourrait être à l'origine de la substance semblable à de la farine. Si vous voulez que ce soit encore plus effrayant, demandez à six ou six énormes rats fantômes de sauter pour attaquer le groupe. Ils se battront comme des rats géants classiques, mais avec 10 points de vie chacun et des dégâts triplés.
+

@@ -68,4 +68,5 @@ Lorsqu'il n'y a plus de questions à poser et qu'il est temps de faire avancer l
 **Puis, juste à la limite de votre vision, à peine visible sur la route devant vous, une lumière scintille dans l'obscurité comme un chuchotement visible. Vous entendez une voix bourrue, comme des pierres que l'on broie ensemble, qui appelle de la direction de la lumière : « Qui est là ? »En regardant à côté de vous, là où Bela était assise, vous réalisez qu'elle n'est plus dans la charrette. Elle est introuvable....
 
 Cette scène mène directement à l'Acte 1 : L'arrivée, qui suit la chronologie indiquée ci-dessous.
-[[_L'arrivée-jour1]]
+
+ => [[A. La lumière dans le brouillard]]

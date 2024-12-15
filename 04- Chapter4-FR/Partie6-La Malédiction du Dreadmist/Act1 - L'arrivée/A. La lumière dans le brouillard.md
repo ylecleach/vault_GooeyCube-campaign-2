@@ -1,4 +1,4 @@
-Lorsque les personnages avancent vers la lumière, ils sont abordés par Fletch l'écuyer. A ce moment-là, montrez le **Document 37 : Fletch l'écuyer** et lisez ou paraphrasez ce qui suit.
+Lorsque les personnages avancent vers la lumière, ils sont abordés par Fletch le palefrenier. A ce moment-là, montrez le **Document 37 : Fletch The Stableman** et lisez ou paraphrasez ce qui suit.
 
 Note : Nous ne fournirons probablement pas la **Carte 12 : Le Domaine d'Aeverlund** à ce stade. 
 
@@ -34,7 +34,7 @@ Une fois mentionné à haute voix, permettez aux autres membres du groupe de fai
 
 Remarque : vous pouvez également ajouter cette rumeur plus tôt dans la campagne si vous n'avez pas encore joué l'un des premiers chapitres.
 
-Si le groupe demande à Fletch s'il a vu la jeune femme qui voyageait avec eux : Fletch secoue la tête. **« Je n'ai vu que vous. Je ne m'attendais même pas à vous voir non plus. La nuit n'est pas faite pour vivre... »**
+Si le groupe demande à Fletch s'il a vu la jeune femme qui voyageait avec eux : Fletch secoue la tête. **« Je n'ai vu que vous. Je ne m'attendais même pas à vous voir non plus. La nuit ici, c'est très dangereux pour les vivants... »**
 
 Si le groupe mentionne le nom que le jeune voyageur leur a donné, **Bela** : Fletch lève sa lanterne, rétrécit les yeux et se penche vers vous pour vous protéger. **« Il n'y a personne ici parmi les vivants qui porte ce nom, et si c'est une moquerie de votre part, sachez que je ne le prendrai pas mal...** 
 
@@ -62,7 +62,7 @@ _All Stats in Battle Stats Page 37._
 
 ### Départ du domaine
 Si le groupe fait demi-tour et part, que ce soit avant ou après avoir parlé à Fletch, il se retrouvera à la porte après environ 20 minutes de voyage, comme s'il avait fait demi-tour sans le savoir. Fletch sera de nouveau là lorsqu'ils reviendront. D'ici là, les chevaux de trait seront épuisés, et l'un d'entre eux pourrait même boiter ou avoir jeté un fer, ce qui rendrait la poussée très difficile pour le cheval. Si nécessaire, rappelez aux joueurs que les chevaux sont très importants pour les troupes Hanataz, et que les mettre en danger serait considéré comme stupide et dangereux. 
-Fletch les accueillera avec un regard complice. **« Je vous l'ai dit... c'est une magie sombre et féline, mes amis. La bonne nouvelle, c'est que cela ne durera que quelques jours. Entrez donc.** 
+Fletch les accueillera avec un regard complice. **« Je vous l'ai dit... c'est une magie sombre et vile, mes amis. La bonne nouvelle, c'est que cela ne durera que quelques jours. Entrez donc.** 
 
 Si le groupe décline l'invitation de Fletch et campe sur la route, il apparaîtra plus tard dans leur camp avec sa lanterne et leur dira **qu'« il n'y a pas de campement sur les terres du laird ».** 
 

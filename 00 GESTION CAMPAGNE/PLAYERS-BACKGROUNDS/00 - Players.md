@@ -7,7 +7,7 @@
 | Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
 | Frederic    | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
 | Amine       | Glynn Wether            | Ranger         | ~~LUMIERE DE LA LIBERTE~~               |
-| Carole      | Credon Charn            | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
+| Carole      | Crendon Charn           | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
 | Roch        | Corrinee Ay'Yava        | Rogue          | LUMIERE DE LA LIBERTE                   |
 
 | Character        | PV MAX | Perception | AC  | bonus init          | Align   | niv 4 |

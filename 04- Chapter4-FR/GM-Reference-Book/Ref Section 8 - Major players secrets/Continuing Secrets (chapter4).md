@@ -22,9 +22,9 @@ Remarque : le joueur assidu vivra des moments particulièrement éprouvants au m
 ### L'appel de la pierre (PC Muugda)
 Une fois que les PJ ont quitté Stuckshoe, le Muugda commence à entendre l'appel de la Sentéara, qui est la pierre de vision utilisée par un Hanataz doué de la Vue. Cet événement est important car il confirme que le PJ est bien le Muugda et que ce n'est pas la pierre de Mère Salvensa qui l'appelle. 
 
-En effet, il s'agit de la pierre de Belania et vous déciderez du moment et de l'endroit où le PJ la découvrira. Mais vous devriez le faire vers la fin de l'aventure. 
+En effet, **il s'agit de la pierre de Belania** et vous déciderez du moment et de l'endroit où le PJ la découvrira. Mais vous devriez le faire vers la fin de l'aventure. 
 
-Peut-être que le PJ Muugda la découvrira dans la Nurserie (3-7) dans le berceau du bébé, ou peut-être dans la Suite du Maître (3-4) derrière un panneau caché. Mais le mieux est que Heronia s'approche du Muugda à la fin du chapitre et, avec un regard intense, lui dise « Elle m'a dit de te donner ceci » et lui tende une vieille boîte ornée qui contient la pierre. 
+Peut-être que le PJ Muugda la **découvrira dans la Nurserie (3-7)** dans le berceau du bébé, ou peut-être dans la Suite du Maître (3-4) derrière un panneau caché. Mais le mieux est que **Heronia s'approche du Muugda à la fin du chapitre** et, avec un regard intense, lui dise « Elle m'a dit de te donner ceci » et lui tende une vieille boîte ornée qui contient la pierre. 
 
 A ce moment-là, montrez le ***Document 117 : L'appel de la pierre*** commencera par une sensation de picotement qui remontera le long de la nuque du Muugda. Ce picotement sera d'abord accompagné d'une voix chuchotante qui dira seulement « Cherche-moi.... » 
 
@@ -35,7 +35,7 @@ Faites en sorte que cela se produise plusieurs fois :
 Ensuite, au fur et à mesure que l'aventure progresse, vous pouvez augmenter l'intensité de l'appel. Le Muugda se sentira plus attiré à répondre à l'appel et les mots viendront avec plus d'intensité. Construisez bien cela et cela pourrait être vraiment génial pour la fin de l'aventure.
 
 ### La Carte du Fou (Le Trick PC)
-Dans le Long Couloir (1-4), il y a une découverte de salle qui implique qu'un PJ trouve une Carte du Fou dans un Jeu de Hasard Périlleux. Si vous voulez ajouter un peu de drame à cet événement, faites en sorte que le PJ de la Tromperie (The Trick) se sente obligé de regarder la carte. 
+**Dans le Long Couloir (1-4)**, il y a une découverte de salle qui implique qu'un PJ trouve une Carte du Fou dans un Jeu de Hasard Périlleux. Si vous voulez ajouter un peu de drame à cet événement, faites en sorte que le PJ de la Tromperie (The Trick) se sente obligé de regarder la carte. 
 
 S'il le fait, il verra le Fou lui faire un clin d'œil et commencer à parler d'une voix animée (bien qu'aucun des autres PJ ne verra ou n'entendra ce qui se passe). 
 

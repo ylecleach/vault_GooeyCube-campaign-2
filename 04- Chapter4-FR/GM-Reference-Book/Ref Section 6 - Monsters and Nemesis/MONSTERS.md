@@ -143,6 +143,35 @@ La formation de ces êtres est mal connue, mais il semble qu'elle soit liée à 
 ### Grimpereaux enchevêtrés (tangle creepers)
 Les grimpereaux enchevêtrés sont de proches parents des grimpereaux des ronces. Alors que ces dernières sont parfaitement camouflées pour se fondre dans la canopée des arbres, les premières sont presque invisibles lorsqu'elles sont cachées dans les feuilles, l'herbe ou les buissons. Les Grimpereaux enchevêtrés semblent être les moins répandus des deux, mais cela pourrait simplement signifier qu'ils sont généralement moins agressifs que leurs congénères en bois, plutôt qu'ils sont en fait moins nombreux. Quoi qu'il en soit, ils semblent posséder la même étrange capacité à imiter les sons pour attirer leurs proies, et ne sont pas moins violents lorsque leur faim est éveillée. Une fois qu'il s'approche d'une cible potentielle, le grimpereau enchevêtré est sans doute plus dangereux que son homologue des ronces, car il s'élance avec de puissantes lianes qui enserrent ses proies, de sorte qu'il peut les rapprocher et les éviscérer, laissant leurs fluides vitaux et leurs organes être lentement absorbés pour en tirer des nutriments.
 
+Voici les statistiques pour les Tangle Creepers :
+
+- **Classe d’armure :** 13
+- **Points de vie :** 18 (4d6+4)
+- **Vitesse :** 25 pieds, escalade 25 pieds
+
+**Force :** 16 (+3) **Dextérité :** 16 (+3) **Constitution :** 13 (+1) **Intelligence :** 12 (+1) **Sagesse :** 14 (+2) **Charisme :** 3 (-4)
+
+**Compétences :** Perception +4 **Sens :** Vision dans le noir 60 pieds, Perception passive 14 **Défi :** 1 (200 XP)
+
+**Imitation étrange :** Le Tangle Creeper est capable d’imiter de près des sons comme un enfant qui pleure, un animal blessé ou quelqu’un qui appelle à l’aide et les utilise pour attirer sa proie dans une embuscade. Les joueurs qui entendent la voix d’un Bramble Creeper doivent réussir un jet de Sagesse (Intuition) DD 13 ou être dupés par l’imitation du Creeper. S’ils réussissent, ils entendront les cris mais pourront dire que le bruit est une sorte de piège.
+
+**Apparence naturelle :** Tant que le Tangle Creeper reste immobile parmi le feuillage environnant, il est impossible de le distinguer d’une plante normale.
+
+**Actions :**
+
+- **Attaque multiple :** Le Tangle Creeper effectue deux attaques : une avec sa morsure et une avec ses vignes enchevêtrées.
+- **Morsure :** Attaque d’arme de corps à corps : +5 pour toucher, portée 5 pieds, une cible. Touché : 6 (1d6+3) dégâts perforants.
+- **Vignes enchevêtrées :** Attaque d’arme de corps à corps : +5 pour toucher, portée 10 pieds, une cible. Touché : La cible est agrippée (évasion DD 13). Tant qu’elle est agrippée, la cible est entravée et le Tangle Creeper ne peut pas utiliser ses vignes enchevêtrées sur une autre cible.
+
+**Modificateurs de difficulté**
+
+- **Groupe plus faible :** Ces Tangle Creepers ne sont pas particulièrement en bonne santé à vivre dans les brumes qui entourent le domaine d’Aeverlund. Réduisez leurs points de vie à 12 chacun et réduisez le DD d’évasion pour leur grappin à 10.
+- **Groupe avancé :** Augmentez les points de vie de chaque Tangle Creeper à 24.
+- **Rendre les choses difficiles :** En plus des points de vie supplémentaires, ajoutez 2 Tangle Creepers supplémentaires, pour un total de 7.
+- **Rendre les choses encore plus difficiles :** En plus de tout ce qui précède, donnez à chaque Tangle Creeper une attaque supplémentaire de Vignes enchevêtrées à chaque round.
+
+Les Tangle Creepers sont des monstres qui apparaissent dans le livre d'aventure "The Dreadmist Curse". Ils sont décrits comme des parents proches des Bramble Creepers, mais contrairement aux Bramble Creepers qui se camouflent dans la canopée des arbres, les Tangle Creepers se cachent parmi les feuilles, l'herbe ou les buissons. Ils ont la capacité d'imiter des sons pour attirer leurs proies. Les Tangle Creepers peuvent être trouvés dans le jardin de thé du domaine d'Aeverlund.
+
 
 ### Hraghound
 Les Hraghounds ressemblent superficiellement à un chien ou à un loup, mais ceux qui en rencontrent un savent immédiatement qu'ils ont affaire à une bête bien plus dangereuse. Ces créatures atteignent parfois la taille d'un ours, sont presque dépourvues de poils et n'ont qu'un court moignon de queue. Elles sont très territoriales et agressives, tuant parfois des animaux qui passent par là, apparemment pour le plaisir. Ils sont extrêmement difficiles à apprivoiser et il n'y a guère de garantie que même un animal élevé à la main depuis sa naissance ne se retourne pas un jour contre son maître. Cependant, certains seigneurs excentriques et mages puissants les recherchent encore comme gardiens de leurs domaines et tours, car les Hraghounds possèdent un trait unique et précieux : ils sont très résistants à la plupart des formes de magie nocive. En effet, l'utilité d'un tel gardien est telle, sans parler du coût et de la difficulté d'en acquérir un, que certains placent des enchantements nécromantiques sur leurs Hraghounds, afin qu'à leur mort, ils puissent continuer à servir. Bien qu'un peu moins empressés que dans la vie, ces Hraghounds animés sont nettement plus obéissants, bien que des histoires circulent encore selon lesquelles, même dans la mort, ils ont été connus pour montrer une lueur d'autonomie féroce.
@@ -159,3 +188,65 @@ Les oobleks sont un type de mort-vivant horrible et heureusement rare qui prése
 Au premier abord, on pourrait confondre l'ours bogger avec un ours brun particulièrement grand, dépenaillé et mal luné, ou peut-être même avec un ours méchant qui aurait séjourné trop longtemps dans de l'eau stagnante. Leur fourrure longue et touffue a généralement une teinte verdâtre et leurs pattes sont palmées, ce qui fait d'eux des nageurs remarquablement habiles. La peau autour de leurs membres inférieurs est relativement dépourvue de poils et forme une sorte de coussinet épais et écailleux qui résiste bien aux dangers invisibles qui se cachent dans l'eau limoneuse où ils vivent. Bien qu'il ne soit pas aussi territorial qu'on pourrait s'y attendre de la part d'un animal de cette taille, l'ours bogger compense largement par un appétit vorace qu'il tente d'assouvir en chassant à peu près tout ce qui bouge. Ce régime presque exclusivement carnivore leur donne une haleine vraiment putride, car les morceaux de viande et les viscères qui restent coincés entre leurs dents pourrissent et se décomposent.
 ### Gloozinbile, l'avatar de la pourriture
 Bien que de nombreux serviteurs des dieux soient bien connus des races de Zyathé, il existe encore des êtres cachés dans les plans déifiques qui n'ont pas été vus par les mortels depuis des milliers d'années. Gloozinbile est un nom qui n'a probablement pas été entendu depuis l'époque de la Guerre du Néant. Ni le père Kenlen, ni même Noxica, qui lui a appris à invoquer Gloozinbile, ne comprennent pleinement la nature de la créature qu'ils veulent faire naître dans le monde. Le titre du monstre, l'Avatar de la Pourriture, donne un indice sur son origine et son affiliation, bien que Gloozinbile se souvienne d'une époque où le nom de son maître n'était pas Slooje, dieu de la décomposition, mais quelque chose de plus ancien, et peut-être même de plus malfaisant. Noxica compte sur Gloozinbile pour reconnaître cette ancienne allégeance...
+
+### Darkmist Armors
+Les armures Darkmist patrouillent la maison la nuit dans un état éthéré.
+- **Armure Darkmist**, Construction de taille moyenne, non aligné
+    - Classe d'armure : 19 (armure naturelle)
+    - Points de vie : 39 (6d8+12)
+    - Vitesse : 6 mètres
+- **FOR** 16 (+3) **DEX** 10 (+0) **CON** 15 (+2) **INT** 2 (-4) **SAG** 4 (-3) **CHA** 1 (-5)
+- Sens : vision aveugle 9 mètres (aveugle au-delà de ce rayon), Perception passive 7
+- Résistances aux dégâts : contondants et perforants provenant d'attaques non magiques
+- Immunités aux dégâts : poison, psychique, radiant
+- Immunités aux conditions : aveuglé, charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, empoisonné, étourdi
+- Défi : 2 (450 PX)
+**Capacités spéciales**:
+- **Forme Darkmist** : L'armure Darkmist a un avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
+- **Apparence trompeuse** : Tant que l'armure reste immobile, elle est impossible à distinguer d'une armure normale.
+- **Mouvement incorporel** : L'armure Darkmist peut se déplacer à travers d'autres créatures et objets comme s'il s'agissait d'un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet.
+**Actions**:
+- **Attaque au corps à corps** : Hallebarde. Attaque d'arme au corps à corps : +5 pour toucher, portée 3 mètres, une cible. Touché : 8 (1d10+3) dégâts tranchants.
+L'armure Darkmist est décrite comme un élément de sécurité magique redoutable qui protège le manoir Hrumm. Elles sont contrôlées par une baguette en argent foncé. Les armures Darkmist patrouillent la maison la nuit dans un état éthéré.
+
+Voici ce que les sources et l'historique de notre conversation révèlent sur les armures Darkmist :
+
+- Les armures Darkmist sont des **construits magiques** qui protègent le manoir d'Aeverlund. Elles sont décrites comme des **gardes** et constituent l'un des aspects de la protection du manoir, aux côtés d'autres défenseurs comme Ma'lum, les valets de pied et Cra'aveen la sorcière.
+    
+- Ces armures ne sont pas de simples ornements. Elles patrouillent la maison la nuit dans un **état éthéré**. Un indice de leur nature magique est qu'elles peuvent **changer la main dans laquelle elles tiennent leur arme** lorsque personne ne regarde.
+    
+- L'armure Darkmist a une **apparence trompeuse**, ce qui la rend **impossible à distinguer d'une armure normale lorsqu'elle est immobile**. Elles sont également capables de **mouvement incorporel**, leur permettant de traverser d'autres créatures et objets. Cependant, traverser un objet leur cause des dommages de force.
+    
+- Les armures Darkmist sont **contrôlées par une baguette en argent foncé**. Cette baguette permet à son porteur de donner des ordres aux armures, ainsi que de désactiver ou de réinitialiser les pièges et de manipuler les barrières magiques à l'intérieur du domaine d'Aeverlund.
+
+### Stats - Shrouder Attacker (attaquant Enveloppé)
+
+**Shrouded Attacker, Medium humanoid (dream), neutral evil
+- **Classe d'Armure :** 13
+- **Points de Vie :** 19 (3d8+6)
+- **Vitesse :** 30 pieds
+- **Force :** 17 (+3)
+- **Dextérité :** 17 (+3)
+- **Constitution :** 14 (+2)
+- **Intelligence :** 14 (+2)
+- **Sagesse :** 14 (+2)
+- **Charisme :** 14 (+2)
+- **Sens :** vision nocturne 60 pieds, Perception passive 12
+- **Langues :** ne communique que par la violence
+- **Défi :** 1 (200 XP)
+
+**Capacités spéciales :**
+
+- **Robes Entravantes :** Une créature commençant son tour à moins de 15 pieds de l'Attaquant Enveloppé voit sa vitesse réduite de moitié.
+
+**Actions :**
+
+- **Attaques Multiples :** L'Attaquant Enveloppé effectue deux attaques avec sa Lame Cachée.
+- **Lame Cachée :** Attaque d'Arme au Corps à Corps : +5 pour toucher, portée 5 pieds, une cible. Touché : 5 (1d4+3) dégâts perforants.
+
+Le document fournit également des modificateurs de difficulté pour adapter l'Attaquant Enveloppé à différents niveaux de groupe :
+
+- **Groupe plus faible :** Réduisez la Classe d'Armure de l'Attaquant Enveloppé de 2 à 11. Si le groupe est pris au dépourvu, vous pouvez augmenter les points de vie de l'Attaquant Enveloppé à 35 pour représenter le fait qu'il a pu saisir une arme, un bouclier ou un autre équipement utile.
+- **Groupe avancé :** Augmentez les points de vie de l'Attaquant Enveloppé de 16 à 35.
+- **Rendre la tâche difficile :** En plus des points de vie supplémentaires, augmentez la Classe d'Armure de l'Attaquant Enveloppé à 15.
+- **Rendre la tâche encore plus difficile :** En plus de tout ce qui précède, donnez au joueur un désavantage sur toutes les attaques contre l'Attaquant Enveloppé, car il sent toute la vitalité s'écouler de ses membres.

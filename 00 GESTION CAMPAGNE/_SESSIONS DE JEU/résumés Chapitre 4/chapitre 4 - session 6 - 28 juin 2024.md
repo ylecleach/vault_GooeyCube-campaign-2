@@ -5,14 +5,13 @@
 Lien vers la bibliothèque d'images 3D de Roch sur Google Drive pour cette session: [ch4-session6](https://drive.google.com/drive/folders/1kvNQfzWUMBXmlp1rW-XIwnAa4Z0gkqej)
 Note du DM: ce résumé est approximatif et peut être différent de vos souvenirs. Il a été réalisé plus de 4 mois après avoir fait cette session. Ce n'était pas évident, mais grâce à mes notes, les images de Roch et certaines de vos informations, ca le fait bien !
 
-### correction du dernier résumé : (à faire)
+### correction à faire dans ce résumé
 crendon était déguisée en tanner avant l'attaque de l'église.
 chur dead et ses lackey, 10 zombies repoussés par le nain, et le guerrier les a tapés un par un les zombies.
 sergent arzarda dead
 little doffer dead
 
 Fior avait déjà parlé avec Elis et fumé avec son aide Derpid.
-
 
 # Introduction
 

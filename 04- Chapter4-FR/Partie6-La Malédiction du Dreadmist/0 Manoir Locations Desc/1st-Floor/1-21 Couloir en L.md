@@ -1,0 +1,6 @@
+Lisez ou paraphrasez ce qui suit : 
+
+**un globe lumineux fixé au mur près de la porte fournit à peine assez de lumière pour voir que ce hall relativement court s'étend du nord au sud, puis tourne vers l'est. Un autre globe lumineux de faible intensité est monté sur le même mur à l'extrémité, révélant un palier de pierre au-delà du hall qui s'étend vers l'est, où un troisième globe lumineux montre une porte encastrée dans un mur angulaire à l'extrémité. De ce palier, un escalier de pierre mène au deuxième étage, mais il fait trop sombre pour voir ce qui se trouve au-dessus.
+
+Ce couloir n'est que le prolongement du couloir de service qui a été séparé par une porte afin d'offrir plus d'intimité à Ma'lum, car ce couloir mène à ses quartiers. Il n'y a pas de découverte de salle ou d'événement pour cette petite zone, à moins que vous ne souhaitiez y ajouter quelque chose. Ce couloir en forme de L comporte trois portes. L'une d'elles, dans le mur nord, ouvre sur le couloir de service (1-20). La deuxième se trouve dans le mur est et ouvre sur le Cabinet des Domestiques (1-14). La troisième porte se trouve à l'extrémité est de la petite salle. La poignée et la serrure sont assez uniques. Voir la Tour de Ma'lum (1-15) pour plus de détails sur cette serrure particulière.
+

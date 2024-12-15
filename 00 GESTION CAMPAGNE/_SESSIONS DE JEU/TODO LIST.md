@@ -1,7 +1,10 @@
 
 **Preparation Campagne**
-* [ ] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
-* [ ] discord: voir avec maxime pour avoir un chan privé par joueur.
+* [x] trouver instrument magique pour le barde pour le 1-17
+* [ ] trouver son de cri de femme horrible pour le 2-2
+* [ ] traduire début Etage 2 (chambres des invités)
+* [x] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
+* [x] discord: voir avec maxime pour avoir un chan privé par joueur.
 * [ ] Ajouter photo combat wakabago figurines dans le résumé chapitre 4 session 6
 * [ ] Event à caller pour 20 Dezzuun
 * [ ] Event à caller pour 22 Dezzuun

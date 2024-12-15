@@ -1,0 +1,6 @@
+Lisez ou paraphrasez ce qui suit lorsque les PJ arrivent dans cette zone. 
+
+**Ce long et étroit bâtiment situé à l'arrière du domaine n'a qu'une seule entrée, mais de nombreuses fenêtres. Il s'agit d'un simple mur à lattes avec un toit à deux versants. Sur le côté faisant face au mur arrière du domaine se trouve un porche qui s'étend sur toute la longueur du bâtiment et qui est recouvert d'un toit en tôle incliné qui semble avoir été ajouté quelque temps après la construction du bâtiment. L'entrée est constituée d'un ensemble de portes doubles. Il est évident que ce bâtiment a été utilisé comme dortoir pour les ouvriers du ranch, mais il n'y a pas d'ouvriers, pas de chevaux, pas de bétail non plus. 
+
+Il n'y a rien de valeur à trouver ici. L'intérieur est divisé en un espace de vie à une extrémité, avec une étable à jakes dans le coin et un poêle à bois en fonte au milieu de plusieurs fauteuils en lambeaux. Il y a quatre lits superposés le long de chaque mur à l'autre extrémité. Seuls quelques-uns d'entre eux ont encore leur coutil et leur matelas de paille. Seules quelques unes d'entre elles ont encore leur matelas de tiques et de paille, mais rien d'autre n'a été laissé sur place.
+

@@ -1,4 +1,4 @@
-Ce NSRE comporte trois séquences et doit être exécuté sous la forme de trois rencontres distinctes entre le premier soir et le lendemain matin dans le manoir. Il s'agit d'une série de rencontres progressives qui ne doivent concerner qu'un seul personnage . Personne d'autre dans le groupe, ni aucun PNJ ne verra, n'entendra ou ne ressentira ce que ce personnage fait pendant ces événements. 
+Ce NSRE comporte trois séquences et doit être exécuté sous la forme de trois rencontres distinctes entre le premier soir et le lendemain matin dans le manoir. Il s'agit d'une série de rencontres progressives qui **ne doivent concerner qu'un seul personnage** . Personne d'autre dans le groupe, ni aucun PNJ ne verra, n'entendra ou ne ressentira ce que ce personnage fait pendant ces événements. 
 
 Note : **Ce scénario pourrait être parfait pour le PC Accordé** en raison de la sensibilité psychique du personnage. Mais n'hésitez pas à choisir n'importe quel personnage pour adapter le jeu à vos besoins. 
 
