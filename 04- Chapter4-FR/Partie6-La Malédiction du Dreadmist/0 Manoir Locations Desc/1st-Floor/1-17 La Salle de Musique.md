@@ -16,19 +16,19 @@ L'un des objets les plus puissants de tout le manoir, en termes de ce type d'exp
 
 ### Découvertes dans la chambre
 
-**Musique en feuilles** : Sur le sol, à côté de la harpe, se trouve un ensemble de partitions. La chanson s'intitule « La complainte du voyageur » et est bien connue des Hanataz. C'est une chanson triste et douloureuse qui sera familière à au moins certains des PJ. Certains disent qu'elle a été écrite par Zylea Elle même. 
+- [ ] **Musique en feuilles** : Sur le sol, à côté de la harpe, se trouve un ensemble de partitions. La chanson s'intitule « La complainte du voyageur » et est bien connue des Hanataz. C'est une chanson triste et douloureuse qui sera familière à au moins certains des PJ. Certains disent qu'elle a été écrite par Zylea Elle même. 
 
 Montrez le **document 72 : The Traveler's Lament** (La complainte du voyageur) si la partition est inspectée. La chanson pourrait avoir une signification pour l'avenir de cette campagne. 
 
-AI: Zyléa Aléana était la première du peuple Hanataz. Elle est décédée vers 222 SC et a été enterrée dans un lieu secret que seuls les chefs de troupe bondurans les plus anciens connaissent. Il n'y a aucune autre information sur Zyléa dans les sources.
+	AI: Zyléa Aléana était la première du peuple Hanataz. Elle est décédée vers 222 SC et a été enterrée dans un lieu secret que seuls les chefs de troupe bondurans les plus anciens connaissent. Il n'y a aucune autre information sur Zyléa dans les sources.
 
-**Une trouvaille chanceuse** : si la zone de la harpe est inspectée, demandez au(x) personnage(s) qui l'inspecte(nt) de faire un test de Sagesse (Perception) DC 13. S'il réussit, le personnage verra une petite boîte en bois posée sur le sol, contre le socle de la harpe. Elle est poussiéreuse, mais si on la nettoie, le nom « **Belania** » est gravé sur le dessus. Si vous l'ouvrez, vous y trouverez une note qui dit : « [NOM]... que Kizmya vous soit favorable. » Sous la note se trouve **un Objet spécial 10 : la Pièce porte-bonheur de Kizmya.** 
+- [ ] **Une trouvaille chanceuse** : si la zone de la harpe est inspectée, demandez au(x) personnage(s) qui l'inspecte(nt) de faire un test de Sagesse (Perception) DC 13. S'il réussit, le personnage verra une petite boîte en bois posée sur le sol, contre le socle de la harpe. Elle est poussiéreuse, mais si on la nettoie, le nom « **Belania** » est gravé sur le dessus. Si vous l'ouvrez, vous y trouverez une note qui dit : « [NOM]... que Kizmya vous soit favorable. » Sous la note se trouve **un Objet spécial 10 : la Pièce porte-bonheur de Kizmya.** 
 
-Note : Le « NOM » sur la note est le prénom du PC qui a trouvé la boîte ou le nom du PC de la Main Chanceuse (votre choix).
+	Note : Le « NOM » sur la note est le prénom du PC qui a trouvé la boîte ou le nom du PC de la Main Chanceuse (votre choix).
 
-**Amour pour un Barde** : Si vous avez un Barde dans votre groupe, il est possible qu'il espère obtenir un instrument de musique magique cool. Comme nous ne pouvons pas prendre en compte tous les objets qu'un personnage peut désirer, c'est peut-être le bon endroit pour insérer un instrument magique approprié pour le barde de votre groupe, si vous en avez un.
+- [ ] **Amour pour un Barde** : Si vous avez un Barde dans votre groupe, il est possible qu'il espère obtenir un instrument de musique magique cool. Comme nous ne pouvons pas prendre en compte tous les objets qu'un personnage peut désirer, c'est peut-être le bon endroit pour insérer un instrument magique approprié pour le barde de votre groupe, si vous en avez un.
 
-[[Objets Magiques#Shrutinandan Sitar (instrument)]] : Chef-d'œuvre d'artisanat, cet instrument est une Citare, qui porte le nom d'une prestigieuse académie de musique, est décoré par des sculptures en bois, représentant un renard (tête de citare), et d'une tête de démon (bas de la Citare).
+	[[Objets Magiques#Shrutinandan Sitar (instrument)]] : Chef-d'œuvre d'artisanat, cet instrument est une Citare, qui porte le nom d'une prestigieuse académie de musique, est décoré par des sculptures en bois, représentant un renard (tête de citare), et d'une tête de démon (bas de la Citare).
 
 ### Événements de la salle
 

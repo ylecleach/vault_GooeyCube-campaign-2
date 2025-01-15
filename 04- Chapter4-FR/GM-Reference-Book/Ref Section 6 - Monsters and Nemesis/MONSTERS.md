@@ -1,4 +1,31 @@
+### Burrowing Bonethief
+Statistiques du **Burrowing Bonethief** modifié pour un groupe de 8 joueurs de niveau 4:
 
+- **Taille** : Grande monstruosité
+- **Alignement** : Non aligné
+- **Classe d'armure** : 20 (armure naturelle)
+- **Points de vie** : 34 (4d10+12) => 150 PV
+- **Vitesse** : 40 ft., creusement 20 ft.
+- **FOR** 20 (+5), **DEX** 18 (+4), **CON** 16 (+3), **INT** 6 (-2), **SAG** 13 (+1), **CHA** 2 (-4)
+- **Compétences** : Perception +3, Discrétion +6
+- **Résistances aux dégâts** : poison
+- **Immunités aux conditions** : charmé, effrayé et empoisonné
+- **Sens** : vision dans le noir 60 ft., Perception passive 13
+- **Défi** : 2 (450 XP)
+- **Bonethief :** Les membres et d'autres parties du Burrowing Bonethief sont composés des restes d'autres créatures, et les dommages ou la perte de ceux-ci sont de peu de conséquence car ils sont facilement remplacés. Lancez 1d4 chaque fois que le Bonethief subirait des dégâts. Sur un 1, il ne subit aucun dégât de cette attaque.
+- **Bony Body.** A creature that do bludgeoning damage to the bone centipede while within 5 feet of it must succeed on a DC 14 Dexterity saving throw. **Failure:** the creature take 4 (1d8) piercing damage
+- **Actions** :
+    - **Multi-attaque** : Le Bonethief effectue trois attaques : une avec sa Morsure Écrasante et deux attaques de Membre Osseux.
+    - **Morsure Écrasante** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 7 (3d6+5) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution DD 12, gagnant un niveau d'épuisement en cas d'échec.
+    - **Membre Osseux** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 8 (2d4+5) dégâts contondants.
+- **Possessions :** Les os d'innombrables animaux et humanoïdes.
+
+Il est également précisé qu'il existe des **modifications de difficulté** pour le Burrowing Bonethief :
+
+- **Groupe plus faible** : Réduisez la CA du Bonethief de 3 à 17 et ses points de vie de 9 à 25.
+- **Groupe avancé** : Augmentez les points de vie du Bonethief de 11 à 45.
+- **Rendez-le plus difficile :** En plus des points de vie supplémentaires, donnez au Bonethief +1 aux jets d'attaque et de dégâts.
+- **Rendez-le encore plus difficile :** En plus de tout ce qui précède, si une cible échoue à son jet de sauvegarde de Constitution lors de l'attaque de Morsure Écrasante du Bonethief, elle subit 2 niveaux d'épuisement au lieu de 1.
 ### Traqueurs de givre : 
 Les traqueurs de givre sont l'une des nombreuses variétés de créatures Fey qui ne sont pas directement affiliées aux cours Seelie ou Unseelie de la Noble Fay'aree. On ignore s'ils hibernent le reste de l'année parce que leurs formes glacées ne peuvent être maintenues dans des températures plus chaudes, ou s'ils sont simplement plus à l'aise et plus actifs après les premières gelées de l'année. Quoi qu'il en soit, tous ceux qui ont rencontré des traqueurs de givre peuvent témoigner de l'aura de froid glacial qui entoure ces Fey, et qui est généralement le premier signe de leur présence. On rapporte que ces créatures semblent s'approcher sous la forme d'un nuage de brume scintillante avant de se cristalliser dans l'air en un corps formé d'éclats de glace. Les traqueurs de givre semblent ressentir un lien fort avec les forêts endormies qu'ils habitent ; presque toutes les attaques impliquant ces créatures résultent du fait que des voyageurs irrespectueux ont coupé des arbres pour en faire du bois de chauffage ou ont chassé des créatures de la forêt qui luttaient pour survivre à l'hiver. Ceux qui n'utilisent que des branches tombées au sol et se contentent de leurs propres provisions sont rarement accostés par les Traqueurs de givre, et certains racontent même que les Fay observent leur campement avec une simple curiosité, à distance. Cependant, comme la plupart des Fay'aree qui préfèrent s'occuper de leurs propres affaires, les traqueurs de givre sont de plus en plus souvent mis au service des tribunaux par les deux camps dans leur conflit interminable. Bien que les Seelie répugnent à recourir à de telles tactiques, ils n'ont souvent pas le choix. De leur côté, de nombreux Unseelie se plaisent à dominer les autres et sont connus pour obliger les rôdeurs de givre à attaquer ceux qui sont perçus comme des intrus ou des offenseurs des nobles Unseelie
 
@@ -180,7 +207,30 @@ Il arrive que le cadavre d'une personne décédée de manière violente ou tragi
 ### Squelettes serviles 
 Les squelettes font partie des créatures mortes-vivantes les plus répandues et ne représentent une menace pour les vivants que lorsqu'ils sont lâchés en grand nombre. D'ailleurs, de nombreux nécromanciens en herbe s'exercent d'abord à leur art impie en apprenant les sorts étonnamment simples qui permettent d'élever des squelettes. Ces derniers ont même l'avantage d'être relativement propres et inodores, contrairement à l'autre type de morts-vivants : les zombies. Cependant, à mesure que les nécromanciens deviennent plus habiles, ils peuvent conférer des qualités particulières aux squelettes qu'ils élèvent, ce qui en fait de meilleurs serviteurs morts-vivants. Par exemple, il est possible de créer un squelette plus apte à comprendre et à exécuter des instructions, ou d'augmenter la magie noire liant les os entre eux pour créer un serviteur plus fort et plus robuste. Ma'lum a élevé un certain nombre de squelettes de ce type pour l'aider à gérer les invités gênants qui arrivent au manoir de Hrumm.
 ### Ghiyste
-Le terme « Ghiyste » est utilisé pour désigner un large éventail de monstruosités non vivantes. La seule caractéristique commune à toutes ces créatures est qu'elles sont des morts-vivants éthérés et qu'elles n'entrent pas dans l'une des catégories d'êtres similaires les plus facilement identifiables, comme les fantômes ou les spectres (bien qu'elles soient souvent appelées « fantômes » par de nombreuses personnes). Ces esprits peuvent présenter des caractéristiques familières comme des activités de poltergeist ou des résidus ectoplasmiques, mais chacun d'entre eux est en fin de compte une abomination unique de la non-vie. Beaucoup sont façonnés par la personnalité et les talents qu'ils avaient dans la vie, tandis que d'autres sont façonnés par les circonstances de leur mort, ou le lieu auquel leur esprit est attaché. Certains conservent une conscience cruellement lucide de leur environnement et peuvent interagir avec le monde physique de manière significative, jusqu'à déplacer des objets ou lancer des sorts. D'autres ne sont que le pâle reflet d'une émotion persistante ou un fragment d'une âme brisée, apparaissant comme une horloge à des heures précises pour répéter sans fin des actions banales qui étaient d'une certaine manière significatives pour le défunt. De nombreux ghiystes, voire la plupart, semblent n'avoir qu'un faible lien avec le monde physique et ont tendance à disparaître en l'espace de quelques années à quelques siècles. Quelques-uns, cependant, peuvent rester indéfiniment prisonniers de la mort, en particulier s'il y a une forte concentration de magie noire à proximité.
+Le terme « Ghiyste » est utilisé pour désigner un large éventail de monstruosités non vivantes. La seule caractéristique commune à toutes ces créatures est qu'elles sont des **morts-vivants éthérés** et qu'elles n'entrent pas dans l'une des catégories d'êtres similaires les plus facilement identifiables, comme les fantômes ou les spectres (bien qu'elles soient souvent **appelées** « **fantômes** » par de nombreuses personnes). Ces esprits peuvent présenter des caractéristiques familières comme des activités de poltergeist ou des résidus ectoplasmiques, mais chacun d'entre eux est en fin de compte une abomination unique de la non-vie. Beaucoup sont façonnés par la personnalité et les talents qu'ils avaient dans la vie, tandis que d'autres sont façonnés par les circonstances de leur mort, ou le lieu auquel leur esprit est attaché. Certains conservent une conscience cruellement lucide de leur environnement et peuvent interagir avec le monde physique de manière significative, jusqu'à déplacer des objets ou lancer des sorts. D'autres ne sont que le pâle reflet d'une émotion persistante ou un fragment d'une âme brisée, apparaissant comme une horloge à des heures précises pour répéter sans fin des actions banales qui étaient d'une certaine manière significatives pour le défunt. De nombreux ghiystes, voire la plupart, semblent n'avoir qu'un faible lien avec le monde physique et ont tendance à disparaître en l'espace de quelques années à quelques siècles. Quelques-uns, cependant, peuvent rester indéfiniment prisonniers de la mort, en particulier s'il y a une forte concentration de magie noire à proximité.
+
+==**Ghiyst - définition (IA)==
+
+Un **Ghiyst** est une créature **spectrale** dans le monde de Zyathé, une forme d'**abomination** de la non-vie. Les Ghiysts sont considérés comme des **morts-vivants éthérés** qui ne rentrent pas dans les catégories habituelles comme les fantômes ou les spectres, bien qu'ils soient souvent appelés "fantômes".
+
+Voici quelques points clés pour définir un Ghiyst, selon les sources :
+
+- Ce sont des morts-vivants éthérés.
+- Chaque Ghiyst est une **abomination unique** de la non-vie, avec des caractéristiques et des capacités variables.
+- Ils peuvent montrer des signes d'activité de type poltergeist ou des résidus ectoplasmiques.
+- Les Ghiysts peuvent avoir des apparences très variées et terrifiantes.
+- Il existe des Ghiysts avec des propriétés particulières, tels que :
+    - Le **Flaming Skull** (Crâne Flamboyant), qui est un squelette difforme enveloppé de flammes. Il inflige des dégâts de feu et nécrotiques.
+    - Le **Headless Swordsman** (Cavalier Sans Tête), l'esprit d'un chevalier torturé qui attaque aveuglément.
+    - Le **Masked Ripper** (L'Éventreur Masqué), un esprit violent qui lacère ses victimes.
+- Les Ghiysts ont des **résistances** et des **immunités** spécifiques. Par exemple, le Flaming Skull a des résistances aux dégâts d'acide, de feu, de foudre et de tonnerre, ainsi qu'aux dégâts contondants, perforants et tranchants non magiques. Il est également immunisé au froid, au nécrotique et au poison, ainsi qu'aux conditions charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre et entravé.
+- Les Ghiysts ont une **vitesse** de déplacement variable ; par exemple, le Flaming Skull peut voler à 30 pieds (environ 9 mètres).
+- Les Ghiysts ont une capacité de **Mouvement Incorporel** qui leur permet de se déplacer à travers d'autres créatures et objets.
+- Certains Ghiysts, comme le Flaming Skull, infligent des **dégâts de feu** aux créatures effectuant des attaques de mêlée contre eux. Ils peuvent aussi infliger des dégâts aux créatures lorsqu'ils se déplacent à travers elles.
+- Certains Ghiysts, comme le Horrid Fay'aree, peuvent **manipuler** les attaques.
+- Les Ghiysts sont souvent rencontrés dans des lieux hantés et peuvent être hostiles envers les vivants.
+- Les Ghiysts ne peuvent pas toujours être identifiés facilement, car ils sont uniques dans leur abomination de la non-vie.
+
 ### Ooblekk
 Les oobleks sont un type de mort-vivant horrible et heureusement rare qui présente de nombreuses caractéristiques communes avec les oozes. Ils se forment typiquement dans les endroits où les corps de nombreux humanoïdes sont laissés sans sépulture pour se décomposer ensemble, en particulier dans un étang ou une autre petite étendue d'eau stagnante. La chair se décompose et se détache des os, donnant à l'eau stagnante une texture inquiétante, épaisse et gélatineuse. Pendant ce temps, la magie noire qui s'exerce sur ce lieu maudit commence à imprégner la piscine d'une noirceur d'encre, ainsi que d'une intelligence et d'une animation rudimentaires. Une fois formé, l'Ooblekk attend avec une patience irréfléchie, ne réagissant que si un être vivant s'approche trop près, auquel cas il s'élance et tente d'ajouter le corps de la créature à sa collection d'os. Ceux qui sont frappés par l'Ooblekk voient leur vitalité s'épuiser rapidement ; la plupart sont incapables d'empêcher l'abomination de les absorber lentement.
 

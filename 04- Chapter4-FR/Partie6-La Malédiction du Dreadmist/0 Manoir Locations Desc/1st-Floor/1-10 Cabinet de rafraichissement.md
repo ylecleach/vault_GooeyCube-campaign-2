@@ -8,10 +8,10 @@ Cette pièce mesure 15 pieds sur 10 pieds, avec des portes à glissière au nord
 
 ### Événements dans la salle
 
-**Saveur effrayante** : Les lumières s'éteignent soudainement lorsque la commode est utilisée, laissant l'utilisateur dans l'obscurité totale 
+- [ ] **Saveur effrayante** : Les lumières s'éteignent soudainement lorsque la commode est utilisée, laissant l'utilisateur dans l'obscurité totale 
 
-**Tendez les tous**: Le livre sur la table s'ouvrira et commencera à feuilleter rapidement les pages, toutes vierges, et une soudaine odeur d'excrément planera dans l'air, mais seulement pour un moment 
+- [ ] **Tendez les tous**: Le livre sur la table s'ouvrira et commencera à feuilleter rapidement les pages, toutes vierges, et une soudaine odeur d'excrément planera dans l'air, mais seulement pour un moment 
 
-**Flippez les tous**: En se regardant dans le miroir, un PJ ne verra pas son reflet, mais plutôt une masse méconnaissable de couleurs déformées et délavées. D'autres personnages, ou un regard ultérieur dans le miroir, verront un reflet normal.
+- [ ] **Flippez les tous**: En se regardant dans le miroir, un PJ ne verra pas son reflet, mais plutôt une masse méconnaissable de couleurs déformées et délavées. D'autres personnages, ou un regard ultérieur dans le miroir, verront un reflet normal.
 
 

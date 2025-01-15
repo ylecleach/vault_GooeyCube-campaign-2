@@ -1,0 +1,1 @@
+Si vous avez bien mené La Chasse dans la Maison, les PJ ont eu quelques bons combats, ont rencontré des fantômes pas si dangereux que ça - et peut-être d'autres PNJ - ont appris des choses intrigantes, et ont en général eu une randonnée mystérieuse et intéressante dans le manoir.Une fois terminé, continuez jusqu'au Dîner comme indiqué ci-dessous.

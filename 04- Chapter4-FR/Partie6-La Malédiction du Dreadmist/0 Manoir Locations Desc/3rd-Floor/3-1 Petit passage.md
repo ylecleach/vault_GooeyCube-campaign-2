@@ -1,0 +1,7 @@
+Lisez ou paraphrasez ce qui suit lorsque les PJ pénètrent dans le couloir. 
+
+**A l'une de ses extrémités, un escalier en fer forgé descend au deuxième étage. Une lumière bleu-blanc émane de l'escalier et vous baigne, et vous devez vous protéger les yeux jusqu'à ce qu'ils s'habituent. À l'autre extrémité, deux portes et une petite fenêtre donnent sur le domaine au sud. Les accessoires, boutons et poignées des portes et de la fenêtre sont tous fabriqués à la main et plutôt ornés, avec des motifs intéressants dans les métaux. Trois globes arcaniques fournissent une lumière suffisante, semblant plus brillante que la plupart des autres dans le manoir, mais leur lumière bleue-blanche froide est dure pour les yeux.
+
+Ce hall a une longueur d'environ 30 pieds, sans compter l'escalier et la niche. La cage d'escalier située à l'extrémité est du hall descend vers la cage d'escalier (2-11). La porte à l'extrémité ouest du hall ouvre sur le placard à linge (3-2). La porte sur le mur nord mène au Corridor Obscur (3-3). Il n'y a rien d'important à trouver à cet endroit. 
+
+Note:La magie ici est facilement détectable, assez puissante, et ne peut pas être dissipée. Dans le cadre de la magie de l'objet spécial 12 : The Darksilver Rod, cette magie interdit entièrement l'accès au troisième étage (et au quatrième étage secret), imprégnant même le plafond et le sol. MAIS, elle n'empêche personne de descendre du troisième étage jusqu'au deuxième. La magie n'est pas nocive, mais elle résiste à toute tentative de pression avec une réaction égale et opposée.

@@ -47,7 +47,7 @@ demander aux joueurs le contenu de la cachette de Mère Salvensa dans son chario
 ###  Lieu et Date
   22th du mois de Dezu'un de l'année SC 1212, et il est environ 16h30, la nuit est presque tombée, et il fait très sombre, avec beaucoup de brouillard.
   Vous êtes sur la Route du Roi près de Prondadol.
-  ![[map-chapter4-session07.pdf]]
+  
 ### Meteo
 il fait froid, de brume givrante et bcp de brouillard.
 

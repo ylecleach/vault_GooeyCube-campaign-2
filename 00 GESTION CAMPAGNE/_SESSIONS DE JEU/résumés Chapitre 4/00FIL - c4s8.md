@@ -45,10 +45,14 @@ L'illusion subie par Cydir qui croyait voir Fior avoir été attaqué dans le ja
 Cydir qui va vérifier que Fior va bien : il était en train de passer du bon temps avec Fletch le palefreniro dans le hangar à charettes. Il a vu un magnifique carosse, probablement appartenant au maître des lieux, et qui est légérement endommagé. (roue cassée)`
 
 le Long Couloir (1-4)
-La salle de musique: Crendon est attiré par une harpe, et a aussi repéré une Citare, elle compte bien y revenir, mais avec l'autorisaton du Lord cette fois.
+La salle de musique: Crendon est attiré par une harpe, et a aussi repéré une Citare, elle compte bien y revenir, mais avec l'autorisation du Lord cette fois.
 
-La Bibliothèque du RDC : découverte d'un passage secret menant au second étage.
-La salle d'étude de la bibliothèque du RDC
-La Salle à Manger: rencontre de Lord Creston.
+La Bibliothèque du RDC : découverte d'un passage secret menant au second étage, mais vous n'y êtes pas allé.
 
-Partie arrêtée à 1h00 du matin. (fatigue générale de pas mal de joueurs)
+La salle d'étude de la bibliothèque du RDC: un livre tombe au pied de Brandele.
+
+Corinee qui prend flamme et meurt en touchant un livre
+
+La Salle à Manger: rencontre de Lord Creston juste avant qu'ils ne s'adresse à vous.
+
+Partie arrêtée à 1h00 du matin, il est 20h00 In-Game (fatigue générale de pas mal de joueurs)

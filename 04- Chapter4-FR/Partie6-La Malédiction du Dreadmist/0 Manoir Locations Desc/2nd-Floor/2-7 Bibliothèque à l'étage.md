@@ -1,4 +1,6 @@
-Lisez ou paraphrasez ce qui suit et montrez le document 81 : La bibliothèque de l'étage au moment opportun. Note : Marianne la bibliothécaire n'est pas un fantôme timide et fera « taire » les PJ s'ils parlent trop fort ici. Voir ci-dessous pour plus d'informations sur Marianne.
+Lisez ou paraphrasez ce qui suit et montrez le **document 81 : La bibliothèque de l'étage** au moment opportun. 
+
+Note : Marianne la bibliothécaire n'est pas un fantôme timide et fera « taire » les PJ s'ils parlent trop fort ici. Voir ci-dessous pour plus d'informations sur Marianne.
 
 ![[Pasted image 20241213180751.png]]
 
@@ -10,7 +12,7 @@ Note : **Marian Meeks (Portrait53) hante cette pièce**, ainsi que la bibliothè
 
 ### Découvertes de salles
 
-- [ ] Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : 
+- [ ] **Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : 
 
 **Vous trouvez dans un coin un petit morceau de papier bien froissé, un morceau de papier à lettres en lin fin manifestement déchiré d'une feuille plus grande. En l'ouvrant, vous voyez une phrase écrite de la main d'un enfant : « Je n'aime pas du tout les livres ! » Le mot est de Zara.
 

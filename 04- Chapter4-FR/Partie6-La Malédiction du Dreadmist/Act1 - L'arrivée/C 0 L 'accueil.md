@@ -21,7 +21,7 @@ Lorsque le moment est venu de faire avancer l'histoire, montrez le **Document 40
 ### Conseils pour jouer Ma'lum
 Ma'lum se présente comme la définition même de l'homme de maison et du majordome. Il est impeccablement vêtu de l'uniforme de son poste et ne sera jamais vu dans la maison dans une tenue autre que son costume et sa chemise blanche impeccable, avec des chaussures cirées. Il est stoïque et réservé, mais courtois. Il dirige un « navire très serré » et gère le personnel d'Aeverlund avec une efficacité rigoureuse. 
 
-Il ne dit que ce qu'il faut pour répondre à la question qui lui est posée. « Oui, monseigneur » ou “Non, monseigneur” sont ses deux réponses les plus courantes. Les PJ ne pourront pas connaître sa véritable nature en raison de l'anneau magique qu'il porte. 
+Il ne dit que ce qu'il faut pour répondre à la question qui lui est posée. « Oui, monseigneur » ou “Non, monseigneur” sont ses deux réponses les plus courantes. Les PJ ne pourront pas connaître sa véritable nature en raison de l'anneau magique (***Ring of Mind Shielding***) qu'il porte. 
 
 En fait, si un joueur utilise la Sagesse (Perspicacité) pour déterminer les préférences de Ma'lum, il aura probablement l'impression qu'il s'agit d'une « bonne personne » grâce à cet anneau. Consultez la Référence du Meneur de Jeu pour plus de détails sur Ma'lum.
 

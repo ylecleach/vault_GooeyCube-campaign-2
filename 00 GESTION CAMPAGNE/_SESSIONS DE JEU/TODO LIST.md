@@ -1,8 +1,12 @@
 
 **Preparation Campagne**
 * [x] trouver instrument magique pour le barde pour le 1-17
+* [ ] un Loot pour le centipede
+* [ ] Traduire Descriptions Zone Basement
+* [ ] Traduire Description 3eme Etage
+* [ ] vision belania harpe à faire. (10 lignes)
 * [ ] trouver son de cri de femme horrible pour le 2-2
-* [ ] traduire début Etage 2 (chambres des invités)
+* [x] traduire début Etage 2 (chambres des invités)
 * [x] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
 * [x] discord: voir avec maxime pour avoir un chan privé par joueur.
 * [ ] Ajouter photo combat wakabago figurines dans le résumé chapitre 4 session 6

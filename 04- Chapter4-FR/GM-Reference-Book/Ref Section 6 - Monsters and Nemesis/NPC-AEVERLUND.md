@@ -74,7 +74,31 @@ Il ne dit que ce qu'il faut pour répondre à la question qui lui est posée. «
 Ma'lum Ansal'estran : Ma'lum a été engagé comme maître d'hôtel et gestionnaire du domaine d'Aeverlund par Hectarius Hrumm, le père de Creston, alors que ce dernier n'était encore qu'un jeune garçon. Même l'actuel seigneur du manoir ne sait pas où son père a trouvé le demi-elfe, mais Ma'lum s'est rapidement imposé comme le chef indispensable de la maison, alors qu'Hectarius s'enivrait jusqu'à la stupeur. Depuis son arrivée, tous les serviteurs engagés, les invités de passage et les cargaisons de fournitures sont passés sous le regard impénétrable de Ma'lum. Très peu de choses se passent sur le domaine sans que le majordome ne soit au courant. Selon toute apparence, c'est pour le mieux, car Ma'lum est l'incarnation du professionnalisme et du dévouement à la famille Hrumm. Sans ses efforts, il semble que le manoir et le domaine auraient depuis longtemps sombré dans la ruine. Comme la mère de Creston était morte, que ses sœurs s'étaient enfuies et que son père était rancunier et distant, Creston a grandi sous la garde du personnel, et Ma'lum en particulier le surveillait attentivement. Il fallut plusieurs années à Creston pour commencer à remarquer les activités étranges et suspectes de son majordome, et plus longtemps encore pour se rendre compte que le sentiment d'effroi croissant qui imprégnait tout le domaine d'Aeverlund semblait se concentrer sur le serviteur tranquille et travailleur qu'il connaissait depuis sa naissance.
 En vérité, Ma'lum avait toujours répondu à un maître supérieur. Hectarius l'avait engagé en sachant qu'il n'y avait guère d'adeptes plus fanatiques de Norcreus. Le vieux Lord Hrumm, amer, soupçonnait son fils de mener la famille à la ruine et était convaincu que le seul moyen de restaurer la fortune de leur lignée était de se damner encore plus au service de Norcreus en concluant un pacte avec le démon Zanvitchu. Ma'lum et les autres membres de la secte devaient s'assurer que Creston accepterait son rôle dans ce projet et le mènerait à bien, car la santé d'Hectarius déclinait rapidement. Il ne tarda pas à décéder et Ma'lum commença à s'efforcer de guider le jeune seigneur. Malgré tous ses efforts, Creston n'a accepté le pacte avec Zanvitchu que sous la contrainte, et semble déterminé à échapper à l'influence du véritable maître de Ma'lum. Au fil des ans, le majordome s'est montré de plus en plus frustré et désespéré dans ses tentatives de corrompre et de contraindre Creston. Pourtant, il n'a jamais laissé échapper sa façade soigneusement cultivée, et même aujourd'hui, Creston ne comprend pas entièrement la profondeur de la dévotion inébranlable de Ma'lum envers Norcreus, Zanvitchu et le plan d'Hectarius. Il mènera l'œuvre de sa vie jusqu'au bout, et ne permettra pas aux Hrumms, ni à quiconque, de s'opposer à la volonté de Norcreus.
 
+Ma’lum, Medium humanoid, lawful evil
+Armor Class 14, Hit Points 39 (6d8+12), Speed 30 ft.
+STR 14 (+2) DEX 18 (+4) CON 14 (+2) INT 13 (+1) WIS 12 (+1) CHA 17 (+3)
+_Saving Throws: Dex +6, Wis +3, Cha +5_  
+_Skills: Stealth +6_  
+_Senses: passive Perception 11_  
+_Languages: Elvish, Common_  
+_Challenge: 5 (1,800 XP)_  
+_**Fay’aree Ancestry**: Ma’lum has advantage on saving throws against_ being charmed, and can’t be put to sleep through magical means.  
+**Innate Spellcasting**: Ma’lum’s spellcasting ability is Charisma (spell_  
+_save DC is 14). 
 
+He can innately cast the following spells, requiring no material components.  
+_At will: [Chill Touch](https://www.aidedd.org/spell/chill-touch): 2D10 Necrotic damage
+_3/day: [Expeditious Retreat](https://www.aidedd.org/spell/expeditious-retreat), [Hex](https://www.aidedd.org/spell/hex)  : pour lancer un curse mineur lui donnant des avantages par la suite.
+_1/day at 2nd level: [Armor of Agathys](https://www.aidedd.org/spell/armor-of-agathys) : 10 PV temp. si hit par un PJ, 10 pdv cold damage. (sort dure tant que pv temp)
+_1/day at 3rd level: [Cloud of Daggers](https://www.aidedd.org/spell/cloud-of-daggers) : très puissant: cube de 8d4 pouvant être déplacé.
+_Ring of Mind Shielding: Ma’lum is immune to magic that allows other_ creatures to read his thoughts, determine whether he is lying, or know his alignment. Creatures can telepathically communicate with him only if he allows it.
+_Actions: Multi-attack. Ma’lum makes two attacks with his dagger._  
+_Dagger +2. Melee Weapon Attack: +8 to hit, reach 5 ft., one target._  
+_Hit: 9 (1d4+6) piercing damage._  
+_Possessions: Black silk suit, white linen shirt, red silk bow tie, fine_  
+_leather shoes with silver buckles (Value: 4 Golds), white silk gloves,_  
+_two (2) Uncarded Item: +2 Crystal Blade Dagger, Uncarded Item: Ring of_  
+_Mind Shielding._
 
 ### **Cra'aveen la sorcière** (36)
 Cra'aveen est chargée de diriger les viles cérémonies et les rituels qu'ils pratiquent. Aucun membre du personnel actuel, à part peut-être Ma'lum, ne sait ce qui l'a amenée au manoir Hrumm, car elle y est arrivée il y a de nombreuses années, lorsque Heronious a construit le domaine pour la première fois. En effet, seuls les initiés au culte connaissent sa présence. C'est une vieille bique, imprégnée de magie noire et pleine de connaissances interdites que le monde ferait mieux de laisser tomber dans l'oubli. Elle garde pour elle tous les détails de son passé, ainsi que les ambitions qu'elle peut nourrir au-delà de ses prédations viles actuelles. La seule chose que l'on puisse savoir avec certitude à propos de cette femme est sa dévotion fanatique à Zanvitchu et, par extension, à Norcreus. Sans sa maîtrise des sortilèges, l'emprise du mal sur Aeverlund et la famille Hrumm serait très affaiblie, ce qui fait d'elle une cible essentielle pour quiconque cherche à libérer les personnes emprisonnées dans le manoir.
@@ -116,10 +140,8 @@ Elana est l'une des deux Servantes sous l'emprise de Mme Ventrazia. Elle mange �
 Alors que les autres membres du personnel ressentent une inexplicable répulsion à l'arrivée de Mme Ventrazia comme gouvernante, Drusrella se lie immédiatement avec la vieille dame. Drusrella avait été sur le point d'être renvoyée parce qu'elle laissait constamment tomber la vaisselle, qu'elle bavardait sans cesse sur les autres servantes et qu'elle avait d'autres défauts. Pour des raisons qui échappent à la famille et à la plupart des autres membres du personnel, la nomination de Mme Ventrazia pour veiller sur elle l'amène à devenir une femme de chambre modèle, presque tous les soirs. Cependant, pendant quelques mois, la santé de Drusella semble décliner et, pendant plusieurs jours, elle semble être sur son lit de mort. Mais peu de temps après, la femme se rétablit de façon assez miraculeuse. À la suite de cette affaire, sa personnalité est devenue le reflet de celle de Mme Ventrazia, et elle règne sur les autres domestiques comme un véritable martinet et un homme de main de la vénérable gouvernante.
 La vérité est que Drusrella est morte il y a quelques années et qu'elle est devenue l'esclave permanente de la Withercorse connue sous le nom de Mme Ventrazia. Liée à jamais à la mort, elle est devenue pour son maître une paire d'yeux et d'oreilles supplémentaires dans la maison. Ma'lum se contentait de laisser Ventrazia dominer l'une des femmes de chambre, mais même lui est devenu quelque peu nerveux depuis qu'elle a commencé à exercer ses viles magies sur Elana, l'autre servante.
 
-### Vorgun, le chef cuisinier
+### Vorgun (no portrait), le chef cuisinier
 Vorgun avait d'autres projets de vie que de préparer les repas d'un noble oublié dans les terres sauvages du sud de la République. Cependant, une série de mauvaises décisions l'ont éloigné des principales colonies où il aurait pu être reconnu. Et, après tout, son habileté avec les couteaux se traduisait étonnamment bien en talent de cuisinier. Il s'avère qu'il a un bon palais pour les différentes herbes et épices, ce qu'il n'aurait jamais découvert dans son travail précédent. C'est ainsi qu'il prépare un impressionnant éventail de plats exotiques et décadents pour Lord Creston, ainsi qu'un repas suffisamment copieux pour satisfaire les autres membres du personnel. Mais les vieilles habitudes ont la vie dure, et Vorgun s'est retrouvé entraîné dans les intrigues diaboliques qui imprègnent le domaine d'Aeverlund. Recruté par la secte, il a été chargé de préparer des préparations moins savoureuses que d'habitude et de remettre ses couteaux au travail. Au cours de son service auprès du précédent chef, Salvé Bonchon, il a appris l'existence d'un rituel permettant d'acquérir les compétences culinaires de l'ancien chef. Malheureusement pour Bonchon, il s'agissait de préparer et de consommer le cerveau de Bonchon dans le cadre d'une recette extrêmement difficile. Mais à ce stade, un tel acte n'inquiète guère Vorgun, qui l'a exécuté il y a déjà un certain temps. Heureusement pour l'aspirant cuisinier, il semble que cela ait plutôt bien fonctionné.
-
-
 
 
 ## Les fantômes les plus sympathiques
@@ -131,8 +153,8 @@ Bloosky était une femme amicale et extravertie qui ne pouvait se distraire de l
 ### Marian Meeks (53)
 Marian était une jeune femme timide de Prondadol qui passait ses journées à lire de vieux tomes, à transcrire des parchemins froissés et à rechercher des volumes rares. Presque tous les sujets la passionnent, surtout s'il s'agit de choses dont la plupart des gens ne semblent pas s'intéresser, comme l'histoire ancienne, la botanique estrienne ou une philosophie obscure. Elle envisageait de rejoindre l'église de Laern et se préparait à partir pour Darkenhaven afin de devenir initiée lorsqu'elle entendit des rumeurs sur un domaine isolé dans les marais du sud où se trouvaient plusieurs livres que l'on croyait perdus depuis longtemps. Elle partit donc à la recherche d'Aeverlund, contre l'avis des anciens de la région, qui avaient entendu dire que ceux qui cherchaient les Hrumms n'avaient que des ennuis. Marian parvint finalement à trouver le manoir, et un Lord Creston réticent l'autorisa à rester pour lire dans sa bibliothèque, en échange de son aide pour ranger les nombreux volumes. Comme ce fut le cas pour tant d'autres invités, Marian disparut un jour. Aujourd'hui, son esprit s'attarde dans la bibliothèque, gardant une lueur d'espoir qu'un jour quelqu'un découvrira les secrets qu'elle n'a pas pu découvrir, et qu'une telle connaissance pourrait peut-être mettre fin au tourment des esprits piégés dans le manoir de Hrumm.
 
-### Zerben Steeltoe 
-Son amour du vin était considéré comme assez inhabituel dans sa ville natale de Sundervulden, car la plupart de ses compatriotes nains préféraient leurs propres bières lourdes et leurs robustes whiskeys à ces boissons « étrangères ». Cependant, les petites communautés d'Elfes Noirs, de Gnomes, d'Humains et autres de Sundervulden appréciaient ses services et, apparemment par la seule force de sa personnalité, il commença à développer un petit mais profitable marché parmi ces groupes avec ses importations impeccablement choisies. Avec le temps, il acquit une certaine réputation avec son réseau commercial grandissant, et fut honoré lorsqu'on lui annonça qu'un Lord Creston Hrumm souhaitait qu'il visite son domaine pour l'aider à constituer une impressionnante collection pour sa cave. Bien que le voyage jusqu'aux environs de Blackrot Bog n'ait pas été particulièrement agréable, Zerben était impatient de partager son expertise lorsqu'il arriva enfin à Aeverlund. Pendant plusieurs jours, ses hôtes l'ont diverti en l'aidant à élaborer une carte des vins à faire pâlir d'envie même la reine d'Andvalla. Lorsque la secte est venue le chercher dans la nuit, il a refusé de partir sans se battre et a réussi à franchir la porte d'entrée avant d'être abattu par une grêle de flèches.Aujourd'hui, Zerben a tendance à hanter la cave à vin, car c'est le dernier souvenir doux-amer de sa vie passée. Il aime se donner en spectacle comme un bouffon ivre ou un farceur flatulent.
+### Zerben Steeltoe (59)
+Son amour du vin était considéré comme assez inhabituel dans sa ville natale de Sundervulden, car la plupart de ses compatriotes nains préféraient leurs propres bières lourdes et leurs robustes whiskeys à ces boissons « étrangères ». Cependant, les petites communautés d'Elfes Noirs, de Gnomes, d'Humains et autres de Sundervulden appréciaient ses services et, apparemment par la seule force de sa personnalité, il commença à développer un petit mais profitable marché parmi ces groupes avec ses importations impeccablement choisies. Avec le temps, il acquit une certaine réputation avec son réseau commercial grandissant, et fut honoré lorsqu'on lui annonça qu'un Lord Creston Hrumm souhaitait qu'il visite son domaine pour l'aider à constituer une impressionnante collection pour sa cave. Bien que le voyage jusqu'aux environs de Blackrot Bog n'ait pas été particulièrement agréable, Zerben était impatient de partager son expertise lorsqu'il arriva enfin à Aeverlund. Pendant plusieurs jours, ses hôtes l'ont diverti en l'aidant à élaborer une carte des vins à faire pâlir d'envie même la reine d'Andvalla. Lorsque la secte est venue le chercher dans la nuit, il a refusé de partir sans se battre et a réussi à franchir la porte d'entrée avant d'être abattu par une grêle de flèches. Aujourd'hui, Zerben a tendance à hanter la cave à vin, car c'est le dernier souvenir doux-amer de sa vie passée. Il aime se donner en spectacle comme un bouffon ivre ou un farceur flatulent.
 
 ### Chef Salvé Bonchon (51)
 Le chef Bonchon a été le chef cuisinier du HrummManor pendant près de vingt ans. Il est réputé avoir commencé sa carrière à Wavecrest, où il était apprécié de l'élite locale pour ses préparations de crustacés Bluebottom et de caviar Mystranic. Il a été recommandé au service des Hrumms et pensait qu'il pourrait perfectionner ses compétences tout en gagnant un patronage puissant qu'il pourrait éventuellement utiliser pour devenir l'un des plus grands chefs cuisiniers de Verdestia. Cependant, une fois arrivé, il trouva que le travail n'était pas à la hauteur de ses espérances. Néanmoins, il refuse de se laisser abattre et continue de se perfectionner dans l'espoir de pouvoir partir un jour. Chef Bonchon garde la tête baissée et ne remet jamais en question les étranges événements du domaine, se doutant qu'il n'y a rien de bon à mettre son nez là où il ne faut pas. Malheureusement, les ennuis continuent lorsque Ma'lum engage un assistant cuisinier du nom de Vorgun. Dans un premier temps, Vorgun se montre compétent, mais alors que Salvé commence à noter des commentaires inquiétants de la part de son protégé, il est tué par Vorgun. Prenant la place de Bonchon, Vorgun a rituellement cuit et mangé le cerveau du vieux chef pour lui voler ses connaissances et ses capacités à titre posthume. Aujourd'hui, l'esprit de Salvé erre dans la cuisine, ruminant sa trahison, sans parler du fait qu'il a été remplacé par quelqu'un de moins doué en cuisine. Il est un peu pompeux, mais il est heureux de voir quelqu'un agir contre Vorgun et la secte.
@@ -148,6 +170,15 @@ Almred Drann était un demi-elfe originaire de Prondadol qui a passé les premi�
 Almred décida de rentrer chez lui plus tôt que prévu et, bien que Creston fût contrarié de le laisser partir, il accepta de le renvoyer avec un bon salaire pour sa famille. Cependant, alors qu'Almred tentait de partir, la secte le traqua, le tua et donna son corps en pâture à l'engeance vile de Zanvitchu. Aujourd'hui, Almred est enfermé dans le manoir sous forme d'esprit. Il a tendance à s'attarder dans la salle à manger privée et dans les autres endroits où il a servi Lord Creston. Il est naturellement attristé par son sort, ce qui le rend silencieux et stoïque, mais il reste un bon juge de caractère et espère désespérément être libéré, ne serait-ce que pour s'arranger pour que quelqu'un s'occupe d'Elosia, de Nadi et de Tamen.
 
 
+
+
+### Jardrin (45)  - valet de pied
+On le voit souvent s'éclipser pour éviter le travail. Lorsqu'il est contraint d'exercer ses fonctions de valet de pied, il a du mal à contenir son humeur grincheuse.
+
+### Gestrem (46) - valet de pied
+Il ressemble plus à un mercenaire qu'à un valet de pied, mais il fait partie des serviteurs les plus compétents et les plus dévoués du personnel. Il semble particulièrement attentif lorsque lord Creston est présent.
+### Mivael (47) - valet de pied
+Il est calme et réservé, et semble se fondre dans le décor. Ce qu'il peut penser est indéchiffrable derrière ses traits immobiles.
 
 
 ## Les fantômes peu amicaux
@@ -171,9 +202,6 @@ Doozen Fulbitz était l'assistant d'Heronius Hrumm à la fin de sa vie, et il es
 Sayndra Sheels était, selon les critères de presque tout le monde, une femme remarquablement attirante, un fait qui a sans aucun doute influencé la décision d'Heronius de l'engager comme gouvernante en chef. Il n'était pas non plus surprenant qu'elle finisse par devenir la maîtresse d'Heronius, et beaucoup se demandaient pourquoi sa femme Felina n'était pas intervenue plus tôt. Peut-être avait-elle d'abord cru que son intérêt pour Sayndra était occulte plutôt que charnel, puisque le couple avait séduit ensemble plusieurs jeunes femmes à Darkenhaven, toutes utilisées dans de sombres rituels. Mais lorsque Felina comprit qu'Heronius avait des relations sexuelles avec la gouvernante, elle demanda à Kastrenna de préparer un poison mortel et de le mettre dans le verre de vin de Sayndra, ce qui eut un effet mortel immédiat. Par la suite, Heronius et Felina parvinrent à une sorte d'entente, Heronius ne prenant plus de maîtresse. Quant à Sayndra, son esprit s'attarde au manoir, généralement dans le fumoir, où elle tente de goûter aux plaisirs de la vie. Elle est assez coquette et se montre amicale avec ceux qui lui rendent la pareille.
 
 
-
-
-
 ## Les ghiystes remarquablement peu amicaux
 
 Voici la liste des quatre effrayants ghiystes qui habitent le domaine. Ils sont tous les quatre très dangereux et seront probablement rencontrés par le groupe dans **"La Chasse à travers la maison"**. Les ghiysts sont des créatures spectrales du monde de Zyathé dont les propriétés et les capacités sont beaucoup plus variables que celles des autres créatures que vous connaissez peut-être mieux.Note : Ces quatre esprits n'ont pas besoin d'être les seuls esprits vraiment dangereux du domaine et des terres si vous voulez ajouter plus de combat au récit. Consultez les statistiques de combat pour savoir comment les ghiysts sont fabriqués et comment vous pouvez créer les vôtres.
@@ -181,14 +209,130 @@ Voici la liste des quatre effrayants ghiystes qui habitent le domaine. Ils sont 
 ### Le crâne enflammé 
 Même les autres esprits ne savent pas toujours d'où viennent les morts-vivants spectraux vraiment maléfiques qui hantent le manoir Hrumm, ce qui est certainement le cas de celui que l'on ne connaît que sous le nom de Flaming Skull. Ce ghiyste se présente sous la forme d'un squelette tordu et malformé, doté de caractéristiques inhumaines telles que de longues dents acérées comme des rasoirs, d'horribles griffes, de trop nombreux membres et d'un second crâne rabougri dépassant de sa nuque, le tout enveloppé de flammes bleu-vert peu naturelles. En effet, son apparence est si horrible que l'on pourrait être convaincu que cette abomination est le résultat de la fusion de deux êtres. Quoi qu'il en soit, personne ne semble disposer d'autre chose que de pures spéculations pour expliquer l'origine du crâne enflammé. Il pourrait s'agir du résultat d'une expérience cachée dans les profondeurs du manoir, ou d'une chose que l'un des Hrumm a invoquée et dont il a perdu le contrôle. Ce que l'on sait, c'est que le Crâne flamboyant semble se délecter à répandre ses flammes impies, engloutissant dans son feu bleu-vert tous ceux qui croisent son chemin. C'est un ghiyste agité, constamment en mouvement et heureux d'interrompre un combat pour le reprendre plus tard.
 
+Bien sûr, voici les statistiques (boosté pour un groupe de 8 joueurs niveau 4, très équipé) du **Flaming Skull** (Crâne Flamboyant), un type de Ghiyst, selon les sources :
+
+- **Taille** : Mort-vivant de taille moyenne
+- **Alignement** : Neutre mauvais
+- **Classe d'armure** : 12 => 19
+- **Points de vie** : 27 (6d8) => 95
+- **Vitesse** : 0 ft., vol 30 ft. (stationnaire)
+- **FOR** 7 (-2), **DEX** 15 (+2), **CON** 10 (+0), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
+- **Résistances aux dégâts** : acide, feu, foudre, tonnerre ; contondant, perforant et tranchant d’attaques non magiques
+- **Immunités aux dégâts** : froid, nécrotique, poison
+- **Immunités aux conditions** : charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+- **Sens** : vision dans le noir 60 ft., Perception passive 12
+- **Langues** : Commun
+- **Défi** : 1 (200 XP)
+- **Mouvement Incorporel** : Le Ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
+- **Flammes Spectrales** : Chaque fois qu’une créature effectue une attaque de mêlée contre le Crâne Flamboyant, elle doit effectuer un jet de sauvegarde de Dextérité DD 12, subissant 4 (1d8) dégâts de feu en cas d’échec. De plus, si le Crâne Flamboyant se déplace à travers une autre créature en utilisant son Mouvement Incorporel, cette créature doit effectuer un jet de sauvegarde de Dextérité DD 14, subissant 7 (2d6) dégâts de feu en cas d’échec.
+    
+- **Actions** :
+    - **Multi-attaque** : Le Crâne Flamboyant effectue deux attaques avec ses Griffes Flamboyantes.
+    - **Griffes Flamboyantes** : Attaque d’arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 6 (1d8+4) dégâts de feu et 3 (1d8+2) dégâts nécrotiques.
+
+Il existe également des **modifications de difficulté** pour le Flaming Skull :
+- **Groupe plus faible** : Ignorer les résistances aux dégâts du Ghiyst.
+- **Groupe avancé** : Augmenter les points de vie du Ghiyst à 40.
+- **Rendez-le plus difficile** : En plus des points de vie supplémentaires, augmenter les dégâts infligés par toute attaque ou effet du Crâne Flamboyant de 2.
+- **Rendez-le encore plus difficile** : En plus de tout ce qui précède, augmenter la CA du Ghiyst à 16.
+
+Le Flaming Skull est décrit comme un mort-vivant spectral maléfique et particulier, avec une apparence tordue et difforme, des caractéristiques inhumaines, des dents longues et acérées, des griffes horribles, un trop grand nombre de membres, et un second crâne atrophié qui ressort de l’arrière de son cou, le tout enveloppé de flammes bleu-vert surnaturelles. Il semble qu'il aime répandre ses flammes impies, engloutissant tous ceux qui croisent son chemin dans son feu bleu-vert.
+
 ### L'épéiste sans tête
 Le ghiyste connu sous le nom de l'épéiste sans tête aurait été un noble chevalier qui aurait tenté de dissuader Heronius de créer le domaine d'Aeverlund. Peu de gens étaient au courant de leurs conversations, mais le chevalier était absolument convaincu qu'aucun avantage, et au contraire beaucoup de mal, ne résulterait de l'accord d'Heronius. Le chevalier disparut, et même la plupart des membres du personnel crurent qu'il avait simplement abandonné et était parti. En réalité, Heronius l'avait fait battre et kidnapper pendant son sommeil, puis l'avait emmené dans son donjon pour le torturer. Pendant des années, le chevalier fut enchaîné et soumis à toutes sortes de misères, Heronius essayant de le forcer à se mettre au service de Zanvitchu, mais le chevalier ne céda jamais. Lentement, il perdit la raison, jusqu'à ce qu'il ne reste plus que sa volonté de fer pour se défendre. Finalement, par frustration, Heroniush fit décapiter le chevalier, mais cela ne le débarrassa pas de son ennemi. L'esprit du chevalier persista sous la forme d'un Ghiyste qui erre dans la propriété, et fut connu sous le nom de l'épéiste sans tête. **Le Ghiyste est incapable de reconnaître un ami d'un ennemi,** et **attaque aveuglément** tous ceux qu'il rencontre, dans l'espoir perdu de se venger d'Heronius. Il n'a aucune raison de discuter et s'obstine à se battre jusqu'au bout.
+
+Bien sûr, voici les statistiques (modifiée pour un groupe de 8 joueurs de niveau 4 bien équipés) du **Headless Swordsman** (Cavalier sans tête), un type de Ghiyst, selon les sources :
+
+- **Taille** : Mort-vivant de taille moyenne
+- **Alignement** : Neutre mauvais
+- **Classe d'armure** : 14 => 22
+- **Points de vie** : 27 (6d8) => (13d8) = 85
+- **Vitesse** : 0 ft., vol 30 ft. (stationnaire)
+- **FOR** 7 (-2), **DEX** 18 (+4), **CON** 10 (+0), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
+- **Résistances aux dégâts** : acide, feu, foudre, tonnerre ; **contondant, perforant et tranchant d’attaques non magiques**
+- **Immunités aux dégâts** : froid, nécrotique, poison
+- **Immunités aux conditions** : charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+- **Sens** : vision dans le noir 60 ft., Perception passive 12
+- **Langues** : Commun
+- **Défi** : 1 (200 XP)
+- **Mouvement Incorporel** : Le Ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
+- **Parade de Duelliste** (x2): Lorsque l'Epéiste Sans Tête est la cible d'une attaque, en réaction, il peut effectuer un jet d'attaque avec son Épée Spectrale. Si son jet d'attaque est supérieur au jet d'attaque de l'adversaire, l'attaque de l'adversaire échoue et le Cavalier Sans Tête effectue un jet de dégâts comme s'il avait réussi une attaque contre l'adversaire à la place.
+- **Actions** :
+    - **Multi-attaque** : Le Cavalier sans tête effectue 2 attaques, une avec son Épée Spectrale et une avec ses Chaînes Éthérées.
+    - **Épée Spectrale** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 1d10+6 dégâts nécrotiques.
+    - **Chaînes Éthérées** : Attaque d'arme de mêlée : +7 au toucher, portée 10 ft., une cible. Touché : 1d6+6 dégâts de froid, et la cible est agrippée (évasion DD 14).
+
+Il existe également des **modifications de difficulté** pour le Headless Swordsman :
+
+- **Groupe plus faible** : Ignorer les résistances aux dégâts du Ghiyst.
+- **Groupe avancé** : Augmenter les points de vie du Ghiyst à 40.
+- **Rendez-le plus difficile** : En plus des points de vie supplémentaires, l'Epéiste sans tête peut utiliser sa capacité Parade de Duelliste deux fois par tour, même s'il n'aurait normalement pas plus d'une réaction.
+- **Rendez-le encore plus difficile** : En plus de tout ce qui précède, donner au Cavalier sans tête une attaque supplémentaire avec son Épée Spectrale à chaque tour.
+
+Le Headless Swordsman est considéré comme l'esprit d'un noble chevalier qui a tenté de dissuader Heronius d'établir le domaine d'Aeverlund. Il est incapable de reconnaître un ami d'un ennemi et attaque aveuglément toutes les créatures qu'il rencontre, dans l'espoir de se venger d'Heronius. Le Ghiyst est déterminé à se battre jusqu'à la fin, sans raison ni discussion.
 
 ### L'éventreur masqué
 L'éventreur masqué est sans doute le plus horrible des ghiystes qui hantent le manoir de Hrumm, tant par son apparence que par la brutalité de ses actes. Comme pour le Crâne flamboyant, personne ne sait exactement qui était cet esprit violent dans la vie, ni comment il s'est retrouvé piégé pour l'éternité dans les sinistres limites du domaine d'Aeverlund. Des rumeurs parmi le personnel affirment que ce ghiyste était présent dans la région avant même l'arrivée des Hrumms, et qu'il perturbait grandement les ouvriers lors de la construction du manoir. Certains disent qu'il s'agit d'un bandit vicieux qui a terrorisé la Route du Roi pendant des années et qui s'est caché quelque part sur les terres du domaine. D'autres prétendent qu'il s'agit du dernier vestige d'une bataille oubliée qui s'est déroulée dans la région, et d'autres encore suggèrent qu'il y avait autrefois un sanctuaire à Slayye dans le marais, et qu'un assassin mortel a été sacrifié au dieu du meurtre pour servir de gardien éternel à son lieu saint. Il rôde dans les couloirs du manoir et tous les visiteurs malchanceux qu'il rencontre sont taillés en pièces par ses lames imbibées de sang. Il s'acquitte de cette tâche meurtrière sans manifester le moindre plaisir ni la moindre misère, son esprit ne semblant plus animé que par l'insatiable envie de faire couler le sang.
 
+Bien sûr, voici les statistiques (modifiées pour le groupe) du **Masked Ripper** (l'Éventreur Masqué), un type de Ghiyst, selon les sources :
+
+- **Taille** : Mort-vivant de taille moyenne
+- **Alignement** : Neutre mauvais
+- **Classe d'armure** : 13 => 18
+- **Points de vie** : 27 (6d8) => (13d8) = 75
+- **Vitesse** : 0 ft., vol 30 ft. (stationnaire)
+- **FOR** 7 (-2), **DEX** 17 (+3), **CON** 10 (+0), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
+- **Résistances aux dégâts** : acide, feu, foudre, tonnerre ; contondant, perforant et tranchant d’attaques non magiques
+- **Immunités aux dégâts** : froid, nécrotique, poison
+- **Immunités aux conditions** : charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+- **Sens** : vision dans le noir 60 ft., Perception passive 12
+- **Langues** : Commun
+- **Défi** : 1 (200 XP)
+- **Mouvement Incorporel** : Le Ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
+- **Éventreur** : Le Masked Ripper a **l'avantage sur les attaques contre des cibles** qui ont moins que leur nombre maximum de points de vie.
+- **Actions** :
+    - **Multi-attaque** : Le Masked Ripper effectue 3 attaques avec sa Lame Spectrale.
+    - **Lame Spectrale** : Attaque d'arme de mêlée : +5 au toucher, portée 5 ft., une cible. Touché : 1d6+3 dégâts nécrotiques. De plus, une créature endommagée par une Lame Spectrale doit effectuer un jet de sauvegarde de Constitution DD (11) => 14 au début de chacun de ses tours, subissant 1d8 dégâts nécrotiques supplémentaires en cas d'échec. Cela est répété à chaque tour jusqu'à ce qu'une sauvegarde due à cet effet soit réussie, que la cible atteigne 0 point de vie, ou que 10 tours se soient écoulés depuis que la cible a été touchée par une attaque de Lame Spectrale.
+
+Il existe également des **modifications de difficulté** pour le Masked Ripper :
+
+- **Groupe plus faible** : Ignorer les résistances aux dégâts du Ghiyst.
+- **Groupe avancé** : Augmenter les points de vie du Ghiyst à 40.
+- **Rendez-le plus difficile** : En plus des points de vie supplémentaires, augmenter la CA du Masked Ripper à 15.
+- **Rendez-le encore plus difficile** : En plus de tout ce qui précède, augmenter le DD du jet de sauvegarde de l'effet de la Lame Spectrale du Masked Ripper à 14.
+
+Le Masked Ripper est décrit comme le plus horrible des Ghiysts qui hantent le manoir de Hrumm, à la fois par son apparence et par ses actes brutaux. Son esprit est guidé par un désir insatiable de répandre le sang et il attaque brutalement tous ceux qu’il rencontre avec ses lames ensanglantées. Il ne montre aucune émotion, seulement un besoin de tuer. On ne sait pas qui était cet esprit violent de son vivant, ou comment il a été piégé dans le manoir.
+
 ### L'horrible Fay'aree
 Peu de personnes en dehors du cercle de contacts d'Heronius Hrumm ont remarqué que le noble en disgrâce avait construit le domaine d'Aeverlund dans l'arrière-pays, le long de la Route du Roi. C'est d'ailleurs l'une des nombreuses raisons pour lesquelles l'endroit était idéal pour ses projets malveillants. Cependant, il y a un groupe qui l'a certainement remarqué, ce sont les cours de Fay'aree dans les forêts avoisinantes. Elles savaient qu'il fallait éviter les terres imprégnées de magie noire qu'Heronius avait revendiquées, et s'inquiétaient de plus en plus au fur et à mesure que les intentions maléfiques du nouveau propriétaire étaient révélées. Des bandes de guerriers de la Fay'aree Seelie et Unseelie attaquèrent le chantier, mais Heronius s'était bien préparé, avec des défenses physiques et magiques prêtes à l'emploi. Au cours de l'une de ces attaques, l'un des guerriers Seelie Fay'aree fut blessé et se retrouva pris au piège, pour le plus grand plaisir d'Heronius, qui envoya le malheureux Fey dans son donjon. C'est là que le guerrier fut torturé, même si, contrairement à beaucoup d'autres prisonniers, cela ne semblait être que pour le plaisir malsain d'Heronius. Malheureusement pour la Fay'aree, sa nature magique et sa longévité lui permirent d'endurer plusieurs décennies au cours desquelles sa personnalité fut déformée et brisée par les horribles mauvais traitements qu'elle subissait. Ce n'est que lorsque Hectarius, le fils d'Heronius, fut lui-même presque mort que la pauvre Fay'aree succomba. Réduite à l'état de Ghiyste haineux, elle erre dans la maison à la recherche de nouveaux moyens de s'amuser avec de sombres plaisirs. Les épreuves qu'elle a subies au cours de sa vie ont transformé son espièglerie naturelle en un sadisme dément, pire que ce que la plupart des Fay'aree Unseelie pourraient tolérer. Il n'aime rien de plus que de jouer avec ses victimes, épuisant lentement leur volonté de se battre par des ruses diaboliques jusqu'à ce qu'elles ne puissent plus résister, avant de les achever de la manière la plus atroce qui soit.
+
+Bien sûr, voici les statistiques du **Horrid Fay'aree**, un type de Ghiyst, selon les sources :
+
+- **Taille**: Moyenne
+- **Alignement**: Chaotique Mauvais
+- **Classe d'armure**: 10
+- **Points de vie**: 33 (6d8 + 6) => (13d8) = 95
+- **Vitesse**: 30 ft., vol 30 ft. (stationnaire)
+- **FOR** 1 (-5), **DEX** 16 (+3), **CON** 12 (+1), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
+- **Résistances aux dégâts**: acide, feu, foudre, tonnerre ; contondant, perforant et tranchant d’attaques non magiques
+- **Immunités aux dégâts**: froid, nécrotique, poison
+- **Immunités aux conditions**: charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+- **Sens**: vision dans le noir 60 ft., Perception passive 12
+- **Langues**: Commun
+- **Défi**: 1 (200 XP)
+- **Mouvement Incorporel**: Le ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
+- **Cruel Trickster**: Chaque fois qu'une créature frapperait le Horrid Fay'aree avec une attaque, elle doit effectuer un jet de sauvegarde de Sagesse DD 11. En cas d'échec, l'attaque échoue et la créature subit 2 (1d4) dégâts nécrotiques à la place.
+- **Actions**:
+    - **Multi-attaque**: Le Horrid Fay'aree effectue 2 attaques avec ses Griffes Dévastatrices.
+    - **Griffes Dévastatrices**: Attaque d'arme de mêlée : +8 au toucher, portée 5 ft., une cible. Touché : 2d6+2 dégâts nécrotiques.
+
+**Difficulty Modifiers**
+* Weaker Party: Ignore the Ghiyst’s Damage Resistances.
+* Advanced Party: Increase the Ghiyst’s hit points to 40.
+* Make it Tough: In addition to the extra hit points, increase the DC of the Cruel Trickster ability to 14.
+* Make it Tougher: In addition to all of the above, make a 3rd attack each turn with the Horrid Fay’aree’s Withering Talons.
+
+Le Horrid Fay'aree est un **esprit vengeur** qui hante le manoir d'Aeverlund. C'était autrefois une guerrière Seelie Fay'aree, mais elle a été capturée, torturée et brisée par Heronius Hrumm. Son existence a été tordue par la maltraitance qu'elle a subie, transformant sa malice naturelle en un **sadisme dément**. Le Horrid Fay'aree aime tourmenter ses victimes en utilisant des ruses, les affaiblissant jusqu'à ce qu'elles ne puissent plus résister, avant de les achever de la manière la plus douloureuse possible. Ses actions sont motivées par une soif de vengeance envers ses tortionnaires.
 
 
 

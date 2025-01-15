@@ -24,7 +24,10 @@
 | Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 
-liste emails : denisperson@yahoo.fr, bracasse@hotmail.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr 
+liste emails : denisperson@yahoo.fr, legrosgerald@sfr.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr 
+
+alternative (pour)
+dalregh@gmail.com (gérald)
 
 Joeur précédents:
 
