@@ -35,6 +35,9 @@ demander aux joueurs le contenu de la cachette de Mère Salvensa dans son chario
 * **Gant Maudit de Corrinee** : à déclencher en situation de stress.[Gant de Maladresse](https://regles-donjons-dragons.com/page1502.html) qui se comporte comme des gants de dextérité +2 avant que le curse ne commence. (situation critique de danger).
 * (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières. peut lui sauver la vie contre une attaque des assassins.
 
+### A penser fin du chapitre4
+
+* [ ] Heronia s'approche du Muugda à la fin du chapitre** et, avec un regard intense, lui dise « Elle m'a dit de te donner ceci » et lui tende une vieille boîte ornée qui contient la pierre.
 
 ### Gooey Addition à avoir en tête
 * un PC (XXX) => [[AE-GA-08-La mouche bourdonnante]] => dès le début.

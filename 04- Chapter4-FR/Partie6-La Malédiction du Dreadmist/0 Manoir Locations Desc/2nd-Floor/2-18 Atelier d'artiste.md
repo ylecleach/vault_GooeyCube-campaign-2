@@ -4,7 +4,9 @@ Lisez ou paraphrasez ce qui suit et montrez le document 89 : L'atelier de l'arti
 
 **Cette pièce ronde se trouve dans la tourelle sud-est de la maison. Une alcôve avec un étroit escalier en colimaçon descendant vers les espaces inférieurs et une porte standard sont les deux seules façons d'y pénétrer. Le mur incurvé à l'ouest est percé de fenêtres allant du sol au plafond et recouvertes de voilages blancs. La seule vue à travers ces fenêtres est celle du brouillard gris, froid et lugubre qui règne sur l'ensemble du domaine. Heureusement, plusieurs orbes arcaniques d'un lustre s'illuminent à l'entrée. La pièce est relativement dépouillée, à l'exception d'une toile d'artiste assez grande posée sur un chevalet au centre de la pièce... un petit tabouret et une table à côté. Sur la table se trouvent quelques petites boîtes de peinture, un certain nombre de pinceaux et une planche de peintre, mais c'est la toile qui retient l'attention. Sur le tissu tendu, une peinture presque achevée aux couleurs criardes et aux motifs étranges forme ce qui semble être un horrible visage démoniaque. Du sang brillant coule des orbites de la créature, comme si ses yeux avaient été arrachés. La bouche du monstre a été cousue avec du fil noir et son visage porte des entailles sombres. L'image est assez troublante... et quelque peu difficile à regarder.
 
-Cette pièce fait 30 pieds de diamètre. L'unique porte mène au studio de danse (2-17). L'escalier en colimaçon descend vers le Salon (1-9). Une trappe au plafond permet de descendre une échelle et mène à la réserve des artistes (3-11).
+Cette pièce fait 30 pieds de diamètre. L'unique porte mène au studio de danse (2-17). L'escalier en colimaçon descend vers le Salon (1-9). 
+
+	Une trappe au plafond permet de descendre une échelle et mène à la réserve des artistes (3-11).
 
 ### Découvertes dans la pièce
 
