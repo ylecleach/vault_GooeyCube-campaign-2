@@ -5,7 +5,8 @@ et peut-être les amener à faire une découverte intéressante dans leur chambr
 [[NLE-03-Bruits de pas dans le hall]] / second
 [[AE-GA-11-Poltergeist]]
 [[AE-GA-13-Just a few more]]
-[[NLE-05-Hello Dolly]]
+[[NLE-05-Hello Dolly
+[[AE-GA-01-Chuchotements dans les couloirs]]: penser à préparer 3-4 post-it par session
 
 Ensuite, laissez aux PJ le temps de mettre en place les mesures d'urgence qu'ils souhaitent pour rester en sécurité dans leurs chambres respectives. Puis, alors que le jeu de rôle se termine, il est temps de monter d'un cran l'intensité et le caractère effrayant de l'expérience.
 
@@ -20,7 +21,7 @@ Après que les PJ ont déclaré que leurs personnages allaient dormir, lancez un
 
 	Choisir un PC (pas de garde) au hasard où qui n'a pas été trop sollicité jusquà présent
 
-[NOM DU PC]=??
+[NOM DU PC]=GLYNN
 
 **Vos yeux s'ouvrent brusquement. Vous n'avez aucune idée du temps que vous avez  
 dormi. La pièce est sombre ; la seule lumière provient de Luneós, qui ajoute aux couches d'ombres.  L'air est aussi calme qu'une tombe, et si froid qu'on pourrait voir son souffle s'il y avait plus de lumière. On entend  un bruit dans l'obscurité, près de la porte. Aucun de vos compagnons   n'a bougé. Vous restez immobile un moment, espérant que ce n'est que votre imagination qui vous joue des tours.  Vos bras et vos jambes sont  plombés. Oserez-vous appeler ? Vous n'êtes pas sûr de ce que vous avez entendu,   mais cette maison est vieille et grinçante, et c'est peut-être le vent dans les  l'avant-toit. Attendez... quelle est cette odeur ? Sucrée, presque étouffante, avec un  d'alcool de grain. Que faites-vous ?
@@ -52,7 +53,7 @@ Si le PJ ne survit pas à cette rencontre, lisez ou paraphrasez ce qui suit.
 
 Maintenant, empêchez le joueur choisi de faire avancer le récit. Lisez ou paraphrasez ce qui suit à l'intention des autres PJ présents dans cette salle.
 
-**Vous vous réveillez en entendant les cris et les grognements de [NOM DU PC] qui brisent le silence de la pièce sombre. Il s'agite sur le lit et a les yeux révulsés. Que faites-vous ?
+**Vous vous réveillez en entendant les cris et les grognements de [GLYNN] qui brisent le silence de la pièce sombre. Il s'agite sur le lit et a les yeux révulsés. Que faites-vous ?
 
 En supposant qu'ils essaient de réveiller leur ami, lisez ou paraphrasez ce qui suit. Si les PJ font autre chose, improvisez si nécessaire. Vous pouvez prolonger cet événement en demandant aux joueurs ce qu'ils font pour essayer de réveiller leur ami ou simplement lire la prose ci-dessous jusqu'à la fin si vous pensez qu'une plus grande interaction des joueurs n'est pas nécessaire.
 
@@ -70,7 +71,7 @@ Asseyez-vous et laissez les conséquences de cette rencontre se dérouler, à la
 
 Si votre groupe est suffisamment petit pour n'utiliser qu'une seule pièce, vous pouvez faire en sorte que cette rencontre ait lieu dans la même pièce quelques heures après la bataille d'oreillers. Dans tous les cas, lorsque vous êtes prêt, lisez ou paraphrasez ce qui suit. Comme indiqué pour l'autre cauchemar, vous pouvez le faire en privé avec le PC choisi ou devant toute la table.
 
-[NOM DU PC2]=??
+[NOM DU PC2]=HURANNAN
 
 **Vos yeux s'ouvrent. Il fait nuit et vous êtes à l'extérieur du manoir. Comment êtes-vous arrivé jusqu'ici ? Une magie noire aurait-elle pu vous transporter ? L'air est froid et vous pouvez voir votre propre respiration. Vous êtes également pieds nus et ne portez que les vêtements dans lesquels vous vous êtes endormi il y a quelques... quelques quoi ? En fait, vous n'avez aucune idée de la durée de votre sommeil ni de l'endroit exact où vous vous trouvez. C'est une forêt, et c'est la nuit. L'épaisse voûte de feuillage qui surplombe la forêt ne laisse que très peu de lumière lunaire atteindre le sol, ce qui rend difficile la vision de Luneós dans le ciel. Mais la lumière perçante et accablante de l'étoile rouge est visible, comme si elle vous observait depuis les cieux. Que faites-vous ?
 

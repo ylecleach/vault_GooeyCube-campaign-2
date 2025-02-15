@@ -1,4 +1,4 @@
-Une fois le dernier verre terminé, **Brunduu** escortera les PJ jusqu'à leurs chambres, Creston n'ayant aucun intérêt à ce que ses invités soient tués par les protections magiques du manoir. En supposant que les PJ ne fassent pas n'importe quoi, comme éliminer Brunduu et se déchaîner dans la maison, ils seront conduits dans leurs chambres par le valet de pied qui leur dira bonne nuit.
+Une fois le dernier verre terminé, **Brunduu** escortera les PJ jusqu'à leurs chambres, Creston n'ayant aucun intérêt à ce que ses invités soient tués par les protections magiques du manoir. En supposant que les PJ ne fassent pas n'importe quoi, comme éliminer **Brunduu** et se déchaîner dans la maison, ils seront conduits dans leurs chambres par le valet de pied qui leur dira bonne nuit.
 
 Note : Cela pourrait devenir un peu plus compliqué pour vous maintenant (si ce n'est pas déjà le cas), car les PJ voudront peut-être faire un peu d'exploration. Nous n'y voyons pas d'inconvénient, mais le tic-tac de l'horloge le limitera - **après quoi la cloche sonnera et les sécurités magiques seront activées.** 
 

@@ -12,7 +12,7 @@ Note : **Marian Meeks (Portrait53) hante cette pièce**, ainsi que la bibliothè
 
 ### Découvertes de salles
 
-- [ ] **Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : 
+- [x] **Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : 
 
 **Vous trouvez dans un coin un petit morceau de papier bien froissé, un morceau de papier à lettres en lin fin manifestement déchiré d'une feuille plus grande. En l'ouvrant, vous voyez une phrase écrite de la main d'un enfant : « Je n'aime pas du tout les livres ! » Le mot est de Zara.
 

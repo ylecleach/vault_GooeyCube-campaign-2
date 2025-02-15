@@ -12,7 +12,7 @@ Cet ajout gluant est en fait un grand nombre d'ajouts gluants en un seul, car il
 10) [ ] Une odeur de vomi ou de chair en décomposition dont on ne connaît pas la provenance.
 11) [ ] Des gémissements et des plaintes comme si une personne souffrait beaucoup dans une pièce voisine ou dans les buissons à proximité.
 12) [ ] Une respiration lourde à l'extérieur d'une porte avec l'ombre de quelqu'un au-delà, mais personne n'est trouvé dans la pièce ou le hall.
-13) [ ] Des bruits de grattage ou de traînée dans un couloir ou d'en haut, comme si un corps était traîné.
+13) [x] Des bruits de grattage ou de traînée dans un couloir ou d'en haut, comme si un corps était traîné.
 14) [ ] Et bien d'autres encore.
 
 Faites une liste de ceux que vous voulez apporter au conte à chaque session. Ajoutez les vôtres si vous le souhaitez. Vous pouvez même en inventer quelques-uns à la volée pour accroître la tension !

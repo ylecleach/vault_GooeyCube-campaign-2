@@ -1,4 +1,4 @@
-Le personnage de Freedom's Light devrait faire un rêve pendant l'une des nuits où les joueurs dorment dans le manoir de Hrumm. 
+Le personnage de Ethernic Echoes devrait faire un rêve pendant l'une des nuits où les joueurs dorment dans le manoir de Hrumm. 
 
 Si nécessaire, vous pouvez facilement le faire fonctionner à n'importe quel moment du sommeil, ou même comme une vision, mais il aura le meilleur impact pendant que le groupe est coincé sur le domaine. 
 

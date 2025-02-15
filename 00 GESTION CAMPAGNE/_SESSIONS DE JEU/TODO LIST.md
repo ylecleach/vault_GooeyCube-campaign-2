@@ -1,7 +1,8 @@
 
 **Preparation Campagne**
 * [x] trouver instrument magique pour le barde pour le 1-17
-* [ ] un Loot pour le centipede
+* [ ] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer
+* [ ] un gros Loot pour le centipede => rajouter des items vs mort vivants
 * [ ] Traduire Descriptions Zone Basement
 * [ ] Traduire Description 3eme Etage
 * [ ] vision belania harpe à faire. (10 lignes)

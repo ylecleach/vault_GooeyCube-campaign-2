@@ -3,7 +3,7 @@ C'est un jeu que vous devrez planifier un peu à l'avance et répartir sur plusi
 
 Il suffit qu'un seul joueur vous ait entendu pour que tout le monde sache ce qui vient de se passer. 
 
-Si aucun joueur ne vous a entendu, dites-leur que seuls les PC ayant une Perception passive de 15 ou plus ont entendu le murmure. Ou alors, ils n'ont tout simplement pas entendu ce qui a été dit. 
+Si aucun joueur ne vous a entendu, dites-leur que seuls les **PC ayant une Perception passive de 1**5 ou plus ont entendu le murmure. Ou alors, ils n'ont tout simplement pas entendu ce qui a été dit. 
 
 Cela amènera vos joueurs à écouter plus attentivement à la table, ce qui contribuera à ajouter de la tension, à provoquer des cat-scares et des jump-scares, et bien d'autres choses encore. C'est amusant, non ? 
 

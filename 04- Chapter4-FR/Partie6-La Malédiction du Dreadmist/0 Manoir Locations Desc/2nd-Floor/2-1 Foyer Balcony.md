@@ -8,7 +8,7 @@ Le balcon du foyer donne sur le foyer en contrebas. Les doubles portes du niveau
 ### Découvertes de salles
 
 - [ ] **Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : 
-**Niché dans la balustrade en bois de wyrmwood, près de la marche du perchoir, vous découvrez un petit morceau de papier bien froissé. Il s'agit d'une feuille de papier à lettres en lin fin, déchirée d'une feuille plus grande, qui, lorsqu'on l'ouvre, montre quatre mots écrits d'une main d'enfant : « I Can SeeYou ». La note est de Zara. 
+**Niché dans la balustrade en bois de wyrmwood, près de la marche du perchoir, vous découvrez un petit morceau de papier bien froissé. Il s'agit d'une feuille de papier à lettres en lin fin, déchirée d'une feuille plus grande, qui, lorsqu'on l'ouvre, montre quatre mots écrits d'une main d'enfant : « Je peux vous voir.». La note est de Zara. 
 
 - [ ] **Brûlure du tapis** : Sur le tapis près des doubles portes, il y a une brûlure assez importante dans le tapis. Si on l'examine de près, on peut penser qu'elle a la forme d'un crâne...
 

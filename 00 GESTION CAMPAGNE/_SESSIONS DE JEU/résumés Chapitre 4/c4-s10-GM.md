@@ -1,6 +1,14 @@
 en session dix: faire découvrir la carte de Jinxx à Drezen
 gooey award à donner: pour fior, Crendon , Drezen
 
+## Events Important à faire
+
+### la carte de l'imbécile (Drezen)
+faire un test DC 10 facile.
+Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépasse. Si vous le ramassez, il s'agit en fait d'une carte à jouer du jeu de la Périlleuse Fortuité. Montrez le **Document 61 : La carte de l'imbécile** si les joueurs la trouvent. et ne pas oublier de faire pour le joueur Trickster : [[Continuing Secrets (chapter4)#La Carte du Fou (Le Trick PC)]]
+
+
+
 ### Gooey Addition à avoir en tête
 * un PC (XXX) => [[AE-GA-08-La mouche bourdonnante]] => dès le début.
 	* [[NLE-09-Goudron Noir 1]] : à faire day 1 - dans l'entrée dès qu'un joueur isolé ou en groupe arrive.

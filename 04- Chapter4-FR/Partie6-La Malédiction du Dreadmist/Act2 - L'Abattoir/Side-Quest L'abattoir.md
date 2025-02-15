@@ -24,6 +24,18 @@ Montrez le **Document 44 : Le voleur d'os** fouisseur lorsque c'est approprié.
 _All Stats in Battle Stats Page 40._
 voir monstre boosté aux hormones : [[MONSTERS#Burrowing Bonethief]]
 
+LOOT (aléatoire DMG) : 
+
+Dans le ventre de la créature: il faut passer 10 min à ouvrir la bête, et se salir les mains sinon rien ! il faut que le combat soit épique.
+
+* Longsword +2
+* baton de guérison : https://www.aidedd.org/dnd/om.php?vf=baton-de-guerison
+* bouteille fumigène : https://www.aidedd.org/dnd/om.php?vf=bouteille-fumigene
+* baguette du mage de guerre +1 : https://www.aidedd.org/dnd/om.php?vf=baguette-du-mage-de-guerre-1-2-ou-3
+* cotte de maille +2 => AC 16+2
+* bottes elfiques
+* bracelets de défenses (moine ou mage) :  https://www.aidedd.org/dnd/om.php?vf=bracelets-de-defense
+
 
 Une fois la créature tuée, il n'y a rien d'autre à découvrir dans l'abattoir. En supposant que les PJ cherchent, vous pouvez, à votre discrétion, fournir un ajout de Gooey approprié.
 
