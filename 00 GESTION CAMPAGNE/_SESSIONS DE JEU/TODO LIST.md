@@ -1,20 +1,20 @@
 
 **Preparation Campagne**
 * [x] trouver instrument magique pour le barde pour le 1-17
-* [ ] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer
+* [x] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer
 * [ ] un gros Loot pour le centipede => rajouter des items vs mort vivants
-* [ ] Traduire Descriptions Zone Basement
-* [ ] Traduire Description 3eme Etage
+* [x] Traduire Descriptions Zone Basement
+* [x] Traduire Description 3eme Etage
 * [ ] vision belania harpe à faire. (10 lignes)
 * [ ] trouver son de cri de femme horrible pour le 2-2
 * [x] traduire début Etage 2 (chambres des invités)
 * [x] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
 * [x] discord: voir avec maxime pour avoir un chan privé par joueur.
 * [ ] Ajouter photo combat wakabago figurines dans le résumé chapitre 4 session 6
-* [ ] Event à caller pour 20 Dezzuun
-* [ ] Event à caller pour 22 Dezzuun
-* [ ] préparer event 20th Dezu'un: Dance de l'hiver : 
-- [ ] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
+* [x] Event à caller pour 20 Dezzuun
+* [x] Event à caller pour 22 Dezzuun
+* [x] préparer event 20th Dezu'un: Dance de l'hiver : 
+- [x] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
 * [ ] PA-RPG initier - Goals joueurs, et une fois fait, les écrire sur une feuille A4.
 * [ ] Lapin: developer background. mission de surveiller la chouette. prie Jinxx, et essaye de rentrer en communication avec Salvensa.
 * [ ] regarder les guildes d'aventuriers dans le Vol1
@@ -81,17 +81,8 @@ But Nevermore is after Hrumm Manor and it should be a great adventure.
 
 		It was the Dark Elves who were using the poison.
 
-TRADUIRE :
-
-REGARDER LE NIVEAU DE SPOIL des CHAPITRES 1,2,3  pour ERWAN
-REGARDER LE NIVEAU DE SPOIL des VOLUMES 2 et. 3 du LORE pour Erwan
-
-
 
 préparer évènement du 22 th Dezu'un Jour du Bouffon. => demander à Alphinius ce qu'il peut se passer
-
-
-relire les règles 5e
 
 lister toutes les rencontres non faites en chapitre 1, 2, 3 pour improvisations.
 

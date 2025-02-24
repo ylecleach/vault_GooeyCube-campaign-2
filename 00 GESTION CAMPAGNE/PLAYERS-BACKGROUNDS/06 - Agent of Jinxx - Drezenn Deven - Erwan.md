@@ -3,10 +3,10 @@
 
 Objectifs court-terme
 - parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours
-- Derzen dois se cacher, car identifié par “Little duffer”
 - tenir Hurannan informé de tes plans (à faire peut etre HRP si pas le temps en parties)
 - contact avec Corinee:  qui peux aider à être discret et faire liaison de connection des informations du groupe. ( magie, lapin, etc)
 - laisser à Crendon des indices sous forme de poème
+- veut passer un niveau de prêtre de Jinxx au 5eme niveau.
 
 Objectif Moyen-terme
 - veut ressacraliser le temple de Jinxx trouvé en chapitre 2 ou 3 - potentiellement une mini-aventure
@@ -105,11 +105,11 @@ Jinxx pour activer le médaillon Star Pendant.
 ils se souviennent ou qu&#39;il voudrait visiter.
 1.Veux retourner au temple de Jinxx et y faire un sanctuaire et abris pour le groupe
 en perdition sans la troupe et que la tempête arrive.
-2. Revoir le marchant Hodfrey Humblebunder, qui est tombé sous mon charme et
+2. Revoir le marchant **Hodfrey Humblebunder,** qui est tombé sous mon charme et
 qu’il devienne un ‘’fournisseur officiel’’ entre le groupe et autre.(Critique négociation,
 il devrait ce souvenir de l’agent de Jinxx)
 3.Rentrer en contact magique (Boule de Crystal, autre..) voir le moine. Afin de
-demander de l’aide à Xytonvolonu pour la suite de nos expéditions.
+demander de l’aide à **Xytonvolonu** pour la suite de nos expéditions.
 4. Récupérer dans les affaires du groupe la dark tides lanterne (Chapitre 2 session 6,
 page 96 du magika v.1)
 - votre personnage et les relations avec les autres personnages dans le groupe.
@@ -127,3 +127,14 @@ Personnellement, je trouve ce groupe de joueurs et de personnages d&#39;enfer ! 
 changez rien ! j&#39;ai vraiment éprouvé du plaisir à vous faire vivre ces aventures que
 j&#39;espère vous vous souviendrez très longtemps.
 
+### chapitre 4 Session 9 
+
+En explorant la bibliothèque du premier étage (pas celle du RDV) du Manoir Hrumm, tu as pu faire la connaissance, assez rapide de deux fantômes: Marian Meeks et Dozeen Fulbitz, le second ayant l'air amoureux de Marian. 
+
+![[Pasted image 20250216092640.png]]
+
+Tu as pu constater que cette bibliothèque contient vraiment beaucoup plus de livres spécifiques et moins généralistes. Tu as pu voir qu'il y avait beaucoup de livres sur beaucoup de dieux, mais tu n'as pas encore pu trouver de livres sur Jinxx ou KyzMya ou des références sur le peuple Hanataz. Peut être devras-tu chercher un peu plus longtemps, et demander de l'aide aux Fantômes amicaux ?
+
+LIVRES Trouvés par les fantomes ou Drezen, s'il passe une heure à chercher.
+* Contes et Mystères du peuple Hanataz
+* Zyléa Aléana, ou les origines du peuple Hanataz
