@@ -16,11 +16,11 @@
 | Cydir            | 46     | 2          | 17  | 5                   | LN-(CN) | yes   |
 | Drezen           | 41     | 4          | 17  | 4                   | CG      | yes   |
 | Vaness           | 21     | 6          | 13  | 3. Niv 5 en attente |         |       |
-| Brandele         | 32     | 3          | 14  | 2                   |         | yes   |
+| Brandele         | 32     | 3          | 14  | 2                   | CG      | yes   |
 | Glynn            | 54     | 2          | x   | 2                   | CG      | yes   |
-| Crendon          | 37     | 0          | 17  | 4+3                 |         | yes   |
+| Crendon          | 37     | 0          | 17  | 4+3                 | NG      | yes   |
 | Fior             | 62     | 4          | 22  | 1                   | NG      | yes   |
-| Corrinee Ay’Yava | 27     | 4          | 17  | 6                   |         | yes   |
+| Corrinee Ay’Yava | 27     | 4          | 17  | 6                   | CG      | yes   |
 | Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 

@@ -1,5 +1,5 @@
 C'est le matin du 23 th dezuun (day 2 du manoir)
-Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez un niveau de fatigue.
+Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue.
 
 [[05-GM-Aeverlund Timeline Overview]]: à lire pour avoir la trame globale
 reprise ici : [[J-L'obscurité avant l'aube]]
