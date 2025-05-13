@@ -1,10 +1,10 @@
 ### Burrowing Bonethief
-Statistiques du **Burrowing Bonethief** modifié pour un groupe de 8 joueurs de niveau 4:
+Statistiques du **Burrowing Bonethief** modifié (boosté grandement) pour un groupe de 8 joueurs de niveau 4:
 
 - **Taille** : Grande monstruosité
 - **Alignement** : Non aligné
-- **Classe d'armure** : 20 (armure naturelle)
-- **Points de vie** : 34 (4d10+12) => 150 PV
+- **Classe d'armure** : 22 (armure naturelle)
+- **Points de vie** : 34 (4d10+12) => 200 PV
 - **Vitesse** : 40 ft., creusement 20 ft.
 - **FOR** 20 (+5), **DEX** 18 (+4), **CON** 16 (+3), **INT** 6 (-2), **SAG** 13 (+1), **CHA** 2 (-4)
 - **Compétences** : Perception +3, Discrétion +6
@@ -12,12 +12,12 @@ Statistiques du **Burrowing Bonethief** modifié pour un groupe de 8 joueurs de 
 - **Immunités aux conditions** : charmé, effrayé et empoisonné
 - **Sens** : vision dans le noir 60 ft., Perception passive 13
 - **Défi** : 2 (450 XP)
-- **Bonethief :** Les membres et d'autres parties du Burrowing Bonethief sont composés des restes d'autres créatures, et les dommages ou la perte de ceux-ci sont de peu de conséquence car ils sont facilement remplacés. Lancez 1d4 chaque fois que le Bonethief subirait des dégâts. Sur un 1, il ne subit aucun dégât de cette attaque.
+- **Bonethief :** Les membres et d'autres parties du Burrowing Bonethief sont composés des restes d'autres créatures, et les dommages ou la perte de ceux-ci sont de peu de conséquence car ils sont facilement remplacés. **Lancez 1d4 chaque fois que le Bonethief subirait des dégâts. Sur un 1, il ne subit aucun dégât de cette attaque**.
 - **Bony Body.** A creature that do bludgeoning damage to the bone centipede while within 5 feet of it must succeed on a DC 14 Dexterity saving throw. **Failure:** the creature take 4 (1d8) piercing damage
 - **Actions** :
     - **Multi-attaque** : Le Bonethief effectue trois attaques : une avec sa Morsure Écrasante et deux attaques de Membre Osseux.
-    - **Morsure Écrasante** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 7 (3d6+5) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution DD 12, gagnant un niveau d'épuisement en cas d'échec.
-    - **Membre Osseux** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 8 (2d4+5) dégâts contondants.
+    - **Morsure Écrasante** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : +7 (2d6+2) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution DD 12, gagnant un niveau d'épuisement en cas d'échec.
+    - **Membre Osseux** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 8 (2d4+3) dégâts contondants. + Custom Os Suintant = La cible doit effectuer un jet de sauvegarde de Constitution DD 14 ou être paralysé 1d2 rounds.
 - **Possessions :** Les os d'innombrables animaux et humanoïdes.
 
 Il est également précisé qu'il existe des **modifications de difficulté** pour le Burrowing Bonethief :
@@ -233,6 +233,45 @@ Voici quelques points clés pour définir un Ghiyst, selon les sources :
 
 ### Ooblekk
 Les oobleks sont un type de mort-vivant horrible et heureusement rare qui présente de nombreuses caractéristiques communes avec les oozes. Ils se forment typiquement dans les endroits où les corps de nombreux humanoïdes sont laissés sans sépulture pour se décomposer ensemble, en particulier dans un étang ou une autre petite étendue d'eau stagnante. La chair se décompose et se détache des os, donnant à l'eau stagnante une texture inquiétante, épaisse et gélatineuse. Pendant ce temps, la magie noire qui s'exerce sur ce lieu maudit commence à imprégner la piscine d'une noirceur d'encre, ainsi que d'une intelligence et d'une animation rudimentaires. Une fois formé, l'Ooblekk attend avec une patience irréfléchie, ne réagissant que si un être vivant s'approche trop près, auquel cas il s'élance et tente d'ajouter le corps de la créature à sa collection d'os. Ceux qui sont frappés par l'Ooblekk voient leur vitalité s'épuiser rapidement ; la plupart sont incapables d'empêcher l'abomination de les absorber lentement.
+
+Oui, voici les statistiques de l'**Ooblekk** telles qu'elles sont présentées dans la source:
+
+- **Ooblekk**, Ooze mort-vivant immense, neutre mauvais
+- **Classe d'armure :** 13 (armure naturelle)
+- **Points de vie :** 57 (6d12+18) => 160
+- **Vitesse :** 3 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|:--|:--|:--|:--|:--|:--|
+|18 (+4)|6 (-2)|16 (+3)|4 (-3)|6 (-2)|1 (-5)|
+
+- **Vulnérabilités aux dégâts :** radiant
+    
+- **Immunité aux dégâts :** poison, nécrotique
+    
+- **Résistances aux dégâts :** acide, froid, feu ; contondant, perforant et tranchant d'armes non magiques
+    
+- **Immunité aux états :** aveuglé, charmé, assourdi, épuisement, effrayé, empoisonné, à terre, inconscient
+    
+- **Sens :** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
+    
+- **Défi :** 3 (700 PX)
+    
+- **Partiellement Amorphe :** L'Ooblekk peut se déplacer à travers un espace aussi étroit que 30 cm de large sans se comprimer.
+    
+- **Fausse Apparence :** Tant qu'il reste immobile, l'Ooblekk est indiscernable d'un étang stagnant d'eau saumâtre.
+    
+- **Actions :**
+    
+    - **Multi-attaque.** L'Ooblekk effectue 3 attaques avec ses pseudopodes osseux (chacun contre des cibles différentes si possible).
+    - **Pseudopode Osseux.** Attaque au corps à corps avec une arme : +6 au toucher, portée 4,5 m, une cible. Touché : 7 (1d6+4) dégâts contondants plus 9 (2d8) dégâts nécrotiques. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 12. En cas d'échec, la cible subit 4 (1d8) dégâts perforants supplémentaires dus aux éclats d'os dans le pseudopode de l'Ooblekk, est empoisonnée et sa vitesse de déplacement est réduite de moitié. Ces effets durent jusqu'au début du prochain tour de l'Ooblekk.
+
+La source fournit également des **modificateurs de difficulté** pour l'Ooblekk:
+
+- **Groupe plus faible :** Réduisez les points de vie de l'Ooblekk à 40, et effectuez 1 attaque de moins chaque tour, pour un total de 2.
+- **Groupe avancé :** Augmentez les points de vie de l'Ooblekk à 70.
+- **Rendez-le difficile :** En plus des points de vie supplémentaires, augmentez la durée de l'état empoisonné et de la réduction de mouvement d'un jet de sauvegarde raté à 2 rounds.
+- **Rendez-le plus difficile :** En plus de tout ce qui précède, effectuez une attaque supplémentaire chaque tour, pour un total de 4.
 
 ### Ours bogger (marécageux)
 Au premier abord, on pourrait confondre l'ours bogger avec un ours brun particulièrement grand, dépenaillé et mal luné, ou peut-être même avec un ours méchant qui aurait séjourné trop longtemps dans de l'eau stagnante. Leur fourrure longue et touffue a généralement une teinte verdâtre et leurs pattes sont palmées, ce qui fait d'eux des nageurs remarquablement habiles. La peau autour de leurs membres inférieurs est relativement dépourvue de poils et forme une sorte de coussinet épais et écailleux qui résiste bien aux dangers invisibles qui se cachent dans l'eau limoneuse où ils vivent. Bien qu'il ne soit pas aussi territorial qu'on pourrait s'y attendre de la part d'un animal de cette taille, l'ours bogger compense largement par un appétit vorace qu'il tente d'assouvir en chassant à peu près tout ce qui bouge. Ce régime presque exclusivement carnivore leur donne une haleine vraiment putride, car les morceaux de viande et les viscères qui restent coincés entre leurs dents pourrissent et se décomposent.

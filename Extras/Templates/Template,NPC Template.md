@@ -1,19 +1,20 @@
-Fils de Borag
+Name: Fils de Borag
+Portrait:
 
-![[Pasted image 20240628122014.png]]
+![[Pasted image 20240628122014.png|200]]
 
-Objectifs
+**Objectifs**
 
-court-terme
+**court-terme**
 * retrouver son frère et sa soeur
 * retrouver ses forces
 
-moyen-terme
+**moyen-terme**
 * sauver ce qu'il reste de la troupe et de la reformer (caravane+ people)
 * se poser comme un leader, pour être digne d'être le bravda
 * retrouver la bague du Bravda, que son père portait.
 
-Long-term
+**Long-term**
 * creuser ses origines (voir background)
 
 **Histoire (from Chapter 1 - Player Characters - Background)
@@ -22,7 +23,8 @@ Theros Vegla a 19 ans et est le fils de Borag et Calnassé Vegla - le Bravda et 
 
 Theros est également doté du tempérament qui accompagne souvent ce genre d'histoire de famille. C'est un jeune homme grand et costaud, au visage fort, aux yeux bruns d'or, à la tête des yeux brun doré, un sourire en coin et une peau teintée de vert. Il porte les crocs des demi-orques, mais ils ne sont pas trop grands.
 
- Il a une voix grave et des manières intenses, ce qui ne veut pas dire qu'il est calme. D'une taille d'environ 1,80 m et d'un poids d'environ 140 kilos tout en muscle, il est un des rares hommes à ne pas avoir été tué, il est l'un des plus grands de la troupe.  Il s'entraîne régulièrement avec son père et sa mère et sait manier la grande hache (son arme préférée), et de la grande épée. Il est également capable de manier des haches de jet, comme l'a enseigné Kray.
+ Il a une voix grave et des manières intenses, ce qui ne veut pas dire qu'il est calme.
+d'intensité qui se cache derrière un comportement quelque peu calme. D'une taille d'environ 1,80 m et d'un poids d'environ 140 kilos tout en muscle, il est un des rares hommes à ne pas avoir été tué, il est l'un des plus grands de la troupe.  Il s'entraîne régulièrement avec son père et sa mère et sait manier la grande hache (son arme préférée), et de la grande épée. Il est également capable de manier des haches de jet, comme l'a enseigné Kray.
 
 Comme sa sœur et son jeune frère, Theros a été élevé dans la troupe Hanataz depuis son plus jeune âge. Sa loyauté envers ses parents et le reste de sa famille est incontestable. Il assumera probablement le le titre d'"homme fort" lorsque Borag prendra sa retraite.
 

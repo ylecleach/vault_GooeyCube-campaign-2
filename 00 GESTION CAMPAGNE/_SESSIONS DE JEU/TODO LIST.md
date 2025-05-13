@@ -1,8 +1,13 @@
 
 **Preparation Campagne**
+
 * [x] trouver instrument magique pour le barde pour le 1-17
+* [ ] Amine: pour le 23 mai - Trouver une histoire avec le Lapin et l'esprit de Mere Salvensa, pour l'impliquer dans le Game. Lui dire de rendre le lapin à Drezen. Mais il peut communiquer avec Amine. pour protéger Drezen (gardien), et pour lui donner les connaissances pour passer clerc niv 1 de Jinxx.
+* [ ] imaginer les infos récupérés par Drezen dans la bibliothèque lors de la session du 21 mars. (bibliothèque plus fantomes). Trouver des infos pour le Game pour aider le groupe. des infos sur Acolyte Prêtre Jinxx (Rituels Hanataz, et un autre sur Décoctions amusantes : "Les Elixirs de Fêtes Bouffonesques )
+* [ ] Drezen: objectif "resacraliser le temple de jinxx"
+* [ ] Drezen: objectif "re-unifier les troupes hanataz"
 * [x] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer
-* [ ] un gros Loot pour le centipede => rajouter des items vs mort vivants
+* [x] un gros Loot pour le centipede => rajouter des items vs mort vivants
 * [x] Traduire Descriptions Zone Basement
 * [x] Traduire Description 3eme Etage
 * [ ] vision belania harpe à faire. (10 lignes)

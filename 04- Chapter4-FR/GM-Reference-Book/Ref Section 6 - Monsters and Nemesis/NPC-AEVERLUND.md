@@ -144,6 +144,16 @@ La vérité est que Drusrella est morte il y a quelques années et qu'elle est d
 Vorgun avait d'autres projets de vie que de préparer les repas d'un noble oublié dans les terres sauvages du sud de la République. Cependant, une série de mauvaises décisions l'ont éloigné des principales colonies où il aurait pu être reconnu. Et, après tout, son habileté avec les couteaux se traduisait étonnamment bien en talent de cuisinier. Il s'avère qu'il a un bon palais pour les différentes herbes et épices, ce qu'il n'aurait jamais découvert dans son travail précédent. C'est ainsi qu'il prépare un impressionnant éventail de plats exotiques et décadents pour Lord Creston, ainsi qu'un repas suffisamment copieux pour satisfaire les autres membres du personnel. Mais les vieilles habitudes ont la vie dure, et Vorgun s'est retrouvé entraîné dans les intrigues diaboliques qui imprègnent le domaine d'Aeverlund. Recruté par la secte, il a été chargé de préparer des préparations moins savoureuses que d'habitude et de remettre ses couteaux au travail. Au cours de son service auprès du précédent chef, Salvé Bonchon, il a appris l'existence d'un rituel permettant d'acquérir les compétences culinaires de l'ancien chef. Malheureusement pour Bonchon, il s'agissait de préparer et de consommer le cerveau de Bonchon dans le cadre d'une recette extrêmement difficile. Mais à ce stade, un tel acte n'inquiète guère Vorgun, qui l'a exécuté il y a déjà un certain temps. Heureusement pour l'aspirant cuisinier, il semble que cela ait plutôt bien fonctionné.
 
 
+### Jardrin (45)  - valet de pied
+On le voit souvent s'éclipser pour éviter le travail. Lorsqu'il est contraint d'exercer ses fonctions de valet de pied, il a du mal à contenir son humeur grincheuse.
+
+### Gestrem (46) - valet de pied
+Il ressemble plus à un mercenaire qu'à un valet de pied, mais il fait partie des serviteurs les plus compétents et les plus dévoués du personnel. Il semble particulièrement attentif lorsque lord Creston est présent.
+### Mivael (47) - valet de pied
+Il est calme et réservé, et semble se fondre dans le décor. Ce qu'il peut penser est indéchiffrable derrière ses traits immobiles.
+
+
+
 ## Les fantômes les plus sympathiques
 
 ### Bloosky Brendle (48)
@@ -172,13 +182,8 @@ Almred décida de rentrer chez lui plus tôt que prévu et, bien que Creston fû
 
 
 
-### Jardrin (45)  - valet de pied
-On le voit souvent s'éclipser pour éviter le travail. Lorsqu'il est contraint d'exercer ses fonctions de valet de pied, il a du mal à contenir son humeur grincheuse.
 
-### Gestrem (46) - valet de pied
-Il ressemble plus à un mercenaire qu'à un valet de pied, mais il fait partie des serviteurs les plus compétents et les plus dévoués du personnel. Il semble particulièrement attentif lorsque lord Creston est présent.
-### Mivael (47) - valet de pied
-Il est calme et réservé, et semble se fondre dans le décor. Ce qu'il peut penser est indéchiffrable derrière ses traits immobiles.
+
 
 
 ## Les fantômes peu amicaux
@@ -202,12 +207,25 @@ Doozen Fulbitz était l'assistant d'Heronius Hrumm à la fin de sa vie, et il es
 Sayndra Sheels était, selon les critères de presque tout le monde, une femme remarquablement attirante, un fait qui a sans aucun doute influencé la décision d'Heronius de l'engager comme gouvernante en chef. Il n'était pas non plus surprenant qu'elle finisse par devenir la maîtresse d'Heronius, et beaucoup se demandaient pourquoi sa femme Felina n'était pas intervenue plus tôt. Peut-être avait-elle d'abord cru que son intérêt pour Sayndra était occulte plutôt que charnel, puisque le couple avait séduit ensemble plusieurs jeunes femmes à Darkenhaven, toutes utilisées dans de sombres rituels. Mais lorsque Felina comprit qu'Heronius avait des relations sexuelles avec la gouvernante, elle demanda à Kastrenna de préparer un poison mortel et de le mettre dans le verre de vin de Sayndra, ce qui eut un effet mortel immédiat. Par la suite, Heronius et Felina parvinrent à une sorte d'entente, Heronius ne prenant plus de maîtresse. Quant à Sayndra, son esprit s'attarde au manoir, généralement dans le fumoir, où elle tente de goûter aux plaisirs de la vie. Elle est assez coquette et se montre amicale avec ceux qui lui rendent la pareille.
 
 
+
+
+
 ## Les ghiystes remarquablement peu amicaux
 
 Voici la liste des quatre effrayants ghiystes qui habitent le domaine. Ils sont tous les quatre très dangereux et seront probablement rencontrés par le groupe dans **"La Chasse à travers la maison"**. Les ghiysts sont des créatures spectrales du monde de Zyathé dont les propriétés et les capacités sont beaucoup plus variables que celles des autres créatures que vous connaissez peut-être mieux.Note : Ces quatre esprits n'ont pas besoin d'être les seuls esprits vraiment dangereux du domaine et des terres si vous voulez ajouter plus de combat au récit. Consultez les statistiques de combat pour savoir comment les ghiysts sont fabriqués et comment vous pouvez créer les vôtres.
 
 ### Le crâne enflammé 
-Même les autres esprits ne savent pas toujours d'où viennent les morts-vivants spectraux vraiment maléfiques qui hantent le manoir Hrumm, ce qui est certainement le cas de celui que l'on ne connaît que sous le nom de Flaming Skull. Ce ghiyste se présente sous la forme d'un squelette tordu et malformé, doté de caractéristiques inhumaines telles que de longues dents acérées comme des rasoirs, d'horribles griffes, de trop nombreux membres et d'un second crâne rabougri dépassant de sa nuque, le tout enveloppé de flammes bleu-vert peu naturelles. En effet, son apparence est si horrible que l'on pourrait être convaincu que cette abomination est le résultat de la fusion de deux êtres. Quoi qu'il en soit, personne ne semble disposer d'autre chose que de pures spéculations pour expliquer l'origine du crâne enflammé. Il pourrait s'agir du résultat d'une expérience cachée dans les profondeurs du manoir, ou d'une chose que l'un des Hrumm a invoquée et dont il a perdu le contrôle. Ce que l'on sait, c'est que le Crâne flamboyant semble se délecter à répandre ses flammes impies, engloutissant dans son feu bleu-vert tous ceux qui croisent son chemin. C'est un ghiyste agité, constamment en mouvement et heureux d'interrompre un combat pour le reprendre plus tard.
+
+Le Flaming Skull est décrit comme un mort-vivant spectral maléfique et particulier, avec une apparence tordue et difforme, des caractéristiques inhumaines, des dents longues et acérées, des griffes horribles, un trop grand nombre de membres, et un second crâne atrophié qui ressort de l’arrière de son cou, le tout enveloppé de flammes bleu-vert surnaturelles. Il semble qu'il aime répandre ses flammes impies, engloutissant tous ceux qui croisent son chemin dans son feu bleu-vert.
+
+![[Pasted image 20250317230215.png | 400]]
+
+Même les autres esprits ne savent pas toujours d'où viennent les morts-vivants spectraux vraiment maléfiques qui hantent le manoir Hrumm, ce qui est certainement le cas de celui que l'on ne connaît que sous le nom de Flaming Skull. 
+
+**Description
+Ce ghiyste se présente sous la forme d'un squelette tordu et malformé, doté de caractéristiques inhumaines telles que de longues dents acérées comme des rasoirs, d'horribles griffes, de trop nombreux membres et d'un second crâne rabougri dépassant de sa nuque, le tout enveloppé de flammes bleu-vert peu naturelles. En effet, son apparence est si horrible que l'on pourrait être convaincu que cette abomination est le résultat de la fusion de deux êtres. 
+
+Quoi qu'il en soit, personne ne semble disposer d'autre chose que de pures spéculations pour expliquer l'origine du crâne enflammé. Il pourrait s'agir du résultat d'une expérience cachée dans les profondeurs du manoir, ou d'une chose que l'un des Hrumm a invoquée et dont il a perdu le contrôle. Ce que l'on sait, c'est que le Crâne flamboyant semble se délecter à répandre ses flammes impies, engloutissant dans son feu bleu-vert tous ceux qui croisent son chemin. C'est un ghiyste agité, constamment en mouvement et heureux d'interrompre un combat pour le reprendre plus tard.
 
 Bien sûr, voici les statistiques (boosté pour un groupe de 8 joueurs niveau 4, très équipé) du **Flaming Skull** (Crâne Flamboyant), un type de Ghiyst, selon les sources :
 
@@ -236,16 +254,18 @@ Il existe également des **modifications de difficulté** pour le Flaming Skull�
 - **Rendez-le plus difficile** : En plus des points de vie supplémentaires, augmenter les dégâts infligés par toute attaque ou effet du Crâne Flamboyant de 2.
 - **Rendez-le encore plus difficile** : En plus de tout ce qui précède, augmenter la CA du Ghiyst à 16.
 
-Le Flaming Skull est décrit comme un mort-vivant spectral maléfique et particulier, avec une apparence tordue et difforme, des caractéristiques inhumaines, des dents longues et acérées, des griffes horribles, un trop grand nombre de membres, et un second crâne atrophié qui ressort de l’arrière de son cou, le tout enveloppé de flammes bleu-vert surnaturelles. Il semble qu'il aime répandre ses flammes impies, engloutissant tous ceux qui croisent son chemin dans son feu bleu-vert.
+
 
 ### L'épéiste sans tête
-Le ghiyste connu sous le nom de l'épéiste sans tête aurait été un noble chevalier qui aurait tenté de dissuader Heronius de créer le domaine d'Aeverlund. Peu de gens étaient au courant de leurs conversations, mais le chevalier était absolument convaincu qu'aucun avantage, et au contraire beaucoup de mal, ne résulterait de l'accord d'Heronius. Le chevalier disparut, et même la plupart des membres du personnel crurent qu'il avait simplement abandonné et était parti. En réalité, Heronius l'avait fait battre et kidnapper pendant son sommeil, puis l'avait emmené dans son donjon pour le torturer. Pendant des années, le chevalier fut enchaîné et soumis à toutes sortes de misères, Heronius essayant de le forcer à se mettre au service de Zanvitchu, mais le chevalier ne céda jamais. Lentement, il perdit la raison, jusqu'à ce qu'il ne reste plus que sa volonté de fer pour se défendre. Finalement, par frustration, Heroniush fit décapiter le chevalier, mais cela ne le débarrassa pas de son ennemi. L'esprit du chevalier persista sous la forme d'un Ghiyste qui erre dans la propriété, et fut connu sous le nom de l'épéiste sans tête. **Le Ghiyste est incapable de reconnaître un ami d'un ennemi,** et **attaque aveuglément** tous ceux qu'il rencontre, dans l'espoir perdu de se venger d'Heronius. Il n'a aucune raison de discuter et s'obstine à se battre jusqu'au bout.
+Le ghiyste connu sous le nom de l'épéiste sans tête aurait été un noble chevalier qui aurait tenté de dissuader Heronius de créer le domaine d'Aeverlund. Peu de gens étaient au courant de leurs conversations, mais le chevalier était absolument convaincu qu'aucun avantage, et au contraire beaucoup de mal, ne résulterait de l'accord d'Heronius. Le chevalier disparut, et même la plupart des membres du personnel crurent qu'il avait simplement abandonné et était parti. En réalité, Heronius l'avait fait battre et kidnapper pendant son sommeil, puis l'avait emmené dans son donjon pour le torturer. Pendant des années, le chevalier fut enchaîné et soumis à toutes sortes de misères, Heronius essayant de le forcer à se mettre au service de Zanvitchu, mais le chevalier ne céda jamais. Lentement, il perdit la raison, jusqu'à ce qu'il ne reste plus que sa volonté de fer pour se défendre. Finalement, par frustration, Heronius fit décapiter le chevalier, mais cela ne le débarrassa pas de son ennemi. L'esprit du chevalier persista sous la forme d'un Ghiyste qui erre dans la propriété, et fut connu sous le nom de l'épéiste sans tête. **Le Ghiyste est incapable de reconnaître un ami d'un ennemi,** et **attaque aveuglément** tous ceux qu'il rencontre, dans l'espoir perdu de se venger d'Heronius. Il n'a aucune raison de discuter et s'obstine à se battre jusqu'au bout.
+
+![[Pasted image 20250317230237.png | 400]]
 
 Bien sûr, voici les statistiques (modifiée pour un groupe de 8 joueurs de niveau 4 bien équipés) du **Headless Swordsman** (Cavalier sans tête), un type de Ghiyst, selon les sources :
 
 - **Taille** : Mort-vivant de taille moyenne
 - **Alignement** : Neutre mauvais
-- **Classe d'armure** : 14 => 22
+- **Classe d'armure** : 14 => 21
 - **Points de vie** : 27 (6d8) => (13d8) = 85
 - **Vitesse** : 0 ft., vol 30 ft. (stationnaire)
 - **FOR** 7 (-2), **DEX** 18 (+4), **CON** 10 (+0), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
@@ -256,11 +276,11 @@ Bien sûr, voici les statistiques (modifiée pour un groupe de 8 joueurs de nive
 - **Langues** : Commun
 - **Défi** : 1 (200 XP)
 - **Mouvement Incorporel** : Le Ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
-- **Parade de Duelliste** (x2): Lorsque l'Epéiste Sans Tête est la cible d'une attaque, en réaction, il peut effectuer un jet d'attaque avec son Épée Spectrale. Si son jet d'attaque est supérieur au jet d'attaque de l'adversaire, l'attaque de l'adversaire échoue et le Cavalier Sans Tête effectue un jet de dégâts comme s'il avait réussi une attaque contre l'adversaire à la place.
+- **Parade de Duelliste** (x2 par tour): Lorsque l'Epéiste Sans Tête est la cible d'une attaque, en réaction, il peut effectuer un jet d'attaque avec son Épée Spectrale. Si son jet d'attaque est supérieur au jet d'attaque de l'adversaire, l'attaque de l'adversaire échoue et le Cavalier Sans Tête effectue un jet de dégâts comme s'il avait réussi une attaque contre l'adversaire à la place.
 - **Actions** :
     - **Multi-attaque** : Le Cavalier sans tête effectue 2 attaques, une avec son Épée Spectrale et une avec ses Chaînes Éthérées.
     - **Épée Spectrale** : Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 1d10+6 dégâts nécrotiques.
-    - **Chaînes Éthérées** : Attaque d'arme de mêlée : +7 au toucher, portée 10 ft., une cible. Touché : 1d6+6 dégâts de froid, et la cible est agrippée (évasion DD 14).
+    - **Chaînes Éthérées** : Attaque d'arme de mêlée : +7 au toucher, portée 10 ft., une cible. Touché : 1d4+6 dégâts de froid, et la cible est agrippée (évasion DD 14).
 
 Il existe également des **modifications de difficulté** pour le Headless Swordsman :
 
@@ -273,6 +293,8 @@ Le Headless Swordsman est considéré comme l'esprit d'un noble chevalier qui a 
 
 ### L'éventreur masqué
 L'éventreur masqué est sans doute le plus horrible des ghiystes qui hantent le manoir de Hrumm, tant par son apparence que par la brutalité de ses actes. Comme pour le Crâne flamboyant, personne ne sait exactement qui était cet esprit violent dans la vie, ni comment il s'est retrouvé piégé pour l'éternité dans les sinistres limites du domaine d'Aeverlund. Des rumeurs parmi le personnel affirment que ce ghiyste était présent dans la région avant même l'arrivée des Hrumms, et qu'il perturbait grandement les ouvriers lors de la construction du manoir. Certains disent qu'il s'agit d'un bandit vicieux qui a terrorisé la Route du Roi pendant des années et qui s'est caché quelque part sur les terres du domaine. D'autres prétendent qu'il s'agit du dernier vestige d'une bataille oubliée qui s'est déroulée dans la région, et d'autres encore suggèrent qu'il y avait autrefois un sanctuaire à Slayye dans le marais, et qu'un assassin mortel a été sacrifié au dieu du meurtre pour servir de gardien éternel à son lieu saint. Il rôde dans les couloirs du manoir et tous les visiteurs malchanceux qu'il rencontre sont taillés en pièces par ses lames imbibées de sang. Il s'acquitte de cette tâche meurtrière sans manifester le moindre plaisir ni la moindre misère, son esprit ne semblant plus animé que par l'insatiable envie de faire couler le sang.
+
+![[Pasted image 20250317230255.png | 400]]
 
 Bien sûr, voici les statistiques (modifiées pour le groupe) du **Masked Ripper** (l'Éventreur Masqué), un type de Ghiyst, selon les sources :
 
@@ -292,7 +314,7 @@ Bien sûr, voici les statistiques (modifiées pour le groupe) du **Masked Ripper
 - **Éventreur** : Le Masked Ripper a **l'avantage sur les attaques contre des cibles** qui ont moins que leur nombre maximum de points de vie.
 - **Actions** :
     - **Multi-attaque** : Le Masked Ripper effectue 3 attaques avec sa Lame Spectrale.
-    - **Lame Spectrale** : Attaque d'arme de mêlée : +5 au toucher, portée 5 ft., une cible. Touché : 1d6+3 dégâts nécrotiques. De plus, une créature endommagée par une Lame Spectrale doit effectuer un jet de sauvegarde de Constitution DD (11) => 14 au début de chacun de ses tours, subissant 1d8 dégâts nécrotiques supplémentaires en cas d'échec. Cela est répété à chaque tour jusqu'à ce qu'une sauvegarde due à cet effet soit réussie, que la cible atteigne 0 point de vie, ou que 10 tours se soient écoulés depuis que la cible a été touchée par une attaque de Lame Spectrale.
+    - **Lame Spectrale** : Attaque d'arme de mêlée : +6 au toucher, portée 5 ft., une cible. Touché : 1d6+3 dégâts nécrotiques. De plus, une créature endommagée par une Lame Spectrale doit effectuer un jet de sauvegarde de Constitution DD (11) => 14 au début de chacun de ses tours, subissant 1d8 dégâts nécrotiques supplémentaires en cas d'échec. Cela est répété à chaque tour jusqu'à ce qu'une sauvegarde due à cet effet soit réussie, que la cible atteigne 0 point de vie, ou que 10 tours se soient écoulés depuis que la cible a été touchée par une attaque de Lame Spectrale.
 
 Il existe également des **modifications de difficulté** pour le Masked Ripper :
 
@@ -306,11 +328,13 @@ Le Masked Ripper est décrit comme le plus horrible des Ghiysts qui hantent le m
 ### L'horrible Fay'aree
 Peu de personnes en dehors du cercle de contacts d'Heronius Hrumm ont remarqué que le noble en disgrâce avait construit le domaine d'Aeverlund dans l'arrière-pays, le long de la Route du Roi. C'est d'ailleurs l'une des nombreuses raisons pour lesquelles l'endroit était idéal pour ses projets malveillants. Cependant, il y a un groupe qui l'a certainement remarqué, ce sont les cours de Fay'aree dans les forêts avoisinantes. Elles savaient qu'il fallait éviter les terres imprégnées de magie noire qu'Heronius avait revendiquées, et s'inquiétaient de plus en plus au fur et à mesure que les intentions maléfiques du nouveau propriétaire étaient révélées. Des bandes de guerriers de la Fay'aree Seelie et Unseelie attaquèrent le chantier, mais Heronius s'était bien préparé, avec des défenses physiques et magiques prêtes à l'emploi. Au cours de l'une de ces attaques, l'un des guerriers Seelie Fay'aree fut blessé et se retrouva pris au piège, pour le plus grand plaisir d'Heronius, qui envoya le malheureux Fey dans son donjon. C'est là que le guerrier fut torturé, même si, contrairement à beaucoup d'autres prisonniers, cela ne semblait être que pour le plaisir malsain d'Heronius. Malheureusement pour la Fay'aree, sa nature magique et sa longévité lui permirent d'endurer plusieurs décennies au cours desquelles sa personnalité fut déformée et brisée par les horribles mauvais traitements qu'elle subissait. Ce n'est que lorsque Hectarius, le fils d'Heronius, fut lui-même presque mort que la pauvre Fay'aree succomba. Réduite à l'état de Ghiyste haineux, elle erre dans la maison à la recherche de nouveaux moyens de s'amuser avec de sombres plaisirs. Les épreuves qu'elle a subies au cours de sa vie ont transformé son espièglerie naturelle en un sadisme dément, pire que ce que la plupart des Fay'aree Unseelie pourraient tolérer. Il n'aime rien de plus que de jouer avec ses victimes, épuisant lentement leur volonté de se battre par des ruses diaboliques jusqu'à ce qu'elles ne puissent plus résister, avant de les achever de la manière la plus atroce qui soit.
 
+![[Pasted image 20250317230309.png | 400]]
+
 Bien sûr, voici les statistiques du **Horrid Fay'aree**, un type de Ghiyst, selon les sources :
 
 - **Taille**: Moyenne
 - **Alignement**: Chaotique Mauvais
-- **Classe d'armure**: 10
+- **Classe d'armure**: 10 => 20
 - **Points de vie**: 33 (6d8 + 6) => (13d8) = 95
 - **Vitesse**: 30 ft., vol 30 ft. (stationnaire)
 - **FOR** 1 (-5), **DEX** 16 (+3), **CON** 12 (+1), **INT** 10 (+0), **SAG** 14 (+2), **CHA** 12 (+1)
@@ -321,10 +345,10 @@ Bien sûr, voici les statistiques du **Horrid Fay'aree**, un type de Ghiyst, sel
 - **Langues**: Commun
 - **Défi**: 1 (200 XP)
 - **Mouvement Incorporel**: Le ghiyst peut se déplacer à travers d’autres créatures et objets comme si c’était un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet.
-- **Cruel Trickster**: Chaque fois qu'une créature frapperait le Horrid Fay'aree avec une attaque, elle doit effectuer un jet de sauvegarde de Sagesse DD 11. En cas d'échec, l'attaque échoue et la créature subit 2 (1d4) dégâts nécrotiques à la place.
+- **Cruel Trickster**: Chaque fois qu'une créature frapperait le Horrid Fay'aree avec une attaque, elle doit effectuer un jet de sauvegarde de Sagesse DD 11=>14. En cas d'échec, l'attaque échoue et la créature subit 2 (1d4) dégâts nécrotiques à la place.
 - **Actions**:
     - **Multi-attaque**: Le Horrid Fay'aree effectue 2 attaques avec ses Griffes Dévastatrices.
-    - **Griffes Dévastatrices**: Attaque d'arme de mêlée : +8 au toucher, portée 5 ft., une cible. Touché : 2d6+2 dégâts nécrotiques.
+    - **Griffes Dévastatrices**: Attaque d'arme de mêlée : +7 au toucher, portée 5 ft., une cible. Touché : 2d6+2 dégâts nécrotiques.
 
 **Difficulty Modifiers**
 * Weaker Party: Ignore the Ghiyst’s Damage Resistances.

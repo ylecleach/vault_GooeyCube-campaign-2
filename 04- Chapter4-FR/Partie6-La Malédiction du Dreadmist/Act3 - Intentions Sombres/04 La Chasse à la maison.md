@@ -17,6 +17,8 @@ Voir les statistiques modifiées boostés ici
 [[NPC-AEVERLUND#L'horrible Fay'aree]]
 
 
-L'idée d'**Une chasse dans la maison** est de permettre au groupe de visiter la plupart des pièces, d'y faire des découvertes, de rencontrer d'autres personnages intéressants (et peut-être agaçants) et d'être confronté à des énigmes et des mystères liés à la maison. Cette requête particulière de Lord Creston devrait prendre une bonne partie de la journée, et de nombreuses situations susceptibles d'intéresser le groupe se présenteront en cours de route. Il y a notamment de nombreux SNRE et ajouts gluants que vous pouvez mettre en place, ainsi que les événements inclus dans cette section (voir ci-dessous). 
+L'idée d'**Une chasse dans la maison** est de permettre au groupe de visiter la plupart des pièces, d'y faire des découvertes, de rencontrer d'autres personnages intéressants (et peut-être agaçants) et d'être confronté à des énigmes et des mystères liés à la maison. 
+
+Cette requête particulière de Lord Creston devrait prendre une bonne partie de la journée, et de nombreuses situations susceptibles d'intéresser le groupe se présenteront en cours de route. Il y a notamment de nombreux SNRE et ajouts gluants que vous pouvez mettre en place, ainsi que les événements inclus dans cette section (voir ci-dessous). 
 
 De plus, il y a quelques PNJ fantomatiques qui offriront d'excellentes opportunités de roleplay. N'hésitez pas non plus à ajouter vos propres petites saveurs effrayantes. Enfin, chaque pièce dispose d'options d'événements de salle que vous pouvez utiliser lorsque les PJ y entrent. En résumé, de nombreux événements effrayants et étranges sont à votre disposition. Mais ne laissez pas les choses devenir trop intenses pour l'instant...

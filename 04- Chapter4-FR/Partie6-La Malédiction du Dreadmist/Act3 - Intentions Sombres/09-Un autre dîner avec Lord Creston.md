@@ -6,5 +6,5 @@ Vous pouvez faire durer la scène du dîner aussi longtemps que vous le souhaite
 
 Il est préférable de prononcer cette phrase à brûle-pourpoint, comme s'il était perdu dans ses pensées, en disant simplement ce qui lui passe par la tête à ce moment-là, sans tenir compte de ce qui se passe autour de lui.
 
-Note : Lord Creston a fait tout ce qu'il pouvait pour mettre en place un plan final. La malédiction qui pèse sur sa famille et sur Aeverlund limite ce qu'il peut dire ou faire. Il a déjà tout perdu, et même sa volonté de vivre s'estompe. Il finit par croire que la seule chance de rejoindre sa femme et sa fille repose entre les mains du parti. Le fait qu'il accepte cela va déclencher plusieurs choses ce soir. Avant que le parti ne puisse réagir, un carillon de cloches retentit dans le foyer.
+Note : Lord Creston a fait tout ce qu'il pouvait pour mettre en place un plan final. La malédiction qui pèse sur sa famille et sur Aeverlund limite ce qu'il peut dire ou faire. Il a déjà tout perdu, et même sa volonté de vivre s'estompe. Il finit par croire que la seule chance de rejoindre sa femme et sa fille repose entre les mains du groupe. Le fait qu'il accepte cela va déclencher plusieurs choses ce soir. Avant que le groupe ne puisse réagir, un carillon de cloches retentit dans le foyer.
 

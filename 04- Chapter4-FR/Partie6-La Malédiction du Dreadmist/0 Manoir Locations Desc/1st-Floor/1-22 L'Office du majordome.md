@@ -3,7 +3,7 @@ Lisez ou paraphrasez ce qui suit et montrez le Document 75 : The Butler'sPantry 
 
 **Cette pièce étroite est manifestement une arrière-cuisine, un espace de stockage et de préparation des plats et des boissons. Dans les maisons nobles plus prestigieuses, comme l'était autrefois le domaine d'Aeverlund, cette pièce s'appellerait l'office du maître d'hôtel. Deux chariots de service sont à portée de main. Les étagères du mur est sont empilées avec différents types de verrerie, dont du cristal fin, et des services complets de vaisselle. Sur la table de préparation, le long du mur ouest, se trouve un petit casier à vin déjà garni des crus nécessaires aux repas de la journée. Des carafes en cristal sont également posées à côté d'un tonneau de brandy. Plusieurs verres à vin et gobelets sont également disposés.
 
-L'office du maître d'hôtel mesure 20 pieds de long sur 10 pieds de large, avec quatre portes.La porte au nord mène à la salle à manger (1-7). Celle de l'est ouvre sur la cuisine (1-12). Au sud, la porte mène au salon privé (1-10). Et la quatrième porte, à l'ouest, donne accès à la Salle à manger privée (1-8).
+L'office du maître d'hôtel mesure 20 pieds de long sur 10 pieds de large, avec quatre portes.La porte au nord mène à la salle à manger (1-7). Celle de l'est ouvre sur la cuisine (1-12). Au sud, la porte mène au cabinet de rafraichissement (1-10). Et la quatrième porte, à l'ouest, donne accès à la Salle à manger privée (1-8).
 
 ### Découvertes dans la salle
 

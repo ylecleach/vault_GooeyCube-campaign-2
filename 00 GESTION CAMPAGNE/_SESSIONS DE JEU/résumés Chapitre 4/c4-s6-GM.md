@@ -1,7 +1,7 @@
 ### En début de partie / références
 
 * GooeyReward: pour le Bravda qui a bien géré le groupe la dernière fois.
-* Références: [[Règles Maisons du DM]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-BOGTOWN]]
 * * [[Stuckshoes Rumors]]: dans l'auberge, les magasins, avec les PNJ amicaux rencontrés

@@ -3,14 +3,25 @@ AEVERLUND ESTATE RUMORS
 Ils doivent être utilisés dans le domaine. Bien qu'ils puissent provenir de diverses sources, certains sont plus appropriés que d'autres pour certains PNJ. De plus, vous pouvez ajouter de nombreux récits et chuchotements à cette liste en vous basant sur les informations contenues dans le livre d'aventures lui-même. Nous vous encourageons vivement à pimenter le manoir avec vos propres secrets et discours effrayants !
 
 - [ ] **"Vous pourriez passer des années à errer dans le domaine sans jamais trouver tout ce qui a été caché. Il y a des trésors et des horreurs, oubliés même par ceux qui les ont cachés. 
+
 - [ ] **Beaucoup sont venus à Aeverlund au fil des ans, mais peu en sont repartis. Le manoir peut sembler vide, mais il y a beaucoup de gens ici qui ne souhaitent pas être vus. Certains sont restés de leur plein gré, mais cela n'a guère d'importance ; c'est le domaine qui décide qui peut partir, et c'est un thésauriseur jaloux des voyageurs."
-- [ ] "Des générations de Hrumms ont passé de nombreuses heures sans sommeil à contempler la brume, mais même les plus sages d'entre eux ne comprennent pas entièrement le linceul qui a été posé sur leur maison ancestrale. En général, il tient les créatures du marais à distance, mais de temps en temps, une monstruosité se faufile à travers, et personne ne sait comment ni pourquoi. Bien sûr, le domaine a ses propres dangers, et les bêtes errantes résistent rarement longtemps à ses défenses." 
+
+- [ ] **"Des générations de Hrumms ont passé de nombreuses heures sans sommeil à contempler la brume, mais même les plus sages d'entre eux ne comprennent pas entièrement le linceul qui a été posé sur leur maison ancestrale. En général, il tient les créatures du marais à distance, mais de temps en temps, une monstruosité se faufile à travers, et personne ne sait comment ni pourquoi. Bien sûr, le domaine a ses propres dangers, et les bêtes errantes résistent rarement longtemps à ses défenses."** 
+
 - [ ] **Mieux vaut ne pas aller fouiner sans permission, ou essayer d'entrer là où l'on n'a pas été invité. Le manoir Hrumm est une demeure imposante et confortable, mais ce n'est pas un bâtiment comme les autres. Si vous y allez en quête de malice, vous êtes certain d'en trouver, et probablement plus que vous ne l'auriez souhaité. Traitez-le avec respect et tout ira bien, mais montrez-lui de l'hostilité et vous verrez qu'il est tout à fait capable de se défendre." 
+
 - [ ] **C'est le vieil Héronius qui a damné la famille Hrumm, mais cette terre connaissait un mal bien plus grand bien avant qu'il n'arrive. Elle a attiré son art corrompu comme un papillon de nuit vers la flamme. L'Umbraflow s'écoule rapidement et profondément à travers l'Aeverlund. Des événements calamiteux s'y sont déroulés, et leurs échos ont résonné à travers les siècles. Vous pouvez encore entendre ce terrible appel, si vous savez quoi écouter." 
+
 - [ ] **La vieille Heronia vit au troisième étage. Elle est aussi folle qu'un fou. Elle crie et parle comme une banshee. Certains disent qu'elle est devenue folle parce qu'elle buvait du sang comme sa mère !"
+
 - [ ] **Zaressa et Zespa n'ont pas été vues depuis de nombreuses années. Et personne ne sait où elles sont allées pour être sûr. Le vieil Hectarius les a toujours favorisées. S'ils revenaient, ils pourraient exiger la succession de leur pauvre frère, mais peut-être seraient-ils alors contraints de partager son sort. Quoi qu'il en soit, je n'envie pas ceux qui croiseront leur chemin. Bien qu'ils aient à peine connu leur mère, ils ont certainement hérité de sa maîtrise aisée des magies obscures."
+
 - [ ] **Un certain nombre de serviteurs sortent régulièrement sur le domaine à des heures étranges ; qui peut dire où ils vont, ou pourquoi ? L'abattoir, les cryptes, quelque part dans les brumes ? Qu'est-ce qu'ils peuvent bien avoir à faire là ?" 
+
 - [ ] **Vous venez de dire quelque chose ? J'aurais juré avoir entendu quelqu'un murmurer mon nom..." 
+
 - [ ] **Où est passé mon mouchoir ? Je sais que je l'ai posé ici. Ou peut-être que je deviens distraite, je ne pense pas que l'air humide de tout ce brouillard me fasse du bien. Il y a peut-être quelque chose de malsain qui se dégage de l'air au-dessus de la tourbière. Je trouve constamment des choses là où elles n'ont pas leur place, si tant est que je puisse les trouver."
+
 - [ ] **Parfois, on peut voir des lumières scintiller dans la brume la nuit, aux abords du domaine. Je sais que ce n'est pas le palefrenier, il a plus de bon sens que de se promener si tard. D'ailleurs, on dirait toujours qu'il y a plusieurs lumières alignées, comme un groupe qui porte des torches ou quelque chose comme ça. Mais je n'ai jamais pu voir d'où ça venait. Je n'ai jamais eu le courage d'aller voir, je vais juste tirer les rideaux plus fort."
+
 - [ ] **"J'ai vu des morts marcher sur le terrain. La vérité !"

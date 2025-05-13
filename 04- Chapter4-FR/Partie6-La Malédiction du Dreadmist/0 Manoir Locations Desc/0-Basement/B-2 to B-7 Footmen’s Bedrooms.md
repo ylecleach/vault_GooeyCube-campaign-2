@@ -10,7 +10,7 @@ B-4) La chambre de **Jardrin** : La chambre est plutôt en désordre, avec le li
 
 B-5) Chambre de **Mivael** : La pièce est bien entretenue, avec un certain nombre de chaussures bien rangées sur le sol. L'armoire est entrouverte et on peut voir la manche d'un uniforme de valet de pied dépasser de l'intérieur.
 
-B-6) Chambre du **Vorgun** : Dans cette chambre, un hachoir est posé sur le chevet du lit.L'armoire est ouverte, et on peut y voir des vêtements blancs de cuisinier.Une clé est cachée sur une petite étagère en saillie au-dessus du lit. Cette clé permet d'ouvrir la boîte métallique contenant la tête de l'ancien chef. Voir La cuisine (1-12).
+B-6) Chambre du **Vorgun** : Dans cette chambre, un hachoir est posé sur le chevet du lit. L'armoire est ouverte, et on peut y voir des vêtements blancs de cuisinier. **Une clé est cachée sur une petite étagère en saillie au-dessus du lit**. Cette clé permet d'ouvrir la boîte métallique contenant la tête de l'ancien chef. Voir La cuisine (1-12).
 
 B-7) Chambre de Mme **Ventrazia** : Cette pièce est bien entretenue mais dégage une étrange odeur de moisi, de renfermé et un peu de pourriture. Les portes de l'armoire sont ouvertes et on peut y voir les uniformes des femmes de ménage. Sur la table de chevet se trouvent une trousse de maquillage assez importante et une dague à l'allure diabolique. Il y a aussi un flacon de parfum sans étiquette qui sent le lilas.
 

@@ -32,7 +32,7 @@ Si les PJ tentent de revenir, ils découvriront que la porte a été verrouillé
 
 - [ ] **Quelques brillants** : Dans l'un des tiroirs se trouve un petit sac contenant cinq grenats d'une valeur de 12 ors chacun, ainsi qu'un coupe-papier en bijou d'une valeur de 7 ors. Il y a aussi un coupe-papier en bijou d'une valeur de 7 pièces d'or 
 
-- [ ] **Les tapisseries**: Les tapisseries représentent les armoiries de la famille Hrumm. Un test de renseignement (histoire) ADC 14 révélera cette information à la partie, si elle ne l'a pas déjà compris.
+- [ ] **Les tapisseries**: Les tapisseries représentent les armoiries de la famille Hrumm. Un test de renseignement (histoire) DC 14 révélera cette information à la partie, si elle ne l'a pas déjà compris.
 
 - [ ] **Le parchemin utile**: En plus du parchemin de guérison mentionné ci-dessus, Creston a également caché un parchemin d'**objet spécial 08 : ressusciter les morts** dans une niche secrète du bureau.
 

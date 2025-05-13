@@ -65,7 +65,7 @@ Le repas se termine, Lord Creston vous propose de le retrouver au Solarium dans 
 
 Les serviteurs vous ont préparé 3 bains et  vos lits  avec des draps propres.
 
-Fior utilise le parchemin trouvé dans le manoir, et lance le sort Remove Curse sur les gants de corrinee. Elle retrouve enfin toutes ses capacités, et la maîtrise de ses mains ! 
+Fior utilise le parchemin trouvé dans le manoir, et lance le sort Remove Curse sur les gants de Corrinee. Elle retrouve enfin toutes ses capacités, et la maîtrise de ses mains ! 
 
 Cydir, Crendon, et Fior prenne un bain. (belle image de roch à faire dans le futur !)
 
@@ -160,9 +160,9 @@ Vous organisez des tours de garde, et vous placèrent un lit devant chaque porte
 
 Beaucoup de bruits vous empéche de dormir, et finalement, Glyn Wether, et Hurranan Banaï firent chacun d'entre eux un cauchemar, qui vous réveilla tous.
 
-Partie arrêtée à  1h30 du matin, il est matin du 23 th dezuun  In-Game
+Partie arrêtée à  1h30 du matin, il est le matin du 23 th Dezu'un  (In-Game)
 
-prochaine dates: 21/2 et 21/3
+prochaine dates: 21/3
 
 
 ### Zones Explorées du manoir (RDC)
@@ -171,7 +171,4 @@ prochaine dates: 21/2 et 21/3
 ### Zones Explorées du manoir (étage 1)
 ![[aeverlund-niv2-zones-explorées.jpeg]]
 
-Fin de la session à 1h00 du matin le 14 décembre 2024 
--- In Game: 20h00 le 22th Dezu'un SC 1212.
-
-Rendez vous les 21 février et 21 mars 2025 pour la suite...
+Rendez vous le 21 mars 2025 pour la suite...

@@ -50,4 +50,49 @@ Dans Dungeons & Dragons 5ème édition, un anneau de saut confère plusieurs ava
 En résumé, un anneau de saut confère une grande agilité et une capacité de mouvement supérieure à son porteur, lui offrant des avantages significatifs en combat et en exploration.
 
 
+### Niveau D'épuisement
+Dans la version 2014 de D&D 5e, l'épuisement est un état spécial mesuré en six niveaux[5](https://www.aidedd.org/regles/etats/). Voici les effets de chaque niveau d'épuisement :
+
+1. Désavantage aux jets de caractéristique
+    
+2. Vitesse diminuée de moitié
+    
+3. Désavantage aux jets d'attaque et de sauvegarde
+    
+4. Maximum de points de vie diminué de moitié
+    
+5. Vitesse réduite à 0
+    
+6. Mort
+    
+
+Une créature subit les effets de son niveau d'épuisement actuel ainsi que ceux des niveaux inférieurs[5](https://www.aidedd.org/regles/etats/). Par exemple, une créature avec un niveau 2 d'épuisement a sa vitesse réduite de moitié et subit un désavantage aux jets de caractéristique.
+
+Si une créature déjà épuisée subit un effet causant l'épuisement, son niveau actuel augmente du nombre indiqué par l'effet[5](https://www.aidedd.org/regles/etats/).
+
+Pour réduire l'épuisement :
+
+1. Terminer un repos long réduit le niveau d'épuisement de 1, à condition que la créature ait aussi mangé et bu[5](https://www.aidedd.org/regles/etats/).
+    
+2. Être rappelé à la vie réduit également le niveau d'épuisement de 1[5](https://www.aidedd.org/regles/etats/).
+    
+3. Le sort "Grande restauration" peut réduire le niveau d'épuisement de 1[7](https://arcaneeye.com/mechanic-overview/exhaustion-5e/).
+    
+
+Il est important de noter que tous les effets liés à l'épuisement disparaissent si le niveau d'épuisement d'une créature est réduit à moins de 1[5](https://www.aidedd.org/regles/etats/).
+
+#### Citations:
+
+1. [https://www.campustech.fr/10-changements-de-regles-marquants-de-la-nouvelle-edition-donjons-dragons/](https://www.campustech.fr/10-changements-de-regles-marquants-de-la-nouvelle-edition-donjons-dragons/)
+2. [https://www.donjondudragon.fr/forum/vos-creations/aides-de-jeu/regles-maison/points-de-vie-points-de-fatigue-repos-courts-et-longs-5530.html](https://www.donjondudragon.fr/forum/vos-creations/aides-de-jeu/regles-maison/points-de-vie-points-de-fatigue-repos-courts-et-longs-5530.html)
+3. [https://black-book-editions.fr/forums.php?topic_id=10990](https://black-book-editions.fr/forums.php?topic_id=10990)
+4. [https://www.aidedd.org/regles/](https://www.aidedd.org/regles/)
+5. [https://www.aidedd.org/regles/etats/](https://www.aidedd.org/regles/etats/)
+6. [https://www.gmbinder.com/share/-MEI5-e8LQcxAzOD_epT](https://www.gmbinder.com/share/-MEI5-e8LQcxAzOD_epT)
+7. [https://arcaneeye.com/mechanic-overview/exhaustion-5e/](https://arcaneeye.com/mechanic-overview/exhaustion-5e/)
+8. [https://www.reddit.com/r/dndnext/comments/1fn9g93/whats_everyones_thoughts_on_55s_new_exhaustion/?tl=fr](https://www.reddit.com/r/dndnext/comments/1fn9g93/whats_everyones_thoughts_on_55s_new_exhaustion/?tl=fr)
+
+---
+
+Réponse de Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
 
