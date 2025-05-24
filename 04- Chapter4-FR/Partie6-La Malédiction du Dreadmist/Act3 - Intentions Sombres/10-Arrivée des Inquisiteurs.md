@@ -1,5 +1,7 @@
 Le tintement des cloches indique que quelqu'un est arrivé aux portes de la salle, mais à ce stade, les PJ ne peuvent que spéculer sur l'identité de cette personne. Lord Creston ne quitte pas la table et ne se lève même pas. Au bout de quelques instants, les PJ entendent le domestique Ma'lum ouvrir la porte, mais ils n'entendent rien de la conversation qui se déroule dans le foyer. Lord Creston continue de manger, indifférent. 
 
+Quelques instants plus tard, Ma'lum revient accompagné de deux personnes.
+
 Lisez ou paraphrasez ce qui suit et montrez les **portraits 41 et 42 : Elton Krye et Alexx Buché** lorsque c'est nécessaire.
 
 **« Lord Creston Hrumm d'Aeverlund, je vous présente Sir Elton Krye et Maître Alexx Buché de Prondadol. Ils sont des enquêteurs qui souhaitent se renseigner sur des personnes disparues. « Lord Creston acquiesce, recule sa chaise et se lève. Ma'lum se met sur le côté pour permettre aux nouveaux arrivants d'entrer. Il semble que les valets de pied aient déjà pris en charge leurs manteaux et leurs armes. Lord Creston accueille les enqueteurs avec l'aisance d'un homme né dans la noblesse. « J'imagine que vos voyages ont été assez difficiles pour que vous vous retrouviez dans ce terrible brouillard. Il est heureux que vous ayez pu arriver ici sans encombre. Je vous prie de vous joindre à moi en tant qu'invités d'honneur et de prendre place à ma table pour un repas. »
@@ -25,6 +27,12 @@ Elton posera également des questions sur **Almred Drann**, qui est veuf et dont
 
 Pour rappel, l'un des PJ a fait un cauchemar mentionnant le nom d'Almred. Ce qu'ils feront de cette information sera intriguant, alors préparez-vous à réagir en conséquence. 
 Si le cauchemar est évoqué, Creston blanchira et dira quelque chose comme « Oh, j'espère vraiment que ce n'est qu'une coïncidence. Almred était un homme bon. »
+
+custom: Elton posera aussi des questions sur la disparition de Marian Meeks de Prondadol.
+**Marian était une jeune femme timide de Prondadol qui passait ses journées à lire de vieux tomes, à transcrire des parchemins froissés et à rechercher des volumes rares. Presque tous les sujets la passionnait, surtout s'il s'agit de choses dont la plupart des gens ne semblent pas s'intéresser, comme l'histoire ancienne, la botanique estrienne ou une philosophie obscure. Elle envisageait de rejoindre l'église de Laern et se préparait à partir pour Darkenhaven afin de devenir initiée lorsqu'elle entendit des rumeurs sur un domaine isolé dans les marais du sud où se trouvaient plusieurs livres que l'on croyait perdus depuis longtemps.
+
+Si on interroge Creston: **je me souviens d'une jeune femme très intelligente de Prondadol que j'ai autorisé à rester dans le domaine pour lire les ouvrages de ma bibliothèque, en échange de quoi elle devait ranger les livres dans la bibliothèque... mais c'était il y a plusieurs années de cela, et j'étais fort occupé moi même par mes affaires qui n'allait pas très fort. Je me souviens l'avoir remercier pour son travail la veille de son départ... 
+
 
 Vous pouvez également ajouter une ou deux personnes manquantes si vous le jugez bon pour votre histoire, ou même ajouter un fantôme amical du domaine comme l'une des personnes manquantes. En fin de compte, lorsque le jeu de rôle aura suivi son cours, Creston invitera les inquisiteurs à rester pour la nuit, ce qu'ils accepteront. Ils seront placés dans la Suite des Invités (2-5) qui se trouve à côté, mais à l'écart, des PJ. Ils seront également kidnappés dans la nuit par les cultistes.
 

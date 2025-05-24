@@ -1,54 +1,59 @@
 ### Lieu, Date et Météo
-C'est le second jour dans le manoir de la famille HRUMM, et Il est environ 11h00 du matin du 23 th dezuun.
-
-Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue. [[Règles Maisons#Niveau D'épuisement]]
+C'est le second jour dans le manoir de la famille HRUMM, et Il est environ 13h00 du matin du 23 th dezuun.
 
 Météo : il fait froid, de brume givrante et bcp de brouillard.
 
-**ils ne pourront pas aller au troisième étage de la maison avant d'avoir terminé les deux mini-quêtes**
-
 ### Contexte début de session
-[[05-GM-Aeverlund Timeline Overview]]: à lire pour avoir la trame globale
-Les PC sont dans le Manoir et viennent d'avoir la seconde mission de Lord Creston. (chasse aux fantomes). Vous êtes en compagnie du Lord Creston qui vient de terminer de vous donner la mission, il reste disponible en cas de question dans le salon, où il lit son journal (DC 10 pour voir le titre "Gazette de Darkenhaven"). Il se souviendra qu'il a oublié une chose, vous donner des objets (potions)  pour vous aider dans votre seconde quête, car ils considèrent que les fantomes sont vraiment très dangereux. (liste des potions ici: [[03 Une autre tâche de Creston]])
 
-Certains joueurs sont très sales et sentent mauvais, notamment ceux qui ont ouvert le ventre du Voleur d'Os.
+[[05-GM-Aeverlund Timeline Overview]]: à lire pour avoir la trame globale
+
+ils ne pourront pas aller au troisième étage de la maison avant d'avoir terminé les deux mini-quêtes*
 
 **Lord Creston vous a proposé d'enquêter sur un certain nombre d'apparitions spectrales qui affectent continuellement le manoir et les domaines environnants**
 
-Acte 3 Intentions Sombres
-DM: [[03 Une autre tâche de Creston]], 
+**=>> Vous avez tué 3 fantomes sur 4 et vous êtes dans [[2-17 Studio de danse]] où vous venez de détruire L'horrible Fayree.
+
+**=>>Huranann a deux niveaux d'épuisements (cauchemar et blessure par le serpent d'os) et Glynn un seul. [[Règles Maisons#Niveau D'épuisement]]
+
+**=>> Glyn vous a rejoint car il en a marre de Dresin et Theros, qui ne parlent pas du tout, et n'arrête pas de l'embéter avec son lapin qu'ils veulent manger en civet.
+
+**=>>DM: Le dernier fantome Le Crâne enflammé (zone nord de la maison au premier étage), se trouve dans la pièce [[1-19 Étude de la bibliothèque]]. (les joueurs y sont déjà allé)
+
+Lord Creston  lit toujours son journal la "Gazette de Darkenhaven". Il se souviendra qu'il a oublié une chose, vous donner des objets (potions)  pour vous aider dans votre dernier combat contre le dernire fantome, car il considèrent que les fantomes sont vraiment très dangereux. (liste des potions ici: [[03 Une autre tâche de Creston]])
+
 Players:  [[04 La Chasse à la maison]]
 
 Dans le garage, il y a les deux chariots, vos chevaux,
-Theros Glyn 
-Glyn
+Theros
 Dresin
+Marda et Melba Forgrave => laissé à Stuckshoe.
+
+
+### A PENSER - seconde nuit
+* Rêve de Glyn la seconde nuit:  [[05 - ranger - Glyn Wether - Amine#Rêve Quête du Lapin - 23 mai 2025]]
+* [[Continuing Secrets (chapter4)#L'appel de la pierre (PC Muugda)]] : 
+	* [x] **pendant la première nuit à AeverLund**, en s'endormant, le muugda "entendra" lui seul un "Cherche-moi, d'une voie féminine jeune, sur ton calme et apaisant"
+	* [ ] **pendant la seconde nuit à AeverLund**, en s'endormant, le muugda "entendra" lui seul un "Une voie fémine, la même que la veille au soir, te dit sur un ton calme et apaisant; "Si tu ne me trouve pas, il faut monter d'un étage pour me trouver". (ce n'est pas Vezzy)
 
 ### A PENSER
-2) identify sur baton de Brandele: il apparait comme un baton +1 mais il a une autre propriété que tu ne comprends pas, et que tu n'as jamais vu. Note pour le DM: ce baton peut être habité par une entité ectoplasmique, ca sera un ancien magicien, tué par les ancêtre de Creston. (Apparition dans cette session,  voir [[Maevius Arcana]])
-3) rappeler les niv de fatigue
-	1) hurannan 2 niv depuis
-	2) glynn 1 niv epuis
-4) penser aux tour de table et faire participer tous les joueurs
-5) Initiative relancée à chaque round pour pimenter les combats.
-6) Jouer les Fantomes (voir plus bas) pendant l'event la Chasse aux Fantomes. L'idée est de surprendre les joueurs avec d'autres fantomes que les fantomes mechants recherchés
-7) Ne pas oublier les 3 évènements décrits plus bas. (05 Mère et fille, et 06 Zara, eg 07-Le fils du serviteur) et de jouer les fantomes.
-8) Jouer [[Theros Vegla]] lors du combat final, il viendra en sauveur pour terrasser un mini boss invoqué par la gouvernante. (un monstre à corne à la Conan, plus musique)
-9) penser aux [[Aeverlund Estate Rumors]]
-10) [[AE-GA-01-Chuchotements dans les couloirs]]: penser à préparer 3-4 post-it par session
-11) * (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières. 
-12) FIOR: retour du démon Vleek dans sa tête quand des signes ou des serviteurs de Norcréus seront identifiés.
-13) * des appels "Cherche-moi" de tant en temps au Muugda player
-14) Journal de Darkenhaven qui traine dans le manoir (Lord Creston peut avoir été vu en train de le lire)
+2) Quête de Brandele FANTOME: [[04 - mage - Brandele Steel - Frédéric#]] : [[Maevius Arcana#Quête de la baguette de Maevius Arcana]] 
+3) A chaque changement de salle voir Liste des Fantomes (Imprimé) Jouer les Fantomes (voir plus bas) pendant l'event la Chasse aux Fantomes. L'idée est de surprendre les joueurs avec d'autres fantomes que les fantomes mechants recherchés. Chaque FANTOME peut donner des RUMEURS (voir Imprimé)
+5) Ne pas oublier les 3 évènements décrits plus bas. (05 Mère et fille, et 06 Zara, eg 07-Le fils du serviteur) et de jouer les fantomes.
+6) Jouer [[Theros Vegla]] lors du combat final, il viendra en sauveur pour terrasser un mini boss invoqué par la gouvernante. (un monstre à corne à la Conan, plus musique)
+7) penser aux [[Aeverlund Estate Rumors]]
+8) [[AE-GA-01-Chuchotements dans les couloirs]]: penser à préparer 3-4 post-it par session
+9) * (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières, **et il disparait par magie.**
+10) FIOR: retour du démon Vleek dans sa tête quand des signes ou des serviteurs de Norcréus seront identifiés.
+11) * des appels "Cherche-moi" de tant en temps au Muugda player
+12) Journal de Darkenhaven qui traine dans le manoir (Lord Creston peut avoir été vu en train de le lire) => à la fin du chapitre 4, il faudra leur rappeler qu'il traine dans le salon de Lord Creston.
 
 ### A FAIRE
 * en FIN DE chapter, Annoncer Level-Up niv 5 à préparer pour la prochaine partie.
 * Fantomes : tableau pour indiquer les pièces où ils peuvent agir.
-* imprimer [[AE-GA-11-Poltergeist]], [[AE-GA-01-Chuchotements dans les couloirs]], [[AE-GA-13-Just a few more]] pour pouvoir les utiliser plus facilement.
 
 
 ### FANTOMES
- les fantômes qui donnaient des déclarations mystérieuses et des indices ésotériques, qui se mettaient en colère, qui se battaient entre eux, et bien d'autres choses encore. L'un d'entre eux peut suivre le groupe et l'observer dans ses explorations ou même l'encourager au combat. Ils peuvent aussi apparaître derrière d'autres PJ et faire des grimaces... etc. Si vous prévoyez le rôle des fantômes avant de commencer à jouer, ils peuvent apporter beaucoup de plaisir, de peur et de saveur à l'aventure.
+ Les fantômes qui donnaient des déclarations mystérieuses et des indices ésotériques, qui se mettaient en colère, qui se battaient entre eux, et bien d'autres choses encore. L'un d'entre eux peut suivre le groupe et l'observer dans ses explorations ou même l'encourager au combat. Ils peuvent aussi apparaître derrière d'autres PJ et faire des grimaces... etc. Si vous prévoyez le rôle des fantômes avant de commencer à jouer, ils peuvent apporter beaucoup de plaisir, de peur et de saveur à l'aventure.
 
 [[NPC-AEVERLUND#Les fantômes les plus sympathiques]]
 [[NPC-AEVERLUND#Les fantômes peu amicaux]]
@@ -70,15 +75,13 @@ LISTE DES FANTOMES et définir leur lieux d'apparition.
 | [[Maevius Arcana]]                      | neutre                    | Etude de la Tour 1-6, salon de Ma'lum 1-15,  observatoire 2-7, Salle Autel de Ma'lum 2-19, les bibliothèques                                                                                                                                     |
 
 
-
 ## Events Important à faire
 
 * [[05-Mère et Fille (event-day2-any time)]] : **n'importe quel moment du 2ème jour** (et dans **pratiquement n'importe quelle salle avec des modifications**), mais l'endroit optimal est la Salle à manger privée (1-8).
 * [[06-Zara offre un indice (event-day2 pm)]]: **l'après-midi du jour 2**, après que les participants aient assisté à l'événement [[05-Mère et Fille (event-day2-any time)]]. Il peut se dérouler n'importe où dans la maison, mais le point de départ est prévu dans le couloir, relativement près de la Tour d'étude (1-6)
 * [[07-Le fils du serviteur (event-during chasse à la maison)]]
 * **Un imbécile pour sûr**: pour DREZEN - Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépasse. Si vous le ramassez, il s'agit en fait d'une carte à jouer du jeu de la Périlleuse Fortuité. Montrez le **Document 61 : La carte de l'imbécile** si les joueurs la trouvent. et ne pas oublier de faire pour le joueur Trickster : [[Continuing Secrets (chapter4)#La Carte du Fou (Le Trick PC)]]
-* [[NLE-05-Hello Dolly]]: poupée et Zara en plusieurs parties.
-
+* [[NLE-05-Hello Dolly]]: poupée et Zara en plusieurs parties
 
 en session dix ou onze: faire découvrir la carte de Jinxx à Drezen (carte de l'imbécile)
 
@@ -94,8 +97,6 @@ Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépa
 
 ### Gooey Addition à avoir en tête
 * un PC (XXX) => [[AE-GA-08-La mouche bourdonnante]] => dès le début.
-	* [[NLE-09-Goudron Noir 1]] : à faire day 1 - dans l'entrée dès qu'un joueur isolé ou en groupe arrive.
-	* [[NLE-10-Goudron Noir 2]] à faire day 2 : dans l'entrée dès qu'un joueur isolé ou en groupe arrive.
 	* [[LET-03-Goudron Noir 3]] : rencontre avec l'ooblek dans la mare noire derrière le manoir.
 * relire [[AE-GA-09-Plus doux, plus fumé]]: fantome amical compliqué mais vaut le coup => commence quand il rentre la première fois dans le salon, et après quand malum les convoque pour le diner.
 * [[AE-GA-11-Poltergeist]]: liste de petits trucs très courts à faire pour l'ambiance maison hantée. coché les cases quand déjà fait
@@ -122,8 +123,10 @@ Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépa
 
 
 ### Visions-Rêves
+* [ ] faire la nuit du jour 2 ce rêve inventé par le DM: [[05 - ranger - Glyn Wether - Amine#Rêve Quête du Lapin - 23 mai 2025]]
 * [ ] [[Continuing Secrets (chapter4)#L'appel de la pierre (PC Muugda)]] : 
 	* [x] **pendant la première nuit à AeverLund**, en s'endormant, le muugda "entendra" lui seul un "Cherche-moi, d'une voie féminine jeune, sur ton calme et apaisant"
+	* [ ] 
 * [ ] [[Continuing Secrets (chapter4)#La Carte du Fou (Le Trick PC)]] - erwan - quand un joueur trouve la carte dans [[1-4 Le Long Couloir]]
 * [x] [[chapter 4 - Dream Freedom Light]] : pour Roch quand **Leaving Stuckshoe**
 * [x] [[chapter 4 - Dream The Attuned#Vision 1 Echos du passé]]: maxime - moment de calme, comme lorsque le groupe attend de parler à Creston, ou passe un moment tranquille dans l'une des salles communes du manoir
@@ -137,11 +140,6 @@ Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépa
 
 * [ ] Heronia s'approche du Muugda à la fin du chapitre** et, avec un regard intense, lui dise « Elle m'a dit de te donner ceci » et lui tende une vieille boîte ornée qui contient la pierre.
 
-
-# FANTOMES à penser
-
-* [ ] faire intervenir le fantôme [[NPC-AEVERLUND#Marian Meeks (53)]] dans les salles de bibliothèque
-* [ ] 
 
 
 

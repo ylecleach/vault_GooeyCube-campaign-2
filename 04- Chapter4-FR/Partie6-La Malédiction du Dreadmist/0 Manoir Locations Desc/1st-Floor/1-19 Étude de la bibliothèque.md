@@ -50,6 +50,6 @@ Si le PJ inspecte sa poitrine, le mot « Shizzat » est marqué au fer rouge sur
 
 - [ ] **Saveur effrayante** : La bouilloire va hurler pendant plusieurs minutes, bien qu'elle ne contienne pas de thé et qu'elle soit posée sur une cuisinière froide 
 
-- [ ] **Tendez Les tous** : En entrant dans la pièce, l'un des joueurs remarquera que les deux tableaux ont changé de place et que les sujets des tableaux semblent maintenant regarder directement les joueurs avec une mine renfrognée.
+- [x] **Tendez Les tous** : En entrant dans la pièce, l'un des joueurs remarquera que les deux tableaux ont changé de place et que les sujets des tableaux semblent maintenant regarder directement les joueurs avec une mine renfrognée.
 
 - [ ] **Flipppez Les tous** : Sur le terrain brumeux visible depuis cette pièce, un PJ remarquera ce qui semble être une procession de silhouettes masquées à la périphérie, qui disparaissent rapidement dans un épais banc de brouillard près de la limite de la propriété.

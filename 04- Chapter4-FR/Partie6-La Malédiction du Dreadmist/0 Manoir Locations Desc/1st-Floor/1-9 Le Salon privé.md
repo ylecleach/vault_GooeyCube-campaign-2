@@ -11,9 +11,9 @@ Note : Le fantôme de **Kastrenna Dovern** hante cette zone générale (Portrait
 ### Découvertes dans la pièce
 
 
-- [ ] **Le billet** : sur le sol, sous la chaise, à côté du verre de vin à moitié rempli, se trouve un billet plié qui sent légèrement la lavande. Avec un test de Sagesse (Perception) DC13, le PJ reconnaîtra qu'il s'agit de la même note que celle de la femme avec laquelle il a voyagé sur la route. Si elle est lue, affichez le **document 65 : La note tachée de larmes.**
+- [x] **Le billet** : sur le sol, sous la chaise, à côté du verre de vin à moitié rempli, se trouve un billet plié qui sent légèrement la lavande. Avec un test de Sagesse (Perception) DC13, le PJ reconnaîtra qu'il s'agit de la même note que celle de la femme avec laquelle il a voyagé sur la route. Si elle est lue, affichez le **document 65 : La note tachée de larmes.**
 
-- [ ] **Un baiser perdu depuis longtemps** : si vous l'inspectez, vous verrez les empreintes des 
+- [x] **Un baiser perdu depuis longtemps** : si vous l'inspectez, vous verrez les empreintes des 
 lèvres d'une femme sur le bord du verre de vin poussiéreux.
 
 ![[Pasted image 20241205215235.png]]

@@ -10,7 +10,7 @@ La cuisine mesure 20 pieds sur 25 pieds. Il y a deux séries de portes doubles d
 
 ### Découvertes de salles
 
-- [ ] **La caboche du chef** : Dans un placard fermé à clé, dans une **boîte métallique fermée à clé** (test de Dextérité DC 11 avec Outils de voleur pour ouvrir chaque boîte) se trouve **la tête momifiée du chef Salvé Bonchon.**.. sans le sommet de son crâne et le cerveau à l'intérieur. S'il est découvert, le chef Salvé apparaîtra et commencera à pleurer avant de disparaître. Donnez aux PJ un test de Sagesse (Perception) DC 12 pour reconnaître que la tête momifiée ressemble au fantôme. Salvé n'est pas parti pour de bon, cependant, et devrait réapparaître plus tard....
+- [x] **La caboche du chef** : Dans un placard fermé à clé, dans une **boîte métallique fermée à clé** (test de Dextérité DC 11 avec Outils de voleur pour ouvrir chaque boîte) se trouve **la tête momifiée du chef Salvé Bonchon.**.. sans le sommet de son crâne et le cerveau à l'intérieur. S'il est découvert, le chef Salvé apparaîtra et commencera à pleurer avant de disparaître. Donnez aux PJ un test de Sagesse (Perception) DC 12 pour reconnaître que la tête momifiée ressemble au fantôme. Salvé n'est pas parti pour de bon, cependant, et devrait réapparaître plus tard....
 
 ### Événements de la salle
 

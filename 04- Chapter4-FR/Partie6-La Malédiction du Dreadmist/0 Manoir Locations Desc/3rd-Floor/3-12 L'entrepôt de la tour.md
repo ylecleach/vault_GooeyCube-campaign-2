@@ -10,10 +10,10 @@ Il n'y a rien d'intéressant ici.
 
 ### Room Events
 
-* [ ] **Fearful Flavor** : Il y a des empreintes de pas dans la poussière qui semblent avoir été faites récemment
+* [x] **Fearful Flavor** : Il y a des empreintes de pas dans la poussière qui semblent avoir été faites récemment
 
-* [ ] **Tendez les tous**: Un simple pot de peinture volera vers un PC et l'éclaboussera de peinture. Vous pouvez leur offrir un jet de sauvegarde si vous vous sentez gentil.
+* [x] **Tendez les tous**: Un simple pot de peinture volera vers un PC et l'éclaboussera de peinture. Vous pouvez leur offrir un jet de sauvegarde si vous vous sentez gentil.
 
-* [ ] **Flippez les tous** : Le titre du livre qui n'a pas encore été placé à l'intérieur est « The life and death of [PCs NAME] ».... (choisissez l'un des PCs que vous souhaitez et insérez son nom). Les pages sont vierges.
+* [x] **Flippez les tous** : Le titre du livre qui n'a pas encore été placé à l'intérieur est « The life and death of Corrinee [PCs NAME] ».... (choisissez l'un des PCs que vous souhaitez et insérez son nom). Les pages sont vierges.
 
 

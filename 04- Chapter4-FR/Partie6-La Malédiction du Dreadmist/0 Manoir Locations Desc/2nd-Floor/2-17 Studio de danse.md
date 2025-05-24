@@ -14,7 +14,7 @@ Dans tous les cas, lisez ou paraphrasez ce qui suit : **Vous réalisez que cette
 
 * [ ] ***Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : Vous trouvez un petit morceau de papier bien froissé, un morceau de papier à lettres en lin fin manifestement arraché d'une feuille plus grande. En l'ouvrant, vous voyez une phrase écrite de la main d'un enfant : « J'aime danser ! Maman aussi ! » La note provient de Zara. 
 
-* [ ]  **Les robes** : Si quelqu'un vérifie les robes, il constatera que chacune d'entre elles, de taille adulte, est déchirée à l'endroit où se trouverait l'estomac.
+* [x]  **Les robes** : Si quelqu'un vérifie les robes, il constatera que chacune d'entre elles, de taille adulte, est déchirée à l'endroit où se trouverait l'estomac.
 
 ### Événements dans la salle
 
@@ -22,4 +22,4 @@ Dans tous les cas, lisez ou paraphrasez ce qui suit : **Vous réalisez que cette
 
 * [ ]**Flippez les tous**: En entrant, le sol grince et gémit comme si des danseurs y virevoltaient encore, même si le groupe ne bouge pas.
 
-* [ ]**Freak 'Em Out** : L'un des PJ verra une silhouette étrange et ombrageuse derrière son reflet dans les miroirs ; ses mouvements sont trop proches pour qu'il puisse en discerner quoi que ce soit, mais il semble certain qu'une présence spectrale hante ses mouvements pendant qu'il se trouve dans cette pièce.
+* [ X]**Freak 'Em Out** : L'un des PJ verra une silhouette étrange et ombrageuse derrière son reflet dans les miroirs ; ses mouvements sont trop proches pour qu'il puisse en discerner quoi que ce soit, mais il semble certain qu'une présence spectrale hante ses mouvements pendant qu'il se trouve dans cette pièce.

@@ -8,7 +8,7 @@ Important : voir ci-dessus La salle de bal (2-9) pour les détails de l'événem
 
 ### Événements de la salle
 
-* [ ] **Saveur effrayante** : Il n'y a qu'un seul événement ici, en plus de la vision nocturne du Mal mentionnée plus haut. Si les PJ viennent ici à un autre moment, il est très probable qu'ils entendent le rugissement le plus lugubre au loin. Si vous voulez rendre la situation encore plus effrayante... faites-leur entendre quelqu'un crier alors qu'ils tentent d'échapper au monstre. Merveilleux !!... 
+* [x] **Saveur effrayante** : Il n'y a qu'un seul événement ici, en plus de la vision nocturne du Mal mentionnée plus haut. Si les PJ viennent ici à un autre moment, il est très probable qu'ils entendent le rugissement le plus lugubre au loin. Si vous voulez rendre la situation encore plus effrayante... faites-leur entendre quelqu'un crier alors qu'ils tentent d'échapper au monstre. Merveilleux !!... 
 
 * [ ] **Tendez l'atmosphère** : L'un des PJ remarquera qu'une ombre se déplace au bord de l'une des haies, bien qu'il soit très difficile de distinguer qui/qui c'est dans la pénombre et les tourbillons de brume. Si quelqu'un saute à terre ou enquête, aucun signe de la personne ne sera trouvé.
 

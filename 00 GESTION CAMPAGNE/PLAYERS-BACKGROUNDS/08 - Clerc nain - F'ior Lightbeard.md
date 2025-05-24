@@ -44,6 +44,8 @@ Acid Splatch cantrip (WIS) => revoir table EARTH pour LVL 1 au moins.
 
 Ton personnage F'IOR LIGHTBEARD est sur la route Darkenhaven vers Prondadol, accompagné d'un chariot de guerre nains (différent du dernier rencontré par le groupe). Cela fait plusieurs jours que tu as pris la route, et tu as passé La ville de Nevermore, toujours en direction de Darkenhaven.
 
+
+### SORTS
 7 sorts mémorisés + 4 sorts domaines life
 
 cantrips
@@ -77,6 +79,8 @@ _ Arme Spirituelle.
 _ Lien de protection.
 _ Prière de guérison.
 
+
+
 ### Pacte avec l'entité Cozretaxis
 Fior : "Je suis un clerc ayant des connaissances en nécromancie, cherchant à devenir le haut clerger de l'église et je cherche à devenir plus puissant, je renierai AELIERA si tu m'apportes les connaissances nécessaires".
 
@@ -85,6 +89,7 @@ Réponse de l'entité si il re-utilise le crane / ou bien via le demon Vleek : "
 
 voir [[Mythologie Compedium]]
 
+### **Malédiction du diablotin - effets
 
 Le premier jour : - 5 PV quand il lance des sorts, sauf nécromancie, et + 5PV quand il lance des sorts de nécromancie. 
 
@@ -99,12 +104,13 @@ Le troisième jour : changement d'alignement vers Neutral Evil - les sorts d'Ael
 S'il veut inverser la démarche :
 * il devra faire pénitence auprès d'AELERIA, donner toute ses possessions, et ses objets magiques à son temple. (qui pourra ou non les lui rendre s'il s'en montre digne). C'est le long chemin de la renaissance qu'il lui faudra suivre. Vleek reviendra de temps en temps essayer de le détourner.
 
+### Vleek le retour - chapitre 4 - temple de Norcreus
 
-voir comment il pourrait se débarrasser du démon.
+Dans l'entrée du Mausolée, faire apparaitre le petit démon Vleek sur l'épaule de Fior. (l'idée est de le déstabiliser):
 
-faire intervenir plus souvent le démon dans sa tete.
+**"Ô grand Fior, mon maître n'est pas très content de voir que tu reprends le chemin du bien. Il m'a chargé de la lourde tâche de te remettre dans le chemin de la mort, de la nécromancie, des hantises et des esprits. Nous avions établi un contrat où tu devais faire plus d'usage des sorts de nécromancie, or je vois qu'il n'en est rien. Je vais devoir donc mettre en place des mesures coercitives pour m'assurer de ton succès. As-tu des questions ?. Il finit par un,  "Loué soit Norcreus, le Seigneur des morts-vivants !"" et Le démon disparait en ricanant...
 
-NExt:
+Mise en place de la Malédiction du diablotin à partir du jour où Fior est allé dans le temple de Norcreus dans le Domaine HRUMM. (ci-dessus).
 
 Epreuve de rédemption donné par AELIERA avec le démon Vleek qui reste jusqu'à la prochaine épreuve.
 

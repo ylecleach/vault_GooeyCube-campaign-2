@@ -25,4 +25,7 @@
 
 ![[Pasted image 20250320211942.png]]
 
+**Portrait 43:Belania l'Apparition** lorsque c'est nécessaire.
+![[Pasted image 20250320215805.png ]]
+
 

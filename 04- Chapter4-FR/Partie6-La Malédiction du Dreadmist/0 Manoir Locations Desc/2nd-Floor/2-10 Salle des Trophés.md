@@ -11,8 +11,8 @@ Note : Le fantôme de **Doozen Fulbitz** (Portrait 56) hante souvent cette zone 
 ### Découvertes de salles
 
 * [ ] **Cachez et cherchez** : Lisez ou paraphrasez si vous avez découvert : Vous trouvez un petit morceau de papier bien froissé dans un coin de la pièce. En le prenant dans vos mains, vous voyez qu'il s'agit d'un morceau de papier à lettres en lin fin, manifestement arraché à une feuille plus grande. En l'ouvrant, vous voyez une phrase écrite par une main d'enfant  « **Tous les monstres ne ressemblent pas à des bêtes** ! ». Cette note est de Zara. 
-* [ ] **Un Héronius suspendu** : Sur le mur se trouve le portrait d'un vieil homme aux cheveux et à la barbe grisonnants. Sous le portrait, sur le cadre, se trouve le nom Heronius Hrumm.
-* [ ] **Une option sur l'armure** : Nous n'avons volontairement pas décrit l'armure ici. Si un (ou plusieurs) de vos PJ n'a pas reçu d'amélioration récemment et que vous souhaitez en fournir une, c'est une bonne occasion de distribuer une amélioration d'armure ordinaire ou magique. Ces armures peuvent également être des antiquités inefficaces en laiton ou même en bois durci.
+* [x] **Un Héronius suspendu** : Sur le mur se trouve le portrait d'un vieil homme aux cheveux et à la barbe grisonnants. Sous le portrait, sur le cadre, se trouve le nom Heronius Hrumm.
+* [x] **Une option sur l'armure** : Nous n'avons volontairement pas décrit l'armure ici. Si un (ou plusieurs) de vos PJ n'a pas reçu d'amélioration récemment et que vous souhaitez en fournir une, c'est une bonne occasion de distribuer une amélioration d'armure ordinaire ou magique. Ces armures peuvent également être des antiquités inefficaces en laiton ou même en bois durci.
 
 ### Événements de la salle
 

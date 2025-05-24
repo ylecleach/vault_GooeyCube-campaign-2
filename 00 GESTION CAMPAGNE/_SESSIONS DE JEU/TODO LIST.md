@@ -2,8 +2,16 @@
 **Preparation Campagne**
 
 * [x] trouver instrument magique pour le barde pour le 1-17
-* [ ] Amine: pour le 23 mai - Trouver une histoire avec le Lapin et l'esprit de Mere Salvensa, pour l'impliquer dans le Game. Lui dire de rendre le lapin à Drezen. Mais il peut communiquer avec Amine. pour protéger Drezen (gardien), et pour lui donner les connaissances pour passer clerc niv 1 de Jinxx.
-* [ ] imaginer les infos récupérés par Drezen dans la bibliothèque lors de la session du 21 mars. (bibliothèque plus fantomes). Trouver des infos pour le Game pour aider le groupe. des infos sur Acolyte Prêtre Jinxx (Rituels Hanataz, et un autre sur Décoctions amusantes : "Les Elixirs de Fêtes Bouffonesques )
+* [x] Nerfer L'épée voleuse de vie
+* [ ] compter les figurines d'erwan - prendre photos
+* [ ] Drezen - Prévoir effet de Skin for hell hound(Necromantic & Demon magic)
+* [ ] placer des scrolls d'agents dans les scénarios (jamais vu) avec aussi sort de Magicka
+* [ ] Liste des fantomes à imprimer. (avec colonne pièce)
+* [ ] Preparation session 11 chapitre 4 à faire : placer tous les évènements et fantomes dans les pièces restants non explorées. les fantomes peuvent aussi apparaitres dans le tableau déjà préparé.
+* [ ] ajouter dans le résumé les plans étage 1 et 2 avec les pièces déjà faites. (avec une croix)
+* [x] résumé session 10 chapitre 4 - fait. en 1h30 le 19 mai - envoyé le 21 mai
+* [x] Amine: pour le 23 mai - Trouver une histoire avec le Lapin et l'esprit de Mere Salvensa, pour l'impliquer dans le Game. Lui dire de rendre le lapin à Drezen. Mais il peut communiquer avec Amine. pour protéger Drezen (gardien), et pour lui donner les connaissances pour passer clerc niv 1 de Jinxx.
+* [x] imaginer les infos récupérés par Drezen dans la bibliothèque lors de la session du 21 mars. (bibliothèque plus fantomes). Trouver des infos pour le Game pour aider le groupe. des infos sur Acolyte Prêtre Jinxx (Rituels Hanataz, et un autre sur Décoctions amusantes : "Les Elixirs de Fêtes Bouffonesques )
 * [ ] Drezen: objectif "resacraliser le temple de jinxx"
 * [ ] Drezen: objectif "re-unifier les troupes hanataz"
 * [x] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer

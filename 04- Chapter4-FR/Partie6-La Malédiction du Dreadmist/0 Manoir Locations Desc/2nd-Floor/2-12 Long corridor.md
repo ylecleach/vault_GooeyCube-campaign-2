@@ -1,4 +1,4 @@
-Lisez ou paraphrasez ce qui suitlorsque le groupe entre dans le couloir. 
+Lisez ou paraphrasez ce qui suit lorsque le groupe entre dans le couloir. 
 
 **Un frisson vous parcourt l'échine lorsque vous entrez dans un couloir sombre. C'est difficile à dire, mais il semble que le couloir s'étende sur environ 60 pieds du nord au sud. Trois arcanes lumineux, très espacés les uns des autres dans ce couloir, projettent de faibles lueurs vacillantes, mais le reste du couloir est plongé dans une obscurité presque totale. Vous croyez distinguer les silhouettes d'armures au garde-à-vous de part et d'autre du couloir. Vous vous frottez les yeux pour essayer de discerner si vous venez vraiment de voir une ombre se détacher des murs sombres et se fondre dans la pénombre....
 

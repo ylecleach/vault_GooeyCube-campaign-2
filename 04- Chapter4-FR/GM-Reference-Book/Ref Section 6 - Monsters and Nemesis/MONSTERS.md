@@ -339,3 +339,52 @@ Le document fournit également des modificateurs de difficulté pour adapter l'A
 - **Groupe avancé :** Augmentez les points de vie de l'Attaquant Enveloppé de 16 à 35.
 - **Rendre la tâche difficile :** En plus des points de vie supplémentaires, augmentez la Classe d'Armure de l'Attaquant Enveloppé à 15.
 - **Rendre la tâche encore plus difficile :** En plus de tout ce qui précède, donnez au joueur un désavantage sur toutes les attaques contre l'Attaquant Enveloppé, car il sent toute la vitalité s'écouler de ses membres.
+
+### Brass Skeletons
+
+Bien sûr, voici les statistiques des **Brass Skeletons** basées sur les sources fournies :
+
+Selon le livre de référence du MJ pour _The Dreadmist Curse_, les statistiques des Brass Skeletons se trouvent dans la section "Battle Stats Table".
+
+Voici leurs caractéristiques et capacités :
+
+- **Type de créature :** Mort-vivant de taille moyenne
+- **Alignement :** Loyal mauvais
+- **Classe d'Armure :** 16 => 19 (revêtement en laiton)
+- **Points de Vie :** 34 4d8 + 16 => (8d8 + 26) - Brass1 = 66, Brass2= 63
+- **Vitesse :** 30 pieds
+- **FOR :** 16 (+3)
+- **DEX :** 8 (-1)
+- **CON :** 18 (+4)
+- **INT :** 10 (+0)
+- **SAG :** 14 (+2)
+- **CHA :** 4 (-3)
+- **Compétences :** Perception +2 (Note: La source liste +2, mais la SAG est +2, ce qui correspond à la Perception passive. La valeur de compétence active n'est pas explicitement donnée, mais la passive est 12).
+- **Sens :** Vision dans le noir 60 pieds, Perception passive 12
+- **Vulnérabilités aux dégâts :** Foudre, radiant
+- **Résistances aux dégâts :** Acide, contondant, feu, perforant, tranchant
+- **Immunités aux dégâts :** Froid, nécrotique, poison
+- **Immunités aux états :** Épuisé, empoisonné
+- **Langues :** Comprend le Commun, ne peut pas parler
+- **Facteur de Défi (Challenge) :** 1/2 (100 XP)
+- **Capacité Spéciale :**
+    - **Gardien Silencieux (Silent Guardian) :** Tant qu'il ne bouge pas ou n'attaque pas, le Brass Skeleton est indiscernable d'une statue métallique.
+    - **Œil Scintillant (Gleaming Eye) (Recharge 6) :** En tant qu'action bonus, le Brass Skeleton peut provoquer un éclat de lumière aveuglante à partir de ses orbites de laiton. Choisissez une créature cible à moins de 15 pieds du Brass Skeleton qui peut le voir ; cette créature doit faire un jet de sauvegarde de Dextérité DD 13, gagnant l'état aveuglé pendant 5 (1d10) minutes en cas d'échec.
+- **Actions :**
+    - **Multi-attaque :** Le Brass Skeleton effectue 2 attaques avec son Épée longue de laiton (Brazen Longsword).
+    - **Épée longue de laiton :** Attaque d'arme au corps à corps : +5 pour toucher, portée 5 pieds, une cible. Succès : 8 (1d10+3) dégâts tranchants.
+- **Possessions :** Os recouverts de laiton et d'argent (nécessiterait une forge pour les fondre pour une compensation minimale) et une épée longue de laiton (identique à une épée longue normale, mais plus de deux fois plus lourde à 8 lbs, infligeant un désavantage à un personnage avec moins de 15 en FOR).
+
+Les Brass Skeletons sont notamment rencontrés dans le Mausolée Hrumm.
+
+Des **modificateurs de difficulté** sont également fournis :
+
+- **Groupe plus faible (Weaker Party) :** N'utilisez pas la capacité Œil Scintillant et réduisez leurs points de vie à 25 chacun.
+- **Groupe avancé (Advanced Party) :** Donnez à chaque Brass Skeleton +2 pour toucher et aux jets de dégâts avec leurs Épées longues de laiton.
+- **Rendre difficile (Make it Tough) :** En plus du bonus à leurs jets d'attaque, augmentez les points de vie de chaque Brass Skeleton à 42.
+- **Rendre plus difficile (Make it Tougher) :** En plus de tout ce qui précède, donnez à chaque Brass Skeleton une attaque supplémentaire par tour, pour un total de 3 chacun.
+
+Résumé DM
+AC = 19
+PV Brass1 = 66, Brass2= 63
+2 attaques à +7 to hit et 1d10+5 dégats
