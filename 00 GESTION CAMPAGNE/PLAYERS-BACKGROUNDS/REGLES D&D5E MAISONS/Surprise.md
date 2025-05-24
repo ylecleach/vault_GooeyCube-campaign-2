@@ -37,4 +37,4 @@ Un personnage déguisé en marchand approche le groupe, prétendant vendre des o
 Un groupe d'aventuriers célèbre une victoire dans une auberge. Soudain, des assassins infiltrés parmi les clients dégainent leurs armes et attaquent. Ceux qui étaient trop occupés à festoyer sont surpris et incapables de réagir immédiatement.
 
 ---
-
+	
