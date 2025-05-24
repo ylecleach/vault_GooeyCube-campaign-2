@@ -106,11 +106,29 @@ S'il veut inverser la démarche :
 
 ### Vleek le retour - chapitre 4 - temple de Norcreus
 
-Dans l'entrée du Mausolée, faire apparaitre le petit démon Vleek sur l'épaule de Fior. (l'idée est de le déstabiliser):
+Dans l'entrée du Mausolée, faire apparaitre le petit démon Vleek sur l'épaule de Fior:
 
 **"Ô grand Fior, mon maître n'est pas très content de voir que tu reprends le chemin du bien. Il m'a chargé de la lourde tâche de te remettre dans le chemin de la mort, de la nécromancie, des hantises et des esprits. Nous avions établi un contrat où tu devais faire plus d'usage des sorts de nécromancie, or je vois qu'il n'en est rien. Je vais devoir donc mettre en place des mesures coercitives pour m'assurer de ton succès. As-tu des questions ?. Il finit par un,  "Loué soit Norcreus, le Seigneur des morts-vivants !"" et Le démon disparait en ricanant...
 
+Tu lui répondis en retour (épatant le DM)
+
+''Toi qui brille derrière le voile''
+''Aeliera, douce flamme''
+''Guide mes pas dans l'ombre silencieuse''
+''Que je vois sans peur''
+''Que je parle avec grâce''
+''Et que mon cœur devienne passage''
+''Couvre mes camarades de ta lumière invisible''
+''Protege les des griffes du monde''
+''Et fait de leurs pas une étoile discrète"
+
+Cela fit fuit le Démon Vleek, dans un nuage de fumée, et avec des ricanements un peu crispés...
+
+1 Gooey Reward !
+
 Mise en place de la Malédiction du diablotin à partir du jour où Fior est allé dans le temple de Norcreus dans le Domaine HRUMM. (ci-dessus).
+
+
 
 Epreuve de rédemption donné par AELIERA avec le démon Vleek qui reste jusqu'à la prochaine épreuve.
 
@@ -187,3 +205,22 @@ par Benn Williams
 Contexte : **Au large de la côte de Nevermore**, au milieu de la baie de Cribb, on peut voir une statue d'albâtre représentant une belle femme s'élevant d'un îlot rocheux. La statue est assez haute, peut-être 70 pieds ou plus, et peut être vue par les navires qui naviguent dans la baie. Ceux qui grimpent jusqu'à la statue trouvent le socle entouré de fleurs blanches odorantes qui ont la forme d'une étoile. La statue est une ancienne représentation d'Aeliera, la déesse de la miséricorde. Les fleurs qui poussent sur l'île sont appelées "fleurs d'étoiles" et sont porteuses d'une imprégnation magique que l'on dit provenir de la main d'Aeliera elle-même. Bien que les fleurs ne soient pas confinées à cet endroit et qu'elles poussent ailleurs, elles sont assez rares et, à ce titre, très prisées. L'île et les fleurs étoilées sont surveillées par un certain nombre d'esprits des eaux qui ont été fournis par ***Aquera*** pour aider sa déesse sœur à protéger l'endroit contre ceux qui voudraient lui faire du mal - ou qui chercheraient à prendre plus que leur "juste part" des fleurs magiques. 
 
 Bien qu'Aeliera soit miséricordieuse, elle est consciente de la rareté de ces fleurs. C'est pourquoi elle n'autorise qu'un voyageur à cueillir trois fleurs d'étoiles, et pas plus de dix par groupe visitant l'île. Il est dit qu'une fleur d'étoile peut être utilisée pour remplacer un ingrédient dans la fabrication d'une potion bénéfique (soigner, guérir, enlever les malédictions). Il est également dit que les personnes maudites peuvent passer une nuit sur l'île lorsque Luneós brille pleinement, en priant à la base. Lorsque le Sul se lève, le personnage peut faire un test de Constitution avec avantage. Une réussite signifie que la malédiction est levée, un échec signifie que la déesse n'a pas trouvé le personnage digne de l'être. Une prière de ce type ne peut être faite qu'une fois par an. Notez que les fleurs étoilées sont également récoltées par les Fay'aree et les Elvishfolk, qui les trouvent dans les forêts du Wesverd, et qu'ils en tirent une boisson délicieuse appelée Starflower Ale. Cette boisson est à la fois rafraîchissante et puissante, et ne doit pas être consommée sans précaution.
+
+
+Chapitre 4 - session 11 - Manoir Hrumm
+
+Dès l'entrée dans le Mausolée de la famille Hrumm, tu as été visité par ton ancien ami le démon Vleek.
+
+Tu lui répondis en retour:
+
+''Toi qui brille derrière le voile''
+''Aeliera, douce flamme''
+''Guide mes pas dans l'ombre silencieuse''
+''Que je vois sans peur''
+''Que je parle avec grâce''
+''Et que mon cœur devienne passage''
+''Couvre mes camarades de ta lumière invisible''
+''Protege les des griffes du monde''
+''Et fait de leurs pas une étoile discrète"
+
+
