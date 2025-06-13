@@ -224,3 +224,8 @@ Tu lui répondis en retour:
 ''Et fait de leurs pas une étoile discrète"
 
 
+### Vision sur le Balcon dans le manoir Hrumm (chapitre 4 - session 11)
+
+Alors que la scène du bal d'horreur commence, tu ressentira une attraction irrésistible qui le poussera à passer à travers les fêtards et à se rendre sur le balcon. Là, tu peux voir un couple qui se tient debout tout seul. Il s'agit de Belania et Creston.
+
+En regardant le balcon à l'extérieur, tu réalises que c'est le soir et qu'il n'y a pas de brume. Une jeune Creston et sa femme Belania, quelque peu enceinte, dansent au clair de lune. Elle rit, mais soudain, tu la vois se retourner de douleur et se saisir le ventre. Bien que la vision soit totalement silencieuse, tu entends Belania prononcer quatre mots à Creston avant qu'elle ne pleure et ne s'enfuie du balcon dans la maison : « Ce n'est pas à toi ».

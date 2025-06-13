@@ -38,7 +38,7 @@ Joeur précédents:
 Caroline Bonneric (femme de Fred): mailto:carole.bonneric@gmail.com, discord cassiopee008, 0606663775
 Erwan Bodez (contact de Denis) : erwannbo@gmail.com
 09 février 2024: nouveau joueur (à ma demande)
-Roch Menigoz : rmenigoz@yahoo.fr
+Roch Menigoz : rmenigoz@yahoo.fr,  rookito@gmail.com
 
 
 
@@ -103,6 +103,23 @@ magicienne,
 motivé, est arrivé à la troisième session.
 très motivé
 il est très dissipé. le reconnait. il va faire attention a rester un peu plus concentrer et ne pplus couper la parole au DM.
+
+### Organisation des prochaines sessions
+
+6 juin: Amine, Denis, Erwan, Maxime et Roch sur Discord (4+1)
+ - absents: Carole, Frédéric, Gérald
+
+20 juin: Amine, Carole, Frédéric, Denis, Erwan, Gerald, Maxime, et Roch sur Discord (8)
+- proposition d'un barbecue de l'été avant la session, arrivée à partir de 18h30 ou après, pour ceux qui veulent/peuvent venir. me dire qui intéressé pour qu'on s'organise.
+
+4 juillet: Carole, Erwan, Frédéric, Gerald, Roch (5)
+* absents (certains 100%): Amine, Denis, Maxime.
+* la partie sera peux être un peu "open-world" si le chapitre 4 est terminé dans les deux sessions d'avant. ca sera peut etre l'occasion de faire les mini-quêtes de certains personnages. il faudra juste me dire 2-3 directions potentiels que vous prendrez pour que je prépare, et ne soit pas dans l'improvisation totale non plus. Je ne suis pas un serveur World of Warcraft online MMORPG qui sert 500 000 joueurs en //. (ni même 8).
+* et donc l'idée ce jour là est que le groupe ne patisse pas de l'absence des 3 combattants/soigneurs. (Glyn le ranger, Hurranan guerrier et Bravda, Fior Prêtre combattant d'Aeliera)
+* les PNJ Theros Vegla (barbare), et Dresin (ranger un peu spécial) seront aussi là en renfort au cas ou cela soit nécessaire.
+
+29 aout: Amine, Carole, Denis, Erwan, Frédéric, Maxime, Roch (7)
+* absents: Gerald (à priori, reste à confirmer)
 
 
  

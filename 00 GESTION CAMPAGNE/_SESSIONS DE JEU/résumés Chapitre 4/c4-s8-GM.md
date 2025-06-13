@@ -5,7 +5,7 @@
 ### En début de partie / références
 
 * [[05-GM-Aeverlund Timeline Overview]]: à lire pour avoir la trame globale
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-AEVERLUND]]
 * - Mage : expliquer qu'il peut scribe un sort pendant chaque repo long. (règle spéciale)

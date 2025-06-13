@@ -1,4 +1,9 @@
 
+**DMing**
+- pas de monstre à 1 contre 8 ! c'est fini. Mettre des minions en support des boss.
+- tuer des joueurs (3 scrolls de raise dead)
+- règle surprise : c'est au MJ de faire pas les joueurs.
+
 **Preparation Campagne**
 
 * [x] trouver instrument magique pour le barde pour le 1-17

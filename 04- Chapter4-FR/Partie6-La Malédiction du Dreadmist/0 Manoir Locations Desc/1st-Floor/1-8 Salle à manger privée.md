@@ -15,7 +15,7 @@ Important : Le fantôme de l'ancien valet, **Almred (Portrait 49)**, hante cette
 
 ### Découvertes dans la pièce
 
-- [ ] **L'anneau** : sous le crâne se trouve une alliance en or et en mithril, sur laquelle sont inscrits les mots « Mon amour, toujours ». Creston. » L'anneau vaut 25 ors. 
+- [x] **L'anneau** : sous le crâne se trouve une alliance en or et en mithril, sur laquelle sont inscrits les mots « Mon amour, toujours ». Creston. » L'anneau vaut 25 ors. 
 
 - [ ] **La rose morte** : Dans un coin de la pièce, poussiéreuse et oubliée, se trouve une rose desséchée. Les pétales sont très fragiles et la couleur est presque noire. Si elle n'est pas tenue avec précaution, elle tombera en poussière.
 

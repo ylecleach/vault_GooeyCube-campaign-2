@@ -13,7 +13,7 @@ ils ne pourront pas aller au troisième étage de la maison avant d'avoir termin
 
 **=>> Vous avez tué 3 fantomes sur 4 et vous êtes dans [[2-17 Studio de danse]] où vous venez de détruire L'horrible Fayree.
 
-**=>>Huranann a deux niveaux d'épuisements (cauchemar et blessure par le serpent d'os) et Glynn un seul. [[Règles Maisons#Niveau D'épuisement]]
+**=>>Huranann a deux niveaux d'épuisements (cauchemar et blessure par le serpent d'os) et Glynn un seul. [[Compilation Règles Campagne - Règles Maisons et Officielles#Niveau D'épuisement]]
 
 **=>> Glyn vous a rejoint car il en a marre de Dresin et Theros, qui ne parlent pas du tout, et n'arrête pas de l'embéter avec son lapin qu'ils veulent manger en civet.
 
@@ -111,7 +111,7 @@ Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépa
 
 ### En début de partie / références
 
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * [[NPC-AEVERLUND]]
 * [[Aeverlund Estate Rumors]]: si discustion avec des FANTOMES ou PNJ
 * - Mage : expliquer qu'il peut scribe un sort pendant chaque repo long. (règle spéciale)

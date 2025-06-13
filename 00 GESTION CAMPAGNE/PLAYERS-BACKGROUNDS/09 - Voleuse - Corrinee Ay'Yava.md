@@ -15,8 +15,6 @@ Brayan l'a également encadrée dès son plus jeune âge pour améliorer ses
 ses talents de voltigeuse et d'acrobate. Ses goûts vestimentaires semblent
 vers des tissus doux et foncés qui ne gênent pas ses mouvements et ne font pas de bruit  lorsqu'elle veut passer inaperçue.
 
-Dans sa jeunesse, elle était une enfant amicale, extravertie et précoce qui est devenue une jeune femme intelligente, appliquée, travailleuse et compétente. Bien qu'elle souhaitait à l'origine devenir lanceuse de sorts, elle s'est toujours orientée vers l'espionnage.
-
 Dans sa jeunesse, elle était une enfant amicale, extravertie et précoce.
 qui est devenue une jeune femme intelligente, appliquée, travailleuse et compétente. Bien qu'elle souhaitait à l'origine devenir lanceuse de sorts, elle s'est toujours orientée vers des voies malhonnête... et c'est pour cette raison...très tôt, elle a commencé à s'entraîner aux techniques de voleur. 
 
@@ -29,8 +27,11 @@ Comme le veut la coutume chez les Hanataz, l'enfant fut acceptée et élevée pa
 Au fur et à mesure qu'elle grandissait, elle devenait plus curieuse de savoir ce que les
 Elfes qui l'avaient amenée dans la troupe voulaient dire sur le fait par  "qu'elle apporterait la mort et la destruction dans son sillage". Pendant la plus grande partie de sa vie, elle n'a pas prêté attention à cette étrange et sombre prophétie. Mais l'année dernière, à la veille de la nuit des ténèbres (Darktide's Eve), un tatouage rouge argenté est apparu dans le bas de son dos. Il a des propriétés magiques et l'a beaucoup troublée. Mais pour l'instant, elle n'en a parlé qu'à Kenna. (pour info, Kenna la SpellDancer, fille de Kray the Blade, n'a pas été retrouvée, et donc est considéré par le groupe comme ayant été enlevée).
 
-Corrinee sait que les Elfes des Bois qui l'ont amenée dans la troupe étaient originaires de la ville elfique d'Estrean'alnea. Jusqu'à présent, elle ne s'en ai pas soucié. Elle aime la troupe et le fait de faire partie du peuple Hanataz. Maintenant que le tatouage rouge scintillant est apparu sur sa personne, elle s'intéresse de nouveau à ceux qui l'ont amenée ici. Peut-être qu'un voyage dans le Bois des Chuchoteurs (Whispering Wood) est à prévoir.
+Corrinee sait que les Elfes des Bois qui l'ont amenée dans la troupe étaient originaires de la **ville elfique d'Estrean'alnea**. Jusqu'à présent, elle ne s'en ai pas soucié. Elle aime la troupe et le fait de faire partie du peuple Hanataz. Maintenant que le tatouage rouge scintillant est apparu sur sa personne, elle s'intéresse de nouveau à ceux qui l'ont amenée ici. Peut-être qu'un voyage dans le Bois des Chuchoteurs (Whispering Wood) est à prévoir.
 
+je pense qu'elle même ne le sait pas encore car son monde vient de s'effondrer et l'avenir semble bien incertain.
+
+Elle s'interroge beaucoup cependant sur la marque dans son dos et elle commence à s'inquièter de ce que l'on disait sur elle etant enfant. Elle se dit qu'elle doit aller parler aux elfes dont elle est issue si le destin lui en accorde l'occasion. Elle est très attaché au mode de vie nomade des Hanathaz et espère qu'un jour ils reprendront la route comme avant.
 
 
 ### Image créé par Roch sur Corrinnee
@@ -38,7 +39,6 @@ Corrinee sait que les Elfes des Bois qui l'ont amenée dans la troupe étaient o
 ![[corrinee_rescue_2 1.png]]
 
 ![[corrinee_rescue_1 1 1.png]]
-]]
 
 ### information perçue pendant l'attaque/massacre de la troupe
 
@@ -55,7 +55,7 @@ Peut etre aussi des détails dans leurs tenus ou équipements
 
 Je me disais que j'avais peut être mémorisé des visages de nos assaillants ou peut-être des traits notables.
    => les elfes noirs étaient tous masqués, les gnolls avait des tatouages gravé au fer rouge, et avant que tu téléportes dans ta cachette, tu as senti derrière toi une présence furtive et terrible accompagnée d'une odeur nauséabonde, mélange de merde, d'odeur corporelle, qui t'a immédiatement pris le nez. en te retournant tu as pu apercevoir un visage démoniaque aux yeux de folie d'un humain obèse et difforme, recouvert d'immondices innommables.  En te réveillant ce visage est toujours bien présent dans ton esprit.
-   ![[Pasted image 20240203222731.png | 600]]
+   ![[Pasted image 20240203222731.png ]]
 
 Seuls les elfes noirs semblaient utiliser du poison ou aussi les gnolls ou mercenaires humains?
   => tu ne sais pas très bien car tout est aller très vite. Les elfes noirs sont connus pour utiliser du poison dans la plupart des combats.
@@ -66,7 +66,6 @@ main de mage, lame retentissante (tasha), illusion mineure.
 ## Psychologie de Corrinnee
 Elle a tué pour la première fois lors de la session du 9 février 2024. Si elle n'est pas seule pendant le repos il est possible que d'autres aventuriers remarquent qu'elle passe une nuit agitée.
 Elle est hantée par ce premier meurtre et s'inquiète de la sombre prophétie qui la concerne. Comme elle n'a personne à qui se confier pour le moment, elle tente de garder son trouble et sa marque dans le dos secret et faire comme si de rien n'était.
-
 
 
 # PARPG
@@ -80,8 +79,5 @@ Elle est hantée par ce premier meurtre et s'inquiète de la sombre prophétie q
 ## Objectif long terme
 * découvrir son secret (tatouage)
 * 
-je pense qu'elle même ne le sait pas encore car son monde vient de s'effondrer et l'avenir semble bien incertain.
-
-Elle s'interroge beaucoup cependant sur la marque dans son dos et elle commence à s'inquièter de ce que l'on disait sur elle etant enfant. Elle se dit qu'elle doit aller parler aux elfes dont elle est issue si le destin lui en accorde l'occasion. Elle est très attaché au mode de vie nomade des anathaz et espère qu'un jour ils reprendront la route comme avant.
 
 

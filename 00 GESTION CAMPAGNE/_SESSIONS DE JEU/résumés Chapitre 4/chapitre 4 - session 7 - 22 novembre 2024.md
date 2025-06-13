@@ -1,4 +1,3 @@
- 7 joueurs à la table avec personnages niveau 4.
  joueurs présents : Carole, Erwann, Fred, Gerald, Roch , et Denis & Maxime sur Discord. Amine non présent.
 
 ![[Pasted image 20240210171308.png| 400]]

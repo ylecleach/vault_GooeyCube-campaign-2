@@ -1,5 +1,5 @@
 ### En début de partie
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]]
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]]
 * redemander les alignements choisis si choisis
 *
 

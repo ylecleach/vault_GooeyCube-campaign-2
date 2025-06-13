@@ -1,5 +1,5 @@
 ![[Pasted image 20250516191414.png| 400]]
-![[Pasted image 20250516191436.png]]
+![[Pasted image 20250516191436.png | 600]]
 
 
 Absolument ! Je peux vous aider à créer le concept d'un personnage non joueur (PNJ) fantôme avec un passé de magicien puissant originaire de Darkenhaven, assassiné par la famille Hrumm, en me basant sur les informations fournies dans les sources.
@@ -35,7 +35,7 @@ En résumé, Maevius Arcana était un magicien puissant de Darkenhaven, assassin
 ### Quête de la baguette de Maevius Arcana
 
 La quête ne peut ête déclenchée qu'à partir du moment ou Brandele Steel aura eu une conversation avec le Ghyst Maevius Arcana. Il lui dira d'abord qu'il ressent:
-* qu' elle possède en elle une puissance importante, et que bien qu'encore assez novice, elle lui rappelle ses propres débuts de mage de guerre. 
+* qu'elle possède en elle une puissance importante, et que bien qu'encore assez novice, elle lui rappelle ses propres débuts de mage de guerre. 
 * qu'elle a des ascendances draconiques très forte et lui posera des questions sur son background [[04 - mage - Brandele Steel - Frédéric]], et lui demandera si elle connait bien sa mère ?
 * Il l'informe également que la baguette qu'elle tient en main était à lui.
 * Il racontera ses motivations de vengeance envers les responsables qui l'ont mené à sa fin.

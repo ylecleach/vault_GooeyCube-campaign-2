@@ -8,7 +8,7 @@ C'est le second jour dans le manoir de la famille HRUMM, et Il est environ 11h00
 
 **Lord Creston vous a proposé d'enquêter sur un certain nombre d'apparitions spectrales qui affectent continuellement le manoir et les domaines environnants**
 
-Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue. [[Règles Maisons#Niveau D'épuisement]]
+Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue. [[Compilation Règles Campagne - Règles Maisons et Officielles#Niveau D'épuisement]]
 
 Météo : il fait froid, de brume givrante et bcp de brouillard.
 

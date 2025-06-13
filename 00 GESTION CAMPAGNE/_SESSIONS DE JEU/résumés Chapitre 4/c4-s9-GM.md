@@ -21,7 +21,7 @@ gooey award à donner: pour fior, Crendon , Drezen
 
 * ECRIRE AU DM ou via discord ce que contient les deux chariots Hanataz car vous ne pouvez pas porter tout votre Loot. Ce que vous portez est écrit sur vos feuilles de personnages et dans la limite de Poids/Force.
 * [[05-GM-Aeverlund Timeline Overview]]: à lire pour avoir la trame globale
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-AEVERLUND]]
 * [[Aeverlund Estate Rumors]]: si discustion avec des FANTOMES ou PNJ

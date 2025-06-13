@@ -17,7 +17,7 @@
 
 ### Lieu et Date
 C'est le matin du 23 th dezuun (day 2 du manoir) : vous avez bénéficié d'un long repos
-sauf pour Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue. [[Règles Maisons#Niveau D'épuisement]]
+sauf pour Huranann et Glynn : vous êtes très fatigués à cause des cauchemars, et vous avez gagné un niveau de fatigue. [[Compilation Règles Campagne - Règles Maisons et Officielles#Niveau D'épuisement]]
   
 ### Meteo
 il fait froid, de brume givrante et bcp de brouillard.
@@ -70,7 +70,7 @@ Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépa
 
 ### En début de partie / références
 
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * [[NPC-AEVERLUND]]
 * [[Aeverlund Estate Rumors]]: si discustion avec des FANTOMES ou PNJ
 * - Mage : expliquer qu'il peut scribe un sort pendant chaque repo long. (règle spéciale)

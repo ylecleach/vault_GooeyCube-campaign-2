@@ -17,7 +17,7 @@
 
 ### En début de partie / références
 
-* Références: [[Règles Maisons]], [[My Gooey Bad Table]] (si pas lu le résumé)
+* Références: [[Compilation Règles Campagne - Règles Maisons et Officielles]], [[My Gooey Bad Table]] (si pas lu le résumé)
 * redemander les alignements choisis si choisis
 * [[NPC-BOGTOWN]]
 * [[NPC-AEVERLUND]]
