@@ -31,7 +31,7 @@ Fior tente de désacraliser le sceau de Norcreus qui illumine l'intérieur du Ma
 
 Jet du d20: 20 Naturel ! 
 
-**"Vous voyez que le cercle de  feu autour de la tête de bouc au yeux rouge commence à être grignoté par une vague bleutée, jusqu'à presque lè§!çk'éteindre... mais au bout de quelques secondes, le cercle de feu revint de plus belle.  la magie divine en place du dieu Norcréus est plus puissante."**
+**"Vous voyez que le cercle de  feu autour de la tête de bouc au yeux rouge commence à être grignoté par une vague bleutée, jusqu'à presque l'éteindre... mais au bout de quelques secondes, le cercle de feu revint de plus belle.  la magie divine en place du dieu Norcréus est plus puissante."**
 
 Drezen trouve le mécanisme sur le cercueil et Fior comprend qu'il nécessite une passphrase lié au dieu Norcreus.
 
@@ -39,11 +39,13 @@ Après avoir fouillé partout dans le Mausolée, et ne voyant plus quoi faire de
 
 ### Prière à Xytonvolonu
 Drezen fait une prière dans la pièce de l'Observatoire 2-7 en language céleste à l'entité **Xytonvolonu**, que vous avez rencontrée dans le chapitre 3 dans le donjon d'Estranoch.
-* Elle indique que la magie qui bloque des humains et des fantomes doit être très puissantes.
-* Elle indique que  la malédiction peut etre levée : 1) par la fin de la lignée de Lord Creston, 2) par le démon lui meme.
+* Elle indique que la magie qui bloque des humains et des fantômes doit être très puissante.
+* Elle indique que  la malédiction peut etre levée : 1) par la fin de la lignée de Lord Creston, 2) par le démon lui même. (ce qui est rare)
 
 ### Apparté sur l'entité Xytonvolonu (chapitre 3)
 Xytonvolonu est un **Eandrasood**, décrit comme un "gardien des traditions" (lorekeeper). Il est un serviteur extérieur des dieux de la neutralité loyale, et son royaume divin est Natrulus.
+
+Voici ce que vous savez. (merci. l'IA NotebookLM de google, et cela à partir des résumés uniquement)
 
 **Apparence et Nature** : Xytonvolonu est une créature d'un bleu argenté, avec une grosse tête et des bras fins terminant par des mains aux longs doigts osseux. Elle apparaît au-dessus d'un petit cercle de pierres et parle en chuchotant.
 
@@ -54,7 +56,7 @@ Xytonvolonu est un **Eandrasood**, décrit comme un "gardien des traditions" (lo
 - Elle raconte les secrets à l'origine de la construction du Donjon d'Estranoch à **Drezen Deven**. Le seigneur Bromm Estranoch avait construit le château à cet endroit en raison de gisements de Flowstone, suite à une promesse des Fay'aree Unseelie. Cependant, les Unseelies n'avaient pas révélé la terrible malédiction du lieu.
 
 **Interaction avec le groupe au chapitre 3** :
-* Xytonvolonu accueille le groupe en tant qu'"enfants de Jinxx".
+* Xytonvolonu accueille le groupe en tant "qu'enfants de Jinxx".
 * Elle propose son aide au groupe en échange de sa libération de son esclavage, promettant de ne leur faire aucun mal et de les aider dans leur quête.
 * Lors de leur première rencontre, le groupe a pris "peur" et a fait demi-tour.
 * Plus tard, Drezen Deven, en apportant l'amulette de Szenn dans la pièce, a prononcé les mots "Mavatam de binatix fessim ezenfrad".
@@ -72,7 +74,7 @@ Vous continuèrent d'explorer les zones du manoir. Vous arrivèrent dans La cage
 **Lorsque le groupe pénètre dans la cage d'escalier. Un mur de pression vous pousse lorsque vous ouvrez la porte.Une lumière bleu-blanc vous baigne, et vous vous protégez les yeux jusqu'à ce qu'ils s'ajustent. La totalité de cette pièce relativement petite est occupée par un escalier en colimaçon en fer forgé menant à l'étage supérieur. Deux statues de gargouilles hargneuses en bronze se fixent l'une l'autre, montées sur les poteaux de fer comme si elles étaient les gardiennes de la première marche. De petits arcs lumineux bleus brillent dans les yeux des gargouilles et sur les fuseaux de fer de l'escalier. Ces globes semblent différents des autres dans la maison, comme s'ils émettaient plus qu'une simple lumière.**
 
 Fior lance sur les gargouilles un sort d'apaisement des émotions, en pensant pouvoir passer.
-Malheureusement un champ de force vous empêche de monter. Fior, en essayant de monter l'escalier,  les deux gargouilles s'illuminent en se chargeant d'énergie électrique lors qu'il touche le le champ de force. Vous vous dites finalement que ce piège est clairement une défense ne visant pas à tuer des intrus, mais plus à disuader des visiteurs un peu trop curieux. Vous firent donc demi-tour afin de continuer votre exploration, en vous disant que finalement l'accès à ce 3ème étage n'est pas si simple que cela. il est 17h00.
+Malheureusement un champ de force vous empêche de monter. Fior, en essayant de monter l'escalier vit les deux gargouilles s'illuminer et se charger d'énergie électrique au moment où il touche le champ de force. Vous vous dites finalement que ce piège est clairement une défense ne visant pas à tuer des intrus, mais plus à dissuader des visiteurs un peu trop curieux. Vous firent donc demi-tour afin de continuer votre exploration, en vous disant que finalement l'accès à ce 3ème étage n'est pas si simple que cela. il est 17h00.
 
 Dans le Solarium (1-16) vous rencontre encore Fredrick le fantome jardinier.
 
@@ -109,7 +111,7 @@ il vient à l'entrée du manoir, et sonne à la porte, et l'ensemble du groupe v
 
 Hurannan reconnait Drezen comme s'il n'avait pas de déguisement (20 Naturel), mais sur Ma'lum le déguisement semble fonctionner à merveille.
 
-Et voilà que une vieille elfe noir déambule dans les couloirs du manoir, et d'adresse aux deux inquisiteurs pour en savoir plus (voir session précédente).
+Et voilà qu'une vieille elfe noir déambule dans les couloirs du manoir, et d'adresse aux deux inquisiteurs pour en savoir plus (voir session précédente).
 
 ### Mauvaise herbes et Profanation
 Pensant tenir une piste sérieuse, Fior conduisit le groupe dans le cimetière pour y rechercher une mauvaise herbe "spéciale" ou "différente" des autres.
@@ -123,7 +125,7 @@ Accorde moi ton pardon,
 Et veille sur ceux dont je dérange le sommeil,
 Je rends hommage à leurs vies et je promets de ne rien prendre que ce qui est juste"**
 
-Avec l'aide de Glyn et de Theros que vous allèrent chercher sur le chemin vers le cimetière entourant le Mausolée, vous creusèrent dans quelques tombes plusieurs fois centenaires, au hasard. Mais vous arrêtèrent assez vite finalement, voyant que cela ne mène à rien. (les cadavres sont complétement absorber par la terre, et il ne reste que des ossements divers, des objets métalliques très abimés, et des vers de terre. il est 18h00 (23h IRL)
+Avec l'aide de Glyn et de Theros que vous allèrent chercher sur le chemin vers le cimetière entourant le Mausolée, vous creusèrent dans quelques tombes plusieurs fois centenaires, au hasard. Mais vous arrêtèrent assez vite finalement, voyant que cela ne mène à rien. (les cadavres sont complètement absorber par la terre, et il ne reste que des ossements divers, des objets métalliques très abimés, et des vers de terre. il est 18h00 (23h IRL)
 
 ### Pendant ce temps
 Drezen, déguisé en vieille femme, continua seul d'explorer le manoir, et rentra dans la Salle à Manger Privée (1-8).
@@ -191,7 +193,7 @@ Hurannan, Fior, Frezen et Glyn dorment dans la chambre 2-4, qui est collé à la
 
 Avant de se coucher Drezen enleve son déguisement de vieille femme.
 
-Glyn fait un rêve spécialement créé pour lui. (voir feuille A4 fournie à lui exclusivement) : **Rêve du lapin de Glyn**
+Glyn fait un rêve spécialement créé pour lui. (voir feuille A4 fournie à lui exclusivement) : **Rêve du lapin de Glyn**. Il vous en parlera bientôt...
 
 ### Rêve de groupe avec Belania
 **Vous êtes seuls dans vos rêves et vos cauchemars. Vous êtes peut-être même capables de les reconnaître comme tels, mais ce sont des rêves que vous ne pouvez pas briser ou dissiper.**
@@ -230,7 +232,7 @@ Glyn fait un rêve spécialement créé pour lui. (voir feuille A4 fournie à lu
 
 **Vous ne voyez rien d'autre que le noir d'encre qui vous a complètement englouti. **
 
-Puis après un temps qui vous paraît durer une éternité, d'une voix très forte, vous entenderz Bélania vous dire : 
+Puis après un temps qui vous paraît durer une éternité, d'une voix très forte, vous entendez Bélania vous dire : 
 **« Réveillez-vous ! »**
 
 **Vous ouvrez les yeux et vous êtes toujours dans la pièce avec vos compagnons. La pièce est froide. Une fenêtre est ouverte... mais il n'y a pas de sonnette d'alarme. L'air est épais, moelleux et sucré, et il est difficile de respirer. Vous vous sentez un peu étourdi et confus. Il fait sombre, mais dans les ombres, vous pouvez voir des formes bouger. Les différentes nuances d'obscurité, et votre propre sens inné du danger alimenté par le rêve, vous avertissent que vous n'êtes pas seul dans cette pièce. Et la femme du rêve avait parfaitement raison lorsqu'elle a dit que vous étiez en danger.... Lancez l'initiative !**
@@ -249,20 +251,20 @@ Après quelques minutes à vous remettre de ce rêve que vous comprenez assez vi
 ![[Pasted image 20250605215234.png]]
 Comme dans un premier temps, Fior et Hurannan ne souhaitait pas l'aider, elle alla voir si les inquisiteurs pouvait l'aider.
 
-Zara apparait sur le lit de Fior. et cri après Fior de ne pas aider à retrouver le petit garcon, qui est son seul camarade de jeu et ami. finalement, Fior céda devant tant de volonté et touché par cette histoire.
+Zara apparait sur le lit de Fior et scandalisé par l'attitude de Fior de ne pas aider à retrouver le petit garcon, qui est son seul camarade de jeu et ami, se met à lui crier dessus.  Finalement, Fior céda à Zara devant tant de volonté et touché par cette histoire.
 
 Gertreece revint en vous disant que les inquisiteurs ne répondent pas.
 
 Après vérification dans la chambre (2-5) il s'avéra que les inquisiteurs ne sont plus dans leurs chambres et ont disparu eux aussi.
 
 ### La traque du culte commence
-Vous vous préparèrent donc pour retourner au Mausolée tout en ne sachant pas comment entrer dans le repaire du culte maléfique. 
+Vous vous préparèrent donc pour retourner au Mausolée tout en ne sachant toujours pas comment entrer dans le repaire du culte maléfique. 
 
-Hurannan utilise un gooey reward + un sort et une potion pour guérir des effets d' **épuisements**. et Fior utilise le medaillon de Mère Salvensa pour lancer un Lesser restoration sur Hurannan. Hurannan retrouve complètement ses forces, et ajuste son armure, bouclier et épée de feu.
+Hurannan utilise un gooey reward + un sort et une potion pour guérir des effets d' **épuisements**. et Fior utilise le medaillon de Mère Salvensa pour lancer un Lesser restoration sur Hurannan. Hurannan retrouve complètement ses forces, et ajuste son armure, bouclier et épée de feu pour se préparer au combat à venir.
 
 En arrivant au Mausolée, vous découvrirent avec une certaine joie que le cercueil de Heronius Hrumm était ouvert, et cache un accès à un escalier.
 
-Vous vous engagèrent dans la pénombre...
+**Vous vous engagèrent donc dans la pénombre à la recherche de l'enfant enlevé... Ceci vous rappelant les enfants du Voile Bleu ...**
 
 ### Organisation des prochaines sessions
 Prochaine dates à marquer dans vos agendas:
