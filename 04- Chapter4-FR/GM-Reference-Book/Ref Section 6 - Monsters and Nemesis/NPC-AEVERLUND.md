@@ -1,4 +1,4 @@
-e
+
 ## Ancêtres -non présent dans le scénario
 
 **Heronius et Felina Hrumm** 
@@ -83,10 +83,10 @@ Ma'lum Ansal'estran : Ma'lum a été engagé comme maître d'hôtel et gestionna
 En vérité, Ma'lum avait toujours répondu à un maître supérieur. Hectarius l'avait engagé en sachant qu'il n'y avait guère d'adeptes plus fanatiques de Norcreus. Le vieux Lord Hrumm, amer, soupçonnait son fils de mener la famille à la ruine et était convaincu que le seul moyen de restaurer la fortune de leur lignée était de se damner encore plus au service de Norcreus en concluant un pacte avec le démon Zanvitchu. Ma'lum et les autres membres de la secte devaient s'assurer que Creston accepterait son rôle dans ce projet et le mènerait à bien, car la santé d'Hectarius déclinait rapidement. Il ne tarda pas à décéder et Ma'lum commença à s'efforcer de guider le jeune seigneur. Malgré tous ses efforts, Creston n'a accepté le pacte avec Zanvitchu que sous la contrainte, et semble déterminé à échapper à l'influence du véritable maître de Ma'lum. Au fil des ans, le majordome s'est montré de plus en plus frustré et désespéré dans ses tentatives de corrompre et de contraindre Creston. Pourtant, il n'a jamais laissé échapper sa façade soigneusement cultivée, et même aujourd'hui, Creston ne comprend pas entièrement la profondeur de la dévotion inébranlable de Ma'lum envers Norcreus, Zanvitchu et le plan d'Hectarius. Il mènera l'œuvre de sa vie jusqu'au bout, et ne permettra pas aux Hrumms, ni à quiconque, de s'opposer à la volonté de Norcreus.
 
 Ma’lum, Medium humanoid, lawful evil
-Armor Class 14, Hit Points 39 (6d8+12), Speed 30 ft.
+Armor Class 14=>20, Hit Points 39=> 120 (6d8+12), Speed 30=> 40 ft.
 STR 14 (+2) DEX 18 (+4) CON 14 (+2) INT 13 (+1) WIS 12 (+1) CHA 17 (+3)
 _Saving Throws: Dex +6, Wis +3, Cha +5_  
-_Skills: Stealth +6_  
+_Skills: Stealth +6_ => +10 
 _Senses: passive Perception 11_  
 _Languages: Elvish, Common_  
 _Challenge: 5 (1,800 XP)_  
@@ -97,7 +97,7 @@ _save DC is 14).
 He can innately cast the following spells, requiring no material components.  
 _At will: [Chill Touch](https://www.aidedd.org/spell/chill-touch): 2D10 Necrotic damage
 _3/day: [Expeditious Retreat](https://www.aidedd.org/spell/expeditious-retreat), [Hex](https://www.aidedd.org/spell/hex)  : pour lancer un curse mineur lui donnant des avantages par la suite.
-_1/day at 2nd level: [Armor of Agathys](https://www.aidedd.org/spell/armor-of-agathys) : 10 PV temp. si hit par un PJ, 10 pdv cold damage. (sort dure tant que pv temp)
+_1/day at 2nd level: [Armor of Agathys](https://www.aidedd.org/spell/armor-of-agathys) : 10 PV temp. si hit par un PJ, 10 pdv cold damage. (sort dure tant que pv temp), Darkness
 _1/day at 3rd level: [Cloud of Daggers](https://www.aidedd.org/spell/cloud-of-daggers) : très puissant: cube de 8d4 pouvant être déplacé.
 _**Ring of Mind Shielding**: Ma’lum is immune to magic that allows other_ creatures to read his thoughts, determine whether he is lying, or know his alignment. Creatures can telepathically communicate with him only if he allows it.
 _Actions: Multi-attack. Ma’lum makes two attacks with his dagger._  
@@ -111,6 +111,65 @@ _Mind Shielding._
 ### **Cra'aveen la sorcière** (36)
 ![[Pasted image 20250605214447.png | 400]]
 Cra'aveen est chargée de diriger les viles cérémonies et les rituels qu'ils pratiquent. Aucun membre du personnel actuel, à part peut-être Ma'lum, ne sait ce qui l'a amenée au manoir Hrumm, car elle y est arrivée il y a de nombreuses années, lorsque Heronious a construit le domaine pour la première fois. En effet, seuls les initiés au culte connaissent sa présence. C'est une vieille bique, imprégnée de magie noire et pleine de connaissances interdites que le monde ferait mieux de laisser tomber dans l'oubli. Elle garde pour elle tous les détails de son passé, ainsi que les ambitions qu'elle peut nourrir au-delà de ses prédations viles actuelles. La seule chose que l'on puisse savoir avec certitude à propos de cette femme est sa dévotion fanatique à Zanvitchu et, par extension, à Norcreus. Sans sa maîtrise des sortilèges, l'emprise du mal sur Aeverlund et la famille Hrumm serait très affaiblie, ce qui fait d'elle une cible essentielle pour quiconque cherche à libérer les personnes emprisonnées dans le manoir.
+
+Absolument ! Voici la description détaillée de la sorcière **Cra'aveen**, mise à jour avec des statistiques de prêtresse de niveau 7 d'un dieu maléfique, ainsi que sa liste de sorts offensive et défensive, et l'ajout d'objets magiques qui peuvent lui être utiles en combat.
+
+---
+
+**Description de Cra'aveen :**
+
+Cra'aveen est une vieille femme ridée, profondément imprégnée de magie noire et détentrice de savoirs interdits que le monde ferait mieux d'oublier. Bien que Ma'lum soit en grande partie le cerveau maléfique derrière les activités cultuelles au Domaine d'Aeverlund, c'est Cra'aveen qui est **chargée de diriger les viles cérémonies et rituels** qu'ils accomplissent. Elle est fanatiquement dévouée à **Zanvitchu**, un démon qui a piégé la famille Hrumm pendant des générations, et par extension, à **Norcreus**, le dieu sombre des morts-vivants. Elle est arrivée au manoir Hrumm il y a de nombreuses années, lorsque Heronious a construit le domaine. Peu de membres du personnel actuel, à l'exception possible de Ma'lum, sont au courant de sa présence. Elle garde la plupart des détails de son passé et de ses ambitions secrets. Sa maîtrise de la sorcellerie est essentielle ; sans elle, l'emprise du mal sur Aeverlund et la famille Hrumm serait considérablement affaiblie, ce qui en fait une cible vitale pour quiconque cherche à libérer ceux qui sont emprisonnés dans le manoir.
+
+---
+
+**Bloc de Statistiques : Cra'aveen, la Ritualiste du Culte**
+
+_Humanoïde de taille moyenne (humain), chaotique mauvais_
+
+- **Classe d'Armure** : 15 (armure de cuir clouté 13 + Brassards Sacerdotaux Noirs 1)
+- **Points de Vie** : 97 (15d8 + 30) = 83 + 30 = 113
+- **Vitesse** : 30 pieds
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|:--|:--|:--|:--|:--|:--|
+|9 (-1)|12 (+1)|14 (+2)|15 (+2)|18 (+4)|16 (+3)|
+
+- **Jets de Sauvegarde** : Con +5, Sag +7, Cha +6 (inclut le bonus de Maîtrise +3 et l'avantage de Fanatisme Obscur)
+- **Compétences** : Tromperie +6, Persuasion +6, Religion +7, Discrétion +4, Arcanes +5
+- **Sens** : Perception passive 14
+- **Langues** : Commun, Abyssal, Nécrosien
+- **Niveau de Défi (CR)** : 7 (2 900 XP)
+
+**Capacités Spéciales :**
+
+- **Fanatisme Obscur (Dark Fanaticism)** : Cra'aveen a un avantage à tous les jets de sauvegarde.
+- **Maître des Rituels (Ritual Master)** : Cra'aveen peut lancer n'importe quel sort de clerc qu'elle connaît comme un rituel si ce sort a la balise de rituel.
+
+**Incantation (Spellcasting) :** Cra'aveen est une lanceuse de sorts de niveau 7. Sa capacité d'incantation est la Sagesse (DD de sauvegarde des sorts 15, +7 au toucher avec les attaques de sort). Elle a les sorts suivants préparés :
+
+- **Tours de magie (à volonté) :** _Guidance_, _Light_, _Thaumaturgy_, _Zol'dothryn’s Fearful Projection_
+- **Niveau 1 (4 emplacements) :** [Tentacules de Hadar](https://www.aidedd.org/dnd/sorts.php?vf=tentacules-de-hadar), [Maléfice (action bonus)](https://www.aidedd.org/dnd/sorts.php?vf=malefice), [Représailles infernale](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) (réaction suite dégats), [Trait Ensorcelé](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele)
+- **Niveau 2 (3 emplacements) :**  [Cécite/Surdité](https://www.aidedd.org/dnd/sorts.php?vf=cecite-surdite), [Ténèbre](https://www.aidedd.org/dnd/sorts.php?vf=tenebres), [Rayon Affaiblissant](https://www.aidedd.org/dnd/sorts.php?vf=rayon-affaiblissant)
+- **Niveau 3 (3 emplacements) :** [Frayeur (3 cibles)](https://www.aidedd.org/dnd/sorts.php?vf=frayeur), [Toucher du vampire](https://www.aidedd.org/dnd/sorts.php?vf=toucher-du-vampire), [Animation des morts](https://www.aidedd.org/dnd/sorts.php?vf=animation-des-morts)
+- **Niveau 4 (1 emplacement) :** [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement), [Shadow of Moil-Ombre D'égarement](https://www.aidedd.org/dnd/sorts.php?vf=ombre-d-egarement)
+=> [[Sorts#Effets du sort _Shadow of Moil_ (Ombre d’égarement) en D&D 5e]]
+
+**Actions :**
+
+- **Multi-attaque** : Cra'aveen effectue deux attaques avec son Bâton Maudit Supérieur.
+- **Bâton Maudit Supérieur (Superior Cursed Staff)** : _Attaque au corps à corps avec une arme magique_ : +8 au toucher (utilise Sagesse), portée 5 pieds, une cible. _Touché_ : 9 (1d8+5) dégâts contondants et 3 (1d6) dégâts nécrotiques.
+    - _Effets :_ Ce bâton a 6 charges et regagne 1d4+2 charges chaque jour à l'aube. En utilisant une action, Cra'aveen peut dépenser une charge pour projeter une _Frappe Nécrosante_ sur une créature dans un rayon de 30 pieds. La cible doit réussir un jet de sauvegarde de Constitution DD 15 ou subir 3d6 dégâts nécrotiques et être paralysée jusqu'à la fin de son prochain tour. En cas de succès, elle subit la moitié des dégâts et n'est pas paralysée.
+
+**Objets Magiques :**
+
+1. **Bâton Maudit Supérieur (Superior Cursed Staff)** : (Détails ci-dessus, intégré dans les actions) Ce bâton est une arme magique qui canalise les énergies nécrotiques de Norcreus, conférant un bonus aux attaques et infligeant des dégâts supplémentaires. Il peut également déclencher une _Frappe Nécrosante_ à l'aide de ses charges.
+2. **Brassards Sacerdotaux Noirs (Black Priestly Bracers)** : Objets merveilleux, rares (nécessite un lien par un Clerc ou Paladin). Ces brassards confèrent un **bonus de +1 à la Classe d'Armure** de Cra'aveen. De plus, en utilisant une action, Cra'aveen peut récupérer deux emplacements de sorts de 1er niveau ou un emplacement de sort de 2e niveau dépensé (une fois par long repos).
+3. **Dague des Cultistes Ténébreux (Dagger of the Dark Cultists)** : Arme simple (Dague), inhabituelle (nécessite un lien). Cette dague est une arme magique conférant un **bonus de +1 aux jets d'attaque et de dégâts**. Elle possède 3 charges et regagne une charge lorsqu'elle est utilisée pour tuer un Humanoïde. En dépensant une charge, Cra'aveen gagne un avantage sur les jets d'attaque et de dégâts pour cette attaque. La dague peut également être préparée via un rituel pour un sacrifice, nécessitant un jet de sauvegarde de Constitution DD 21 pour la cible entravée ou incapable d'agir, sous peine de mort (une fois par long repos).
+
+**Possessions :** Robes de culte, masque facial en métal, armure de cuir clouté, Bâton Maudit Supérieur, Brassards Sacerdotaux Noirs, Dague des Cultistes Ténébreux, bourse de composants de sorts de base.
+
+---
+
 ### Miss Ventrazia, la gouvernante  (44)
 ![[Pasted image 20250605214546.png| 400]]
 Miss Cravallé Ventrazia apparaît comme une vieille femme humaine sans prétention, avec une bosse prononcée. Il est choquant de la voir aboyer des ordres aux femmes de chambre avec une autorité absolue, **mais avec Lord Creston et les invités, elle est toujours extrêmement gentille**. Elle est le membre du personnel le plus haut placé après Ma'lum, et tous les serviteurs (cultistes ou non) lui témoignent une grande déférence. En fait, certains semblent même trembler de peur à son approche, bien qu'il soit difficile de comprendre comment même une sévère réprimande de la part de la vieille femme pourrait inspirer une telle frayeur. Beaucoup de membres du personnel ne le savent pas eux-mêmes, mais ils commencent parfois à avoir des nausées et les poils de leur cou se dressent à l'approche de la gouvernante. Son approche n'a rien de mystérieux, car elle est entourée d'un fort nuage de parfum qui sent horriblement mauvais. Des dizaines d'herbes et de senteurs florales se font la guerre, mais il semble que ses flacons se soient avariés, car une odeur âcre de terre, comme de pourriture, persiste après que les autres odeurs se soient estompées.

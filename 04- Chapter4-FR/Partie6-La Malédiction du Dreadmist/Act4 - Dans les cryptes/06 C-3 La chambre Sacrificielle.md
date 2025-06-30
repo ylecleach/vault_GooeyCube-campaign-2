@@ -6,25 +6,28 @@ Lisez ou paraphrasez ce qui suit lorsque le groupe ouvre la porte et montrez le 
 _All Stats in Battle Stats Page 43._
 
 Le groupe de cultistes ici présent est composé 
-- Ma'lum
-- de **Brunduu** (si pas tué avant), 
-- des **trois valets de pied** (encaisse bien les coups, mais ne sont là que pour protéger la sorcière) - voir stats plus bas
+- Ma'lum : reste 2 rounds maximum avant de s'enfuir, 
+	- R1:  il incante un sort de [Darkness](https://www.aidedd.org/dnd/sorts.php?vf=tenebres) sur l'entrée de la pièce ou le groupe selon, puis il donne des ordres à ses 2 golems d'attaquer ce qui sort de la zone de darkness. 
+	- R2: il incante [Cloud of Daggers](https://www.aidedd.org/spell/cloud-of-daggers) centré sur l'entrée de la porte.
+	- R3: caste Expeditious retreat et utilise une potion d'invisibité (1h), et va commencer à invoquer le [Gloom Demon](https://www.5esrd.com/database/creature/gloom-demon/)  pendant 2 rounds, et ensuite se barre par le passage secret au fond de la salle.
+	- il rejoindra en 2 min le Garage, neutralisera les PNJ par un scroll de Hold Person, et s'enfuira avec le chariot de Mère Salvensa, et un cheval de traie.
+- de **Brunduu** (si pas tué avant) 
+- des **trois valets de pied** "**Jardrin, Grestrem, et Mivael**" (encaisse bien les coups, mais ne sont là que pour protéger la sorcière) - voir stats plus bas => 3 Cultists of Zanvitchu  
 - de la femme sorcière, **Cra'aveen**. Elle lancera des sorts pénalisants le groupe.
-- Ils devraient donner du fil à retordre au groupe. 
-- et penser à faire apparaitre les 10 squelettes derrière eux bien sûr.
+- et penser à faire apparaitre les 10 squelettes de base derrière eux bien sûr. cela occupera l'arrière garde.
 - et Custom : deux gros GOLEM de CHAIR contrôlé par Ma'lum, il les lancera contre le groupe, puis deviendra invisible et s'enfuiera comme un gros lache pour tenter d'aller voler le groupe par un vol de chariot. https://www.aidedd.org/dnd/monstres.php?vf=golem-de-chair - on va dire que c'est un golem spécial qui est un peu plus balèze.
 	- Stats 2 Golems spéciaux:
-	- PV = 120 et 100
-	- AC 13 (peau-dure, et insensibilité)
+	- PV = 90 et 85 (si dégommé trop vite, rajouter +50 à chaque)
+	- AC 9 (peau-dure, et insensibilité)
 	- 2 attaques +7 to Hit, 2d8+4 contondants
 	- plus voir pouvoirs spéciaux
 ![[Pasted image 20250605230702.png]]
 
-	Custom: si le combat se passe mal, 1 mort, et arrivé de Theros Vegla, et de Cydir. Ce dernier aura eu une vision de mort imminente de l'un d'en vous.
+	Custom: si le combat se passe mal, 1 mort, et arrivé de Theros Vegla et/ou Dresin. (il dira qu'il a vu le fantome d'une petite fille lui demandant d'aller sauver le groupe de hanataz sous le Mausolée)
 
 
 **The Crypt Encounter**
-Opponents: 3 Cultists of Zanvitchu (the footmen  Jardrin, Grestrem,
+Opponents: 4 Cultists of Zanvitchu (the footmen  Brunduu, Jardrin, Grestrem,
 and Mivael) 1 Cult Ritualist (Cra’aveen the Witch Woman)
 
 ### **Cultist of Zanvitchu**, 

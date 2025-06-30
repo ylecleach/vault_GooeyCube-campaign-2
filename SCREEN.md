@@ -50,3 +50,17 @@
 ![[Pasted image 20250605215538.png]]
 
 ![[Pasted image 20250606233148.png]]
+
+
+
+
+
+![[Pasted image 20250619225139.png| 400]]
+
+
+Gloom Demon, 5e SRD:https://www.5esrd.com/database/creature/gloom-demon/
+
+![[openart-image_XA17fmJG_1750367463437_raw.jpg]]
+
+
+![[Pasted image 20250621001907.png]]
