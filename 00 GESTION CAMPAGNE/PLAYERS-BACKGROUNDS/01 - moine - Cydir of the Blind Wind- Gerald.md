@@ -1,6 +1,6 @@
 Kung Fu
 savoir d'ou il vient
-qui sont mes parents
+**qui sont mes parents**
 relation avec Brayan : ce qu'il sait, et ce qu'il ne sait pas
 comment Brayan est devenu aveugle
 en savoir plus sur la petite Veezy

@@ -25,13 +25,14 @@ Comme le veut la coutume chez les Hanataz, l'enfant fut acceptée et élevée pa
 
 ### Secret
 Au fur et à mesure qu'elle grandissait, elle devenait plus curieuse de savoir ce que les
-Elfes qui l'avaient amenée dans la troupe voulaient dire sur le fait par  "qu'elle apporterait la mort et la destruction dans son sillage". Pendant la plus grande partie de sa vie, elle n'a pas prêté attention à cette étrange et sombre prophétie. Mais l'année dernière, à la veille de la nuit des ténèbres (Darktide's Eve), un tatouage rouge argenté est apparu dans le bas de son dos. Il a des propriétés magiques et l'a beaucoup troublée. Mais pour l'instant, elle n'en a parlé qu'à Kenna. (pour info, Kenna la SpellDancer, fille de Kray the Blade, n'a pas été retrouvée, et donc est considéré par le groupe comme ayant été enlevée).
+Elfes qui l'avaient amenée dans la troupe voulaient dire sur le fait par  
+**"qu'elle apporterait la mort et la destruction dans son sillage"**. Pendant la plus grande partie de sa vie, elle n'a pas prêté attention à cette étrange et sombre prophétie. Mais l'année dernière, à la veille de la nuit des ténèbres (Darktide's Eve), un tatouage rouge argenté est apparu dans le bas de son dos. Il a des propriétés magiques et l'a beaucoup troublée. Mais pour l'instant, elle n'en a parlé qu'à Kenna. (pour info, Kenna la SpellDancer, fille de Kray the Blade, n'a pas été retrouvée, et donc est considéré par le groupe comme ayant été enlevée).
 
 Corrinee sait que les Elfes des Bois qui l'ont amenée dans la troupe étaient originaires de la **ville elfique d'Estrean'alnea**. Jusqu'à présent, elle ne s'en ai pas soucié. Elle aime la troupe et le fait de faire partie du peuple Hanataz. Maintenant que le tatouage rouge scintillant est apparu sur sa personne, elle s'intéresse de nouveau à ceux qui l'ont amenée ici. Peut-être qu'un voyage dans le Bois des Chuchoteurs (Whispering Wood) est à prévoir.
 
 je pense qu'elle même ne le sait pas encore car son monde vient de s'effondrer et l'avenir semble bien incertain.
 
-Elle s'interroge beaucoup cependant sur la marque dans son dos et elle commence à s'inquièter de ce que l'on disait sur elle etant enfant. Elle se dit qu'elle doit aller parler aux elfes dont elle est issue si le destin lui en accorde l'occasion. Elle est très attaché au mode de vie nomade des Hanathaz et espère qu'un jour ils reprendront la route comme avant.
+Elle s'interroge beaucoup cependant sur la marque dans son dos et elle commence à s'inquièter de ce que l'on disait sur elle étant enfant. Elle se dit qu'elle doit aller parler aux elfes dont elle est issue si le destin lui en accorde l'occasion. Elle est très attaché au mode de vie nomade des Hanathaz et espère qu'un jour ils reprendront la route comme avant.
 
 
 ### Image créé par Roch sur Corrinnee
@@ -81,3 +82,114 @@ Elle est hantée par ce premier meurtre et s'inquiète de la sombre prophétie q
 * 
 
 
+### Questionnaire post Chapter 4
+
+**Question 1- Feedback joueur**  
+En tant que joueur : vos feedbacks / ressentis sur les parties. Ce que vous aimez,  
+ce que vous aimez moins.  
+  
+	--> J'ai plutôt préféré les parties mêlant aventure et interactions / concertations entre joueur.
+
+	Par exemple quand nous avons fait la fête dans l'auberge ou quand nous avons planifié notre intrusion chez les butchers.
+
+**Points positifs:**  
+  
+Quels sont les meilleurs moments du chapitre 4 selon toi ? Lien vers tous les résumés: [https://drive.google.com/drive/folders/1Jxgvi9UTlNyCSM8IEADsQXWpMhNBYPC1?usp=drive_link](https://drive.google.com/drive/folders/1Jxgvi9UTlNyCSM8IEADsQXWpMhNBYPC1?usp=drive_link) 
+
+	--> la fête à l'auberge après notre victoire sur le wakabago
+
+	--> l'intrusion dans le camp des butcher avec toute la préparation : repérage, bénédiction, invisibilité, ruse avec la prise d'otage de la fille du chef qui était en fait le bande déguisé car cela a mené à beaucoup d'interaction sympas avec les joueurs et le mj.
+
+Quels sont les meilleurs souvenirs de Roleplay que tu as pu voir à la table dans ce chapitre 4 ?
+		
+	--> Auberge avec la fumette party organisé par notre ami le nain.
+
+  Quels PNJ as-tu beaucoup apprécié dans ce scénario ? (le MJ en a incarné beaucoup...)
+
+	--> J'ai bien aimé la diseuse de bonne aventure et le gnome qui a pété les plombs 
+
+  **Points d'amélioration (si concerné)  
+**  
+As-tu des difficultés sur le Roleplaying ?  
+	
+	--> Non
+
+As-tu des difficultés sur l'apprentissage des règles
+	
+	--> Non  
+
+As-tu des difficultés sur le déroulé des sessions ?
+
+	--> Non  
+
+En tant que joueur as-tu perçu au fil des parties des progressions sur ton roleplay, ta maitrise des règles, ta maitrise des sorts ou de tes compétences de classe.
+
+	--> Non je suis resté egal à moi même ;-)  
+
+Relis-tu parfois le livre des Joueurs Donjons et Dragons (édition 2014 ?)
+
+	--> Non  
+
+Serais-tu favorable à passer dans l'édition 2024 (qui est une édition qui améliore bcp de choses à priori vs la version 2014) pour ce qui est des règles de jeu ? pour quelles raisons (oui ou non)  
+
+	--> Pourquoi pas si cela n'apporte pas de lourdeur dans la résolution des actions.
+
+**Question 2 - Personnage**  
+Ton personnage :  
+
+Qu'a-t-il ressenti au cours de cette aventure ? (Stuckshoe dans le marais, et le Manoir de Lord Creston)
+	
+	--> Corrinee etait un peu une rookie au debut. Là , elle ressent qu'elle prend peu à peu sa place dans le groupe et elle est satisfaite.
+  
+Que souhaite-t-il faire là maintenant, mais aussi ses aspirations à court et moyen termes, voire à long terme.
+
+	--> effacer la marque qui souille sa poitrine à  court terme et retrouver les enfants disparus.
+
+	A long termes savoir ce que signifie sa marque de naissance et reprendre la vie de bohème d'antan avec ses camarades.
+
+S'entend-il bien avec le reste du groupe ?
+
+	--> Oui Corrinee s'entend avec tout le monde   
+
+Avec quel PNJ ton personnage s'entend-il bien ? 
+
+	Corrinee sentend bien avec tout le monde mais apprécie la mage car elle l'a considère comme érudit et elle a soif d'apprendre.
+
+	Elle aime bien aussi Fior pour sa droiture, Cydir pour son côté altruiste et le barde pour sa musique.
+
+Psychologie: a-t-il des phobies, des peurs, des angoisses ?
+
+	Corrinee a peur des larves et des asticots car cela lui rappelle la mort.  
+
+Destinée: qu'est ce que ton personnage a appris sur sa destinée ?
+
+	Pas grand chose. Mais Corrinee n'est pas accroc à la destinée. Elle est surtout curieuse, désireuse d'apprendre et de se rendre utile. Quand les tensions du danger s'apaise elle aime goûter à la vie avec légèreté.
+
+
+**Questions 3 - Mise à jour des Goals (Objectifs)**  
+  
+Merci de mettre à jour la liste de Goals (Objectifs) de ton personnage ci-dessous que j'ai pu synthétiser au fil des mois / années. c'est très important comme information pour le maître de jeu.  
+  
+Un Goal (ou But en français), c'est vraiment un objectif que ton personnage essaye de faire activement pendant ou entre les sessions de jeux.  
+  
+S = short/court ; M= Moyen ; L = Long
+
+**Corrinee Ay'Yava**  
+	S: effacer la marque sur sa poitrine
+- [ ] M: retrouver les enfants de la troupe et les mettre en sécurité  
+- [ ] M: retrouver son amie Kenna la SpellDancer, fille de Kray the Blade.  
+- [ ] M: parler aux elfes des bois de la ville elfique d'Estrean'alnea, qui l'ont amené dans la troupe. Voyage dans le Bois des Chuchoteurs (Whispering Wood) à prévoir.  
+- [ ] L: découvrir son secret (tatouage dans le dos)
+
+### Passage de Niveau 5 (17/09)
+
+https://www.aidedd.org/regles/classes/roublard/
+
+Archétype : Arcanique Tricker
+
++1 niveau en Roublard
++1 en bonus de maîtrise
+3d6 pour les attaques sournoises
+compétence Esquive Instinctive : À partir du niveau 5, quand un attaquant que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre vous.
+
+table [[BLOOD-TOUCH]] révisée

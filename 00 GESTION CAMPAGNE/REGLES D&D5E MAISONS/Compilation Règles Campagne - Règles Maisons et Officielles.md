@@ -137,3 +137,7 @@ Un groupe d'aventuriers célèbre une victoire dans une auberge. Soudain, des as
 ---
 	
 
+
+## Aides de Jeu
+
+NB: voici une aide de jeu (pensez à cliquer sur les tuiles) : https://crobi.github.io/dnd5e-quickref/preview/quickref.html. pensez à la revoir avant nos parties, et surtout l'avoir en main.

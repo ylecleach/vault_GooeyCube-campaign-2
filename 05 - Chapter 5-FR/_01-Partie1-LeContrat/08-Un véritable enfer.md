@@ -1,0 +1,18 @@
+Il est possible que les PJ refusent de signer le contrat, le jugeant ridicule. Ils peuvent même croire qu'ils peuvent trouver l'entrée de Devstronan sans l'aide de Marian. Si vous vous trouvez dans cette situation en tant que MJ, n'ayez crainte. Les PJ n'ont aucune idée de ce qui les attend si les fantômes n'obtiennent pas ce qu'ils veulent. Les joueurs comprendront la notion de « maison hantée » à un tout autre niveau lorsque les fantômes sèmeront le chaos à chaque occasion.
+
+Ils ne pourront pas dormir, leurs possessions disparaîtront, des objets leur seront lancés, et dans certaines circonstances, ils pourraient même être attaqués. Bien sûr, les fantômes peuvent toujours se retirer à travers une surface solide pour éviter une riposte, donc ce supplice peut continuer jusqu'à ce que les PJ cèdent, car les joueurs ne peuvent pas s'échapper du domaine tant qu'ils n'ont pas entièrement exploré le niveau supérieur de Devstronan.
+
+Un groupe plus avisé comprendra peut-être qu'il doit collaborer avec les fantômes, mais reconnaîtra également que les termes de tout contrat doivent être négociables. Ce sera à vous de juger, mais si vous estimez que vos joueurs ont présenté de bons arguments aux fantômes, vous pourriez ajuster les salaires et les dépenses de 10 % à 25 % en leur faveur. 
+
+Sinon, ou en plus, ils peuvent accepter d'employer des personnes comme le chef Bonchon et le valet Almred, mais se demander pourquoi ils devraient payer Greebez le Bloog pour hanter les donjons, ou tolérer que Doozen Fulbitz les vole ouvertement, en plus de nombreuses autres dépenses importantes.
+
+Les PJ peuvent également se demander quels avantages ils pourraient tirer de telles dépenses (pour plus d'informations sur les dépenses et les avantages liés à la possession et à la gestion du domaine, voir l'annexe B du livre de référence du MJ). Encore une fois, cela dépendra en fin de compte de votre décision en tant que MJ, et les fantômes feront tout leur possible pour négocier en tant que groupe. 
+
+Cependant, si les joueurs parviennent à les monter les uns contre les autres et/ou à présenter un excellent argument en faveur de cette décision, et si vous êtes prêt à suivre séparément les contrats des fantômes, vous pouvez modifier l'accord afin qu'il ne couvre que les fantômes avec lesquels ils souhaitent travailler. **Marian ne partagera ses informations sur l'emplacement du sceptre que si plus de la moitié des fantômes concluent un accord avec le groupe** (elle sera d'ailleurs encore plus disposée à le faire s'ils parviennent à éliminer ou à réduire la compensation de Doozen Fulbitz, qui lui cause beaucoup d'ennuis).
+
+Il convient toutefois de noter que si les joueurs parviennent à diviser les fantômes, ceux avec lesquels ils ne concluront pas d'accord leur en voudront et les harceleront de la même manière que s'ils n'avaient pas signé le contrat.
+
+Vous devrez déterminer si les autres fantômes finiront par les convaincre, si les joueurs devront s'entendre avec eux ou s'ils resteront une source d'ennuis perpétuelle pour le groupe. Notez également qu'aucun des fantômes de ne se laisse facilement intimider, effrayer ou écarter ; ils utiliseront tous les moyens à leur disposition pour s'assurer d'être inclus dans le contrat à des conditions favorables.
+
+Les joueurs devront faire preuve d'une grande persuasion et d'une grande intelligence pour modifier le contrat, mais c'est à vous de décider si cela nécessite des jets de **Persuasion**, d'**Intimidation** et/ou de **Tromperie**, un bon jeu de rôle ou une combinaison des deux. Dans la plupart des cas, les joueurs devront simplement accepter le contrat tel qu'il est présenté s'ils souhaitent continuer.
+

@@ -16,7 +16,7 @@ Cette pièce mesure environ 55 pieds sur 35 pieds. Il y a deux séries de portes
 
 * [ ] **La lettre de suicide** : sur le sol, près de l'endroit où Creston s'est pendu, se trouve sa lettre de suicide. Lorsque les participants la découvrent, montrez-leur le Document 96 : Les derniers mots de Creston. Une clé se trouve à côté de la lettre.
 
-* [ ] **Le coffre-fort** : Sous le bureau se trouve le coffre-fort assez grand mentionné dans la note de Creston, avec la clé sur le sol qui l'ouvre. A l'intérieur se trouvent le **document 97 : Le testament de Creston**, le **document 98 : L'acte de fiducie**, six barres de platine (d'une valeur de 100 ors chacune) et un certain nombre d'objets spéciaux : **Objets spéciaux 13 : Larmes d'enchantement, 14 : Fiole de Durnasalna, 15 : Anneau de Creston et 12 : Bâton d'argent sombre**. 
+* [ ] **Le coffre-fort** : Sous le bureau se trouve le coffre-fort assez grand mentionné dans la note de Creston, avec la clé sur le sol qui l'ouvre. A l'intérieur se trouvent le **document 97 : Le testament de Creston**, le **document 98 : L'acte de fiducie**, six barres de platine (d'une valeur de 100 ors chacune) et un certain nombre d'objets spéciaux : **Objets spéciaux 13 : Larmes d'enchantement, 14 : Fiole de Durnasalna, 15 : Anneau de Creston et 12 : Bâton d'argent sombre (Dark Silver Rod)
 
 Note : Les documents Deed et Will comportent des lignes pour ajouter les noms des PJ.
 
@@ -25,6 +25,8 @@ Note : Les documents Deed et Will comportent des lignes pour ajouter les noms de
 * [ ] **Cache-cache** : Lire ou paraphraser en cas de découverte : **"Près du mur où se trouve l'entrée secrète se trouve une feuille de papier à lettres en lin fin, déchirée d'une feuille plus grande et très froissée. En l'ouvrant, vous voyez une phrase écrite de la main d'un enfant : « Tu te réchauffes ! ». Le mot est de Zara.**
 
 ### Evénements de la salle
+
+(cette evenement de zombifier lord creston n'a pas de sens: pourquoi ?)
 
 Important : il n'y a qu'un seul événement important dans cette salle (bien que nous ayons une saveur de peur à ajouter plus tard si le groupe revient). 
 

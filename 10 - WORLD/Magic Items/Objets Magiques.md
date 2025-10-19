@@ -58,3 +58,52 @@ Nouvelle définition  du MJ Yves:
 Lorsque vous attaquez une créature avec cette arme magique (une épée courte), et obtenez un 20 au jet d'attaque, la cible subit 10 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit pas un artificiel ou un mort-vivant. Vous gagnez un nombre de points de vie temporaires égal aux dégâts supplémentaires infligés (celle du dé supplémentaire de la critique; et des 10 nécrotiques. Ex: Une attaque avec un 20 naturel - sur un adversaire non flanké - d'un voleur niveau 5 avec le don weapon Finess et 18 en DEX avec une épée courte fait : 2d6 (dégat de l'arme doublé) + 4 (DEX) + 10 nécrotiques (sauf si artificiel ou mort-vivants), soit  entre 16 et 26 pdv  dans cet exemple. Si l'adversaire dans cet exemple est flanké, alors on rajoute les dégats de l'Attaque Sournoise du voleur. (doublée en cas de critique)
 
 Les bonus de force sont exclus de ce calcul des points de vie temporaires supplémentaires. Ces points de vie temporaires supplémentaires durent jusqu'au lever de soleil suivant. Les points de vie temporaires supplémentaires ne sont pas cumulables si le joueur fait par exemple plusieurs 20 naturelles d'affilés avec cette arme. Dans le cas, d'un échec critique, l'épée voleuse de vie prend l'énergie vitale du porteur qui perd 1d12 de dégats nécrotique + un dé correspondant aux dégats de l'arme. Plusieurs échec critiques d'affilés peuvent donc tuer le porteur. Note: sont exclus les 20 naturels obtenus par magie ou pouvoirs spéciaux.
+
+
+## Club of Stunning
+
+Le _Club of Stunning_ est un objet magique puissant, classé comme une **Arme (Masse)** de rareté **Rare**.
+
+|                         |                                                              |        |
+| ----------------------- | ------------------------------------------------------------ | ------ |
+| Caractéristique         | Détail                                                       | Source |
+| **Type**                | Arme (Masse/Club)                                            |        |
+| **Rareté**              | Rare                                                         |        |
+| **Propriétés**          | Légère (Light)                                               |        |
+| **Dégâts**              | 1d4 dégâts contondants (bludgeoning damage)                  |        |
+| **Dégâts additionnels** | Inflige **1d6 dégâts de foudre** (lighting) supplémentaires. |        |
+| **Poids**               | 2 lbs.                                                       |        |
+
+Effet Magique Spécial (Stunning)
+
+Le _Club of Stunning_ est célèbre pour sa capacité à neutraliser les adversaires.
+
+• L'arme a **6 charges**. (Une autre source indique **trois charges**, régénérant une charge chaque jour à l'aube.)
+
+• Lorsqu'elle touche une cible avec une attaque, l'utilisateur peut dépenser une charge.
+
+• La cible doit réussir un **jet de sauvegarde de Constitution DD 14**.
+
+• En cas d'échec du jet de sauvegarde, la cible est **étourdie (stunned)**.
+
+• La durée de l'étourdissement est de **1d3 rounds** ou **5 (d3+3) rounds** selon les sources.
+
+• Une cible déjà étourdie par cet effet peut être forcée de faire un nouveau jet de sauvegarde si elle est frappée à nouveau et qu'une charge est dépensée, la durée supplémentaire s'ajoutant à la condition d'étourdissement en cas d'échec.
+
+• L'arme regagne **1d4 charges** chaque jour à l'aube.
+
+Construction et Esthétique
+
+Ce gourdin magiquement chargé est souvent associé à la punition pour des actes déshonorables.
+
+• La majeure partie de la masse est taillée dans le **cœur d'un sapin d'argent** (_Silverpine tree_).
+
+• Le manche et l'extrémité frappante sont enveloppés de **cuir brun foncé** (ou épais de cuir rugueux) pour dissimuler son secret "étourdissant".
+
+• Une **grosse pierre lisse** imprégnée d'une petite quantité de **magie de Tempête** (_Storm magicks_) est greffée dans le bois grisâtre, sous la couche de cuir épais, et constitue la source de l'enchantement de l'arme.
+
+• Chaque fois que le gourdin frappe une cible, un choc électrique petit mais puissant secoue la cible. Ce choc électrique est capable de rendre la cible presque catatonique si le coup est porté au bon endroit.
+
+Contexte
+
+Le _Club of Stunning_ est mentionné dans votre historique comme étant une possession de **Byansis Vonda le Tortionnaire**, qui l'utilise comme son arme d'attaque de mêlée [Club of Stunning dans la section "Actions" de Byansis Vonda dans la conversation précédente]. Il est noté que de nombreuses victimes ont ressenti la douleur de ce gourdin magiquement chargé après avoir été jetées dans le donjon de l'Aeverlund.

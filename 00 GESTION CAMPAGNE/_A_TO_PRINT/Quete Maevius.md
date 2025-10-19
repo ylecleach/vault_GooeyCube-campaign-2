@@ -11,3 +11,5 @@ La quête:
 - trouver une solution pour inverser le processus/rituel qui l'a transformé en fantome (Ghyist). Brandele devra enqueter dans les notes laissés dans le bureau d'études de Lord Creston. La note expliquera de manière détaillé le rituel qu'à subit Maevius, et ses notes d'idées pour inverser le rituel. La note indique des idées pour inverser le rituel, et parmi elle, un rituel impliquant la déesse de la vie AELERIA et un objet ayant appartenu au défunt, et sur le lieu même où le sacrifice a eu lieu. il aura donc besoin du concours de Fior prêtre de Aeliéra, et donc du baton de Maevius Arcana que possède Brandele. Les livres de la bibliothèque secrète Hrumm contiennent aussi des informations clés pour inverser le rituel.
 - Rituel : faire le rituel. Là, l'esprit du fantome s'ancre dans la baguette de façon définitive, et devient un esprit lié à la baguette. Il deviendra un mentor pour Brandele, et l'aidera de manière pro-active.
 
+===
+Versi

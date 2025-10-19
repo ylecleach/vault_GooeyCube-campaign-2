@@ -6,11 +6,11 @@ C'est la chambre à coucher de Ma'lum. Les escaliers descendent à la salle de l
 
 ### Room Discoveries
 
-* [ ] **Dégueulasse mais utile**: Il y a plus de quelques composants nécromantiques dégoûtants (et quelque peu utiles) ici. Si les PJ en veulent, vous pouvez leur donner quelques objets supplémentaires en plus de ceux mentionnés ci-dessus.Une cachette secrète. Voir avec le prêtre et la mage s'ils recherchent des composants. (jeter les dés pour savoir s'ils trouvent)
+* [ ] **Dégueulasse mais utile**: Il y a plus de quelques composants nécromantiques dégoûtants (et quelque peu utiles) ici. Si les PJ en veulent, vous pouvez leur donner quelques objets supplémentaires en plus de ceux mentionnés ci-dessous "Une cachette secrète". Voir avec le prêtre et la mage s'ils recherchent des composants. (jeter les dés pour savoir s'ils trouvent)
 
-* [ ] **Une cachette secrète** : Si l'on fait glisser le cercueil sur le côté et que l'on inspecte le plancher en dessous, les PJ découvriront une niche secrète. Dans cette niche se trouve un petit coffre-fort contenant 13 Shines, 22 ors et 32 lecs. Note : Si Ma'lum a déjà quitté le domaine lorsque cette niche secrète est trouvée, l'armoire forte ne sera pas là, car il l'aura emportée avec lui
+* [x] **Une cachette secrète** : Si l'on fait glisser le cercueil sur le côté et que l'on inspecte le plancher en dessous, les PJ découvriront une niche secrète. Dans cette niche se trouve un petit coffre-fort contenant 13 Shines, 22 ors et 32 lecs. Note : Si Ma'lum a déjà quitté le domaine lorsque cette niche secrète est trouvée, ce petit coffre-fort ne sera pas là, car il l'aura emportée avec lui
 
-* [ ] **Preuves Brûlées**: Si le bureau est inspecté, le PJ qui le fait remarquera l'absence de documents écrits ou autres (Ma'lum prépare sa fuite). Si l'on fouille la cheminée (qui brûle, rappelons-le), on peut voir les restes d'une quantité importante de parchemins brûlés, ainsi que les couvertures brûlées d'au moins deux livres, au bord du feu. Le mot « Noxica » est à peine lisible sur un morceau de parchemin brûlé qui a échappé aux flammes.
+* [x] **Preuves Brûlées**: Si le bureau est inspecté, le PJ qui le fait remarquera l'absence de documents écrits ou autres (Ma'lum prépare sa fuite). Si l'on fouille la cheminée (qui brûle, rappelons-le), on peut voir les restes d'une quantité importante de parchemins brûlés, ainsi que les couvertures brûlées d'au moins deux livres, au bord du feu. Le mot « Noxica » est à peine lisible sur un morceau de parchemin brûlé qui a échappé aux flammes.
 
 
 ### Événements de la salle

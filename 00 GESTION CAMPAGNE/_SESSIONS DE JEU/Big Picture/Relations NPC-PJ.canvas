@@ -2,8 +2,11 @@
 	"nodes":[
 		{"id":"56f550b20ccebd93","type":"group","x":-660,"y":-200,"width":280,"height":240,"label":"Untitled group"},
 		{"id":"d35d18ffa8c0faf3","type":"text","text":"PRONDADOL","x":-380,"y":-360,"width":252,"height":78,"color":"3"},
-		{"id":"d3714852f560d8f6","x":-180,"y":-40,"width":200,"height":80,"type":"file","file":"remote-vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/PNJ/Herbert Tou'gar.md","subpath":"#^1031ba"},
-		{"id":"f277d53c5a41b650","x":-800,"y":-381,"width":250,"height":60,"type":"text","text":"Herbert Tou'gar"}
+		{"id":"d3714852f560d8f6","type":"file","file":"remote-vault/00 GESTION CAMPAGNE/_SESSIONS DE JEU/Big Picture/PNJ/Herbert Tou'gar.md","subpath":"#^1031ba","x":-180,"y":-40,"width":200,"height":80},
+		{"id":"f277d53c5a41b650","type":"text","text":"Herbert Tou'gar","x":-720,"y":-460,"width":250,"height":60},
+		{"id":"9ce958ef01e6950b","x":-651,"y":-188,"width":250,"height":60,"type":"text","text":"dsfsdf"},
+		{"id":"cc05965ab578e3ce","x":-657,"y":-141,"width":250,"height":75,"type":"text","text":"sdfsdf"},
+		{"id":"95fd3a22a379efa7","x":-706,"y":-66,"width":250,"height":60,"type":"text","text":"sdfdsf"}
 	],
 	"edges":[]
 }

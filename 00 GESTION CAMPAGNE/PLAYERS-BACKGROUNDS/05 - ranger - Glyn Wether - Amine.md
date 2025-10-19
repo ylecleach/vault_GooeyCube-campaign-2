@@ -75,7 +75,7 @@ quel bilan il a fait depuis le début ? demander depuis quand ?
 
 qu est ce qu'il le motive ? (ou pas)
 bonne équipe. ambiance; agréable. aventure sympa.
-du mal à trouver sa place dans le groupe, aimerai avoir des séquences recentrés sur son personnage.
+du mal à trouver sa place dans le groupe, **aimerai avoir des séquences recentrés** sur son personnage.
 impression d'être dispersé à etre perdu trop d'information.
 
 

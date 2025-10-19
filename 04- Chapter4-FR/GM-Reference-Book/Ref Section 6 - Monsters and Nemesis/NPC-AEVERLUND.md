@@ -127,7 +127,7 @@ Cra'aveen est une vieille femme ridée, profondément imprégnée de magie noire
 _Humanoïde de taille moyenne (humain), chaotique mauvais_
 
 - **Classe d'Armure** : 15 (armure de cuir clouté 13 + Brassards Sacerdotaux Noirs 1)
-- **Points de Vie** : 97 (15d8 + 30) = 83 + 30 = 113
+- **Points de Vie** : 97 (15d8 + 30) = 83 + 30 = 11
 - **Vitesse** : 30 pieds
 
 |FOR|DEX|CON|INT|SAG|CHA|
@@ -206,6 +206,11 @@ Kyndall est le seul enfant (vivant) du domaine d'Aeverlund. Sa mère, Gertreece,
 
 Servante - Mère de Kendall, elle travaille dur pour assurer un bon niveau de vie à son enfant et espère économiser en vue d'un meilleur avenir pour tous les deux. Elle parle doucement, mais elle est honnête et directe.
 
+Dialogue possible avec Kindall:
+**« Je m'appelle Kyndall. Kyndall Umbsdall. Ma mère s'appelle Gertreece Umbsdall, c'est l'une des femmes de ménage ici. Nous venons de Prondadol. Mon père était mineur. Il est mort il y a quelque temps d'un « truc dégueulasse » qui s'est logé dans ses poumons et qui l'a fait tousser du sang et beaucoup de morve, et c'était de pire en pire. D'habitude, je reste à la maison avec ma grand-mère quand ma mère part travailler. Elle est souvent absente, un mois par exemple, puis quelques jours seulement, puis à nouveau absente. Mais Mamie ne se sentait pas bien et Maman ne voulait pas en parler. Cette fois-ci, elle m'a emmenée avec elle. Elle a dit qu'il y avait des gens effrayants ici. Maman a dit de ne parler à personne. Elle a dit qu'elle n'allait travailler qu'une semaine de plus pour toucher son salaire du mois dernier, puis qu'ils partiraient et ne reviendraient jamais.
+
+**« Je jouais à Warriors and Orkkers avec Zara. Nous parlions et chantions tout en jouant. Zara m'a appris cette chanson. Zara m'a dit qu'elle l'avait apprise de sa mère. Zara m'a aussi montré des passages secrets pour que je puisse me faufiler. Il y en a un dans cette pièce qui mène à la salle de musique, mais elle m'a dit qu'il y en avait d'autres. Celui de cette pièce est très petit (voir ci-dessous pour plus de détails). Zara est partie quand elle t'a entendu arriver ; elle m'a dit que tu étais à la porte. Zara m'a dit qu'elle devait se préparer pour ce soir, mais je ne sais pas ce que cela veut dire. Zara et sa mère sont des fantômes, de gentils fantômes. Mais il y a aussi des fantômes très méchants ici. Zara m'a dit que vous ne me feriez pas de mal, mais ma mère m'a dit de ne faire confiance à personne ici et de rester hors de vue. Zarasa m'a dit que je pouvais te parler. Elle a dit que vous étiez gentils et que vous étiez venus les aider, elle et sa mère. C'est vrai ? Etes-vous venu aider Zara ?
+
 ### Elana la femme de chambre (65)
 Elana est l'une des deux Servantes sous l'emprise de Mme Ventrazia. Elle mange à son insu de minuscules rognures d'ongles de la créature morte-vivante dans sa soupe quotidienne, mais seulement depuis quelques semaines. Par conséquent, elle est toujours en vie et conserve un certain degré d'autonomie, du moins pour le moment. Les autres membres du personnel ont remarqué qu'elle semblait assez fatiguée et oublieuse ces derniers temps, mais elle rejette toute suggestion de réduire ses heures de travail.Bien qu'elle ait ressenti une grande appréhension en rencontrant les gouvernantes il y a quelques années lorsqu'elle a été embauchée, ces derniers jours, elle a ressenti un lien de plus en plus fort avec la femme plus âgée, et une étrange détermination à ne pas décevoir son nouveau mentor.
 
@@ -280,7 +285,7 @@ Fredrick Fordinank, ou « So Dead Fred » comme l'appellent les autres esprits, 
 ![[Pasted image 20250515141754.png | 400]]
 
 ### Kastrenna Dovern (50)
-Kastrenna était autrefois l'apprentie d'Heronius Hrumm dans ses explorations de la magie ésotérique et des études interdites. Elle fut attirée par la promesse d'exercer un pouvoir incroyable, étant issue d'un milieu pauvre dans les régions les plus reculées de Darkenhaven. Elle voulait prouver sa supériorité sur ce qu'elle considérait comme un début de vie embarrassant, et elle était au moins partiellement justifiée dans ses ambitions, car elle avait assez de talent brut et de ruse pour attirer l'attention d'Heronius. Kastrenna affichait une volonté insensible de faire tout ce qu'il fallait pour réussir, même aux dépens des autres, mais Heronius ne révéla jamais vraiment toute la profondeur de sa dépravation, et son apprentie n'adopta jamais son asservissement aux puissances obscures. Finalement, Heronius en vint à considérer Kastrenna comme plus utile en tant que sacrificateur qu'en tant qu'élève, et la tua dans le cadre d'un rituel diabolique. Même en tant que fantôme, elle est persuadée de sa supériorité intellectuelle et croit qu'Heronius l'a tuée parce qu'il était menacé par la possibilité d'être supplanté par son apprentie. Elle se promène dans toute la maison, mais s'attarde surtout dans la salle de séjour, qui était autrefois le laboratoire de ses expériences magiques et de ses alchimies. Elle est assez arrogante et dédaigneuse.
+Kastrenna était autrefois l'apprentie d'Heronius Hrumm dans ses explorations de la magie ésotérique et des études interdites. Elle fut attirée par la promesse d'exercer un pouvoir incroyable, étant issue d'un milieu pauvre dans les régions les plus reculées de Darkenhaven. Elle voulait prouver sa supériorité sur ce qu'elle considérait comme un début de vie embarrassant, et elle était au moins partiellement justifiée dans ses ambitions, car elle avait assez de talent brut et de ruse pour attirer l'attention d'Heronius. Kastrenna affichait une volonté insensible de faire tout ce qu'il fallait pour réussir, même aux dépens des autres, mais Heronius ne révéla jamais vraiment toute la profondeur de sa dépravation, et son apprentie n'adopta jamais son asservissement aux puissances obscures. Finalement, Heronius en vint à considérer Kastrenna comme plus utile en tant que sacrifiée qu'en tant qu'élève, et la tua dans le cadre d'un rituel diabolique. Même en tant que fantôme, elle est persuadée de sa supériorité intellectuelle et croit qu'Heronius l'a tuée parce qu'il était menacé par la possibilité d'être supplanté par son apprentie. Elle se promène dans toute la maison, mais s'attarde surtout dans la salle de séjour, qui était autrefois le laboratoire de ses expériences magiques et de ses alchimies. Elle est assez arrogante et dédaigneuse.
 ![[Pasted image 20250515141907.png | 400]]
 
 ### Doozen Fulbitz 
@@ -289,7 +294,7 @@ Doozen Fulbitz était l'assistant d'Heronius Hrumm à la fin de sa vie, et il es
 
 ### Sayndra Sheels (57)
 Sayndra Sheels était, selon les critères de presque tout le monde, une femme remarquablement attirante, un fait qui a sans aucun doute influencé la décision d'Heronius de l'engager comme gouvernante en chef. Il n'était pas non plus surprenant qu'elle finisse par devenir la maîtresse d'Heronius, et beaucoup se demandaient pourquoi sa femme Felina n'était pas intervenue plus tôt. Peut-être avait-elle d'abord cru que son intérêt pour Sayndra était occulte plutôt que charnel, puisque le couple avait séduit ensemble plusieurs jeunes femmes à Darkenhaven, toutes utilisées dans de sombres rituels. Mais lorsque Felina comprit qu'Heronius avait des relations sexuelles avec la gouvernante, elle demanda à Kastrenna de préparer un poison mortel et de le mettre dans le verre de vin de Sayndra, ce qui eut un effet mortel immédiat. Par la suite, Heronius et Felina parvinrent à une sorte d'entente, Heronius ne prenant plus de maîtresse. Quant à Sayndra, son esprit s'attarde au manoir, généralement dans le fumoir, où elle tente de goûter aux plaisirs de la vie. Elle est assez coquette et se montre amicale avec ceux qui lui rendent la pareille.
-
+![[Pasted image 20251011072831.png | 400]]
 
 
 
@@ -477,3 +482,5 @@ Voici ce que les sources et l'historique de notre conversation révèlent sur le
     
 - Les armures Darkmist sont **contrôlées par une baguette en argent foncé**. Cette baguette permet à son porteur de donner des ordres aux armures, ainsi que de désactiver ou de réinitialiser les pièges et de manipuler les barrières magiques à l'intérieur du domaine d'Aeverlund.
     
+
+

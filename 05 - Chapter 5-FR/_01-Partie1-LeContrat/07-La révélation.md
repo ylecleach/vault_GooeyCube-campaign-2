@@ -1,0 +1,4 @@
+Les joueurs n'ont probablement pas encore réalisé qu'ils n'ont aucune idée de l'emplacement du sceptre de Brume effrayante. Même s'ils en sont arrivés à cette conclusion, ils ne savent toujours pas où il se trouve. C'est une information qu'ils devront découvrir s'ils veulent avoir une chance de s'échapper du brouillard.
+
+**Marian Meeks détient la réponse**. Pendant toutes les recherches menées par Creston, elle est restée dans les parages pour apprendre tout ce qu'elle pouvait. Elle a découvert ce qu'est réellement la **malédiction de Dreadmist** et comment la **gemme Dreadmist** peut être utilisée pour dissiper le brouillard et, avec lui, le **Gloorkest**. Plus important encore, elle a pu accéder aux **six tomes cachés** grâce à sa forme immatérielle. L'un d'eux mentionnait l'emplacement de Devstronan. **Elle partagera librement cette information avec les PJ à condition qu'ils signent le contrat.**
+

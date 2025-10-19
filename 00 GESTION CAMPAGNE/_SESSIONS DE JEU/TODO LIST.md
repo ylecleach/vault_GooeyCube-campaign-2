@@ -1,12 +1,21 @@
 
-**DMing**
-- pas de monstre à 1 contre 8 ! c'est fini. Mettre des minions en support des boss.
-- tuer des joueurs (3 scrolls de raise dead)
-- règle surprise : c'est au MJ de faire pas les joueurs.
-- revoir règles détection des pièges pour voleur et agents. ca prend trop de temps en principe.
+
+
+**Preparation Passage ProActive RPG (PARPG)**
+- [ ] faire une page A4 en francais pour expliquer le principe, les avantages pour les joueurs et le DM, redemander séparemment à chaque joueur de remplir ses 'goals', en leur donnant un modèle et les goals déjà donné.
+* [ ] PA-RPG initier - [[GOALS-PJ]], et une fois fait, les écrire sur une feuille A4.
+
+**TODO Joueurs (court-terme)**
+* [ ] rappeler à Amine que je compte sur lui pour avancer sur la quête de son dernier Rêve, c'est important.
+* [ ] rappeler à Fred qu'il a une quête personnel à dérouler
+
+TODO  Passage niveau 5 :
+* [ ] préparer les développements de Blood-touch pour le passage niveau 5 (+cas spécifique pour Brandele lié à son ascendence draconique,et non pas de blood-touch)
 
 **Preparation Campagne**
-* [ ] préparer les développements de Blood-touch pour le passage niveau 5 (+cas spécifique pour Brandele lié à son ascendence draconique,et non pas de blood-touch)
+* [ ] lire Menace in the Mish et voir à quel moment on peut le mettre en side-quest.
+* [ ] lire Witch's Wrath et voir à quel moment on peut le mettre en side-quest.
+* [ ] relire Chapitre 5 et voir comment on peut passer en mode pa-rpg.
 * [x] trouver instrument magique pour le barde pour le 1-17
 * [x] Nerfer L'épée voleuse de vie
 * [ ] compter les figurines d'erwan - prendre photos
@@ -18,14 +27,14 @@
 * [x] résumé session 10 chapitre 4 - fait. en 1h30 le 19 mai - envoyé le 21 mai
 * [x] Amine: pour le 23 mai - Trouver une histoire avec le Lapin et l'esprit de Mere Salvensa, pour l'impliquer dans le Game. Lui dire de rendre le lapin à Drezen. Mais il peut communiquer avec Amine. pour protéger Drezen (gardien), et pour lui donner les connaissances pour passer clerc niv 1 de Jinxx.
 * [x] imaginer les infos récupérés par Drezen dans la bibliothèque lors de la session du 21 mars. (bibliothèque plus fantomes). Trouver des infos pour le Game pour aider le groupe. des infos sur Acolyte Prêtre Jinxx (Rituels Hanataz, et un autre sur Décoctions amusantes : "Les Elixirs de Fêtes Bouffonesques )
-* [ ] Drezen: objectif "resacraliser le temple de jinxx"
-* [ ] Drezen: objectif "re-unifier les troupes hanataz"
+* [x] Drezen: objectif "resacraliser le temple de jinxx"
+* [x] Drezen: objectif "re-unifier les troupes hanataz"
 * [x] ((Drezen trouvera des livres pour son temple dans la bibliothèque)) => à inventer
 * [x] un gros Loot pour le centipede => rajouter des items vs mort vivants
 * [x] Traduire Descriptions Zone Basement
 * [x] Traduire Description 3eme Etage
-* [ ] vision belania harpe à faire. (10 lignes)
-* [ ] trouver son de cri de femme horrible pour le 2-2
+* [x] vision belania harpe à faire. (10 lignes)
+* [x] trouver son de cri de femme horrible pour le 2-2
 * [x] traduire début Etage 2 (chambres des invités)
 * [x] Envoyet photos Loot à maxime pour qu'il le mette sous discord dans le chan loot
 * [x] discord: voir avec maxime pour avoir un chan privé par joueur.
@@ -34,7 +43,7 @@
 * [x] Event à caller pour 22 Dezzuun
 * [x] préparer event 20th Dezu'un: Dance de l'hiver : 
 - [x] préparer event 22th Dezu'un: Fools Day : Luneos is shinning blue
-* [ ] PA-RPG initier - Goals joueurs, et une fois fait, les écrire sur une feuille A4.
+
 * [ ] Lapin: developer background. mission de surveiller la chouette. prie Jinxx, et essaye de rentrer en communication avec Salvensa.
 * [ ] regarder les guildes d'aventuriers dans le Vol1
 * [ ] Chapter 5: lire en diagonale
@@ -78,34 +87,7 @@ But Nevermore is after Hrumm Manor and it should be a great adventure.
 
 
 
-### Réponse de Alphinius 03 FEB 2024
 
-* where is Stuckshoe on the map, which road is between Stuckshoes and main roads ? 
-
-		Generally it is to the east of the King’s Crossing Causeway (the southern shore of Blackrot Bog there). We did not place it “exactly” so GMs can do that for their game.
-
-* where is located Nuvea'dunadra on the Map, which entrances ? 
-
-		This is the Dark Elven City but I am not certain it is fully decided exactly where it will be placed. It is definitely beneath West Verdestia… and I believe likely in the vicinity of the Wyrmrest Mountains… but I don’t believe we’ve picked the exact location. But the players should never get to that location (at least at this time).
-
-* when will be produced some content for Nevermore ? the only info available are in Vol1 Encyclopedia Zyathica 
-
-		In Chapter 6 of the tale… the party will return to the Nevermore area and, indeed, enter Nevermore. There will be maps of the town and other information that I think you will love.
-
-* when will some contents be produced for Prondadal ? the only info available are in Vol1 Encyclopedia Zyathica 
-
-		Prondadol may also be provided as part of Chapter 6… we are not certain of that as of yet though.
-
- * In the "massacre" of the Troupe, which of the following were using deadly poisons: dark elves, gnolls, human butcher family relations ?  
-
-		It was the Dark Elves who were using the poison.
-
-
-préparer évènement du 22 th Dezu'un Jour du Bouffon. => demander à Alphinius ce qu'il peut se passer
-
-lister toutes les rencontres non faites en chapitre 1, 2, 3 pour improvisations.
-
-Chapter 4: préparer : directive: être au maximum open.
 
 
 

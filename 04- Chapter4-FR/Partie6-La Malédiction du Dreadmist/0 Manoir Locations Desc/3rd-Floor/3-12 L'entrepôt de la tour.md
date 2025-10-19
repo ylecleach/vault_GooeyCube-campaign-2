@@ -1,6 +1,6 @@
 Lisez ou paraphrasez ce qui suit.
 
-**Cette pièce semble être le lieu de stockage de toutes sortes de matériaux.Il y a de nombreuses boîtes en bois qui semblent être pour la plupart vides. Des piles de parchemins, des piles de vieux vêtements, des pots de colle, des seaux de peinture, des morceaux de bois et de carrelage, et plus d'un livre abîmé traînent également dans la pièce. L'ensemble est couvert de poussière et de nombreuses toiles d'araignées pendent du plafond. 
+**Cette pièce semble être le lieu de stockage de toutes sortes de matériaux. Il y a de nombreuses boîtes en bois qui semblent être pour la plupart vides. Des piles de parchemins, des piles de vieux vêtements, des pots de colle, des seaux de peinture, des morceaux de bois et de carrelage, et plus d'un livre abîmé traînent également dans la pièce. L'ensemble est couvert de poussière et de nombreuses toiles d'araignées pendent du plafond. 
 
 Cette pièce a un diamètre de 30 pieds. 
 

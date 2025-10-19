@@ -3,6 +3,7 @@ fille: lenaig
 
 ## TODO-background
 
+OLD
 Objectifs court-terme
 - parchemin de drezen donné à shadrick qui doit revenir vers lui dans 6 jours
 - tenir Hurannan informé de tes plans (à faire peut etre HRP si pas le temps en parties)
@@ -36,7 +37,7 @@ questionnement:
 - pourquoi le temple de jinxx se faisait piller par des gnolls, et des elfes noirs morts.
 - comment ont-ils trouvé le lieu du temple alors que Mére l'a cherché tout sa vie.
 
-feedbacks:
+feedbacks de Sofianne:
 - ambiance du groupe
 - manoir des butchers en mode splinter cells.
 - résumés des parties
@@ -150,3 +151,95 @@ D'autre part, le temps passé avec Marian Meeks a permi d'établir entre vous de
 - **Je connais un « endroit secret et caché de connaissances interdites » tout prêt d'ici, c'est extrèmement bien protégé, mais vous pourriez aller voir, c'est juste à côté dans la bibliothèque secrête. Je vous promets de vous en parler et de vous dire comment y accéder si toi et amis   la « libèrent, elle et ses amis fantomes » de leurs liens avec ce lieu.
 
 DM: Nous pourrons voir cela InGame pour fouiller plus en avant la bibliothèque du second étage.
+
+
+### Réponses au Questionnaire après le chaptre 4
+
+**Question 1- Feedback joueur.**
+
+Rien à dire sur ton implication et l'énorme taff que tu fais de préparation, ayant vu le format de Gooey's et la façon de développer leur univers que j'adore.
+
+Le meilleurs moment sont la 1er partie de Stockshoe combat avec le butch qui à faillit me tuer, l'interogatoire du père kenlen, le retrouvail de Theros Vegla, le véritable bravda qui devrait reprendre le leadership du voile bleu.
+
+Le PNJ très bien joué, peu m'ont marqués ou envie de 's'attacher à eux', j'ai moins aimé la partie châteaux hanté de lord creston, sentis qu'on pouvait rien y faire.
+
+Aucune difficulté sur le roleplay, aucun soucis de règles (sauf harmonie 5ed ed et info. d'agent de Jinxx et de Gooeys cube)
+
+Pas de difficulté pour la compréhension et déroulé des sessions.
+
+Progression et maîtrise parfaite de tous les éléments de mon PJ. Je diversifie aussi à chaque partie l'usage de mes talents magiques, ou d'espions, ou de magie.
+
+L'ed. 2024 est plus claire à mon sens, ajoute des détails à celle de 2014.
+
+Parfois difficile le tour de table et de parole ou d'action, mais parfois aussi fatigue ou idée différentes quant aux combat et essaye de motiver Gerald, Amine dans le roleplay.
+
+**Question 2 - Personnage**
+
+Je pense bien interpréter l'agent de Jinxx et son rôle silencieux, devant rendre des comptes à mon organisation et à la légitimité de mère Salvensa m'a léguée.
+
+Pas de soucis particulier avec le reste du groupe, même si parfois on ne peux pas agir comme on le souhaite, diverses raison déroulement combat ou enquête à suivre.
+
+Pense qu'il sentent bien avec corinne, car voleuse arcanique, Credon le bard, Glynn le ranger, classe plus discrète et moins ''je casse tout' qui est plus simple pour mes missions d'exploration, filature etc..
+
+Psychologie : Il aime faire souvent des farces, déplacer les objets de ses camarades, faire des plaisanteries à tout bout de champ, se cacher et frapper comme un éclair ses ennemis.
+
+Comme indiqué sur la feuille de PJ : Idéaux : Change. The world is too old fashioned and therefore must change or perish. (Chaotic)
+
+Liens: I hate the prejudice we encounter in the world and will one day have my revenge.
+
+Défauts: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. (Find all Jester Jinxx magic tools & re-sacralized temple)
+
+Déstinée: J'attends l'info. du lapin ''crétin'' et des qui peu déchifrer les [info.de](http://info.de/) la letter et du sceaux ''crystal ball and crossed wands symbol pressed into the black wax seal''
+
+**Questions 3 - Mise à jour des Goals**
+
+**Quelques changement**
+
+S: demander de l’aide à **Xytonvolonu** : Prière tous les soir pour lui demander pourquoi Jinxx ne répond pas à mes prières.
+
+S: Comprendre pourquoi mon lapin à ses yeux dorés
+
+S: "trouver des méthodes de re-sacralisation de temple Hanataz"
+
+S:Intégrer la troupe d'élfe noir d'Aegis & Sharick, qui nous ont donné ''un faux rencard'' vers Pondadole 
+
+M: contacter **Esteban Cendrelune**, Guilde des Aventuriers, Darkenhaven
+
+M: Intégrer une guilde de voleur et me faire des revenus, qui n'appartiennent pas au hanataz    
+M: "re-sâcraliser le temple de Jinxx trouvé en aventure et y retourner avant pour y mettre des pièges.  
+M: découvrir les pouvoirs du médallion Star Pendant"
+
+L: re-unifier les troupes hanataz"
+
+L: retrouver mes parents elfe et reprendre une place dans la société elfique, ou si pas possible.
+
+Passe de Clerc de Jinxx, mais quelques pouvoirs à définir.
+
+### Passage Niveau 5
+
+A. Agent c'est magie divine, donc comme les clerc on peux changer chaque jour la liste de sort de la liste à chaque prière => validé.
+
+B. Blood touch, pas niveau de classe ou niveau total.
+Voir nouvelle table Blood Touch: [[BLOOD-TOUCH]]
+
+C. Je tiens à jouer mon PJ, pour le rôleplay et différente possibilité, pas simplement pour ''plus de pouvoir ou autre''
+
+D. Plus simple et rapide de faire Clerc niv. 1, quelques avantages côté armure etc....
+
+Alors +1d8 PV, idem que pour Agent.
+
+Je devrais augmenter la sagesse dès que possible.
+
+Skill : Je choisi : Médecine et Histoire (Vu que j'ai les autres déjà)
+
+Armor training : Middle & Shield (C'est pas mal, mais voir bonus dex max +2) sauf si magique, donc pour plus tard...haha..
+
+Équipement de base: Ont à assez de chose ''même si plus de chariots'' ...déterminer ce qui est perdu pour chaque PJ...certain sont bien encombré en volume pas qu'en poids, même si ont force de géant. haha...alors je choisie les PO 110 (Etc....
+
+Cantris: 3 de base : Tool of death, Spare Dying, Light
+
+Divine order : Thaumaturgy, alors +1 cantris, Taumaturgy.
+
++ bonus jet Int Arcane = Bonus sagesse +2 (pour mon pj)  
+
+Sort niv 1: Sanctuary, Shield of faith, Protection from Evil & Good, Inflic wound.

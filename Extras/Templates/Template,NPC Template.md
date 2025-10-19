@@ -1,7 +1,7 @@
 Name: Fils de Borag
 Portrait:
 
-![[Pasted image 20240628122014.png|200]]
+![[Pasted image 20240628122014.png]]
 
 **Objectifs**
 

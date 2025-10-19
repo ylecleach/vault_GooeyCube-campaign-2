@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e2f102552383f91d","x":-660,"y":-580,"width":250,"height":50,"type":"text","text":"Le Voile Bleu"},
+		{"id":"4afbfd9546987caa","x":-380,"y":-440,"width":250,"height":60,"type":"text","text":"[[Theros Vegla]]"}
+	],
+	"edges":[
+		{"id":"3cf8b0e9add79164","fromNode":"e2f102552383f91d","fromSide":"bottom","toNode":"4afbfd9546987caa","toSide":"top","label":"Fils du Bravda"}
+	]
+}

@@ -1,3 +1,6 @@
+## Byansis Vonda, le Tortionnaire
+![[Pasted image 20251012220217.png]]
+
 ## Lord Creston et Brunundu le valet
 ![[Pasted image 20250315180755.png]]
 ![[Fould Card.png]]
@@ -5,21 +8,6 @@
 
 ![[Pasted image 20250112170150.png]]
 
-## Le centipède voleur d'os
-
-![[Pasted image 20250317230055.png]]
-
-
-## Les 4 GHYISTS
-![[Pasted image 20250317230215.png]]
-
-
-![[Pasted image 20250317230237.png]]
-
-![[Pasted image 20250317230255.png]]
-
-
-![[Pasted image 20250317230309.png]]
 
 ### Les 2 Inquisiteurs
 ![[Pasted image 20250320211942.png]]
@@ -52,15 +40,8 @@
 ![[Pasted image 20250606233148.png]]
 
 
-
-
-
-![[Pasted image 20250619225139.png| 400]]
-
-
 Gloom Demon, 5e SRD:https://www.5esrd.com/database/creature/gloom-demon/
 
 ![[openart-image_XA17fmJG_1750367463437_raw.jpg]]
 
-
-![[Pasted image 20250621001907.png]]
+![[Pasted image 20250828233458.png]]

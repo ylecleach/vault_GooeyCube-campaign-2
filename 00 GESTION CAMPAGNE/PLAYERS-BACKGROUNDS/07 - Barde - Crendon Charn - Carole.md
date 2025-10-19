@@ -7,7 +7,7 @@ Le lendemain 13th Dezzu'un , Borag ira chercher Credon pour lui demander d'accom
 
 Tirage de PV Lvl 2 : 3D8 => 
 
-feedback
+feedback de Joaquim
 moins de combat
 pas assez de liberté (trop scripté) 
 bcp de joueurs à la table
@@ -40,7 +40,7 @@ niv2
   invisibilité
   restauration partielle
 
-Feedback:
+Feedback de Carole :
 - aime bien le côté scripté. => à évaluer ches les autres joueurs.
 - aimùe phase d'action combats
 - gestion des evènements: bcp trop d'évènements dans un espace/temps trop court. (ex 6h de jeu pour faire une heure de route avec 15 évènements).=> casse la dynamique.

@@ -2,13 +2,15 @@ Lisez ou paraphrasez ce qui suit et montrez le **Document 103 La chambre des inv
 
 ![[Pasted image 20250116144149.png]]
 
-**Une odeur subtile de renfermé vous accueille lorsque vous entrez, et le parquet craque à chaque pas que vous faites. Vous apercevez un grand lit à baldaquin et literie à motifs floraux, qui semble n'avoir pas été dérangé depuis un certain temps, disposé contre le mur sud. Une table de nuit trapue se trouve à proximité, surmontée d'un orbe en cage spiralée. Des toiles d'araignées ancrent le haut de la verrière au plafond en plâtre. Une lumière glaciale traverse les rideaux tirés, encadrant la fenêtre grillagée du mur ouest. Une armoire en bois de géant se tient fermement fermée dans le coin nord-ouest de la pièce, tandis qu'un foyer en bois occupe le centre du mur nord. Une modeste armoire à alcool contenant un assortiment de bouteilles sombres, avec une couronne de carafes poussiéreuses, se trouve dans le coin nord-est. Une petite porte est également visible, menant probablement à une cave ou à un placard plus grand.
+**Une odeur subtile de renfermé vous accueille lorsque vous entrez, et le parquet craque à chaque pas que vous faites. Vous apercevez un grand lit à baldaquin et literie à motifs floraux, qui semble n'avoir pas été dérangé depuis un certain temps, disposé contre le mur sud. Une table de nuit trapue se trouve à proximité, surmontée d'un orbe en cage spiralée. Des toiles d'araignées ancrent le ((haut de la verrière au)) plafond en plâtre. Une lumière glaciale traverse les rideaux tirés, encadrant la fenêtre grillagée du mur ouest. Une grande armoire en bois  imposante remplit le coin nord-ouest de la pièce, tandis qu'une cheminée occupe le centre du mur nord. Une modeste armoire à alcool contenant un assortiment de bouteilles sombres, avec une couronne de carafes poussiéreuses, se trouve dans le coin nord-est. Une petite porte est également visible, menant probablement à une cave ou à un placard plus grand.
+
+	faire room event 3 au moment opportun dès qu'un joueur passe près de la cheminée.
 
 Cette pièce mesure environ 60 pieds par 40 pieds. Cette pièce ne possède qu'une seule porte qui mène au Couloir Ombreux (3-3).
 
 ### Découvertes des chambres
 
-* [ ] **Penderie** : L'armoire est vide, à l'exception d'une paire de peignoirs en peluche sur des cintres et d'une pile de serviettes propres.
+* [ ] **Penderie** : L'armoire est vide, à l'exception d'une paire de peignoirs  sur des cintres et d'une pile de serviettes propres.
 
 ### Room Events
 

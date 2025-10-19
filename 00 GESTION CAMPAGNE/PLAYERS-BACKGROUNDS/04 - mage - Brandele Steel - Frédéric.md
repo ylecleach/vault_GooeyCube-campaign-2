@@ -7,8 +7,8 @@
 "Il y a juste quelques mois, pour le 17ème anniversaire de Brandele, sa mère vint la voir et l'emmena dans une zone isolée près du camp. Là, Calva dit à Brandele que la Touche Sanglante (ou "Blood-Touch") dans leur famille dépassait ce qui pouvait être considéré comme "normal" (si tant est qu'une telle chose puisse être qualifiée de normale en aucune circonstance). Elle lui dit qu'il y a longtemps, un Dragon d'Or nommé Faenastra’zeaxa donna naissance à un enfant avec son amant Humain... un homme nommé Hindron Steele. Le fils qui naquit de cette union fut nommé Conrue’zeaxa Steele, et l'on dit qu'il vit encore aujourd'hui à Dragon’s Cross. Malgré les questions de Brandele, Calva ne voulut pas ou ne put pas en révéler davantage."
 
 ### Background Development (par le DM)
-* Calva la mère de Brandele Steel, n'est pas décédé, mais elle ne le sait pas. C'est réellement un Dragon d'Or, et donc elle a eu le moyen de s'échapper au massacre de la Troupe sous sa forme humaine, via un sort de métamorphose, et a pris une forme d'une petite souris blanche complément invisible dans la neige. Pourquoi n'est elle pas intervenu sous sa forme de dragon ? cela reste un mystère entier.  Elle est aussi elle même à la recherche des survivants et des enfants, mais cela les PJ ne le savent pas.
-* Brandele a bien un frère Conrue’zeaxa Steele qui vit à Darkenhaven, et fait parti de la Guilde des Aventuriers.
+* Calva, humaine, a donc eu une liaison avec Conrue’zeaxa Steele, et ainsi naquit Brandele Steel. Calva est une mage vivant à xxx  (à développer)
+* Brandele a bien un père Conrue’zeaxa Steele qui vit à Darkenhaven, et fait parti de la Guilde des Aventuriers de Darkenhaven, il ne connait pas l'existence de sa fille Brandele.
 * au niveau 5 Brandele va développer une aptitude liée à son Blood-touch de dragon d'or qu'il va découvrir en situation:
 	* **Résistance légendaire** (x3 jour): si jet de sauvegarde raté, il peut choisir de le réussir à la place.
 	* **Amphibien**: peut respirer aussi bien dans l'air que sous l'eau, ce qui lui permet d'être efficace dans tous les environnements
@@ -126,7 +126,7 @@ sorts connus dans grimoire: 12 + cantrips (5)
 ### Objets Magiques
 2 batons de mage
 1 anneau de feu
-1 anneau d'apprenti : 1x par jour : armure mage. detect magie, feuiille porte, identification, main brulante, magic missile
+1 anneau d'apprenti : 1x par jour : armure mage. detect magie, feuille morte, identification, main brulante, magic missile
 tissonier : charge trait de feu. wand of dying fire.
 wand of flames.
 
@@ -163,14 +163,6 @@ bcp d'humour , référence à la pop culture.
 manque d'étapes et de reflexions, et libre arbitre.
 
 Objectif: réussir à mettre en pause la trame principale, pouvoir naviguer sur la map. scenario des pirates.
-
-
-
-
-
-
-
-
 
 
 - votre personnage : ce qu'il a ressenti, ce qu'il souhaite faire là maintenant, mais aussi ses aspirations à court et moyen termes, voire à long terme.  
@@ -273,5 +265,150 @@ smaller and the force damage is 3d8+6. When you use a spell slot
 of 7th-level or higher you can target creatures of Gargantuan
 size or smaller and the force damage is 4d8+8.
  
+
+### Questionnaire de fin de chapitre 4 : réponses de Fred
+Bonjour Yves,
+
+	Voici mes retours en rouge dans le mail. La rentrée était pas mal chargée je n'ai pas eu le temps d'y répondre avant.
+
+	Le plus simple serait de s'appeler pour en parler plus en détails mais en attendant je t'envois ces premiers retours.
+
+**Question 1- Feedback joueur**  
+En tant que joueur : vos feedbacks / ressentis sur les parties. Ce que vous aimez,  
+ce que vous aimez moins.  
+  
+**Points positifs:**  
+  
+Quels sont les meilleurs moments du chapitre 4 selon toi ? Lien vers tous les résumés: [https://drive.google.com/drive/folders/1Jxgvi9UTlNyCSM8IEADsQXWpMhNBYPC1?usp=drive_link](https://drive.google.com/drive/folders/1Jxgvi9UTlNyCSM8IEADsQXWpMhNBYPC1?usp=drive_link) 
+
+	Le chapitre 4 m'a semblé terriblement long et ne m'a pas particulièrement plu
+
+  
+Quels sont les meilleurs souvenirs de Roleplay que tu as pu voir à la table dans ce chapitre 4 ?
+
+	Aucun - De manière plus globale, je trouve que les joueurs qui tiennent une vraie ligne de conduite cohérente et en lien avec les aspirations qu'ils souhaitent donner à leur personnage sont Gérald et Erwan
+
+  Yves: On a vraiment un décallage dans la perception du Roleplay.
+  
+Quels PNJ as-tu beaucoup apprécié dans ce scénario ? (le MJ en a incarné beaucoup...) 
+
+	Lord Creston est celui qui m'a le plus marqué et la petite fille qui veut devenir magicienne ( Melba Forgrave)  
+
+Points d'amélioration (si concerné)  
+  
+As-tu des difficultés sur le Roleplaying ?
+	
+	Je n'en fait pas tout le temps dans cette campagne  
+
+As-tu des difficultés sur l'apprentissage des règles, 
+
+	au début oui car le mage est une classe assez complexe mais maintenant c'est ok  
+
+As-tu des difficultés sur le déroulé des sessions ? 
+
+	Trop longue à démarrer, beaucoup de digressions, tout le monde parle en même temps et au final tu ne retiens pas les propositions de tout le monde... C'est assez frustrant. Beaucoup de choses non traduites et il n'y a aucune place pour l'improvisation. Si c'est pas prévu par Goeycube ou bien pas traduit...ben on fait pas. La manière dont le scénario, PNJ ou monstre sont introduits manque de contexte et d'ambiance, par exemple le manoir qui est un lieu "horrifique", ben a aucun moment on a une ambiance qui allait avec, j'avais plus l'impression que c'était un passage obligé sans réel intérêt, une sorte de scénario optionnel mais imposé. 
+	
+	Tu as tendance a favoriser les propositions de certains joueurs plus que d'autres, pareil pour les récompenses et les éloges, c'est un peu à la tête du client. 
+	
+	Et enfin cette campagne est beaucoup trop longue et il y a beaucoup trop de zones annexes sans grand intérêt (On pourra en parler plus en détail au téléphone). 
+	
+	Et enfin je pense que nous sommes trop nombreux à jouer. Du coup j'ai du mal à suivre et j'ai tendance à décrocher.  
+
+Yves: oui tu décroches, mais aussi tu fatigues vite vers 23h00, tu n'as plus d'énergie.
+Le Bazar c'est souvent la déconnade avec Gérald et toi.
+
+En tant que joueur as-tu perçu au fil des parties des progressions sur ton roleplay, ta maîtrise des règles, ta maîtrise des sorts ou de tes compétences de classe. 
+
+	Maintenant que je connais les règles et mes sorts, que j'ai joué d'autres jeux de rôles et terminé d'autres campagnes, je ne me considère plus comme un rôliste débutant. 
+	
+	Je m'ennuie un peu, j'ai l'impression de passer les sessions à lancer des dés et des sorts lorsque l'on m'en donne la possibilité ou que c'est prévu par le scénario. C'est très linéaire...  
+
+
+Relis-tu parfois le livre des Joueurs Donjons et Dragons (édition 2014 ?) 
+
+	oui c'est essentiel on peut pas tout retenir par coeur et heureusement  
+	
+Serais-tu favorable à passer dans l'édition 2024 (qui est une édition qui améliore bcp de choses à priori vs la version 2014) pour ce qui est des règles de jeu ? pour quelles raisons (oui ou non) - 
+
+	Je vais te répondre par deux questions, pourquoi s'embêter à apprendre de nouvelles règles maintenant que l'on connait tous l'édition 2014 ? Qu'est-ce que ça apporterait de plus concrètement ?  
+  
+
+**Question 2 - Personnage**  
+Ton personnage :  
+Qu'a-t-il ressenti au cours de cette aventure ? (Stuckshoe dans le marais, et le Manoir de Lord Creston) 
+
+	il ne comprenait pas pourquoi on s'obstinait dans ce manoir alors que l'on doit aller sauver les enfants  
+
+Yves: en fait c'est plus Frédéric qui n'a pas encore compris pourquoi tu es dans le manoir, ton personnage le sait très bien avec les informations du groupe. (et c'est aussi expliqué dans le dernier résumé de la session 15) c'est cognitif.
+
+Que souhaite-t-il faire là maintenant, mais aussi ses aspirations à court et moyen termes, voire à long terme. 
+
+	Développer ses connaissances en magie et allait sauver les enfants, à la base on est là pour ça, pas pour faire du tourisme dans un manoir  
+
+S'entend-il bien avec le reste du groupe ? 
+
+	oui depuis le début, faut juste savoir prendre dans le bon sens le Nain et le bravda parfois un peu soupe au lait  
+
+Avec quel PNJ ton personnage s'entend-il bien ? 
+
+	aucun  
+
+Psychologie: a-t-il des phobies, des peurs, des angoisses ? 
+
+	C'est un personnage qui était préconstruit que je n'ai pas créé de toute pièce, donc je l'ai pris tel quel et il n'est pas fait mention de tous ces points à son sujet dans sa fiche. Et jusqu'à présent tu ne m'avais pas demandé de développer ces aspects de sa personnalité. Si c'est nécessaire pour la suite, je vais y réfléchir.  
+
+Destinée: qu'est ce que ton personnage a appris sur sa destinée ? 
+
+	un lien avec d'anciens mages puissants et l'origine de mon blood touch  
+
+  
+
+	Yves voici mes retours, ils sont honnêtes et reflètent mes impressions depuis plusieurs sessions maintenant, 
+	
+	je m'accroche en me disant que tu tiendras compte de nos remarques faites à chaud pendant ou après les sessions, et que ça sera mieux après, mais je ne vois pas de changements. (DM=: c'est génant)
+	
+	Je pense que tu l'as remarqué mais je m'ennuie un peu et j'ai même envisagé d'arrêter à la fin de ce chapitre 4. 
+	
+	Avant de prendre une décision, je souhaiterais que l'on échange ensemble, ça sera plus simple que par messages interposés et évitera des incompréhensions.
+
+	J'espère que tu le prendras pas mal, je sais que tu fais un énorme travail dessus et que tu t'investi beaucoup, mais je pense que tu veux trop suivre goey Cube à la lettre et tu as du mal à accepter nos feebacks.
+	
+	Je me tiens disponible pour échanger avec toi par téléphone (Discord).
+
+Bonne journée.
+Fred
+
+
+
+### Passage de Niv 5
+
+Souhaitez vous que votre personnage respectifs change de sexe.
+
+timidité pour le RP
+
+Souhaitez vous changer de classe de personnage, voir des classes de personnage de GooeyCube. (Fusilier, SpellDancer, à préciser)
+
+voir si Fred est à l'aise de jouer une Mage
+Idem pour Carole : éclaireur/ranger, cartographe
+
+Crendon est appelé à la cour du Roi.
+Brandele étudie avec Maevius
+
+CALL 28/09/2025
+
+carole
+heure nourriture hygyene de vie
+trouble du rythme du sommeil
+
+SIDE QUEST d'une session OK : en journée, et en anticipation.
+pas de online en mode hybride.
+
+partie de gérald.
+
+Jeu de société mais avec ceux disponible.
+
+
+
+
 
 
