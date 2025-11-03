@@ -1,18 +1,20 @@
 
-### Objectifs
+### Objectifs actuels
 
-* former Melba Forgrave
+- [ ] S: Quête du baton - [[Quete Maevius (DM)]]
+- [ ] M: étudier le cube gélatineux Gober
+- [ ] L: prendre Melba Forgrave comme apprentie
+
 
 ### Background Secret
-"Il y a juste quelques mois, pour le 17ème anniversaire de Brandele, sa mère vint la voir et l'emmena dans une zone isolée près du camp. Là, Calva dit à Brandele que la Touche Sanglante (ou "Blood-Touch") dans leur famille dépassait ce qui pouvait être considéré comme "normal" (si tant est qu'une telle chose puisse être qualifiée de normale en aucune circonstance). Elle lui dit qu'il y a longtemps, un Dragon d'Or nommé Faenastra’zeaxa donna naissance à un enfant avec son amant Humain... un homme nommé Hindron Steele. Le fils qui naquit de cette union fut nommé Conrue’zeaxa Steele, et l'on dit qu'il vit encore aujourd'hui à Dragon’s Cross. Malgré les questions de Brandele, Calva ne voulut pas ou ne put pas en révéler davantage."
+"Il y a juste quelques mois, pour le 17ème anniversaire de Brandele, sa mère Calva vint la voir et l'emmena dans une zone isolée près du camp. Là, Calva dit à Brandele que la Touche Sanglante (ou "Blood-Touch") dans leur famille dépassait ce qui pouvait être considéré comme "normal" (si tant est qu'une telle chose puisse être qualifiée de normale en aucune circonstance). Elle lui dit qu'il y a longtemps, un Dragon d'Or nommé Faenastra’zeaxa donna naissance à un enfant avec son amant Humain... un homme nommé Hindron Steele. Le fils qui naquit de cette union fut nommé Conrue’zeaxa Steele, et l'on dit qu'il vit encore aujourd'hui à Dragon’s Cross. Malgré les questions de Brandele, Calva ne voulut pas ou ne put pas en révéler davantage."
 
 ### Background Development (par le DM)
-* Calva, humaine, a donc eu une liaison avec Conrue’zeaxa Steele, et ainsi naquit Brandele Steel. Calva est une mage vivant à xxx  (à développer)
+* Calva, humaine, a donc eu une liaison avec Conrue’zeaxa Steele, et ainsi naquit Brandele Steel. Calva est une mage vivant à Darkenhaven. (NPC à développer)
 * Brandele a bien un père Conrue’zeaxa Steele qui vit à Darkenhaven, et fait parti de la Guilde des Aventuriers de Darkenhaven, il ne connait pas l'existence de sa fille Brandele.
 * au niveau 5 Brandele va développer une aptitude liée à son Blood-touch de dragon d'or qu'il va découvrir en situation:
-	* **Résistance légendaire** (x3 jour): si jet de sauvegarde raté, il peut choisir de le réussir à la place.
+	* **Résistance légendaire** (x1 jour): si jet de sauvegarde raté, il peut choisir de le réussir à la place.
 	* **Amphibien**: peut respirer aussi bien dans l'air que sous l'eau, ce qui lui permet d'être efficace dans tous les environnements
-	* **Détection du mensonge** : À partir du stade juvénile, il peut utiliser ce pouvoir pour discerner la vérité lors de négociations
 
 Alignement: LOYAL NEUTRE
 
@@ -380,21 +382,9 @@ Fred
 
 
 
-### Passage de Niv 5
+### CALL 28/09/2025
 
-Souhaitez vous que votre personnage respectifs change de sexe.
-
-timidité pour le RP
-
-Souhaitez vous changer de classe de personnage, voir des classes de personnage de GooeyCube. (Fusilier, SpellDancer, à préciser)
-
-voir si Fred est à l'aise de jouer une Mage
-Idem pour Carole : éclaireur/ranger, cartographe
-
-Crendon est appelé à la cour du Roi.
-Brandele étudie avec Maevius
-
-CALL 28/09/2025
+Carole et Fred souhaitent arrêter la campagne qu'il ne trouve pas bien.
 
 carole
 heure nourriture hygyene de vie

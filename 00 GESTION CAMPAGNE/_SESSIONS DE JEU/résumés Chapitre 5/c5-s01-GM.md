@@ -1,12 +1,16 @@
-### Lieu, Date et Météo
+### Debut de session
 
+1) Introduire nouveau joueur Frédéric, faire tour de table pour se présenter soi même (experience en JDR) et son personnage.
+2) rappel des nouvelles règles de bienséances et des horaires
+3) 
 
 ### A PENSER
+* [[Usage Pierre de Visions et Vision Attuned player pour chapitre 5]]
+* [[AEV-MONSTERS#Byansis Vonda (le bourreau)]] ET REVOIR MONSTRES dans [[B-Blocs Cellulaires (Stats Rencontre)]]
+* 
 * Dire à Amine de parler des pouvoirs etde  la mission de Drezen donné par Mère Salvensa. Sinon, lui rappelé in-game, en faisant mordre le lapin à son orteil. (mission de rôle protecteur). [[Rêve Lapin Glyn]]
 
 TODO
-
-**boule de cristal de Mère salvensa** : inventer plusieurs  visions que Cydir pourrait avoir. (vision des enfants vivants, conseil de mère salvensa, indice très léger sur le fait que Borag pourrait être vivant)
 
 Développer tous les Secrets Story des personnages.
 

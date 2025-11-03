@@ -1,6 +1,7 @@
 S = short/court ; M= Moyen ; L = Long
 
 **Cydir of the Blind Wind** - The Seer (The Abomination)
+- [ ] M: parler à Verasis à Prondadol (Star Pendant)
 - [ ] M: découvrir ses origines, qui sont ses parents
 - [ ] M: retrouver les enfants enlevés de la troupe, et notamment Vezzy avec qui Cydir a un point commun (don de vue/vision).
 
@@ -40,7 +41,7 @@ S = short/court ; M= Moyen ; L = Long
 - [ ] L: espère pouvoir reparler à ses parents à Darkenhaven dans leur manoir dans le quartier des nobles.
 
 **Brandele Steel** 
-- [ ] S: Quête du baton - [[Quete Maevius]]
+- [ ] S: Quête du baton - [[Quete Maevius (DM)]]
 - [ ] M: étudier le cube gélatineux Gober
 - [ ] L: prendre Melba Forgrave comme apprentie
 

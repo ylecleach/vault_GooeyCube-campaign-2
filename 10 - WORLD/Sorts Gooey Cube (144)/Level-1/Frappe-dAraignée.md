@@ -1,0 +1,21 @@
+# Frappe d'Araignée
+
+| Attribute | Details |
+|-----------|---------|
+| 🎯 **Level** | 1er Niveau |
+| 🔮 **School** | Invocation |
+| ⏱️ **Casting Time** | action bonus |
+| 📏 **Range** | Personnelle |
+| 🧩 **Components** | V |
+| ⏳ **Duration** | Concentration, jusqu'à 1 minute |
+| 👥 **Classes** | Clerc, Flowcaster, Paladin, Spelldancer, Sorcier |
+| 🔄 **Ritual** | Non |
+| 🎭 **Concentration** | Oui |
+
+## 📖 Description
+
+La prochaine fois que vous touchez une créature avec une attaque d'arme de mêlée, une explosion de toile collante apparaît au point d'impact [41]. La cible doit réussir un jet de sauvegarde de Force ou être Entravée jusqu'à la fin du sort [41]. Une créature de taille Grande ou supérieure a un avantage sur ce jet [41]. Si la cible est Entravée, elle subit 1d6 dégâts de poison au début de chacun de ses tours [41]. La créature Entravée peut tenter un test de Force pour se libérer (action) [41, 42].
+
+## ⬆️ At Higher Levels
+
+Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-dessus du niveau 1 [42].

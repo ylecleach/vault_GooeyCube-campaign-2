@@ -14,6 +14,7 @@ En entendant les bruits du combat, la porte de la cellule 7 s'ouvre (elle était
 
 >_The Cell Block_
 _See Battle Stats in GM Reference Book, page 11._
+voir [[B-Blocs Cellulaires (Stats Rencontre)]]
 
 Les deux prisonniers des cellules 4 et 5 sont les Halflings Barnard et Curnla Frizzenfeets (Portrait 12 et Portrait 13). 
 

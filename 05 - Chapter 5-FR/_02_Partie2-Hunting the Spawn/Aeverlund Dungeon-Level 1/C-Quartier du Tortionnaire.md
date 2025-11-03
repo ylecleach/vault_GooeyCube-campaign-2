@@ -14,15 +14,20 @@ Si tel est le cas, **demandez à ceux qui l'ont rencontrée de faire un jet de S
 
 C'est une excellente occasion d'apporter un peu de jeu de rôle à la table, surtout si le groupe l'a déjà rencontrée dans le passé.
 
-En vous voyant, elle supplie : **« S'il vous plaît, ne me faites pas de mal.** » Elle dit cela à voix basse, comme si elle essayait de dissimuler sa voix. Lorsque les cultistes l'ont amenée au donjon il y a deux semaines, Byansis Vonda a été séduit par sa beauté. Plutôt que de la soumettre à la routine habituelle de torture et de sacrifice, il l'a gardée pour lui. Elle reste ici, dans ses quartiers, enchaînée au mur. Elle est à son service, effectuant le ménage et d'autres tâches que le nécromancien lui demande. Elle ne sait rien qui puisse aider les PJ, à part la description de Byansis. Le coffre est verrouillé. Byansis a la clé. À l'intérieur, on trouve les objets suivants :
+En vous voyant, elle supplie : **« S'il vous plaît, ne me faites pas de mal.** » Elle dit cela à voix basse, comme si elle essayait de dissimuler sa voix. Lorsque les cultistes l'ont amenée au donjon il y a deux semaines, Byansis Vonda a été séduit par sa beauté. Plutôt que de la soumettre à la routine habituelle de torture et de sacrifice, il l'a gardée pour lui. Elle reste ici, dans ses quartiers, enchaînée au mur. Elle est à son service, effectuant le ménage et d'autres tâches que le nécromancien lui demande. Elle ne sait rien qui puisse aider les PJ, à part la description de Byansis. 
 
-* Un ensemble de deux tomes reliés en cuir rouge foncé, attachés ensemble par un morceau de ficelle. Ce sont les grimoires de Byansis. Ils contiennent les sorts suivants : Toucher glacial, Poigne électrisante, Armure du mage, Missile magique, Rayon de maladie, Sommeil, Mains brûlantes, Cause Fear, Crown of Madness, Darkness, Animate Dead, Bestow Curse, Counterspell, Vampiric Touch
+Jillian a faim et est en mauvaise santé, elle peut remercier le groupe avec une surprise (l'un de ses objets)
 
-* Un ensemble de trois tomes reliés en cuir noir, avec le symbole du dieu Norcreus gravé sur la couverture de chacun. Ce sont les grimoires de Drevix Daag (voir zone 4a dans le donjon de Devstronan). Ils contiennent tous les sorts qui se trouvent dans les grimoires de Byansis, ainsi que les suivants : Esprits nécrotiques,* Détection des pensées, Immobilisation, Image miroir, Malédiction de Norcreus.*
+### Loot
+Le coffre est verrouillé. Byansis a la clé. À l'intérieur, on trouve les objets suivants :
 
-		* Il s'agit de nouveaux sorts détaillés dans l'annexe A du livre de référence du MJ.
+* Un ensemble de deux tomes reliés en cuir rouge foncé, attachés ensemble par un morceau de ficelle. Ce sont les grimoires de Byansis. Ils contiennent les sorts suivants : _Chill Touch, Shocking Grasp, Mage Armor, Magic Missile, Ray of Sickness, Sleep, Burning Hand, _Cause Fear, Crown of Madness, Darkness, Animate Dead, Bestow Curse, Counterspell, Vampiric Touch_
 
-* Deux objets spéciaux et autres objets intéressants : Objet spécial 01 : Anneau de saut, Objet spécial 02 : Poudre argentée (deux sachets), cape en laine vert foncé, tenue de paysan, 4 dagues, épée courte finement ouvragée avec une poignée noire, arbalète à main, 10 carreaux, deux broches en argent avec des grenats rouges en leur centre d'une valeur de 25 pièces d'or, armure en cuir cloutée. **Ce sont toutes les possessions de Jillian**. Elle voudra certainement les récupérer si les PJ tentent de les garder.
+* Un ensemble de trois tomes reliés en cuir noir, avec le symbole du dieu Norcreus gravé sur la couverture de chacun. Ce sont les grimoires de Drevix Daag (voir zone 4a dans le donjon de Devstronan). Ils contiennent tous les sorts qui se trouvent dans les grimoires de Byansis, ainsi que les suivants : Esprits nécrotiques ( * ), Détection des pensées, Immobilisation, Image miroir, Malédiction de Norcreus ( * ).
+
+		( * ) Il s'agit de nouveaux sorts détaillés dans l'annexe A du livre de référence du MJ.
+
+* Deux objets spéciaux et autres objets intéressants : Objet spécial 01 : Anneau de saut, Objet spécial 02 : Poudre argentée (deux sachets), cape en laine vert foncé, tenue de paysan, 4 dagues, épée courte finement ouvragée avec une poignée noire, arbalète à main, 10 carreaux, deux broches en argent avec des grenats rouges en leur centre d'une valeur de 25 pièces d'or, armure en cuir cloutée. **Ce sont toutes les possessions de Jillian.Elle voudra certainement les récupérer si les PJ tentent de les garder.**
 
 * Deux cruches de vin plutôt raffiné, une pipe finement ouvragée et une pochette en cuir contenant la feuille verte de Wafflewend (prise aux prisonniers halflings).
 

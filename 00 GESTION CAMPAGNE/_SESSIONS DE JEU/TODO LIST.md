@@ -1,5 +1,9 @@
 
-
+**Prochaine Session**
+* [x] transférer le personnage de Brandele au nouveau Joueur Frédéric Misset (Rueil)
+* [x] analyser OM de Cydir, et travailler leur pouvoir.
+* [ ] faire un résumé des résumés pour Fréd
+* [ ] faire une timeline à Fred
 
 **Preparation Passage ProActive RPG (PARPG)**
 - [ ] faire une page A4 en francais pour expliquer le principe, les avantages pour les joueurs et le DM, redemander séparemment à chaque joueur de remplir ses 'goals', en leur donnant un modèle et les goals déjà donné.
@@ -8,9 +12,6 @@
 **TODO Joueurs (court-terme)**
 * [ ] rappeler à Amine que je compte sur lui pour avancer sur la quête de son dernier Rêve, c'est important.
 * [ ] rappeler à Fred qu'il a une quête personnel à dérouler
-
-TODO  Passage niveau 5 :
-* [ ] préparer les développements de Blood-touch pour le passage niveau 5 (+cas spécifique pour Brandele lié à son ascendence draconique,et non pas de blood-touch)
 
 **Preparation Campagne**
 * [ ] lire Menace in the Mish et voir à quel moment on peut le mettre en side-quest.

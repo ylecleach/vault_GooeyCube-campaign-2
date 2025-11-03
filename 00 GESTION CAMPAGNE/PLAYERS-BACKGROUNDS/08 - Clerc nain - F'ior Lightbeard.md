@@ -88,7 +88,7 @@ Fior : "Je suis un clerc ayant des connaissances en nécromancie, cherchant à d
 Réponse de l'entité si il re-utilise le crane / ou bien via le demon Vleek : "Biennnnn, mon jeune apprenti. Je n'avais pas ressenti cela depuis des années. Tu as une grande force en toi qui te vient du peuple Hanataz, et de ses dieux farceurs, mais n'oublie pas que mon propre maître est Norcreus, Seigneur de la mort, de la nécromancie, des hantises et des esprits, mais aussi des morts-vivants avec de l'esprit. Montre à notre maître que tu es doué dans les sorts de nécromancie dans les prochains jours. Tu seras récompensé bien plus que tu ne peux l'imaginer."
 (chapitre 3 - session 5)
 
-voir [[Mythologie Compedium]]
+voir [[DIEUX]]
 
 ### **Malédiction du diablotin - effets
 

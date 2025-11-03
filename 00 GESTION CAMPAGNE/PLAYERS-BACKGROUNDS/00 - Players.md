@@ -5,7 +5,7 @@
 | Gerald      | Cydir of the Blind Wind | Monk           | MUUGDA                                  |
 | Erwan       | Drezen Deven            | Agent of Jinxx | THE TRICK                               |
 | Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
-| Frederic    | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
+| Frederic2   | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
 | Amine       | Glynn Wether            | Ranger         | ~~LUMIERE DE LA LIBERTE~~               |
 | Carole      | Crendon Charn           | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
 | Roch        | Corrinee Ay'Yava        | Rogue          | LUMIERE DE LA LIBERTE                   |
@@ -24,7 +24,9 @@
 | Killer (hound)   | 16     | 5          | 14  |                     |         |       |
 
 
-liste emails : denisperson@yahoo.fr, legrosgerald@sfr.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr 
+liste emails : denisperson@yahoo.fr, legrosgerald@sfr.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr , Castelvenise@gmail.com
+
+Castelvenise@gmail.com = Frédéric de Rueil
 
 alternative (pour)
 dalregh@gmail.com (gérald)

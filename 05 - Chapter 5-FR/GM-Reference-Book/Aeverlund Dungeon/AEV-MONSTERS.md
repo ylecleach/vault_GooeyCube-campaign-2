@@ -119,7 +119,38 @@ Ce sort est une invocation d'esprits enragés qui attaquent les ennemis proches 
 |**Durée**|1 minute||
 |**Effet**|L'incantateur appelle des **esprits enragés** dans un nuage tourbillonnant qui remplit un cube de 5 pieds dans la portée. L'incantateur est **infusé par l'énergie vitale** que les esprits volent à leurs victimes. Au début de son tour, une créature vivante dans la zone du sort subit **3 (1d6) points de dégâts nécrotiques**, et l'incantateur gagne un nombre égal de **points de vie temporaires**. L'incantateur peut déplacer les esprits vers un autre espace dans la portée en utilisant une action bonus.||
 |**Aux Niveaux Supérieurs**|Pour chaque niveau d'emplacement de sort supérieur au 2ème par intervalles de deux, la zone du sort augmente de **5 pieds** (c'est-à-dire +5 pieds à 4ème niveau, +10 pieds à 6ème niveau, etc.).||
+Le nécromancien **Byansis Vonda** est le tortionnaire de l'Estate Aeverlund et réside principalement dans le donjon situé sous le manoir. En tant que disciple des arts nécromantiques, son quotidien est entièrement dédié à l'entretien de la corruption et à l'exécution de ses sinistres fonctions, qui servent la conspiration visant à maintenir les Cambions en bonne santé.
 
+Étant donné que Byansis vit et travaille dans un donjon souterrain — l'Antre du Tortionnaire (_Torturer’s Lair_) — le concept de "journée type" est moins lié à l'heure du soleil qu'à son cycle de travail macabre.
+
+Voici une reconstitution possible de la journée type de Byansis, basée sur les informations du Chapitre 5 :
+
+### 1. Le Lever et l'Administration des Ténèbres (Nuit Noire / Début de Cycle)
+
+Byansis Vonda, un homme d'origine Sundestian d'apparence d'âge mûr mais de plus de 100 ans, commence son cycle par la préparation et l'inspection.
+
+- **Soins Personnels et Vanité :** Byansis est décrit comme vaniteux et préférant la noblesse sombre du vampirisme à l'état desséché de la lichedom pour préserver ses traits actuels. Son réveil pourrait impliquer des rituels pour maintenir son apparence ou des efforts pour gérer ses **puces** (_fleas_), dont il est infesté.
+- **Vérification des Ressources et des Cellules :** Il effectue une ronde pour s'assurer que les prisonniers (actuellement les Halflings Barnard et Curnla Frizzenfeets) sont toujours en place dans les cellules 4 et 5. Il vérifie la Cellule 6, où se trouve un corps mort depuis plusieurs jours et dévoré par 20 rats. Il s'assure également que les portes des cellules verrouillées (1, 4, 5, 6 et 9) sont sécurisées, car il détient les clés de ces portes.
+- **Contrôle des Serviteurs :** Il donne des ordres aux _gha'uuls_, ses serviteurs morts-vivants cachés dans les cellules 2, 3 et 8. Il vérifie également les deux corps humanoïdes morts dans les cellules 1 et 9, qui pourraient être utilisés pour créer des _Wretched Walkers_ ou des _Skeletal Knights_ supplémentaires via le sort _Animate Dead_.
+
+### 2. Le Temps de la Recherche Nécromantique (Milieu de Cycle)
+
+En tant que nécromancien obsédé par le prolongement de la souffrance au-delà de la mort, Byansis consacre du temps à l'étude et à l'expérimentation.
+
+- **Étude et Sortilèges :** Il consulte ses tomes reliés en peau sombre qui contiennent ses sorts (y compris _Chill Touch_, _Magic Missile_, _Animate Dead_, _Vampiric Touch_, et _Curse of Sha'aada_). Son objectif est d'éviter le jugement final après la mort.
+- **Préparation de Composants :** Il manipule ses composants nécromantiques qu'il conserve dans sa sacoche, tels que des **langues de Gha'uul**, de la **poussière de tombe**, des **morceaux de chair** et de la **poussière d'os**.
+- **Vénération :** Il pourrait se rendre au Temple de Norcreus (s'il s'agit d'une zone qu'il patrouille) pour vénérer le dieu des morts-vivants, Norcreus, que la famille Hrumm vénérait le plus.
+
+### 3. Les Devoirs du Tortionnaire (Fin de Cycle / Heure de la Souffrance)
+
+Byansis tire un plaisir immense de ses fonctions de tortionnaire et concentre ses efforts à l'extraction d'essence de vie de ses victimes.
+
+- **Interrogatoires et Torture Magique :** Il utilise ses compétences en torture physique ou sa magie pour infliger des souffrances. Il pourrait utiliser son sort _Hideous Laughter_ ou son **Club of Stunning** pour étourdir et prolonger l'agonie.
+- **Gestion de Jillian Vennex :** Il rend visite à la Voleuse **Jillian Vennex**, qu'il a gardée pour lui car il était charmé par sa beauté. Elle est enchaînée à un mur dans ses quartiers et doit effectuer des corvées pour lui. Il l'a battue et soumise à des sorts atroces.
+- **Nourrir les Cambions :** Son rôle principal est d'assurer la bonne santé des Cambions, la progéniture de Zanvitchu. Il doit donc s'assurer qu'ils sont nourris. Cela implique d'amener de la "viande fraîche" ou des victimes à la Cellule ou dans la Fosse (_Pit_), où l'on trouve un cadavre en décomposition sur une table chirurgicale, avec des organes manquants. Le corps est ensuite jeté pour être consommé par les démons.
+- **Patrouille Nocturne :** Byansis patrouille constamment les couloirs, se déplaçant entre ses quartiers, le Temple de Norcreus, la Fosse et la Salle de la Bête (_Beast Room_). Si le groupe (les PJ) n'a pas encore été capturé, son "heure de pointe" est la nuit, lorsqu'il est le plus actif et qu'il est susceptible de se promener.
+
+En tant que nécromancien, l'emploi du temps de Byansis est comparable à un **médecin légiste qui est également un prêtre de l'ombre** ; il maintient l'ordre administratif et religieux du mal tout en pratiquant des interventions chirurgicales macabres dans la salle d'autopsie.
 
 	
 # Gloorkest 

@@ -8,9 +8,10 @@ Le "fantôme" de Maevius Arcana t'aura dit  d'abord qu'il ressent auprès de Bra
 * Il propose d'être à son service, si elle parvient à inverser le processus qui l'a tranformé en morts-vivants éthéré (un ghyist).
 
 La quête:
-- lui expliquer quels sont les vrai responsables de son état. Brandele devra enquêter pour cela...
-- trouver une solution pour inverser le processus/rituel qui l'a transformé en fantôme (Ghyist). (Brandele devra enqueter et probablement s'appuyer sur certains de ses compagnons de route...)
-- Rituel : faire le rituel...
+- Expliquer à Maevius quels sont les vrai responsables de son état. Brandele devra enquêter pour cela...
+- Trouver une solution pour inverser le processus/rituel qui l'a transformé en fantôme (Ghyist). (Brandele devra enqueter et probablement s'appuyer sur certains de ses compagnons de route...)
+- Rituel : faire le rituel d'inversion ...
 
-===
-Versi
+![[Pasted image 20250516191414.png| 400]]
+![[Pasted image 20250516191436.png | 600]]
+
