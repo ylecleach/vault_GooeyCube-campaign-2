@@ -5,7 +5,11 @@ En fait, l'air est rempli de toutes sortes d'odeurs désagréables, allant de l'
 
 ![[Pasted image 20251014230747.png]]
 
-Golyzou aime jouer avec sa nourriture avant de se régaler, encore plus que ses frères et sœurs. Les sacrifices qu'elle prend finissent par être « grignotés » pendant des jours ou des semaines avant d'être finalement consommés. Si vous la rencontrez ici, Golyzou se cache dans les recoins sombres à droite du foyer. Laissez aux joueurs quelques instants pour s'imprégner de la scène. Dès que les PJ commencent à se disperser, à inspecter les squelettes ou autres, Golyzou lance son attaque. Gardez à l'esprit qu'elle est à la fois capable et intelligente, et vous devez la jouer comme telle. La tactique préférée de Golyzou consiste à essayer de charmer autant de PJ que possible avant de quitter l'ombre de sa demeure. Si elle réussit à charmer plusieurs de ses adversaires, elle les fera rester immobiles ou la protégeront pendant qu'elle se lance dans la mêlée. Si possible, elle utilisera son dard sur les créatures charmées tout en essayant de mordre et de griffer ceux qui sont en mêlée avec elle. Sinon, elle tentera d'attaquer deux adversaires non charmés à la fois. 
+Golyzou aime jouer avec sa nourriture avant de se régaler, encore plus que ses frères et sœurs. Les sacrifices qu'elle prend finissent par être « grignotés » pendant des jours ou des semaines avant d'être finalement consommés. Si vous la rencontrez ici, Golyzou se cache dans les recoins sombres à droite du foyer. Laissez aux joueurs quelques instants pour s'imprégner de la scène. 
+
+	Dès que les PJ commencent à se disperser, à inspecter les squelettes ou autres, Golyzou lance son attaque. 
+
+Gardez à l'esprit qu'elle est à la fois capable et intelligente, et vous devez la jouer comme telle. La tactique préférée de Golyzou consiste à essayer de charmer autant de PJ que possible avant de quitter l'ombre de sa demeure. Si elle réussit à charmer plusieurs de ses adversaires, elle les fera rester immobiles ou la protégeront pendant qu'elle se lance dans la mêlée. Si possible, elle utilisera son dard sur les créatures charmées tout en essayant de mordre et de griffer ceux qui sont en mêlée avec elle. Sinon, elle tentera d'attaquer deux adversaires non charmés à la fois. 
 
 [Montrez le document 86 : Golyzou lorsque la créature attaque.]
 

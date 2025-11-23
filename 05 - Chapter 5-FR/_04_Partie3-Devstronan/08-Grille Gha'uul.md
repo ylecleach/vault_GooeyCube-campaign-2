@@ -1,0 +1,3 @@
+**Le passage tourne vers le nord à cet endroit et se termine par une porte en bois avec un heurtoir orné au centre. Le heurtoir est en laiton et très terni. Il s'agit d'un crâne à l'aspect maléfique avec un anneau dans la bouche. Au sol, à vos pieds, se trouve une grille à charnières assez grande. Une échelle descend derrière les barreaux. Une odeur nauséabonde émane du trou. 
+
+Le heurtoir n'a d'autre utilité que de frapper à la porte. La grille mène à l'un des nids des Gha'uul de ce niveau. Les Gha'uul de ce nid se sont récemment nourris d'un cochon et ne monteront pas l'échelle à moins que les personnages n'ouvrent la grille (voir 8a ci-dessous).

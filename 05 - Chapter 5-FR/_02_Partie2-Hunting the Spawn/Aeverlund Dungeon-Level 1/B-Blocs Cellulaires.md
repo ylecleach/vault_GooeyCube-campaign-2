@@ -4,9 +4,22 @@
 
 Tout personnage dont la Perception passive est d'au moins 13 entend un faible gémissement provenant de quelque part dans le couloir. À l'intérieur des cellules, il fait extrêmement sombre, sauf dans celles qui sont les plus proches des deux torches ; celles-ci ne sont éclairées que de manière symbolique, produisant principalement des ombres. Il y a au total neuf cellules ici, quatre de chaque côté et une au fond. 
 
-Il y a au total deux victimes ici, qui attendent d'être sacrifiées. Ces créatures misérables se trouvent dans les cellules 4 et 5 (de gauche à droite). Le gémissement qu'ils entendent provient de la cellule 4. La victime de la cellule 5 est trop affaiblie pour émettre le moindre son. **Selon la façon dont vous menez l'aventure, c'est également l'occasion pour vous d'introduire un PNJ pour tout élément supplémentaire que vous ajoutez à l'histoire**. Dans la cellule 6, il y a un cadavre. Il est là depuis plusieurs jours. Les mouches pullulent autour de lui et l'odeur est insupportable. Vingt rats de taille normale rongent le corps. Si on les dérange, ils attaquent.
+Il y a au total deux victimes ici, qui attendent d'être sacrifiées. Ces créatures misérables se trouvent dans les cellules 4 et 5 (de gauche à droite). Le gémissement qu'ils entendent provient de la cellule 4. (Curnla Frizzenfeets).  La victime de la cellule 5 (Barnard Frizzenfeets) est trop affaiblie pour émettre le moindre son. **Selon la façon dont vous menez l'aventure, c'est également l'occasion pour vous d'introduire un PNJ pour tout élément supplémentaire que vous ajoutez à l'histoire**. Dans la cellule 6, il y a un cadavre. Il est là depuis plusieurs jours. Les mouches pullulent autour de lui et l'odeur est insupportable. Vingt rats de taille normale rongent le corps. Si on les dérange, ils attaquent.
 
-Les portes des cellules 1, 4, 5, 6 et 9 sont verrouillées. **Le bourreau a les clés avec lui**. Les autres cellules sont déverrouillées. **Les cellules 2, 3 et 8 contiennent chacune plusieurs gha'uuls.** Ce sont les serviteurs morts-vivants de Byansis, qui se cachent dans le but de tendre une embuscade au groupe. Les cellules 1 et 9 contiennent chacune un humanoïde mort. Byansis pourrait utiliser ces deux cadavres pour créer d'autres marcheurs misérables, chevaliers squelettes ou autres morts-vivants grâce à son sort Animate Dead. 
+Les portes des cellules **1, 4, 5, 6 et 9 sont verrouillées**. **Le bourreau a les clés avec lui**. Les autres cellules sont déverrouillées. **Les cellules 2, 3 et 8 contiennent chacune plusieurs gha'uuls.** Ce sont les serviteurs morts-vivants de Byansis, qui se cachent dans le but de tendre une embuscade au groupe. Les cellules 1 et 9 contiennent chacune un humanoïde mort. Byansis pourrait utiliser ces deux cadavres pour créer d'autres marcheurs misérables, chevaliers squelettes ou autres morts-vivants grâce à son sort Animate Dead. 
+
+( * ) cellule verrouillée
+* Cellule 1 ( * ) : humanoïde mort (animate dead possible pour le nécro) => Wretched Walker - origine: Zerton , vêtement et tatouage Hanataz
+* Cellule 2 : ghaa'uuls
+* Cellule 3 : ghaa'uuls 
+* Cellule 4 ( * ) : Curnla Frizzenfeets - gémissements
+* Cellule 5 ( * ) : Barnard Frizzenfeets - aucun bruit
+* Cellule 6 ( * ) : cadavre - avec mouches - 20 rats
+* Cellule 7 : Zombies apparaissent si bruit
+* Cellule 8 : : ghaa'uuls
+* Cellule 9 ( * ) : humanoïde mort (animate dead possible pour le nécro) => Wretched Walker - Origine: Frayalin, Hanataz
+
+Si combat et bruit, Byansis peut arriver en 3-4 rounds pour corser le tout, et lacher la Bête dans les couloirs.
 
 Lorsque le groupe inspecte ou passe devant la cellule 1, les portes des trois cellules contenant des gha'uuls s'ouvrent et ceux-ci bondissent pour attaquer.
 

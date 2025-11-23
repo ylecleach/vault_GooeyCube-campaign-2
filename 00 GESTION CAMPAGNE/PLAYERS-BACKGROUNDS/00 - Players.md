@@ -5,6 +5,15 @@
 | Gerald      | Cydir of the Blind Wind | Monk           | MUUGDA                                  |
 | Erwan       | Drezen Deven            | Agent of Jinxx | THE TRICK                               |
 | Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
+| Frédéric    | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
+| Roch        | Corrinee Ay'Yava        | Rogue          | LUMIERE DE LA LIBERTE                   |
+
+| Player Name | Character               | Class.         | Major Secrets                           |
+| ----------- | ----------------------- | -------------- | --------------------------------------- |
+| Denis       | Hurannan Banai          | Fighter        | Luck's HAND (chosen of Kizmya), CONTACT |
+| Gerald      | Cydir of the Blind Wind | Monk           | MUUGDA                                  |
+| Erwan       | Drezen Deven            | Agent of Jinxx | THE TRICK                               |
+| Maxime      | Fior Lightbeard         | Cleric         | ATTUNEMENT                              |
 | Frederic2   | Brandele Steel          | Wizard         | AETERNIC ECHOES                         |
 | Amine       | Glynn Wether            | Ranger         | ~~LUMIERE DE LA LIBERTE~~               |
 | Carole      | Crendon Charn           | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |

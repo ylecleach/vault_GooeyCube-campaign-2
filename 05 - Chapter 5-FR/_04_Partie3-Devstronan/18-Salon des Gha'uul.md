@@ -1,0 +1,1 @@
+La porte s'ouvre sur une longue pièce. Au nord, vous pouvez voir une grille ouverte dans le sol avec le haut d'une échelle qui dépasse du trou. Au sud se trouve un tas d'os fissurés et rongés avec des cartilages séchés et des morceaux de viande en décomposition. La plupart des os semblent provenir de porcs. L'odeur dans la pièce est forte, nauséabonde et écœurante.

@@ -2,9 +2,11 @@
 
 Byansis Vonda est un antagoniste majeur qui rôde au premier niveau du donjon de l'**Aeverlund Estate**.
 
-![[Pasted image 20251012220217.png]]
+![[Pasted image 20251012220217.png | 400]]
 
-**Localisation**: Il se trouve dans le donjon Aeverlund (chapitre 5 uniquement). Cependant, il est conseillé de ne pas le faire apparaître dans la salle de torture ou le donjon au début. Il devrait errer dans les couloirs, faisant des allers-retours entre ses quartiers, le temple de Norcreus, la fosse et la salle des bêtes. 
+**Localisation**: Il se trouve dans le donjon Aeverlund (chapitre 5 uniquement). Cependant, il est conseillé de ne pas le faire apparaître dans la salle de torture ou le donjon au début. 
+
+	Il devrait errer dans les couloirs, faisant des allers-retours entre ses quartiers, le temple de Norcreus, la fosse (pour nourrir les cambions) et la salle de bêtes. 
 
 **Byansis Vonda** (portrait 11), un humain doté de pouvoirs nécromantiques. En tant que nécromancien, il ne correspond pas à l'image que l'on se fait d'un geôlier/bourreau, mais sa capacité à contrôler les morts-vivants et à extraire l'essence vitale de ses victimes sans utiliser les instruments de torture barbares que l'on trouve dans la salle de torture fait de lui la personne idéale pour ce rôle ici, à Aeverlund. Dans le cadre du complot visant à maintenir les Cambions en bonne santé, il a bien fait son travail
 
@@ -38,6 +40,9 @@ C'est avec plaisir que je vous fournis les statistiques complètes de **Byansis 
 - **Pain Dealer (Infligeur de Douleur) (Action Bonus):** Lorsqu'il fait perdre au moins un point de vie à une créature vivante avec une attaque ou un sort, il peut choisir d'infliger **7 (2d6) points de dégâts psychiques supplémentaires**. La cible doit réussir un jet de sauvegarde de Sagesse DD 14, ou devenir **à terre et gagner un niveau d'épuisement** en cas d'échec.
 
 ***Sorts Préparés
+
+	tactiques: en combat, il commence par lancer Curse of Sha'aada pour se protéger. puis Giant Insect pour occuper les joueurs, puis Hold Person sur les guerriers. Il Lancera Necrotic Spirit au niveau 2 ou au niveau 4 s'il peut dès qu'il est blessé. au contact, il utilisera son club of Stunning.
+	Ne pas oublier de cumuler avec son pouvoir Pain Dealer.
 
 - **Tours de Magie (à volonté):** _Chill Touch_ (Contact glacial), _Mage Hand_ (Main du mage), _Shocking Grasp_ (Empoignade électrique), _Vicious Mockery_ (Moquerie féroce).
 - **Niveau 1 (4 emplacements):** _Hideous Laughter_ (Rire hideux), _Inflict Wounds_ (Blessure), _Mage Armor_ (Armure de mage), _Sleep_ (Sommeil).
@@ -83,7 +88,7 @@ Byansis est si confiant qu'il attaquera les nouveaux propriétaires de l'Aeverlu
 
 	_Note : Si vous utilisez les règles du jeu, les sorts marqués d'un astérisque (comme Necrotic Spirits_ et _Curse of Sha’aada_) sont des sorts nouveaux, spécifiques au matériel source.
 
-**Loots**
+**Loots** (Coffre de Byansis)
 	De plus, le grimoire de **Drevix Daag**, un autre antagoniste, se trouve également dans le coffre de Byansis.
 
 Les sorts que vous avez mentionnés font partie de la magie noire (Umbraflow/Flux d'Ombre) et sont utilisés par Byansis Vonda, le Tortionnaire, qui est un incantateur de niveau 8 maîtrisant la Nécromancie et la Conjuration.
@@ -415,13 +420,13 @@ Heronius, le **« Demon-Child »** (Enfant-Démon), est le **premier-né** et le
 
 **Capacités Spéciales Notables**
 
-|Capacité Spéciale|Description (Abrégée)|
-|:--|:--|
-|**Spawn of Zanvitchu**|Peut lancer un sort d'action ou effectuer l'action Ruer (Dash) en **action bonus**. Avantage sur les jets de sauvegarde pour échapper aux conditions entravé/agrippé, etc.. Récupère PV et sorts après un repos court.|
-|**Supernatural Awareness**|Ne peut être surpris, avantage sur les jets d'initiative, et les créatures n'ont pas d'avantage à l'attaquer s'il ne les voit pas.|
-|**Cruel Counter (Réaction)**|Impose un désavantage sur un jet d'attaque contre lui. S'il rate, effectue une attaque de mêlée ou de sort contre l'attaquant (1/repos court).|
-|**One With Shadows**|Peut devenir **invisible** dans la pénombre ou l'obscurité en utilisant une action (jusqu'à ce qu'il se déplace ou agisse).|
-|**Magic Weapons**|Ses attaques avec des armes sont magiques.|
+| Capacité Spéciale            | Description (Abrégée)                                                                                                                                                                                                  |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Spawn of Zanvitchu**       | Peut lancer un sort d'action ou effectuer l'action Ruer (Dash) en **action bonus**. Avantage sur les jets de sauvegarde pour échapper aux conditions entravé/agrippé, etc.. Récupère PV et sorts après un repos court. |
+| **Supernatural Awareness**   | Ne peut être surpris, avantage sur les jets d'initiative, et les créatures n'ont pas d'avantage à l'attaquer s'il ne les voit pas.                                                                                     |
+| **Cruel Counter (Réaction)** | Impose un désavantage sur un jet d'attaque contre lui. S'il rate, effectue une attaque de mêlée ou de sort contre l'attaquant (1/repos court).                                                                         |
+| **One With Shadows**         | Peut devenir **invisible** dans la pénombre ou l'obscurité en utilisant une action (jusqu'à ce qu'il se déplace ou agisse).                                                                                            |
+| **Magic Weapons**            | Ses attaques naturelles sont magiques.                                                                                                                                                                                 |
 
 **Sorts Innés (CHA DC 16, +8 pour toucher)**
 
@@ -447,25 +452,75 @@ Heronius, le **« Demon-Child »** (Enfant-Démon), est le **premier-né** et le
 
 ### Sorts
 
-|Niveau|Nom du sort (FR)|Nom du sort (EN)|Lien (FR)|
-|---|---|---|---|
-|Tours de magie|Illusion mineure|Minor Illusion|[Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)|
-|Tours de magie|Prestidigitation|Prestidigitation|[Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)|
-|Tours de magie|Lumières dansantes|Dancing Lights|[Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)|
-|Tours de magie|Coup au but|True Strike|[Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)|
-|Niveau 1|Injonction|Command|[Injonction](https://www.aidedd.org/dnd/sorts.php?vf=injonction)|
-|Niveau 1|Murmures dissonants|Dissonant Whispers|[Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants)|
-|Niveau 1|Représailles infernales|Hellish Rebuke|[Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales)|
-|Niveau 1|Maléfice|Hex|[Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)|
-|Niveau 1|Bénédiction de Norcreus*|Norcreus’s Blessing*|_Non répertorié_|
-|Niveau 2|Altération d’apparence|Alter Self|[Altération d’apparence](https://www.aidedd.org/dnd/sorts.php?vf=alteration-dapparence)|
-|Niveau 2|Détection des pensées|Detect Thoughts|[Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)|
-|Niveau 2|Captivation|Enthrall|[Captivation](https://www.aidedd.org/dnd/sorts.php?vf=captivation)|
-|Niveau 2|Image miroir|Mirror Image|[Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)|
-|Niveau 3|Malédiction|Bestow Curse|[Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)|
-|Niveau 3|Contresort|Counterspell|[Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)|
-|Niveau 3|Lenteur|Slow|[Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)|
-|Niveau 4|Flétrissure|Blight|[Flétrissure](https://www.aidedd.org/dnd/sorts.php?vf=fletrissure)|
-|Niveau 4|Compulsion|Compulsion|[Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)|
-|Niveau 5|Leurre|Mislead|[Leurre](https://www.aidedd.org/dnd/sorts.php?vf=leurre)|
-|Niveau 5|Télékinésie|Telekinesis|[Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)|
+| Niveau         | Nom du sort (FR)         | Nom du sort (EN)     | Lien (FR)                                                                                  |
+| -------------- | ------------------------ | -------------------- | ------------------------------------------------------------------------------------------ |
+| Tours de magie | Illusion mineure         | Minor Illusion       | [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)               |
+| Tours de magie | Prestidigitation         | Prestidigitation     | [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)               |
+| Tours de magie | Lumières dansantes       | Dancing Lights       | [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)           |
+| Tours de magie | Coup au but              | True Strike          | [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)                         |
+| Niveau 1       | Injonction               | Command              | [Injonction](https://www.aidedd.org/dnd/sorts.php?vf=injonction)                           |
+| Niveau 1       | Murmures dissonants      | Dissonant Whispers   | [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants)         |
+| Niveau 1       | Représailles infernales  | Hellish Rebuke       | [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) |
+| Niveau 1       | Maléfice                 | Hex                  | [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)                               |
+| Niveau 1       | Bénédiction de Norcreus* | Norcreus’s Blessing* | _Non répertorié_                                                                           |
+| Niveau 2       | Altération d’apparence   | Alter Self           | [Altération d’apparence](https://www.aidedd.org/dnd/sorts.php?vf=alteration-dapparence)    |
+| Niveau 2       | Détection des pensées    | Detect Thoughts      | [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)     |
+| Niveau 2       | Captivation              | Enthrall             | [Discours captivant](https://www.aidedd.org/dnd/sorts.php?vf=discours-captivant)           |
+| Niveau 2       | Image miroir             | Mirror Image         | [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)                       |
+| Niveau 3       | Malédiction              | Bestow Curse         | [Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)                         |
+| Niveau 3       | Contresort               | Counterspell         | [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)                           |
+| Niveau 3       | Lenteur                  | Slow                 | [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)                                 |
+| Niveau 4       | Flétrissure              | Blight               | [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)                     |
+| Niveau 4       | Compulsion               | Compulsion           | [Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)                           |
+| Niveau 5       | Leurre                   | Mislead              | [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)               |
+| Niveau 5       | Télékinésie              | Telekinesis          | [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)                         |
+|                |                          |                      |                                                                                            |
+
+# Grave Rot Slime
+Le **Grave Rot Slime** (Vase de pourriture sépulcrale) est une créature du type Ooze qui se trouve notamment dans le donjon de Devstronan, où elle est postée pour protéger le Calice dans la Salle du Calice (Zone 51). Elle attaque généralement en s'abattant du plafond sur sa cible, surprenant ainsi les personnages dont la Perception Passive est inférieure à 15.
+
+Ce monstre se distingue par la substance huileuse qu'il laisse derrière lui, servant de résidu visqueux sur son chemin. Il est particulièrement attiré par les zones où les magies nécromantiques sont présentes. Il est difficile de déterminer si une Ooze de pourriture sépulcrale est vivante ou non, car son comportement change peu, mais elle est imprégnée d'énergies sombres qui émanent de sa forme gélatineuse pour paralyser sa proie. Le Grave Rot Slime est également un vecteur de maladies débilitantes, contractées à partir des cadavres qu'il consomme, qu'il transmet à toute créature qu'il parvient à blesser.
+
+Voici les statistiques complètes et condensées du Grave Rot Slime :
+
+### Grave Rot Slime (Vase de pourriture sépulcrale)
+
+|Caractéristique|Valeur|Modificateur|
+|:--|:--|:--|
+|**Type**|Ooze de taille Moyenne, Non Alignée||
+|**Classe d'Armure (CA)**|14||
+|**Points de Vie (PV)**|26 (4d8+8)||
+|**Vitesse**|20 ft., Escalade 20 ft.||
+|**Force (FOR)**|5|(-3)|
+|**Dextérité (DEX)**|18|(+4)|
+|**Constitution (CON)**|14|(+2)|
+|**Intelligence (INT)**|3|(-4)|
+|**Sagesse (SAG)**|7|(-2)|
+|**Charisme (CHA)**|2|(-4)|
+|**Résistances aux Dégâts**|Contondant, Perforant, Tranchant||
+|**Immunités aux Dégâts**|Poison||
+|**Immunités aux Conditions**|Aveuglé, Charmé, Assourdi, Épuisement, Effrayé, Empoisonné, À terre||
+|**Sens**|Vision sans visière (Blindsight) 60 ft. (aveugle au-delà)||
+|**Maîtrise (Challenge)**|2 (450 XP)||
+
+#### Capacités Spéciales
+
+- **Spider Climb (Escalade d'araignée) :** Le Grave Rot Slime peut grimper sur des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.
+- **Amorphous (Amorphe) :** Le Grave Rot Slime peut se déplacer dans un espace aussi étroit que 1 pouce de large sans se serrer.
+- **Toxic Slime (Vase toxique) :** Une créature agrippée par le Grave Rot Slime doit réussir un jet de sauvegarde de Constitution DD 12 au début de chacun de ses tours. En cas d'échec, elle subit 3 (1d6) dégâts nécrotiques et obtient la condition **Empoisonné** jusqu'au début de son prochain tour.
+
+#### Actions
+
+- **Multi-attack (Attaque Multiple) :** Le Grave Rot Slime effectue 4 attaques avec ses Pseudopodes.
+- **Pseudopod (Pseudopode) :** _Attaque de mêlée avec arme :_ +6 pour toucher, allonge 10 ft., une cible. _Succès :_ 7 (1d6+4) dégâts contondants, et la cible est **agrippée** (jet de sauvegarde DD 14 pour s'échapper).
+
+---
+
+### Options de Difficulté du Scénario
+
+Le scénario propose plusieurs modificateurs de difficulté pour ajuster la rencontre avec le Grave Rot Slime :
+
+- **Weaker Party (Groupe Faible) :** Le Grave Rot Slime **juge mal son attaque** et ne parvient pas à s'abattre sur le groupe ; il ne les surprend pas.
+- **Advanced Party (Groupe Avancé) :** Les points de vie du Grave Rot Slime sont augmentés à **40**, et sa CA est portée à **16**.
+- **Make it Tough (Rendre cela difficile) :** En plus des modifications ci-dessus (40 PV, CA 16), les dégâts infligés par les attaques de Pseudopode du Slime sont augmentés à **11 (2d6+4) dégâts contondants**.
+- **Make it Tougher (Rendre cela encore plus difficile) :** En plus de toutes les modifications précédentes, le DD pour s'échapper à la condition **agrippée** du Slime est augmenté à **15**, et le DD pour le jet de sauvegarde contre la maladie de la **Pourriture lépreuse (Leprous Rot)** est également augmenté à **15**.

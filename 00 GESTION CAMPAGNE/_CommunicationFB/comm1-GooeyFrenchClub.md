@@ -6,6 +6,8 @@ Collectivement, nous sommes arrivés assez loin dans la campagne, où nous finis
 
 Pour fêter le jour de l'été, nous avons pris le temps de se réunir autour d'un barbecue dans le jardin du DM, non loin de Paris, France.
 
+![[Photo-groupe-JDR-GooeyCube.jpg]]
+
 Voici la liste des membres du GFC (GooeyCube French Club) , de gauche à droite
 Yves (le DM), Amine (Glyn Wether le ranger), Fred (Brandele Steel la mage du groupe), Maxime (Fior Lightbeard, dwarf cleric of Aéliéra, après avoir joué pendant plusieurs chapitre la druidesse Vaness Alana), Gérald (Cydir of the Blind Wind, the "Abomination" or the "male-Seer"), Roch (last recrue, Corrinee Ay'Yara the thief), Denis my cousin that I consider like my own brother (Hurannan Banaï, the fighter, and the new elected "Bravda"), and Carole (Credon Charn the Bard).
 

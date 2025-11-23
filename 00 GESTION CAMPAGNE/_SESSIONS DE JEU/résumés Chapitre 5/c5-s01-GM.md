@@ -1,18 +1,17 @@
-### Debut de session
+### Debut / fin de session
 
-1) Introduire nouveau joueur Frédéric, faire tour de table pour se présenter soi même (experience en JDR) et son personnage.
-2) rappel des nouvelles règles de bienséances et des horaires
-3) 
+1) demander l'accord de tous les joueurs pour l'enregistrement AUDIO pour Génération automatique des résumés.
+2) Introduire nouveau joueur Frédéric, faire tour de table pour se présenter soi même (experience en JDR) et son personnage. Dire Son prénom de Joueur et ensuite son nom de personnage. (pour aider l'IA pour le résumé).
+3) rappel des nouvelles règles de bienséances et des horaires
+4) Fin de session 00h30: tour de table.
 
 ### A PENSER
+* [[Mme Cravellé Ventrazia]] : à lire et à avoir en tête. Elle a sa propre mission et agenda, et se sert du groupe pour arriver à ses fins. Elle cherchera à survivre par tous les moyens, et pour faire un rapport à ses maîtres. (Kalnovich). Invisible, mais odorante, tantôt sentant la pourriture, tantôt du parfum suave.
 * [[Usage Pierre de Visions et Vision Attuned player pour chapitre 5]]
-* [[AEV-MONSTERS#Byansis Vonda (le bourreau)]] ET REVOIR MONSTRES dans [[B-Blocs Cellulaires (Stats Rencontre)]]
-* 
-* Dire à Amine de parler des pouvoirs etde  la mission de Drezen donné par Mère Salvensa. Sinon, lui rappelé in-game, en faisant mordre le lapin à son orteil. (mission de rôle protecteur). [[Rêve Lapin Glyn]]
+* [[06 - Rêve iniatique Lapin avec Drezen]]
+* [[AEV-MONSTERS#Byansis Vonda (le bourreau)]] : sorts et sa routine
+* ET REVOIR MONSTRES dans [[B-Blocs Cellulaires (Stats Rencontre)]]
 
-TODO
-
-Développer tous les Secrets Story des personnages.
 
 
 ### Contexte début de session (DM)
@@ -20,7 +19,7 @@ Développer tous les Secrets Story des personnages.
 Rencontres possibles au global
 * Mort vivants dans le jardin si les joueurs trainent trop dans le domaine - tant que le dreammist est actif
 * Glookest si les joueurs essayent de sortir dehors. (et un mort)
-* Mme Ventrazia combat final => background à préparer et trouver des infos sur son boss dans les bouquins de lore.
+
 
 ### Contexte début de session (joueurs)
 xxx

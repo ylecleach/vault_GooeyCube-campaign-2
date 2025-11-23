@@ -366,7 +366,7 @@ Merci pour tout monsieur le MJ ! ![🙂](https://fonts.gstatic.com/s/e/notoemoj
 
 ### Passage de Niveau 5
 
-* Det de vie: 8 , soit 63 + 8 +5 = 76
+* Det de vie: 8 , soit 63 + 8 +5 +1 (nain) = 77
 * Blood touch niv 5 Earth: sort [Peau de Pierre](https://www.aidedd.org/dnd/sorts.php?vo=stoneskin)  1x jour (pas beaucoup du composant)
 * bonus de maitrise : +3
 * Aptitude Destruction des morts-vivants (FP 1/2) - Facteur de Puissance

@@ -6,7 +6,7 @@ Il s'appelle **Byansis Vonda** (portrait 11), un humain doté de pouvoirs nécro
 
 [[NPC-AEVERLUND#Byansis Vonda (le bourreau)]] - Livre GM page 33
 
-_The Torturer_
+>_The Torturer_
 _See Battle Stats in GM Reference Book, page 33._
 
 

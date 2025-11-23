@@ -19,6 +19,7 @@ Heronius est probablement le plus intelligent des Cambions, doté d'une ruse dé
 ![[Pasted image 20251017140650.png | 500]]
 Il doit absolument combattre le groupe à plusieurs reprises, alors n'utilisez pas tous ses sorts et capacités dès la première fois qu'ils pénètrent dans son repaire. Si vous pouvez vous organiser, il devrait probablement être le dernier des Cambions à tomber, et n'ayez pas peur de le laisser donner une bonne raclée au groupe avant cela. 
 
+[[AEV-MONSTERS#Heronius the Demon-Child]]
 
 [Montrez le document 85 : Heronius lorsqu'il attaque le groupe.]
 

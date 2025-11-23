@@ -1,6 +1,10 @@
 ## Race. dans GooeyCube
 ![[Pasted image 20250129132628.png]]
 
+# Conditions / Etats
+
+[Etats (Conditions)](https://www.aidedd.org/regles/etats/)
+
 ## Tirage de point de vie
 
 le joueur choisi parmi :
@@ -77,9 +81,9 @@ Pour réduire l'épuisement :
 
 1. Terminer un repos long réduit le niveau d'épuisement de 1, à condition que la créature ait aussi mangé et bu[5](https://www.aidedd.org/regles/etats/).
     
-2. Être rappelé à la vie réduit également le niveau d'épuisement de 1[5](https://www.aidedd.org/regles/etats/).
+2. Être rappelé à la vie réduit également le niveau d'épuisement de 1
     
-3. Le sort "Grande restauration" peut réduire le niveau d'épuisement de 1[7](https://arcaneeye.com/mechanic-overview/exhaustion-5e/).
+3. Le sort "Grande restauration" peut réduire le niveau d'épuisement de 1
     
 
 Il est important de noter que tous les effets liés à l'épuisement disparaissent si le niveau d'épuisement d'une créature est réduit à moins de 1[5](https://www.aidedd.org/regles/etats/).

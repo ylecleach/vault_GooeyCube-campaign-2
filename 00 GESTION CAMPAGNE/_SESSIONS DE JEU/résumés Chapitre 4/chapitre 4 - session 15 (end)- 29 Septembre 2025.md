@@ -11,7 +11,7 @@ Sur Discord: Carole & Frédéric, Roch, Amine (est resté jusqu'au bout et ne de
 Certains PJ on eut lors de cette session des informations importantes concernant leur destinée. (Cydir, Fior, Hurranan, et aussi Drezen via Glyn qui le tient de Mère Salvensa). Je compte à l'avenir sur le groupe pour partager leur information de destinée ou autres informations pouvant semblant anodine pour l'un, mais qui pourrait ne pas l'être pour un autre personnage. 
 
 
-### Fin du Combat contre les Cultistes de Norcreu Zanvitchu
+### Fin du Combat contre les Cultistes de Norcreus Zanvitchu
 
 **C'est la seconde nuit dans le manoir de la famille HRUMM, et Il est environ 01h00 le 24 th dezu'un SC 1212. Vous venez de faire deux combats intenses contre 8 momies, puis contre les Cultistes de Norcreus, à savoir, 2 golems de chair, 4 serviteurs du manoir Hrumm, Ma'lum le majordome elfe qui s'est enfuit, et la Sorcière Cra'aven que vous ne connaissiez pas. Le combat vient tout juste de se terminer, et vous sentez tous l'oppression qui reigne dans ce temple de Norcreus, malgré la belle prière de combat de votre ami Fior, qui n'a pas suffit à désacraliser ce temple.
 
@@ -116,7 +116,7 @@ Note du DM: il vous reste un chariot Hanataz et l'un des cheval de trait.
 
 Ensuite, avec les rescapés de la tentative de sacrifice (l'enfant Gerem et les deux inquisiteurs), ainsi que Theros et Dresin, Fior propose de les mettre en sécurité dans le SOLARIUM, une des rares pièce du manoir, où règne maintenant un calme étrange, suite à l'enterrement des restes (un crâne) de Belania. 
 
-**Quand vous rentrez dans le Manoir, vous trouvez un maison qui est devenu comme vivante,  frénétique. Lumières clignotantes, salles noires, bruits de pas, cris, chaînes qui s'entrechoquent, sang qui coule des plafonds, visages effrayants dans les miroirs, les esprits de la maison errent en gémissant et en criant...
+**Quand vous rentrez dans le Manoir, vous trouvez une maison qui est devenue comme vivante,  frénétique. Lumières clignotantes, salles noires, bruits de pas, cris, chaînes qui s'entrechoquent, sang qui coule des plafonds, visages effrayants dans les miroirs, les esprits de la maison errent en gémissant et en criant...
 
 **Zara apparait près de Fior et lui indique que son père Creston est mort, et que le 3eme étage est libre d'accès.**
 
@@ -163,7 +163,7 @@ Fior fait immédiat une prière en disant **"Au Nom de ma déesse Aéliera, disp
 
 **Dans le coin nord-est de la pièce se trouve un bureau qui semble n'avoir jamais été utilisé... à l'exception de la bouteille de whisky qui a été renversée pour en vider le contenu sur le bureau. Des ampoules dans des appliques flamboient tout autour de la pièce, tandis qu'une plaque de bois peinte en blanc sur le mur est baigne la pièce dans une teinte cramoisie. Dans le coin nord-ouest de la pièce se dresse une statue de Belania en marbre, sa belle forme éternellement figée au milieu de la danse, sa ceinture de pierre flottant autour d'elle sous l'effet d'une brise imaginaire.**
 
-Votre premier réflexe a été de décroher le corps sans vie de Creston.
+Votre premier réflexe a été de décrocher le corps sans vie de Creston.
 
 Près de lui il a laissé une lettre pour vous...
 
@@ -226,7 +226,7 @@ Cydir propose d'aller planquer le corps de Creston temporairement pour que sa ta
 
 Fior arrivera à dialoguer avec elle et à la rassurer.
 
- **Elle parlera du poison dans les murs, des ténèbres qui se cachent dans les profondeurs et des bouches gloutonnes qui se régalent de la chair des innocents**. Elle parlera de la robe qu'elle n'a jamais eu la chance, ou le malheur (vu les circonstances de la famille) de porter.  
+**Elle parlera du poison dans les murs, des ténèbres qui se cachent dans les profondeurs et des bouches gloutonnes qui se régalent de la chair des innocents**. Elle parlera de la robe qu'elle n'a jamais eu la chance, ou le malheur (vu les circonstances de la famille) de porter.  
 
 ##### Découvertes dans la pièce
 

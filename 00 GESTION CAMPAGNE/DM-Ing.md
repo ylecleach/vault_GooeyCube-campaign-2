@@ -2,6 +2,7 @@
 - écouter / ne pas dire non mais oui ou oui mais / ne pas montrer trop mon favoritisme, et inviter les autres joueurs à "jouer" leur personnage.
 - début 20h30 fin 00h30 avec un debrief tour de table. 
 - arrêter d'être gentil avec les joueurs
+- mettre un enregistreur audio pour ne plus prendre de notes. (juste le minimum sur une feuille A4 ou un cahier)
 - IMPORTANT: chaque séance doit être timée pour permettre de finir par un tour de table qui ne soit pas expédié ou esquivé par des départs précipités en raison de l’heure tardive
 - pas de monstre à 1 contre 8 ! c'est fini. Mettre des minions en support des boss.
 - tuer des joueurs (3 scrolls de raise dead)

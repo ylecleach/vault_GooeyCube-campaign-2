@@ -27,21 +27,21 @@ La Bête est détenue dans la **Cellule de la Bête** (Area E) du donjon d'Aever
 
 La Bête est un allié potentiel (Allies & Acquaintances) dans l'aventure.
 
-|Caractéristique|Valeur|
-|:--|:--|
-|**Type**|Humanoïde Large (Inconnu), Neutre|
-|**Classe d'Armure (AC)**|14 (armure naturelle)|
-|**Points de Vie (HP)**|84 (8d10+40)|
-|**Vitesse**|40 pieds|
-|**Force (STR)**|20 (+5)|
-|**Dextérité (DEX)**|15 (+2)|
-|**Constitution (CON)**|20 (+5)|
-|**Intelligence (INT)**|6 (-2)|
-|**Sagesse (WIS)**|16 (+3)|
-|**Charisme (CHA)**|7 (-2)|
-|**Résistances/Immunités**|Résistance aux dégâts : Acide, froid, feu, force, foudre, nécrotique, psychique ; contondants, perforants et tranchants provenant d'armes magiques.|
-|**Sens**|Vision dans le noir (60 ft.), Perception passive 16|
-|**Degré de Défis (CR)**|5 (1 800 XP)|
+| Caractéristique           | Valeur                                                                                                                                                  |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Type**                  | Humanoïde Large (Inconnu), Neutre                                                                                                                       |
+| **Classe d'Armure (AC)**  | 14 (armure naturelle)                                                                                                                                   |
+| **Points de Vie (HP)**    | 84 (8d10+40)                                                                                                                                            |
+| **Vitesse**               | 40 pieds                                                                                                                                                |
+| **Force (STR)**           | 20 (+5)                                                                                                                                                 |
+| **Dextérité (DEX)**       | 15 (+2)                                                                                                                                                 |
+| **Constitution (CON)**    | 20 (+5)                                                                                                                                                 |
+| **Intelligence (INT)**    | 6 (-2)                                                                                                                                                  |
+| **Sagesse (WIS)**         | 16 (+3)                                                                                                                                                 |
+| **Charisme (CHA)**        | 7 (-2)                                                                                                                                                  |
+| **Résistances/Immunités** | Résistance aux dégâts : Acide, froid, feu, force, foudre, nécrotique, psychique ; contondants, perforants et tranchants provenant d'armes non magiques. |
+| **Sens**                  | Vision dans le noir (60 ft.), Perception passive 16                                                                                                     |
+| **Degré de Défis (CR)**   | 5 (1 800 XP)                                                                                                                                            |
 
 #### Capacités Spéciales
 

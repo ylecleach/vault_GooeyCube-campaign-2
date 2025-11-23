@@ -27,7 +27,7 @@ Le coffre est verrouillé. Byansis a la clé. À l'intérieur, on trouve les obj
 
 		( * ) Il s'agit de nouveaux sorts détaillés dans l'annexe A du livre de référence du MJ.
 
-* Deux objets spéciaux et autres objets intéressants : Objet spécial 01 : Anneau de saut, Objet spécial 02 : Poudre argentée (deux sachets), cape en laine vert foncé, tenue de paysan, 4 dagues, épée courte finement ouvragée avec une poignée noire, arbalète à main, 10 carreaux, deux broches en argent avec des grenats rouges en leur centre d'une valeur de 25 pièces d'or, armure en cuir cloutée. **Ce sont toutes les possessions de Jillian.Elle voudra certainement les récupérer si les PJ tentent de les garder.**
+	* Deux objets spéciaux et autres objets intéressants : Objet spécial 01 : Anneau de saut, Objet spécial 02 : Poudre argentée (deux sachets), [Anneau de protection contre le Poison](https://www.aidedd.org/dnd/om.php?vo=ring-of-poison-resistance), cape en laine vert foncé, tenue de paysan, 4 dagues, épée courte finement ouvragée avec une poignée noire, arbalète à main, 10 carreaux, deux broches en argent avec des grenats rouges en leur centre d'une valeur de 25 pièces d'or, armure en cuir cloutée. **Ce sont toutes les possessions de Jillian. Elle voudra certainement les récupérer si les PJ tentent de les garder.** Si les PJ sont particulièrement attentionnés, elle leur remettra son anneau de protection contre le poison.
 
 * Deux cruches de vin plutôt raffiné, une pipe finement ouvragée et une pochette en cuir contenant la feuille verte de Wafflewend (prise aux prisonniers halflings).
 

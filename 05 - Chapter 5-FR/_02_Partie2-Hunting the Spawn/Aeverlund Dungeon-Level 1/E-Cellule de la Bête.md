@@ -21,5 +21,6 @@ Au final, si le groupe le souhaite, elle restera avec eux tout au long du donjon
 Cependant, ***s'il est attaqué***, il se défendra de toutes ses forces, essayant d'assommer tous les PJ qui l'attaquent. Même ainsi, il s'enfuira à la première occasion plutôt que de continuer à se battre, même s'il est en train de gagner. Il empruntera le chemin le plus rapide pour sortir du donjon et, une fois dans le manoir, fera de son mieux pour trouver l'extérieur où il s'échappera dans la brume. Vous trouverez plus d'informations sur cette créature, ainsi que ses caractéristiques, dans le livre de référence du MJ, sous la rubrique Alliés et connaissances (Portrait 15 : La Bête). 
 
 
+=> [[The Beast]] : possible PNJ
 
-![[Pasted image 20251012232905.png]]
+![[Pasted image 20251012232905.png | 400]]

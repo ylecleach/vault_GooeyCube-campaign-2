@@ -10,5 +10,9 @@ Si l'on inspecte les marches ou le mur...
 
 **De grandes entailles marquent le mur de pierre et les marches, comme si une énorme bête avait essayé de s'en libérer à un moment donné. 
 
-Les deux épées ne sont pas magiques, mais leurs lames sont recouvertes d'argent terni. Au-dessus du tonneau se trouve ce qui ressemble à un joug de bœuf. À côté du tonneau, contre le mur, se trouvent plusieurs longs poteaux munis d'épaisses lanières de cuir terminées par des boucles. Un bloc pour un système de poulie à blocs et palans est ancré dans le mur à côté des poteaux. Enroulée sur le sol à côté des poteaux se trouve une corde double tressée de 15 mètres de long. Si l'on ouvre le tonneau, on y trouve de l'eau plutôt stagnante.
+Les deux épées longues ne sont pas magiques, mais leurs lames sont recouvertes d'argent terni. 
+
+>**DM / EFFET : si elles sont utilisés contre les 3 démons, ce sont des armes non magiques, mais elles sont efficaces contre les 3 cambions uniquement, et provoque un désavantage au Cambion touché pendant le prochain tour.
+
+Au-dessus du tonneau se trouve ce qui ressemble à un joug de bœuf. À côté du tonneau, contre le mur, se trouvent plusieurs longs poteaux munis d'épaisses lanières de cuir terminées par des boucles. Un bloc pour un système de poulie à blocs et palans est ancré dans le mur à côté des poteaux. Enroulée sur le sol à côté des poteaux se trouve une corde double tressée de 15 mètres de long. Si l'on ouvre le tonneau, on y trouve de l'eau plutôt stagnante.
 

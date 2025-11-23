@@ -2,16 +2,26 @@
 **Prochaine Session**
 * [x] transférer le personnage de Brandele au nouveau Joueur Frédéric Misset (Rueil)
 * [x] analyser OM de Cydir, et travailler leur pouvoir.
-* [ ] faire un résumé des résumés pour Fréd
-* [ ] faire une timeline à Fred
+* [x] faire un résumé des résumés pour Fréd
+* [x] faire une timeline à Fred
+* [x] remanier quête du Lapin suite Arrêt de Amine/Glyn. passer par Glyn pour transmettre les informations de la quête aux différents protagonistes.
+* [x] remanier pouvoir du lapin.
+* [ ] RELIRE Règles de Jeux 5E (trouver des récaps - faire des récaps avec l'IA et les stocker)
+* [ ] RELIRE dernière résumé
+* [x] Caller rencontre avec Ventrazia (s'aider de l'IA ou pas) car il faut que les joueurs la rencontre. (se mettre à sa place)
+* [ ] Développer tous les Secrets Story des personnages
+* [ ] imprimer A4 Rêve initiatique de Drezen.
+* [ ] Déterminer le lieu de rencontre de tous les fantomes pour l'établissement du contrat. voir [[04-Rassemblement des fantômes]]
+* [ ] traduire GM / partie Contrat Fantomes pour pouvoir répondre aux questions
+* [ ] Sort de Scrutation et Divination : se préparer pouvoir répondre => INVENTER Chapitre 6 et 7 en somme.
+* [ ] Mettre un peu plus de capacité à Mme Ventrazia, et faire en sorte quelle survive pour revenir.
 
 **Preparation Passage ProActive RPG (PARPG)**
 - [ ] faire une page A4 en francais pour expliquer le principe, les avantages pour les joueurs et le DM, redemander séparemment à chaque joueur de remplir ses 'goals', en leur donnant un modèle et les goals déjà donné.
 * [ ] PA-RPG initier - [[GOALS-PJ]], et une fois fait, les écrire sur une feuille A4.
 
 **TODO Joueurs (court-terme)**
-* [ ] rappeler à Amine que je compte sur lui pour avancer sur la quête de son dernier Rêve, c'est important.
-* [ ] rappeler à Fred qu'il a une quête personnel à dérouler
+* [ ] ddd
 
 **Preparation Campagne**
 * [ ] lire Menace in the Mish et voir à quel moment on peut le mettre en side-quest.

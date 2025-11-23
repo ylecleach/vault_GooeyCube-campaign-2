@@ -58,6 +58,6 @@ S = short/court ; M= Moyen ; L = Long
 - [ ] L: découvrir son secret (tatouage dans le dos)
 
 **Glyn  Wether** => Goals à développer
-- [ ] S:  [[Rêve Lapin Glyn]]
+- [ ] S:  [[Rêve Lapin Glyn (inachevé)]]
 - [ ] M:
 - [ ] L:

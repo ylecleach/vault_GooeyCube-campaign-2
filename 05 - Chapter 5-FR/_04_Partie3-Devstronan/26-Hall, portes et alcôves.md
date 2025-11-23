@@ -1,0 +1,1 @@
+Cette partie du hall comporte deux portes en bois cerclées de fer. L'une se trouve au nord et l'autre à l'ouest. À l'est, on peut voir deux alcôves vides. Des gouttes d'eau ruissellent le long des murs et forment des flaques boueuses au fond des alcôves, qui s'écoulent lentement dans un drain. Au-delà des alcôves, un passage mène vers l'est, dans l'obscurité.
