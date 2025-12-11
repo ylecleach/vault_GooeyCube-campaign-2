@@ -27,7 +27,7 @@ Au fond de la pièce, Corrinee fait face à une porte comportant un symbole de c
 
 Vous êtes content d'apprendre que les squelettes ne bougent pas, et semblent morts.
 
-![[IMG_5262.jpeg | 300]]
+![[IMG_5262.jpeg| 300]]
 
 ### Pièce Symbole Vie Eternelle (Momies)
 Vous entrez dans une pièce faiblement éclairée par des torches où se trouvent **huit sarcophages** ouverts et reposant à la vertical. 
@@ -169,7 +169,7 @@ Fior achève le golem #1 .
 
 
 ### Fin du combat contre les Cultistes
-Le combat vient tout juste de se terminer depuis 1 minute, et vous savourez votre victoire car vous êtes parvenu à éviter le sacrifice du petit garçon "Gerem" et des deux inquisiteurs. L'enfant est toujours dans le sac, ainsi que le second adulte (probablement l'autre inquisiteurs).
+Le combat vient tout juste de se terminer depuis 1 minute, et vous savourez votre victoire car vous êtes parvenu à éviter le sacrifice du petit garçon "Gerem" et des deux inquisiteurs. L'enfant est toujours dans le sac, ainsi que le second adulte (probablement l'autre inquisiteurs).  
 
 ### Annexe
 
