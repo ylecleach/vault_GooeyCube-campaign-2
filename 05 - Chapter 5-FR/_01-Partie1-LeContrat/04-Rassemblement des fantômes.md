@@ -19,7 +19,7 @@ Pour l'instant, laissez les joueurs s'amuser. Bientôt, ils seront plongés dans
 
 **Les PJ remarqueront que tous les fantômes se dirigent vers l'une des pièces du manoir.** Choisissez la pièce où vous souhaitez que cela se produise. S'il y a une pièce que les PJ n'ont pas découverte dans Dreadmist Curse, ou une pièce dans laquelle ils ont manqué quelque chose (comme un indice, un objet magique ou tout autre élément notable), envoyez-y les fantômes afin de donner aux PJ une nouvelle chance de l'obtenir.
 
-PIECE SELECTIONNE: XXX
+PIECE SELECTIONNE: BIBLIOTHEQUE 1er etage
 
 Pendant que les fantômes se dirigent vers la pièce, demandez à quelques-uns d'entre eux d'approcher les PJ et de faire des déclarations improvisées. Vous pouvez dire ce que vous voulez, mais vous trouverez des suggestions ci-dessous. 
 

@@ -122,6 +122,6 @@ Je mets un numéro pour prioriser
 * Dé de vie: tirage: 
 * Bonus de maitrise : +3 (attaque et jet de compétences)
 * À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l’action Attaquer durant votre tour.
-* voir nouveau Blood Touch dans  [[BLOOD-TOUCH]]
+* voir nouveau Blood Touch dans  [[🩸 BLOOD-TOUCH]]
 
 

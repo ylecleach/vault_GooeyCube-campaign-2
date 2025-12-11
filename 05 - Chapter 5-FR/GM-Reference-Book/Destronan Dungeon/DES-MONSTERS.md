@@ -1478,6 +1478,7 @@ L'entrée de rencontre **"Undead Priest of Sha’aada"** (Prêtre Mort-vivant de
     - _Animate Dead_
     - _Channel Undead Energy*_
     - _Curse of Sha’aada*_
+    - Voir la description des sorts plus bas.
 
 #### Actions
 
@@ -1640,9 +1641,594 @@ L'adversaire de base dans cette rencontre est le **Skeletal Fighter** (Mort-viva
 
 La rencontre de base implique **8 Skeletal Fighters**. Les modificateurs suivants peuvent être appliqués :
 
-| Modificateur de Difficulté                    | Ajustements                                                                                                                                                                                  | Source(s) |
-| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| **Parti plus faible** (_Weaker Party_)        | **Réduire le nombre** de Combattants Squelettiques à **5**.                                                                                                                                  |           |
-| **Parti avancé** (_Advanced Party_)           | Augmenter les Points de Vie (PV) de chaque Combattant Squelettique à **30**.                                                                                                                 |           |
-| **Rendre difficile** (_Make it Tough_)        | En plus de l'augmentation des PV (Parti Avancé), les Combattants Squelettiques ont **l'avantage sur leurs jets d'attaque** si **au moins 2 autres Combattants** sont adjacents à leur cible. |           |
-| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, chaque Combattant Squelettique peut effectuer **2 attaques par tour**.                                                                         |           |
+| Modificateur de Difficulté                    | Ajustements                                                                                                                                                                                                                               | Source(s) |
+| :-------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | **Réduire le nombre** de Combattants Squelettiques à **5**.                                                                                                                                                                               |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter les Points de Vie (PV) de chaque Combattant Squelettique à **30**.                                                                                                                                                              |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus de l'augmentation des PV (Parti Avancé), les Combattants Squelettiques ont **l'avantage sur leurs jets d'attaque** si **au moins 2 autres Combattants** sont adjacents à leur cible.                                              |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, chaque Combattant Squelettique peut effectuer **2 attaques par tour**. (Note : La Multi-attaque de base permet déjà 2 attaques, ce modificateur confirme le maintien d'une attaque double). |           |
+
+# Death Dogs (room 43)
+La rencontre **"Death Dogs"** (Chiens de la Mort) se trouve à la page **26** de la section _Battle Stats_ du _GM Reference Book_.
+
+Cette rencontre concerne généralement une paire de chiens morts-vivants qui gardent le **Coffre du Roi Gha’uul** (zone 43). Ils se dressent pour attaquer dès que la porte de la pièce s'ouvre.
+
+---
+
+## I. Death Dog (Chien de la Mort)
+
+L'embuscade implique **2 Death Dogs** de base.
+
+|Catégorie|Détails|Source(s)|
+|:--|:--|:--|
+|**Type**|Mort-vivant (Undead), Moyen (Medium), Maléfique Neutre (Neutral Evil)||
+|**Classe d'Armure (CA)**|**16** (armure naturelle)||
+|**Points de Vie (PV)**|**60** (8d8+24)||
+|**Vitesse (Speed)**|**40 pieds** (ft.)||
+|**Niveau de Difficulté (Challenge)**|**3** (700 XP)||
+|**Compétences (Skills)**|Perception +5, Discrétion (Stealth) +6||
+|**Résistances aux Dégâts**|Contondant, perforant, tranchant||
+|**Immunités aux Dégâts**|Nécrotique (Necrotic), Poison||
+|**Immunités aux Conditions**|Charmé (Charmed), Épuisement (Exhaustion), Effrayé (Frightened), Empoisonné (Poisoned)||
+|**Sens**|Vision dans le noir 120 ft., Perception passive 15||
+
+#### Statistiques d'Attributs
+
+|Attribut|Score|Modificateur|Source(s)|
+|:--|:--|:--|:--|
+|**Force (STR)**|17|+3||
+|**Dextérité (DEX)**|17|+3||
+|**Constitution (CON)**|16|+3||
+|**Intelligence (INT)**|10|+0||
+|**Sagesse (WIS)**|14|+2||
+|**Charisme (CHA)**|12|+1||
+
+#### Capacités Spéciales
+
+- **Keen Smell (Odorat Aiguisé) :** Le Death Dog a **avantage** sur les tests de Sagesse (Perception) qui dépendent de l'odorat.
+- **Pack Tactics (Tactiques de Meute) :** Le Death Dog a **avantage** sur ses jets d'attaque si au moins un de ses alliés se trouve à 5 pieds de la cible et n'est pas neutralisé (_incapacitated_).
+- **Death Dog Fever (Fièvre du Chien de la Mort) :** Une créature vivante qui contracte cette fièvre commence à montrer des symptômes dans les 20 minutes. La créature infectée doit réussir un **jet de sauvegarde de Constitution DD 13** toutes les heures.
+    - **Échec :** Le score de Constitution de la créature est **réduit de 1**, et elle subit également un **désavantage** sur tous les tests de compétence. Si le score de Constitution atteint 0, elle meurt.
+    - **Guérison :** L'infection prend fin si la créature réussit **trois jets de sauvegarde** causés par la maladie, ou si un sort de _Restauration Supérieure_ (ou effet similaire) est lancé (la première incantation met fin à la maladie, une deuxième est nécessaire pour annuler la réduction du score de Constitution). Un sort de _Restauration Inférieure_ (_Lesser Restoration_) compte comme un succès parmi les trois requis. Une fois l'infection terminée, la créature retrouve **2 (1d4) points** à son score de Constitution à chaque repos long (Long Rest).
+
+#### Actions
+
+- **Multi-attaque :** Le Death Dog effectue **deux attaques** avec sa Morsure (_Bite_).
+- **Morsure (Bite) :** Attaque d'arme au corps à corps : **+6 pour toucher**, portée 5 ft., une cible.
+    - **Dégâts :** **9 (1d12+3) dégâts perforants** plus **5 (1d10) dégâts nécrotiques**.
+    - **Effet :** La cible doit effectuer un **jet de sauvegarde de Constitution DD 13**, et est infectée par la **Death Dog Fever** en cas d'échec.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent la difficulté de la rencontre Death Dogs :
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                           | Source(s) |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Réduire les Points de Vie (PV) de chaque Death Dog à **40**, et chacun n'effectue qu'une **seule attaque de Morsure** par tour.       |           |
+| **Parti avancé** (_Advanced Party_)           | Les Death Dogs se cachent dans l'ombre et **surprennent** les personnages dont la Perception passive est **inférieure à 15**.         |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus de la modification du _Parti avancé_, les Death Dogs gagnent un bonus de **+2** à tous leurs **jets d'attaque et de dégâts**. |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, **un autre Death Dog** émerge de l'ombre au **deuxième round** du combat.               |           |
+# Armored Horrors (room 45)
+La rencontre **"Armored Horrors"** (Horreurs Blindées) est détaillée dans la section _Battle Stats_ à la page **27** du _GM Reference Book_.
+
+Cette rencontre implique **2 Armored Horrors** (Horreurs Blindées) qui se tiennent de chaque côté des escaliers menant à une plateforme dans la **Zone 45 : The Room of the Dark Fount** (La Chambre de la Fontaine Obscure).
+
+Les Horreurs Blindées s'animent et attaquent si le groupe tente de monter les escaliers sans prononcer les mots de commandement du donjon : **"The Hrumms shall be gods!"**. Si elles sont détruites, elles se **reconstitueront en 24 heures**.
+
+---
+
+## I. Armored Horror (Horreur Blindée)
+
+|Catégorie|Détails|Source(s)|
+|:--|:--|:--|
+|**Type**|Construction (Large Construct), Non Alignée (Unaligned)||
+|**Classe d'Armure (CA)**|**20** (armure naturelle)||
+|**Points de Vie (PV)**|**47** (5d10+20)||
+|**Vitesse (Speed)**|**30 pieds** (ft.)||
+|**Niveau de Difficulté (Challenge)**|**4** (1,100 XP)||
+|**Résistances aux Dégâts**|Feu, psychique, tonnerre ; contondant, perforant et tranchant des attaques non-magiques||
+|**Immunités aux Dégâts**|Froid, nécrotique, poison||
+|**Immunités aux Conditions**|Charmé (Charmed), sourd (deafened), épuisé (exhausted), effrayé (frightened), empoisonné (poisoned)||
+|**Sens**|Vision dans le noir 60 ft., Perception passive 10||
+
+#### Statistiques d'Attributs
+
+|Attribut|Score|Modificateur|Source(s)|
+|:--|:--|:--|:--|
+|**Force (STR)**|18|+4||
+|**Dextérité (DEX)**|13|+1||
+|**Constitution (CON)**|18|+4||
+|**Intelligence (INT)**|5|-3||
+|**Sagesse (WIS)**|10|+0||
+|**Charisme (CHA)**|3|-4||
+
+#### Capacités Spéciales
+
+- **Tainted Waters (Eaux Souillées) :** De l'eau souillée s'échappe des plaques d'armure de l'Horreur lorsqu'elle s'anime. Toute créature qui commence son tour à moins de **5 pieds** d'une Horreur doit effectuer un **jet de sauvegarde de Dextérité DD 13**. En cas d'échec, elle glisse dans la flaque visqueuse, tombe **à terre** (_prone_) et subit **3 (1d6) dégâts nécrotiques**. La créature à terre ne peut pas tenter de se relever avant son prochain tour.
+- **Tears of Hopelessness (Larmes de Désespoir) :** En tant qu'action bonus, l'Horreur Blindée peut cibler une créature vivante à **60 pieds** qui peut la voir. La cible doit réussir un **jet de sauvegarde de Charisme DD 14**. Échec : subit **7 (2d6) dégâts de froid** et **7 (2d6) dégâts psychiques** (moitié sur succès).
+
+#### Actions
+
+- **Melee Attack (Attaque de Mêlée) :** L'Horreur effectue une attaque avec sa Lame de Chagrin (_Blade of Sorrow_).
+- **Blade of Sorrow (Lame de Chagrin) :** Attaque d'arme de mêlée : **+7 pour toucher**, portée 5 ft. Dégâts (Hit) : **11 (2d6+4) dégâts tranchants** **plus 4 (1d8) dégâts de froid**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent le défi de l'affrontement contre les Armored Horrors :
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                                                    | Source(s) |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Réduire la CA de chaque Horreur Blindée à **17**. Utiliser la capacité _Tears of Hopelessness_ nécessite une **action**, plutôt qu'une action bonus.           |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter les Points de Vie (PV) de chaque Horreur Blindée à **60**.                                                                                           |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus de l'augmentation des PV, une créature **à terre** (_prone_) a un **désavantage** sur le jet de sauvegarde contre la capacité _Tears of Hopelessness_. |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, chaque Horreur Blindée peut effectuer **deux attaques** avec sa _Blade of Sorrow_ par tour.                      |           |
+# Lesser Skull Golem (room 48)
+La rencontre **"Lesser Skull Golem"** (Golem Crâne Mineur) est détaillée dans la section _Battle Stats_ à la page **28** du _GM Reference Book_.
+
+Cette créature est une **Construction (Construct)** de taille Grande (Large) et non Alignée (Unaligned). Elle est le gardien de la **Zone 48 : Doors, Skulls, and Chasms** (Portes, Crânes et Gouffres).
+
+Le Golem se forme à partir d'une **pile de roches** qui se révèle être une **pile de crânes pétrifiés** (incluant des crânes Humains, Elfes, Halfelins, Goruunds et Gnomes). Si le groupe s'approche de cette pile sans prononcer les mots **"Mal’uthuk is all powerful"** (Mal’uthuk est tout-puissant), la pile s'anime pour former la figure humanoïde. Du sang commence à couler des orbites des crânes.
+
+Le Golem est lié à la zone par une **gemme rouge enchantée** nichée dans une alcôve à proximité. Cette gemme a une CA de **17** et **10 points de vie**, et est résistante à tous les dégâts. Si le Golem Crâne est détruit, il se **reconstituera en 24 heures**, mais si la gemme rouge est brisée, il sera **détruit de manière permanente**.
+
+---
+
+## I. Lesser Skull Golem (Golem Crâne Mineur)
+
+|Catégorie|Détails|Source(s)|
+|:--|:--|:--|
+|**Classe d'Armure (CA)**|**19** (armure naturelle)||
+|**Points de Vie (PV)**|**85** (9d10+36)||
+|**Vitesse (Speed)**|**30 pieds** (ft.)||
+|**Niveau de Difficulté (Challenge)**|**6** (2,300 XP)||
+|**Résistances aux Dégâts**|Feu, foudre, perforant, psychique, tranchant||
+|**Immunités aux Dégâts**|Froid, nécrotique, poison||
+|**Immunités aux Conditions**|Charmé, épuisement, effrayé, paralysé, empoisonné||
+|**Sens**|Vision dans le noir 60 ft., Perception passive 9||
+
+#### Statistiques d'Attributs
+
+|Attribut|Score|Modificateur|Source(s)|
+|:--|:--|:--|:--|
+|**Force (STR)**|20|+5||
+|**Dextérité (DEX)**|11|+0||
+|**Constitution (CON)**|19|+4||
+|**Intelligence (INT)**|7|-2||
+|**Sagesse (WIS)**|9|-1||
+|**Charisme (CHA)**|3|-4||
+
+#### Capacités Spéciales
+
+- **Magic Resistance (Résistance Magique) :** Le Golem Crâne Mineur a **avantage** sur les jets de sauvegarde contre les sorts et les capacités magiques.
+- **Chattering Skulls (Crânes Cliquetants) :** Toutes les créatures à moins de **30 pieds** du Golem doivent réussir un **jet de sauvegarde de Sagesse DD 14**, ou devenir **effrayées** (frightened). Une créature peut répéter le jet à la fin de chacun de ses tours pour mettre fin à l'état, et devient immunisée pendant **1 heure** après un succès.
+- **Burning Blood Spatter (Éclaboussure de Sang Brûlant) :** Chaque fois que le Golem Crâne subit des dégâts, chaque créature à moins de **10 pieds** doit effectuer un **jet de sauvegarde de Dextérité DD 15**, subissant **3 (1d6) dégâts de feu** en cas d'échec.
+- **Torrent of Burning Blood (Torrent de Sang Brûlant) :** En tant qu'action bonus, le Golem peut libérer un cône de **15 pieds** de sang brûlant. Toutes les créatures dans la zone doivent réussir un **jet de sauvegarde de Dextérité DD 15** ou subir **14 (4d6) dégâts de feu** (moitié en cas de succès).
+- **Biting Skulls (Crânes Mordeurs) :** Lorsqu'il touche une créature avec son attaque de Poing, l'un des crânes pétrifiés se détache et commence à mordre la cible. Au début du tour de la cible, elle subit **2 (1d4) dégâts perforants et 2 (1d4) dégâts de feu**. Une créature ne peut avoir plus de 3 crânes la mordant à la fois. La cible peut utiliser une action bonus pour tenter de retirer un crâne (Athlétisme DD 14). Chaque crâne peut être détruit (CA 13, 5 PV).
+
+#### Actions
+
+- **Multi-attaque :** Le Golem Crâne effectue **deux attaques** avec ses Poings (_Fists_).
+- **Fist (Poing) :** Attaque au corps à corps : **+8 pour toucher**, portée 5 ft. Dégâts (Hit) : **10 (1d10+5) dégâts contondants**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes permettent d'ajuster le défi du Golem Crâne Mineur :
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                                                                                                                                                    | Source(s) |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Réduire les PV du Golem Crâne Mineur à **65**. De plus, chaque fois que le Golem attaque, utilise une capacité, ou est frappé par une attaque, la gemme dans l'alcôve clignotera, attirant l'attention sur la gemme (Perception passive 15 pour le remarquer). |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter les dégâts infligés par la capacité _Burning Blood Splatter_ à **7 (2d6) dégâts de feu**.                                                                                                                                                            |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus de la modification du _Parti avancé_, augmenter de **2** le DD de tous les jets de sauvegarde associés aux capacités du Golem Crâne Mineur.                                                                                                            |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, le Golem Crâne Mineur peut effectuer **4 attaques de Poing** (_Fists_) par tour.                                                                                                                                 |           |
+# Chasm Crypt Flies (room 48)
+La rencontre **"Chasm Crypt Flies"** (Mouchettes de Crypte du Gouffre) est présentée dans la section _Battle Stats_ à la page **28** du _GM Reference Book_.
+
+Cette rencontre implique par défaut **2 Essaims de Mouchettes de Crypte Mortes-Vivantes** (_Swarms of Undead Crypt Flies_) et se déroule dans la zone 48 : _Doors, Skulls, and Chasms_ (Portes, Crânes et Gouffres), lorsque les personnages tentent de descendre dans le gouffre, qui mène au niveau 4 du donjon. Un essaim attaque pour chaque **20 pieds** de descente dans le gouffre.
+
+---
+
+## I. Essaim de Mouchettes de Crypte Mortes-Vivantes (Undead Crypt Flies)
+
+Le _Shadowrage_ est un Mort-vivant de taille Moyenne (Medium Undead) d'alignement Neutre Maléfique (Neutral Evil).
+
+|Catégorie|Détails|Source(s)|
+|:--|:--|:--|
+|**Type**|Grand Essaim de Morts-vivants Minuscules (Large Swarm of Tiny Undead), Maléfique Neutre (Neutral Evil)||
+|**Classe d'Armure (CA)**|**15** (armure naturelle)||
+|**Points de Vie (PV)**|**51** (6d10+18)||
+|**Vitesse (Speed)**|**5 pieds**, Vol **40 pieds** (fly 40 ft.)||
+|**Niveau de Difficulté (Challenge)**|**4** (1,100 XP)||
+|**Résistances aux Dégâts**|Contondant (Bludgeoning), Perforant (Piercing), Tranchant (Slashing)||
+|**Immunités aux Dégâts**|Nécrotique (Necrotic), Poison, Tonnerre (Thunder)||
+|**Immunités aux Conditions**|Charmé, Épuisement, Effrayé, Empoigné, Paralysé, Pétrifié, Empoisonné, À terre, Entravé, Étourdi.||
+|**Sens**|Vision dans le noir 120 ft.||
+
+#### Statistiques d'Attributs
+
+|Attribut|Score|Modificateur|Source(s)|
+|:--|:--|:--|:--|
+|**Force (STR)**|10|+0||
+|**Dextérité (DEX)**|17|+3||
+|**Constitution (CON)**|16|+3||
+|**Intelligence (INT)**|3|-4||
+|**Sagesse (WIS)**|3|-4||
+|**Charisme (CHA)**|1|-5||
+
+#### Capacités Spéciales
+
+- **Crypt Feeders (Mangeurs de Crypte) :** Une créature qui commence son tour dans l'espace de l'Essaim doit effectuer un **jet de sauvegarde de Constitution DD 15**. En cas d'échec, elle subit **10 (3d6) dégâts nécrotiques** (moitié sur succès).
+- **Undead Swarm (Essaim Mort-vivant) :** L'Essaim peut occuper l'espace d'une autre créature et vice-versa. Il peut se déplacer à travers toute ouverture suffisamment grande pour un insecte minuscule (_Tiny insect_).
+
+#### Actions
+
+- **Attaque de Mêlée (Morsure) :** Attaque d'arme de mêlée : **+5 pour toucher**, portée 0 ft., jusqu'à **4 cibles** dans l'espace de l'Essaim.
+- **Dégâts (Hit) :** **13 (4d4+3) dégâts perforants**, ou **8 (2d4+3) dégâts perforants** si l'Essaim a la moitié ou moins de ses points de vie.
+
+---
+
+## II. Modificateurs de Difficulté
+
+La rencontre de base est composée de **2 Essaims de Mouchettes de Crypte Mortes-Vivantes**.
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                     | Source(s) |
+| :-------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Réduire les Points de Vie (PV) de chaque Essaim à **35**.                                                       |           |
+| **Parti avancé** (_Advanced Party_)           | Les Essaims ont **l'avantage** sur leurs jets d'attaque.                                                        |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus des modifications du _Parti avancé_, augmenter les PV de chaque Essaim à **60**.                        |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, un **troisième Essaim** rejoint le combat au **troisième round**. |           |
+# Cave Revenants (aracnic revenants)- (room 49)
+La rencontre **"Cave Revenants"** (Revenants des Cavernes) est un combat qui a lieu dans la **Zone 49 : The Hidden Cave** (La Grotte Cachée) du donjon de Devstronan. Cette zone est accessible en descendant environ 20 pieds dans le gouffre depuis la zone 48.
+
+L'embuscade implique un groupe de **6 Aracnic Revenants**. Ces créatures attaquent à un moment opportun, et si les toiles sont enflammées, elles se laisseront immédiatement tomber pour attaquer.
+
+---
+
+## I. Opposants : Aracnic Revenant (x6 de base)
+
+L'**Aracnic Revenant** est un Mort-vivant de grande taille (Large Undead) d'alignement Maléfique Neutre (Neutral Evil).
+
+|Catégorie|Détails|Source(s)|
+|:--|:--|:--|
+|**Classe d'Armure (CA)**|**15** (armure naturelle)||
+|**Points de Vie (PV)**|**30** (4d10+8)||
+|**Vitesse (Speed)**|**30 pieds**, Escalade (climb) 30 pieds||
+|**Niveau de Difficulté (Challenge)**|**1** (200 XP)||
+|**Résistances aux Dégâts**|Nécrotique||
+|**Immunités aux Dégâts**|Poison||
+|**Immunités aux Conditions**|Charmé, épuisement, empoisonné||
+|**Sens**|Vision dans le noir 60 ft., Perception passive 10||
+|**Compétences (Skills)**|Discrétion (Stealth) +4||
+
+**Statistiques d'Attributs**
+
+|Attribut|Score|Modificateur|Source(s)|
+|:--|:--|:--|:--|
+|**Force (STR)**|16|+3||
+|**Dextérité (DEX)**|14|+2||
+|**Constitution (CON)**|14|+2||
+|**Intelligence (INT)**|6|-2||
+|**Sagesse (WIS)**|10|+0||
+|**Charisme (CHA)**|3|-4||
+
+**Capacités Spéciales**
+
+- **Necrotic Webslinger (Lanceur de Toile Nécrotique) :** Les toiles sont saturées de composés dissolvant la chair. Une créature touchant la toile avec la peau nue doit réussir un **jet de sauvegarde de Constitution DD 13**, subissant **5 (1d10) dégâts nécrotiques** en cas d'échec. Ce jet de sauvegarde est répété à chaque tour où la créature touche ou reste en contact avec la toile.
+- **Spider Climb (Escalade d'Araignée) :** Le Revenant peut grimper sur des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin d'un test de compétence.
+- **Turn Immunity (Immunité au Repoussement) :** Le Revenant Aracnide est immunisé contre les effets qui repoussent les morts-vivants.
+- **Web Walker (Marcheur de Toile) :** Le Revenant Aracnide ignore les restrictions de mouvement causées par les toiles d'araignées.
+
+**Actions**
+
+- **Melee Attack (Attaque de Mêlée) :**
+    - **Morsure (Bite) :** Attaque d'arme au corps à corps : **+5 pour toucher**, portée 5 ft. Dégâts : **6 (1d6+3) dégâts perforants**. La cible doit réussir un **jet de sauvegarde de Constitution DD 12** ou subir **5 (2d4) dégâts de poison** (moitié sur succès). En cas d'échec, la cible devient également **empoisonnée** pendant une minute (peut répéter le jet de sauvegarde à la fin de chaque tour).
+- **Necrotic Web (Toile Nécrotique) (Recharge 5-6) :** Attaque d'arme à distance : **+5 pour toucher**, portée 30/60 ft. La cible est **entravée** (_restrained_) par la toile et subit **1 dégât nécrotique** à chaque round jusqu'à ce qu'elle soit libérée (ou après 10 minutes). La cible peut utiliser une action pour tenter une vérification de Force DD 12 pour se libérer. La toile a une CA de 10, 5 PV, vulnérabilité aux dégâts de feu, et immunité aux dégâts contondants, de poison et psychiques.
+
+---
+
+## II. Modificateurs de Difficulté (Page 423-424)
+
+Les options suivantes ajustent le défi de l'affrontement contre les 6 Aracnic Revenants :
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                                | Source(s) |
+| :-------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | **Retirer 2** Aracnic Revenants, pour un total de **4**.                                                                                   |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter les Points de Vie (PV) de chaque Aracnic Revenant à **40**.                                                                      |           |
+| **Rendre difficile** (_Make it Tough_)        | Cumule les modifications du _Parti avancé_. De plus, chaque Revenant reçoit un bonus de **+2** à tous ses **jets d'attaque et de dégâts**. |           |
+| **Rendre très difficile** (_Make it Tougher_) | **Cumule** tous les modificateurs précédents (PV à 40 et +2 aux jets d'attaque/dégâts).                                                    |           |
+# Flaming Skulls (room 50)
+La rencontre **"Flaming Skulls"** (Crânes Enflammés) est détaillée dans le _Battle Stats Table_ à la page **29** du _GM Reference Book_.
+
+Cette rencontre a lieu dans la **Zone 50 : The Temple of Mal’uthuk** (Le Temple de Mal'uthuk). Par défaut, **2 Crânes Enflammés** attaquent tout être vivant qui pénètre dans le temple et qui n'est pas un véritable serviteur de Mal’uthuk. Ils volent dans la pièce, obligeant le groupe à utiliser des armes de jet ou de la magie pour les atteindre.
+
+---
+
+## I. Flaming Skull (Crâne Enflammé)
+
+| Catégorie                            | Détails                                                                                |
+| :----------------------------------- | :------------------------------------------------------------------------------------- |
+| **Type**                             | Construction Minuscule (Tiny Construct), Non Alignée (Unaligned)                       |
+| **CA**                               | **15** (armure naturelle)                                                              |
+| **PV**                               | **36** (8d4+16)                                                                        |
+| **Vitesse**                          | 0 pied, Vol **40 pieds** (fly 40 ft.)                                                  |
+| **Niveau de Difficulté (Challenge)** | **2** (450 XP)                                                                         |
+| **Résistances Dégâts**               | Froid, Psychique                                                                       |
+| **Immunités Dégâts**                 | Feu, Nécrotique, Poison ; contondant, perforant et tranchant des attaques non-magiques |
+| **Immunités Conditions**             | Aveuglé, charmé, sourd, épuisement, effrayé, empoisonné, à terre, étourdi, inconscient |
+| **Sens**                             | Vision dans le noir 60 ft., Perception passive 12                                      |
+| **Attributs (Score/Mod)**            | STR 4 (-3), DEX 19 (+4), CON 14 (+2), INT 15 (+2), WIS 14 (+2), CHA 7 (-2)             |
+#### Tactique des Flaming Skulls
+Ces créatures voleront dans la pièce en essayant de rester hors de portée des épées et autres armes de mêlée. Les armes à projectiles et la magie sont probablement les seuls moyens dont dispose le groupe pour venir à bout de ces créatures maléfiques, à moins qu'il ne trouve un moyen astucieux d'enchevêtrer les crânes ou d'atteindre suffisamment loin pour les frapper.
+
+#### Capacités Spéciales
+
+- **Servant of Death (Serviteur de la Mort) :** Un lanceur de sorts allié augmente son DD de jet de sauvegarde de sort de **1** si un ou plusieurs Crânes Enflammés sont dans les **30 pieds** de lui.
+- **Darting Movements (Mouvements Foudroyants) :** Les attaques d'opportunité ne peuvent pas être faites contre le Crâne Enflammé.
+
+#### Actions
+
+- **Multi-attaque :** Le Crâne Enflammé effectue **deux attaques** par tour, dont une seule peut être une _Morsure Enflammée_.
+- **Flaming Bite (Morsure Enflammée) :** Attaque d'arme au corps à corps : **+7 pour toucher**, portée 5 ft. Dégâts : **6 (1d4+4) dégâts perforants** plus **7 (2d6) dégâts de feu**.
+- **Burning Gaze (Regard Brûlant) :** Attaque de sort à distance : **+7 pour toucher**, portée 60 ft. Dégâts : **10 (3d6) dégâts de feu**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+La rencontre de base est contre **2 Crânes Enflammés**. Le **Prêtre Scundruze de Mal’uthuk** est un adversaire optionnel qui pourrait être présent.
+
+|Modificateur de Difficulté|Ajustements|Source(s)|
+|:--|:--|:--|
+|**Parti plus faible** (_Weaker Party_)|Réduire la CA des Crânes Enflammés à **15**. Ne pas les éloigner des PJ après les attaques de _Flaming Bite_ lors des rounds pairs, permettant ainsi les attaques de mêlée.||
+|**Parti avancé** (_Advanced Party_)|Augmenter les Points de Vie (PV) de chaque Crâne Enflammé à **50**.||
+|**Rendre difficile** (_Make it Tough_)|En plus de l'augmentation des PV, chaque Crâne Enflammé reçoit un bonus de **+1** à tous ses jets d'attaque et de dégâts.||
+|**Rendre très difficile** (_Make it Tougher_)|En plus de tous les modificateurs précédents, chaque Crâne Enflammé peut effectuer **une troisième attaque** par tour.||
+
+---
+# Scundruze Priest of Mal’uthuk (room 50a)
+
+Remarque : si le groupe fait du bruit dans le temple (zone 50), par exemple en engageant le combat, en essayant de démonter l'autel à la recherche d'un butin, ou autre, le prêtre Scundruze qui est probablement présent dans la zone 50a pourrait sortir de la porte secrète un ou deux tours après le début du bruit. Évidemment, s'il a été rencontré ailleurs dans le donjon et tué, il ne sera pas présent.
+
+Le **Scundruze Priest of Mal’uthuk** (Prêtre Scundruze de Mal’uthuk), nommé **Ananadooge**, est un lanceur de sorts de niveau 8. Il est décrit comme étant dévoué à Mal’uthuk et presque fou après avoir vécu seul pendant des décennies.
+
+## I. Statistiques du Scundruze Priest of Mal’uthuk
+
+| Caractéristique           | Valeur                                                                                               |
+| :------------------------ | :--------------------------------------------------------------------------------------------------- |
+| **Type, Alignement**      | Humanoïde Moyen (Scundruze), Loyal Mauvais                                                           |
+| **CA, PV, Vitesse**       | **15** (armure cloutée), **60** (8d8+24) PV, **30 pieds**                                            |
+| **Attributs (Score/Mod)** | **STR** 17 (+3), **DEX** 16 (+3), **CON** 16 (+3), **INT** 15 (+2), **SAG** 18 (+4), **CHA** 13 (+1) |
+| **Résistances, Sens**     | Nécrotique, psychique ; Vision dans le noir 120 ft., Perception passive 14                           |
+| **Challenge**             | **5** (1,800 XP)                                                                                     |
+| Langues                   | Commun, Infernal, Scundruze                                                                          |
+
+### Capacités Spéciales et Attaques
+
+#### Incantation (Spellcasting)
+
+Le Prêtre de Mal’uthuk est un lanceur de sorts de **Niveau 8** utilisant la Sagesse (DD 15, +7 au toucher).
+
+| Niveau                        | Sorts connus                                          |
+| :---------------------------- | :---------------------------------------------------- |
+| **Tours de Magie** (Cantrips) | _Guidance, Light, Sacred Flame, Thaumaturgy_          |
+| **Niveau 1** (4 slots)        | _Bane, Command, Death Rot Spheres*_, _Inflict Wounds_ |
+| **Niveau 2** (3 slots)        | _Hold Person, Silence, Spiritual Weapon_              |
+| **Niveau 3** (3 slots)        | _Bestow Curse, Curse of Rot*_, _Dispel Magic_         |
+| **Niveau 4** (2 slots)        | _Banishment, Guardian of Faith_                       |
+
+#### Capacités Uniques
+
+- **Song of the Bridge’s Call (Chant de l'Appel du Pont) :** (Action) Une créature vivante visible doit réussir un jet de sauvegarde de **Sagesse DD 13** ou être **effrayée** (_frightened_) pendant 1 minute (répétable à chaque tour).
+- **Visions of Finality (Visions de la Finalité) :** (Action bonus, Long Rest recharge) Les créatures vivantes à moins de 20 pieds doivent réussir un jet de sauvegarde de **Sagesse DD 14** ou devenir **inconscientes** et gagner **un niveau d'épuisement** (_exhaustion_). Les créatures affectées se réveillent à la fin de leur prochain tour.
+
+#### Actions
+
+- **Multi-attaque :** Le Prêtre fait deux attaques avec ses Griffes de Fer.
+- **Iron Claws (Griffes de Fer) :** Attaque de mêlée : **+6 pour toucher**, portée 5 ft. Dégâts : **8 (2d4+3) dégâts tranchants**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent le défi du combat contre le Prêtre Scundruze de Mal’uthuk :
+
+|Modificateur de Difficulté|Ajustements|Source(s)|
+|:--|:--|:--|
+|**Parti plus faible** (_Weaker Party_)|**Ne pas utiliser** la capacité **Visions of Finality** du Prêtre.|
+|**Parti avancé** (_Advanced Party_)|Augmenter les Points de Vie (PV) du Prêtre à **80**.|
+|**Rendre difficile** (_Make it Tough_)|Augmenter les PV à 80. Le Prêtre peut lancer un sort (temps d'incantation d'une action ou moins) en tant qu'**action bonus**.|
+|**Rendre très difficile** (_Make it Tougher_)|Cumule les modificateurs précédents (PV à 80, sort en action bonus). La capacité **Visions of Finality** peut être utilisée tous les **1d4+1 rounds** (au lieu de nécessiter un repos long).|
+La rencontre **"Phantom Guardians"** (Gardiens Fantômes) se déroule dans la **Zone 51a : The Door's Ajar!** (La Porte Entre-ouverte) du premier niveau du Donjon de Devstronan.
+
+Ces créatures, similaires aux fresques des Faucheurs (Reapers) ornant la pièce, s'élèvent à travers les quatre grilles de plancher lorsque le groupe approche de l'**Orbe des Morts-Vivants** (_Orb of the Undead_).
+
+---
+# Phantom Guardians (room 51a)
+
+## I. Statistiques des Phantom Guardians (Gardiens Fantômes)
+
+L'affrontement par défaut est contre **4 Gardiens Fantômes**.
+
+| Caractéristique           | Valeur                                                                                                                                                                                 | Source(s) |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Type, Alignement**      | Mort-Vivant Moyen (Medium Undead), Neutre Mauvais                                                                                                                                      |           |
+| **CA, PV, Vitesse**       | **15** (armure naturelle), **32** (5d8+10) PV, 0 pi, Vol **30 pi**                                                                                                                     |           |
+| **Attributs (Score/Mod)** | **FOR** 13 (+1), **DEX** 16 (+3), **CON** 14 (+2), **INT** 15 (+2), **SAG** 14 (+2), **CHA** 7 (-3)                                                                                    |           |
+| **Résistances/Immunités** | **Immunités** : Froid, Nécrotique, Poison. **Résistances** : Acide, Feu, Foudre, Tonnerre ; contondant, perforant et tranchant des attaques non-magiques. **Vulnérabilités** : Radiant |           |
+| **Sens, Langues**         | Vision dans le noir 60 feet, Perception passive 12. Aucune langue spécifiée (Non Parlant)                                                                                              |           |
+| **Challenge**             | **3** (700 XP)                                                                                                                                                                         |           |
+
+### Capacités Spéciales et Actions
+
+- **Mouvement Incorporel (_Incorporeal Movement_) :** Le Gardien Fantôme peut se déplacer à travers d'autres créatures et objets comme si c'était un terrain difficile. Il subit **5 (1d10) dégâts de force** s'il termine son mouvement à l'intérieur d'un objet.
+- **Brume Léthargique (_Lethargic Mist_) :** Une créature vivante qui commence son tour ou se déplace à moins de 15 pieds d'un Gardien Fantôme doit réussir un **jet de sauvegarde de Constitution DD 14**. En cas d'échec, sa vitesse est réduite de 15 pieds (minimum 5 pi), elle effectue une attaque de moins (minimum 1), et ses sorts lancés en action bonus nécessitent une action, tandis que ceux lancés en action nécessitent une action _et_ une action bonus (et la créature ne peut pas bouger pendant ce tour). Le DD augmente de 1 par Gardien Fantôme supplémentaire dans le rayon de 15 pieds.
+- **Multi-attaque :** Le Gardien Fantôme effectue deux attaques avec ses Griffes d'Ombre (_Shadow Claws_).
+- **Griffe d'Ombre (_Shadow Claw_) :** Attaque d'arme de mêlée : **+5 pour toucher**, portée 5 pi. Dégâts (Hit) : **6 (1d6+3) dégâts nécrotiques**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+|Modificateur de Difficulté|Ajustements|Source(s)|
+|:--|:--|:--|
+|**Parti plus faible** (_Weaker Party_)|Seulement **2 Gardiens Fantômes** émergent pour attaquer.||
+|**Parti avancé** (_Advanced Party_)|Augmenter les Points de Vie (PV) de chaque Gardien Fantôme à **45**.||
+|**Rendre difficile** (_Make it Tough_)|En plus de l'augmentation des PV à 45, chaque Gardien Fantôme a un bonus de **+2 à tous ses jets d'attaque et de dégâts**.||
+|**Rendre très difficile** (_Make it Tougher_)|En plus de tous les modificateurs précédents, **2 Gardiens Fantômes supplémentaires** se lèvent de la brume au **3e tour** de combat pour attaquer.||
+# Skeletal Knights (room 52)
+Les **Chevaliers Squelettiques** (_Skeletal Knights_) sont des morts-vivants en armure qui gardent le Donjon de Devstronan. Ils sont mentionnés notamment comme ennemis dans la Zone 36 ("A Long, Grim Room") et la Zone 52 ("The Tomb of Heronius Hrumm").
+
+L'affrontement par défaut est généralement contre **4 Chevaliers Squelettiques**.
+
+---
+
+## I. Skeletal Knight (Chevalier Squelettique)
+
+|Caractéristique|Valeur|Source(s)|
+|:--|:--|:--|
+|**Type, Alignement**|Mort-Vivant Moyen, Loyal Mauvais||
+|**CA, PV, Vitesse**|**15** (armure rouillée), **45** (6d8+18) PV, **30 pieds**||
+|**Attributs (Score/Mod)**|**FOR** 18 (+4), **DEX** 12 (+1), **CON** 16 (+3), **INT** 6 (-2), **SAG** 8 (-1), **CHA** 5 (-3)||
+|**Vulnérabilités**|Contondant (_Bludgeoning_)||
+|**Immunités Dégâts**|Nécrotique, Poison||
+|**Immunités Conditions, Sens**|Épuisement, empoisonné ; Vision dans le noir 60 ft., Perception passive 9||
+|**Challenge**|**2** (450 XP)||
+
+### Capacités Spéciales et Actions
+
+- **Ancient Prowess (Prouesses Anciennes) :** Le Chevalier Squelettique a un bonus de **+2 à sa CA** contre les attaques de mêlée. De plus, il effectue ses attaques avec **avantage** si sa cible n'est adjacente à aucun allié.
+- **Multi-attaque :** Le Chevalier Squelettique effectue **deux attaques** avec sa Lame Ancienne (_Ancient Blade_).
+- **Ancient Blade (Lame Ancienne) :** Attaque d'arme de mêlée : **+6 pour toucher**, portée 5 ft. Dégâts : **9 (1d10+4) dégâts tranchants**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent le défi du combat contre les Chevaliers Squelettiques (pour un groupe de 4 chevaliers):
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                      | Source(s) |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | **Ne pas utiliser** la capacité **Ancient Prowess** des Chevaliers Squelettiques.                                                |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter les Points de Vie (PV) de chaque Chevalier Squelettique à **60**.                                                      |           |
+| **Rendre difficile** (_Make it Tough_)        | En plus de l'augmentation des PV à 60, chaque Chevalier Squelettique peut effectuer **une attaque supplémentaire** par tour.     |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, **2 Chevaliers Squelettiques supplémentaires** émergent au 3e round pour attaquer. |           |
+# Undead Gooey Cube (room 53)
+Le **Undead Gooey Cube** (Cube Gélatineux Mort-Vivant) est une rencontre qui se déroule dans la **Zone 53 : The Horrible Hall of the Gooey Cube** (Le Couloir Horrible du Cube Gélatineux). Ce monstre est particulièrement dangereux car il est naturellement silencieux en raison d'un sort de _Silence_ lancé en permanence sur lui, le rendant presque indétectable.
+
+Voici la description et les statistiques complètes de cette rencontre, situées à la page 30 du _GM Reference Book_.
+
+---
+
+## I. Statistiques du Undead Gooey Cube
+
+|Caractéristique|Valeur|Source(s)|
+|:--|:--|:--|
+|**Type, Alignement, Challenge**|Ooze Mort-Vivant Large, Mauvais Chaotique, **4 (1,100 XP)**|
+|**CA, PV, Vitesse**|**6**, **105** (10d10+50) PV, **15 pieds** (ft.)|
+|**Attributs (Score/Mod)**|**FOR** 14 (+2), **DEX** 3 (-4), **CON** 20 (+5), **INT** 4 (-3), **SAG** 14 (+2), **CHA** 1 (-5)|
+|**Immunités/Sens**|**Immunités** : Acide, nécrotique, poison (Dégâts) ; Aveuglé, charmé, sourd, épuisement, effrayé, à terre (Conditions). **Sens** : Vision aveugle 60 ft., Perception passive 12.|
+
+### Capacités Spéciales et Actions
+
+- **Silence** : Un sort de _Silence_ est lancé sur le Cube, le rendant presque impossible à détecter par l'ouïe.
+- **Ooze Cube (Cube Ooze)** : Le Cube occupe tout son espace. Les créatures qui entrent dans son espace sont soumises à **Engulf** avec désavantage sur le jet de sauvegarde. Les créatures à l'intérieur sont vues mais bénéficient d'une couverture totale.
+- **Murky Cube (Cube Trouble)** : Le Cube laisse une traînée de limon nocif. Une créature qui commence son tour ou entre dans cet espace doit réussir un **jet de sauvegarde de Constitution DD 13** ou subir **5 (1d10) dégâts nécrotiques**.
+- **Undigested Detritus (Détritus non digérés)** : Le Cube inflige **11 (2d8+2) dégâts contondants supplémentaires** aux créatures englouties au début de son tour.
+- **Actions** : Le Cube fait 3 attaques de **Pseudopod** ainsi que son attaque **Engulf**.
+    - **Pseudopod (Pseudopode)** : Attaque de mêlée : **+5 pour toucher**, portée 10 ft. Dégâts : **12 (3d6+2) dégâts nécrotiques**.
+    - **Engulf (Engloutir)** : Le Cube se déplace jusqu'à sa vitesse. Si le Cube entre dans l'espace d'une créature (ou si une créature y entre), celle-ci doit réussir un **jet de sauvegarde de Dextérité DD 12**. En cas d'échec, elle subit **12 (3d6+2) dégâts nécrotiques**, ne peut pas respirer, est **entravée** et **engloutie**. Une créature engloutie peut tenter de s'échapper par une **Action** et un **jet de Force DD 14**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent le défi du combat contre le Undead Gooey Cube :
+
+|Modificateur de Difficulté|Ajustements|Source(s)|
+|:--|:--|:--|
+|**Parti plus faible** (_Weaker Party_)|Réduire les Points de Vie (PV) du Cube à **75**.|
+|**Parti avancé** (_Advanced Party_)|Augmenter la vitesse du Cube à **30 pieds**.|
+|**Rendre difficile** (_Make it Tough_)|En plus de l'augmentation de la vitesse à 30 pieds, toutes les créatures dans un rayon de 15 pieds autour du Cube sont soumises à l'effet **Murky Cube**, même si elles ne sont pas dans un espace récemment occupé par le Cube.|
+|**Rendre très difficile** (_Make it Tougher_)|Cumule les modificateurs précédents. Augmenter la CA du Cube à **14** et il fait **une attaque Pseudopod supplémentaire** par tour (total de 4).|
+
+# Spectral Destroyers (room 54)
+La rencontre **"Spectral Destroyers"** (Destructeurs Spectrals) se trouve dans le _Battle Stats Table_ (Tableau des Statistiques de Combat) aux pages **30 et 31** du _GM Reference Book_, et elle est typiquement activée dans la **Zone 54 : The Temple of Norcreus**.
+
+L'affrontement par défaut est contre **2 Destructeurs Spectrals**, souvent rejoints par le **Prêtre Mort-Vivant de Norcreus**.
+
+---
+
+## I. Statistiques du Spectral Destroyer
+
+|Caractéristique|Valeur|Source(s)|
+|:--|:--|:--|
+|**Type, Alignement, Challenge**|Mort-Vivant Moyen, Mauvais Chaotique, **4 (1,100 XP)**||
+|**CA, PV, Vitesse**|15, **45** (7d8+14) PV, 0 pi, Vol **50 pi** (hover)||
+|**Attributs (Score/Mod)**|**FOR** 3 (-4), **DEX** 20 (+5), **CON** 15 (+2), **INT** 10 (+0), **SAG** 13 (+1), **CHA** 7 (-2)||
+|**Immunités/Résistances/Vulnérabilités**|**Immunités** : Nécrotique, Poison. **Résistances** : Acide, Contondant, Froid, Foudre, Perforant, Tranchant, Tonnerre. **Vulnérabilité** : Radiant.||
+|**Sens**|Vision dans le noir 60 pi, Perception passive 11||
+
+### Capacités Spéciales et Actions
+
+- **Mouvement Incorporel (_Incorporeal Movement_) :** Le Destructeur Spectral peut se déplacer à travers les autres créatures et objets comme s'ils étaient un terrain difficile, mais subit **5 (1d10) dégâts de force** s'il termine son tour à l'intérieur d'un objet.
+- **Toucher de Destruction (_Touch of Destruction_) :** Une créature touchée par une attaque du Destructeur doit réussir un **jet de sauvegarde de Constitution DD 14** ; en cas d'échec, elle **ne peut pas regagner de points de vie** et est considérée **vulnérable à tous les types de dégâts** jusqu'à la fin de son prochain tour.
+- **Multi-attaque :** Le Destructeur effectue deux attaques de _Drain de Vie_ (_Life Drain_).
+- **Drain de Vie (_Life Drain_) :** Attaque d'arme de mêlée : **+8 pour toucher**, portée 5 pi. Dégâts : **14 (2d8+5) dégâts nécrotiques**.
+
+### Opposant Additionnel (Prêtre Mort-Vivant de Norcreus)
+
+Le **Prêtre Mort-Vivant de Norcreus** rejoint le combat un round après l'apparition des Destructeurs Spectrals. Il est un lanceur de sorts de niveau 11 (DD 14, +6 au toucher) avec des PV de **82** (11d8+33) et une CA de 15. Il possède la capacité _Locus d'énergie morte-vivante_ qui permet aux morts-vivants alliés dans un rayon de 30 pieds de regagner 7 (2d6) PV au début de leur tour.
+
+---
+
+## II. Modificateurs de Difficulté
+
+Les options suivantes ajustent le défi du combat :
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                        | Source(s) |
+| :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Le Prêtre de Norcreus ne rejoint le combat qu'au début du **4e round**. Réduire les PV des Destructeurs Spectrals à **30**.        |           |
+| **Parti avancé** (_Advanced Party_)           | La capacité _Toucher de Destruction_ des Destructeurs Spectrals dure **1d4 rounds** (au lieu de 1 round).                          |           |
+| **Rendre difficile** (_Make it Tough_)        | Le Prêtre peut lancer chacun de ses sorts (**2 fois/jour**) **3 fois**.                                                            |           |
+| **Rendre très difficile** (_Make it Tougher_) | En plus de tous les modificateurs précédents, **2 Destructeurs Spectrals supplémentaires** émergent au **5e round** pour attaquer. |           |
+# Demonic Fiend (room 54)
+Le **Minor Fiend** (Fiélon Mineur) est un démon invoqué via le cercle de runes dans la **Zone 54 : The Temple of Norcreus** (Temple de Norcreus),.
+
+## I. Statistiques du Minor Fiend (Démon Mineur)
+
+|Caractéristique|Valeur|Source(s)|
+|:--|:--|:--|
+|**Type, Alignement, Challenge**|Fiélon (Démon) de taille Grande, Mauvais Chaotique, **5 (1,800 XP)**|,|
+|**CA, PV, Vitesse**|**16** (armure naturelle), **95** (10d10+40) PV, 40 pi, Vol 60 pi||
+|**Attributs (Score/Mod)**|**FOR** 20 (+5), **DEX** 17 (+3), **CON** 18 (+4), **INT** 16 (+3), **SAG** 15 (+2), **CHA** 19 (+4)||
+|**Résistances**|Acide, froid, feu, foudre, nécrotique ; contondant, perforant et tranchant des attaques non-magiques||
+|**Immunités/Conditions**|Poison (Dégâts), Empoisonné (Conditions)||
+|**Sens, Langues**|Vraie vision 120 pi, Perception passive 12. Abyssal, Commun, Télépathie 120 pi||
+
+### Capacités Spéciales et Actions
+
+- **Jets de Sauvegarde :** Le Démon Mineur bénéficie de jets de sauvegarde compétents en Force (+8), Constitution (+7), Sagesse (+5) et Charisme (+7).
+- **Résistance Magique** (_Magic Resistance_) : Le Démon Mineur a **avantage** aux jets de sauvegarde contre les sorts et autres effets magiques.
+- **Incantation Innée** (_Innate Spellcasting_) : Sa capacité de lancement de sorts est le Charisme (DD 16, +9 au toucher).
+    - À volonté : _Bane_ (Fléau), _Detect Magic_ (Détection de la magie).
+    - 1/jour chacun : _Blur_ (Flou), _Darkness_ (Ténèbres), _Phantasmal Killer_ (Tueur fantomatique).
+    - 2/jour chacun : _Dispel Magic_ (Dissipation de la magie), _Hellish Rebuke_ (Réprimande infernale), _Hold Person_ (Immobilisation de personne), _Sleep_ (Sommeil), _Telekinesis_ (Télékinésie).
+- **Multi-attaque :** Le Démon Mineur effectue **deux attaques de Griffe** et **une attaque de Morsure**.
+- **Griffe** (_Claw_) : Attaque de mêlée : **+8 pour toucher**, portée 5 pi. Dégâts : **10 (1d10 + 5) dégâts tranchants**.
+- **Morsure** (_Bite_) : Attaque de mêlée : **+8 pour toucher**, portée 5 pi. Dégâts : **11 (1d12 + 5) dégâts perforants** plus **4 (1d8) dégâts de feu**.
+
+---
+
+## II. Modificateurs de Difficulté
+
+| Modificateur de Difficulté                    | Ajustements                                                                                                                                                                        | Source(s) |
+| :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **Parti plus faible** (_Weaker Party_)        | Réduire les PV du Fiélon à **70**. De plus, le Fiélon perd **5 (1d10) PV supplémentaires** au début de chacun de ses tours, à cause d'un petit défaut dans le cercle d'invocation. |           |
+| **Parti avancé** (_Advanced Party_)           | Augmenter la CA du Fiélon à **18**.                                                                                                                                                |           |
+| **Rendre difficile** (_Make it Tough_)        | Augmenter les PV du Fiélon à **115**.                                                                                                                                              |           |
+| **Rendre très difficile** (_Make it Tougher_) | Le Fiélon peut lancer un sort **ET** effectuer ses attaques durant son tour.                                                                                                       |           |

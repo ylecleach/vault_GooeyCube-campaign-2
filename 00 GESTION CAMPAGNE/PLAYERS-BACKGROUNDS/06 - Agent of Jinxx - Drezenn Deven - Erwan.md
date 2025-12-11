@@ -220,7 +220,7 @@ Passe de Clerc de Jinxx, mais quelques pouvoirs à définir.
 A. Agent c'est magie divine, donc comme les clerc on peux changer chaque jour la liste de sort de la liste à chaque prière => validé.
 
 B. Blood touch, pas niveau de classe ou niveau total.
-Voir nouvelle table Blood Touch: [[BLOOD-TOUCH]]
+Voir nouvelle table Blood Touch: [[🩸 BLOOD-TOUCH]]
 
 C. Je tiens à jouer mon PJ, pour le rôleplay et différente possibilité, pas simplement pour ''plus de pouvoir ou autre''
 

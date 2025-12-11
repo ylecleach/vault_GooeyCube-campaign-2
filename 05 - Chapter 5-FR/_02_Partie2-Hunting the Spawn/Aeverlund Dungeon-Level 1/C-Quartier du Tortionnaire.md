@@ -1,12 +1,9 @@
-**La porte s'ouvre sur une petite pièce éclairée par une seule torche et plusieurs petites bougies posées sur une étagère et un bureau situés à côté d'un lit contre le mur de droite. Devant le lit se trouve un coffre. Sur le mur de gauche, une niche abrite plusieurs objets posés sur une étagère en bois et une étagère en pierre. Un grand tapis circulaire est posé au milieu de la pièce. Une petite plaque métallique est fixée au mur du fond, à côté du bureau, et est reliée à une chaîne. À l'autre extrémité de la chaîne, recroquevillée dans un coin sur un petit tapis circulaire à côté de la niche, se trouve une jeune femme.
+**La porte grince et s’ouvre sur une petite chambre baignée d’une lumière vacillante. Une torche et quelques bougies éclairent une table de chevet et une étagère. Devant un lit appuyé contre le mur de droite repose un coffre. Sur le mur opposé, une niche abrite divers objets posés sur des étagères de bois et de pierre. Au centre, un grand tapis circulaire couvre le sol. Sur le mur du fond, une plaque de métal fixée près du bureau retient une chaîne au bout de laquelle, recroquevillée sur un petit tapis dans un coin, une jeune femme attend, silencieuse.**
 
 [Voir document 05 : Quartiers du tortionnaire] 
 
-Remarque : la jeune femme est Jillian Vennex (portrait 14). Elle est d'origine elfe des bois et humaine, avec des yeux verts, des cheveux blanc argenté et des oreilles légèrement pointues.
 
 ![[Pasted image 20251012230902.png]]
-
-La porte s'ouvre sur une petite pièce éclairée par une seule torche et plusieurs petites bougies posées sur une étagère et un bureau situés à côté d'un lit contre le mur de droite. Devant le lit se trouve un coffre. Sur le mur de gauche, une niche abrite plusieurs objets posés sur une étagère en bois et une étagère en pierre. Un grand tapis circulaire recouvre le sol au milieu de la pièce.
 
 Les PJ ont peut-être rencontré Jillian au chapitre 1 : Le rêve le plus sombre (ils ont peut-être également rencontré un personnage plutôt intimidant du nom de Tadas Sidd qui la recherchait). 
 
@@ -17,6 +14,11 @@ C'est une excellente occasion d'apporter un peu de jeu de rôle à la table, sur
 En vous voyant, elle supplie : **« S'il vous plaît, ne me faites pas de mal.** » Elle dit cela à voix basse, comme si elle essayait de dissimuler sa voix. Lorsque les cultistes l'ont amenée au donjon il y a deux semaines, Byansis Vonda a été séduit par sa beauté. Plutôt que de la soumettre à la routine habituelle de torture et de sacrifice, il l'a gardée pour lui. Elle reste ici, dans ses quartiers, enchaînée au mur. Elle est à son service, effectuant le ménage et d'autres tâches que le nécromancien lui demande. Elle ne sait rien qui puisse aider les PJ, à part la description de Byansis. 
 
 Jillian a faim et est en mauvaise santé, elle peut remercier le groupe avec une surprise (l'un de ses objets)
+
+Remarque : la jeune femme est [[Jillian Vennex]]  (<== portrait 14). Elle est d'origine elfe des bois et humaine, avec des yeux verts, des cheveux blanc argenté et des oreilles légèrement pointues.
+
+![[Pasted image 20251012231536.png | 300]]
+
 
 ### Loot
 Le coffre est verrouillé. Byansis a la clé. À l'intérieur, on trouve les objets suivants :

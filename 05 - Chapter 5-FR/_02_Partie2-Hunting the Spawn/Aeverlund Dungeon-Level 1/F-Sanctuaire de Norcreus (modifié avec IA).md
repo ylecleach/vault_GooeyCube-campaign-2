@@ -1,7 +1,7 @@
 Document 08 : Sanctuaire de Norcreus [Afficher le document 08 : Sanctuaire de Norcreus] 
 
 ![[Pasted image 20251014212525.png]]
-**Lorsque vous ouvrez la porte, vos narines sont assaillies par une odeur de mort. Un petit vestibule mène à une pièce plus grande. De chaque côté de la porte menant à cette pièce plus grande se trouve une torche allumée, éclairant une grande urne posée sur le sol, avec un grand crâne fixé à l'avant qui regarde d'un air narquois ceux qui entrent. Au centre de la pièce se trouve un autel entouré de quatre tapis décoratifs carrés et sur lequel des bougies blanches sont posées aux deux extrémités, leur cire coulant sur les côtés en pierre.**
+**Lorsque vous ouvrez la porte, vos narines sont assaillies par une odeur de mort. Un petit vestibule mène à une pièce plus grande. De chaque côté de la porte menant à cette pièce plus grande se trouve une torche allumée, éclairant une urne posée sur le sol, avec un grand crâne fixé à l'avant qui regarde d'un air narquois ceux qui entrent. Au centre de la pièce se trouve un autel entouré de quatre tapis décoratifs carrés et sur lequel des bougies blanches sont posées aux deux extrémités, leur cire coulant sur les côtés en pierre.**
 
 **Plus loin, deux piliers sculptés à l'image d'adeptes de la foi vêtus de robes soutiennent chacun un brasero suspendu, dont les flammes éclairent ce qui se trouve au-delà. Au fond de la pièce se trouve une table en onyx et en os, sur laquelle repose un cadavre recouvert de bandes de lin, comme s'il était préparé pour l'enterrement.** 
 
@@ -12,6 +12,9 @@ Document 08 : Sanctuaire de Norcreus [Afficher le document 08 : Sanctuaire de No
 **À gauche et devant le cercueil se trouve une petit table carrée sur laquelle sont disposés avec soin toutes sortes d'instruments chirurgicaux prêts à l'emploi. 
 
 **Le corps sur la table en onyx et en os est bel et bien mort. Il est à un stade avancé de décomposition, comme on peut facilement le constater lorsqu'on s'approche à moins de trois mètres du cadavre. 
+
+### murmure
+le joueur qui sera le plus proche de l'urne avec le gros crâne entendra les murmures décrit ci-dessous.
 
 Si le corps est inspecté, on peut déterminer sans aucun jet de dé que plusieurs organes ont été prélevés. Les PJ ne reconnaîtront pas le cadavre comme étant celui d'une personne qu'ils connaissent. 
 
@@ -63,10 +66,10 @@ La salle est un lieu de culte pour Byansis, le nécromancien tortionnaire.
 - **Un Faux Indice/Piège pour le Sceptre :**
     
     - Le groupe cherche une pièce du Sceptre de Dreadmist. Vous pourriez ajouter un petit objet magique ressemblant à une pièce du Sceptre pour les mettre sur une fausse piste.
-    - **Objet :** Une **Morsure de Gha'uul Sculptée** : Une petite dent ou un fragment d'os sculpté d'un crâne minuscule, brillant d'une faible aura nécromantique. Il pourrait être présenté comme un **Composant Alchimique** valant 100 Golds (pour le bon acheteur).
+    - **Objet :** Une **Os de Gha'uul Sculptée** : un fragment d'os sculpté d'un crâne minuscule, brillant d'une faible aura nécromantique. Il pourrait être présenté comme un **Composant Alchimique** valant 100 Golds (pour le bon acheteur).
     - **Utilité :** Byansis utilise des composants nécromantiques, notamment des **langues de Gha'uul**, et ce fragment pourrait être un composant précieux qu'il a négligé de sécuriser, le laissant comme un leurre sans valeur pour la quête du Sceptre.
 
-### 3. Ambiance et Horreur
+### 3. Ambiance et Horreur - Murmures
 
 Puisque le Chapitre 4 (_The Dreadmist Curse_) met l'accent sur le style **horreur/suspense**, vous pouvez accentuer l'atmosphère macabre de cet autel de Norcreus :
 

@@ -4,6 +4,11 @@ Byansis Vonda est un antagoniste majeur qui rôde au premier niveau du donjon de
 
 ![[Pasted image 20251012220217.png | 400]]
 
+### Lore (GM Book)
+
+Byansis Vonda, le bourreau : Byansis Vonda est un Sundestien qui prend un immense plaisir à exercer ses fonctions de bourreau à Aeverlund. Il occupe ce poste depuis plusieurs décennies et semble avoir reçu de nombreux prisonniers sur lesquels exercer ses talents de la part des Hrumms, puis plus récemment de Ma'lum, Creston restant, peut-être volontairement, ignorant des activités qui se déroulent sous le manoir. Bien que très habile dans l'utilisation de divers instruments de torture physiques, Byansis est devenu obsédé par la transition entre la vie et la mort, et la possibilité de prolonger la souffrance même au-delà du moment où l'âme devrait légitimement quitter le corps. Il est ainsi devenu un disciple des arts nécromantiques et en est venu à s'appuyer autant sur la magie noire que sur les lames ou les chevalets dans ses efforts pour infliger des souffrances.
+La préoccupation et les expériences de Byansis concernant la non-mort incluent sa propre âme maléfique ; bien qu'il ait l'apparence d'un homme d'âge moyen, il a déjà plus de 100 ans. Cependant, il comprend bien que cette magie rajeunissante finit par atteindre un point de rendement décroissant, et il se tourne désormais vers la nécromancie pour s'assurer qu'il n'aura jamais à faire face à son jugement dernier au-delà du Pont des Âmes. Homme vaniteux, Byansis trouve l'idée de devenir une liche, ou tout autre état qui le laisserait comme une coquille vide, tout à fait déplaisante. Au contraire, il est très attiré par la noblesse sombre du vampirisme, même s'il se demande s'il pourra échapper à temps au Brouillard redoutable pour préserver ses traits actuels. Il attaquera les nouveaux propriétaires d'Aeverlund dès qu'il les apercevra, convaincu qu'il peut les vaincre, mais si par hasard il reste en vie après avoir été vaincu, il tentera de ramper et de négocier avec eux afin de s'assurer une chance de partir.
+
 **Localisation**: Il se trouve dans le donjon Aeverlund (chapitre 5 uniquement). Cependant, il est conseillé de ne pas le faire apparaître dans la salle de torture ou le donjon au début. 
 
 	Il devrait errer dans les couloirs, faisant des allers-retours entre ses quartiers, le temple de Norcreus, la fosse (pour nourrir les cambions) et la salle de bêtes. 
@@ -12,55 +17,97 @@ Byansis Vonda est un antagoniste majeur qui rôde au premier niveau du donjon de
 
 C'est avec plaisir que je vous fournis les statistiques complètes de **Byansis Vonda le Tortionnaire**, telles que détaillées dans les ouvrages de référence.
 
-**Statistiques de Combat (Battle Stats)**
+### **Statistiques de Combat (Battle Stats)**
 
 **Byansis Vonda le Tortionnaire** est un Humanoïde (Humain) de taille moyenne et d'alignement **Neutre Mauvais**.
 
-|Caractéristique|Score|Modificateur|
-|:--|:--|:--|
-|Force (STR)|12|+1|
-|Dextérité (DEX)|15|+2|
-|Constitution (CON)|17|+3|
-|Intelligence (INT)|20|**+5**|
-|Sagesse (WIS)|17|+3|
-|Charisme (CHA)|10|+0|
-|Classe d'Armure (CA)|12||
-|Points de Vie (PV)|60 (8d8+24)||
-|Vitesse|30 ft.||
-|**Jet de Sauvegarde**|INT +8, WIS +6||
-|**Compétences**|Arcana +8, Medicine +6||
-|**Sens**|Passive Perception 13||
-|**Langues**|Commun||
-|**Défi (Challenge)**|3 (700 XP)||
+| Caractéristique                  | Score                                                            | Modificateur |
+| :------------------------------- | :--------------------------------------------------------------- | :----------- |
+| Force (STR)                      | 12                                                               | +1           |
+| Dextérité (DEX)                  | 15                                                               | +2           |
+| Constitution (CON)               | 17                                                               | +3           |
+| Intelligence (INT)               | 20                                                               | **+5**       |
+| Sagesse (WIS)                    | 17                                                               | +3           |
+| Charisme (CHA)                   | 10                                                               | +0           |
+| Classe d'Armure (CA)             | 12                                                               |              |
+| Points de Vie (PV)               | 60 (8d8+24)                                                      |              |
+| Vitesse                          | 30 ft.                                                           |              |
+| **Jet de Sauvegarde**            | INT +8, WIS +6                                                   |              |
+| **Compétences**                  | Arcana +8, Medicine +6                                           |              |
+| **Sens**                         | Passive Perception 13                                            |              |
+| **Langues**                      | Commun                                                           |              |
+| **Défi (Challenge)**             | 5                                                                |              |
+| **Lanceur de sorts de niveau 8** | Intelligence comme capacité de lancement (DD 16, +8 au toucher). |              |
 
 ***Capacités Spéciales
 
-- **Incantation (Spellcasting):** Byansis est un incantateur de **niveau 8**. Sa capacité d'incantation est l'Intelligence (jet de sauvegarde des sorts DD 16, +8 pour toucher avec les attaques de sort).
 - **Life Stealer (Voleur de Vie):** Si au moins une créature vivante dans un rayon de 30 pieds autour de Byansis a perdu des points de vie depuis la fin de son tour précédent, il gagne **13 (3d6+3) points de vie temporaires** au début de son tour.
-- **Pain Dealer (Infligeur de Douleur) (Action Bonus):** Lorsqu'il fait perdre au moins un point de vie à une créature vivante avec une attaque ou un sort, il peut choisir d'infliger **7 (2d6) points de dégâts psychiques supplémentaires**. La cible doit réussir un jet de sauvegarde de Sagesse DD 14, ou devenir **à terre et gagner un niveau d'épuisement** en cas d'échec.
 
-***Sorts Préparés
-
-	tactiques: en combat, il commence par lancer Curse of Sha'aada pour se protéger. puis Giant Insect pour occuper les joueurs, puis Hold Person sur les guerriers. Il Lancera Necrotic Spirit au niveau 2 ou au niveau 4 s'il peut dès qu'il est blessé. au contact, il utilisera son club of Stunning.
-	Ne pas oublier de cumuler avec son pouvoir Pain Dealer.
-
-- **Tours de Magie (à volonté):** _Chill Touch_ (Contact glacial), _Mage Hand_ (Main du mage), _Shocking Grasp_ (Empoignade électrique), _Vicious Mockery_ (Moquerie féroce).
-- **Niveau 1 (4 emplacements):** _Hideous Laughter_ (Rire hideux), _Inflict Wounds_ (Blessure), _Mage Armor_ (Armure de mage), _Sleep_ (Sommeil).
-- **Niveau 2 (3 emplacements):** _Hold Person_ (Immobilisation de personne), _Necrotic Spirits_** (Esprits nécrotiques), _Mirror Image_ (Image miroir).
-- **Niveau 3 (3 emplacements):** _Animate Dead_ (Animation des morts), _Counterspell_ (Contresort), _Vampiric Touch_ (Toucher vampirique).
-- **Niveau 4 (2 emplacements):** _Curse of Sha’aada_** (Malédiction de Sha'aada), _Giant Insect_ (Insecte géant).
-
-voir Sorts Gooey ci-dessous
+- **Pain Dealer (Infligeur de Douleur) (Action Bonus):** Lorsqu'il fait perdre au moins un point de vie à une créature vivante avec une attaque ou un sort, il peut choisir d'infliger **7 (2d6) points de dégâts psychiques supplémentaires**. La cible doit réussir un jet de sauvegarde de Sagesse DD 14, ou être **à terre et gagner un niveau d'épuisement** en cas d'échec.
 
 ***Actions
 
-- **Attaque de Mêlée. Club of Stunning (Masse Étourdissante):** Attaque d'arme de mêlée : +5 pour toucher, portée 5 ft., une cible. **Dégâts : 5 (1d4+2) dégâts contondants**. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être **étourdie pendant 2 (1d4) tours**.
+2 attacks + 1 sorts par TOUR (+ réaction de sort)
+
+- 2 **Attaque de Mêlée. Club of Stunning (Masse Étourdissante) - 6 charges:** Attaque d'arme de mêlée : +7 pour toucher, portée 5 ft., une cible. **Dégâts : 5 (1d4+3) dégâts contondants**. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être **étourdie pendant 2 (1d3) tours**.
+
+Club of Stunning (Masse Étourdissante)
+* ***_Effects**: This club has 6 charges, and regains 1d4 charges each day at dawn. If you hit a target with this weapon, you can expend a charge; if you do, the target must make a DC 14 Constitution saving throw, becoming stunned for 1d3 rounds on a failed save.
+* ***_Damage**: 1d4 bludgeoning + 1d6 lighting
+
+## ***Tactiques***
+
+en combat, ou pour se préparer au combat,  il commence par lancer Curse of Sha'aada pour se protéger. puis Giant Insect pour occuper les joueurs (et les blesser ce qui lui permet d'utiliser son pouvoir de Life Stealer et Pain Dealer à chaque tour, puis Hold Person sur les guerriers. 
+
+Il Lancera Necrotic Spirit au niveau 2 ou au niveau 4 s'il peut dès qu'il est blessé. au contact, il utilisera son club of Stunning . 
+
+Si besoin pour affaiblir le groupe, il peut récupérer des points de vie massivement en utilisant le sort "[[📜Appendix A - Nouveaux Sorts#✨ _Channel Undead Energy_ (Canaliser l'Énergie Morte-Vivante)]]"
+
+Ne pas oublier de cumuler avec son pouvoir Pain Dealer.
+
+Si Byonsis est acculé: utilise **Pas de l'ombre** en réaction à un coup.
+
+## ***Sorts Préparés
+
+| Niveau                          | Nom                               | Name                  | Lien                                                                                            |
+| :------------------------------ | :-------------------------------- | :-------------------- | :---------------------------------------------------------------------------------------------- |
+| **Tours de Magie** (_Cantrips_) | Contact glacial                   | Chill Touch           | https://aidedd.org/dnd/sorts.php?vo=chill-touch                                                 |
+|                                 | Main du mage                      | Mage Hand             | https://aidedd.org/dnd/sorts.php?vo=mage-hand                                                   |
+|                                 | Empoignement électrique           | Shocking Grasp        | https://aidedd.org/dnd/sorts.php?vo=shocking-grasp                                              |
+|                                 | Moquerie féroce                   | Vicious Mockery       | https://aidedd.org/dnd/sorts.php?vo=vicious-mockery                                             |
+| **Niveau 1** (4 emplacements)   | Hilarité hideuse                  | Hideous Laughter      | https://aidedd.org/dnd/sorts.php?vo=tashas-hideous-laughter                                     |
+|                                 | Infliger des blessures            | Inflict Wounds        | https://aidedd.org/dnd/sorts.php?vo=inflict-wounds                                              |
+|                                 | Armure de mage                    | Mage Armor            | https://aidedd.org/dnd/sorts.php?vo=mage-armor                                                  |
+|                                 | Sommeil                           | Sleep                 | https://aidedd.org/dnd/sorts.php?vo=sleep                                                       |
+| **Niveau 2** (3 emplacements)   | Immobilisation de personne        | Hold Person           | https://aidedd.org/dnd/sorts.php?vo=hold-person                                                 |
+|                                 | **Esprits nécrotiques***          | Necrotic Spirits*     | [[📜Appendix A - Nouveaux Sorts#🌑 _Necrotic Spirits_ (Esprits Nécrotiques)]]                   |
+|                                 | Pas de l'ombre                    | Shadowstep            | https://aidedd.org/dnd/sorts.php?vo=mirror-image                                                |
+|                                 |                                   |                       | [[📜Appendix A - Nouveaux Sorts#💨 _Shadowstep_ (Pas de l'Ombre)]]                              |
+| **Niveau 3** (3 emplacements)   | Animation des morts               | Animate Dead          | https://aidedd.org/dnd/sorts.php?vo=animate-dead                                                |
+|                                 | Contresort                        | Counterspell          | https://aidedd.org/dnd/sorts.php?vo=counterspell                                                |
+|                                 | Toucher vampirique                | Vampiric Touch        | https://aidedd.org/dnd/sorts.php?vo=vampiric-touch                                              |
+|                                 | Canalyser l'énergie Morte-Vivante | Channel Undead Energy | [[📜Appendix A - Nouveaux Sorts#✨ _Channel Undead Energy_ (Canaliser l'Énergie Morte-Vivante)]] |
+| **Niveau 4** (2 emplacements)   | **Malédiction de Sha’aada***      | Curse of Sha’aada*    | [[📜Appendix A - Nouveaux Sorts#⚔️ _Curse of Sha’aada_ (Malédiction de Sha'aada)]]              |
+|                                 | Insectes géants                   | Giant Insect          | https://aidedd.org/dnd/sorts.php?vo=giant-insect                                                |
+|                                 |                                   |                       |                                                                                                 |
+
+Si le groupe est plus faible (_Weaker Party_), vous êtes invité à **ne pas utiliser les sorts de niveau 3 et 4** de Byansis.
+
+### Modificateurs de Difficultés
+* Weaker Party: Do not use Byansis’ 3rd or 4th level spells.
+* Advanced Party: Increase Byansis’ AC to 14 and his hit points to 75.
+* Make it Tough: **In addition to the above, Byansis has a +2 bonus to**
+**all attack and damage rolls, and makes 2 attacks with his Club of**
+**Stunning each turn.**
+* Make it Tougher: In addition to all of the above, **Byansis can cast a**
+**spell and make attacks on each turn.**
+
 
 ***Possessions
 
 Byansis Vonda est infesté de **puces**. Il porte sur lui :
 
-- Un anneau de clés pour toutes les portes de son niveau.
+- Un trousseau de clés pour toutes les portes de son niveau.
 - Deux tomes reliés en peau sombre et rougeâtre (ses **grimoires de sorts**, contenant les sorts listés ci-dessus).
 - L'objet spécial _Club of Stunning_.
 - Deux fioles de sang mélangé de divers Hominidés.
@@ -69,6 +116,7 @@ Byansis Vonda est infesté de **puces**. Il porte sur lui :
 - Un diamant d'une valeur de **300 Golds**.
 - Une pièce droite en fer et un morceau de cuir tanné.
 - Une bourse de 10 Copps.
+- [Amulette de protection contre le poison](https://www.aidedd.org/magic-item/fr/amulette-de-protection-contre-le-poison)
 
 ---
 
@@ -85,45 +133,16 @@ Il a gardé captive **Jillian Vennex**, une voleuse renommée, dans ses quartier
 Byansis est si confiant qu'il attaquera les nouveaux propriétaires de l'Aeverlund Estate à vue, mais s'il est vaincu et survit, il tentera de **supplier et de négocier** pour obtenir une chance de partir.
 
 ---
-
-	_Note : Si vous utilisez les règles du jeu, les sorts marqués d'un astérisque (comme Necrotic Spirits_ et _Curse of Sha’aada_) sont des sorts nouveaux, spécifiques au matériel source.
-
-**Loots** (Coffre de Byansis)
+### **Loots** (Coffre de Byansis)
 	De plus, le grimoire de **Drevix Daag**, un autre antagoniste, se trouve également dans le coffre de Byansis.
 
 Les sorts que vous avez mentionnés font partie de la magie noire (Umbraflow/Flux d'Ombre) et sont utilisés par Byansis Vonda, le Tortionnaire, qui est un incantateur de niveau 8 maîtrisant la Nécromancie et la Conjuration.
 
 Voici la description détaillée de ces sorts, telle qu'elle est fournie dans les sources :
 
-***Curse of Sha’aada (Malédiction de Sha’aada)
+[[📜Appendix A - Nouveaux Sorts#⚔️ _Curse of Sha’aada_ (Malédiction de Sha'aada)]]
+[[📜Appendix A - Nouveaux Sorts#🌑 _Necrotic Spirits_ (Esprits Nécrotiques)]]
 
-_Curse of Sha’aada_ est un sort de **Nécromancie** de 4ème niveau. Ce sort est associé à **Sha’aada**, connue sous le nom de la _Darkwalker_, qui est la déesse du Flux d'Ombre (_Umbraflow_) et de la magie noire.
-
-|Caractéristique|Détail|Source|
-|:--|:--|:--|
-|**Niveau**|4ème||
-|**École**|Nécromancie||
-|**Temps d'incantation**|1 action||
-|**Portée/Zone**|Soi-même (Self)||
-|**Composantes**|Verbales (V), Somatiques (S), et Matérielles (M) : **la langue d’un Gha’uul**.||
-|**Durée**|Concentration, jusqu'à 1 minute||
-|**Effet**|Des **ombres** entourent l'incantateur, s'agitant en une masse indiscernable qui le **masque de la vue**. Toute créature qui cible l'incantateur avec une attaque subit un **désavantage** sur le jet d'attaque. Si le jet d'attaque touche l'incantateur et que la créature attaquante se trouve à moins de 10 pieds de lui, les ombres ripostent avec des vrilles fumantes, infligeant **11 (2d10) points de dégâts nécrotiques**.||
-|**Aux Niveaux Supérieurs**|Lorsque ce sort est lancé en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts infligés augmentent de **5 (1d10) points de dégâts nécrotiques supplémentaires** par niveau d'emplacement au-delà du 4ème.||
-
-***Necrotic Spirits (Esprits Nécrotiques)
-
-Ce sort est une invocation d'esprits enragés qui attaquent les ennemis proches et renforcent l'incantateur.
-
-|Caractéristique|Détail|Source|
-|:--|:--|:--|
-|**Niveau**|2ème||
-|**École**|Conjuration||
-|**Temps d'incantation**|1 action bonus||
-|**Portée/Zone**|40 pieds, cube de 5 pieds||
-|**Composantes**|Verbales (V), Somatiques (S), et Matérielles (M) : **une pincée de poussière de tombe**.||
-|**Durée**|1 minute||
-|**Effet**|L'incantateur appelle des **esprits enragés** dans un nuage tourbillonnant qui remplit un cube de 5 pieds dans la portée. L'incantateur est **infusé par l'énergie vitale** que les esprits volent à leurs victimes. Au début de son tour, une créature vivante dans la zone du sort subit **3 (1d6) points de dégâts nécrotiques**, et l'incantateur gagne un nombre égal de **points de vie temporaires**. L'incantateur peut déplacer les esprits vers un autre espace dans la portée en utilisant une action bonus.||
-|**Aux Niveaux Supérieurs**|Pour chaque niveau d'emplacement de sort supérieur au 2ème par intervalles de deux, la zone du sort augmente de **5 pieds** (c'est-à-dire +5 pieds à 4ème niveau, +10 pieds à 6ème niveau, etc.).||
 Le nécromancien **Byansis Vonda** est le tortionnaire de l'Estate Aeverlund et réside principalement dans le donjon situé sous le manoir. En tant que disciple des arts nécromantiques, son quotidien est entièrement dédié à l'entretien de la corruption et à l'exécution de ses sinistres fonctions, qui servent la conspiration visant à maintenir les Cambions en bonne santé.
 
 Étant donné que Byansis vit et travaille dans un donjon souterrain — l'Antre du Tortionnaire (_Torturer’s Lair_) — le concept de "journée type" est moins lié à l'heure du soleil qu'à son cycle de travail macabre.
@@ -258,19 +277,28 @@ Il réside dans le donjon d'Aeverlund, dans sa tanière, où l'eau verdâtre sta
 
 Olgkhoi est un Démon (Fiend) de niveau 6 (Challenge 6), valant 2,300 XP.
 
-|Attribut|Score (Modificateur)|Jets de Sauvegarde|Compétences|
-|:--|:--|:--|:--|
-|**Force (STR)**|14 (+2)|+5|Intimidation +2|
-|**Dextérité (DEX)**|20 (+5)|+8|Perception +7|
-|**Constitution (CON)**|18 (+4)|+7|Discrétion (Stealth) +8|
-|**Intelligence (INT)**|14 (+2)|-|-|
-|**Sagesse (WIS)**|18 (+4)|+7|-|
-|**Charisme (CHA)**|9 (-1)|-|-|
+* ***Classe d'Armure (AC):** 18 (armure naturelle)
+- **Points de Vie (HP):** 85 (10d8 +40) => 120
+
+| Attribut                                         | Score (Modificateur) | Jets de Sauvegarde | Compétences             |
+| :----------------------------------------------- | :------------------- | :----------------- | :---------------------- |
+| **Force (STR)**                                  | 14 (+2)              | +5                 | Intimidation +2         |
+| **Dextérité (DEX)**                              | 20 (+5)              | +8                 | Perception +7           |
+| **Constitution (CON)**                           | 18 (+4)              | +7                 | Discrétion (Stealth) +8 |
+| **Intelligence (INT)**                           | 14 (+2)              | -                  | -                       |
+| **Sagesse (WIS)**                                | 18 (+4)              | +7                 | -                       |
+| **Charisme (CHA)**                               | 9 (-1)               | -                  | -                       |
+| Innate Spellcasting (SAG DC 15, +7 pour toucher) |                      |                    |                         |
+
+**Actions**
+
+Olgkhoi effectue une attaque de Morsure (_Bite_) + de Drainage de Sang (_Blood Drain_) si Morsure effective.
+
+- **Bite (Morsure):** Attaque de Mélée (+8 pour toucher), portée 5 ft., 2d6+2 perçants. La cible est **agrippée** (évasion DC 16).
+- **Blood Drain (Drainage de Sang):** Attaque de Mélée (coup automatique), portée 5 ft., dégâts 3d8+2. La cible doit réussir un Jet de Sauvegarde de Constitution DC 16 ou gagner **un niveau d'épuisement**. Récupère la moitié du drainage en PV.
 
 **Défenses et Mouvement**
 
-- **Classe d'Armure (AC):** 18 (armure naturelle)
-- **Points de Vie (HP):** 85 (10d8 +40)
 - **Vitesse:** 40 ft., nage 60 ft.
 - **Résistances aux Dégâts:** Froid, feu, foudre, poison.
 - **Immunités aux Dégâts:** Contondants, perçants et tranchants provenant d'attaques non-magiques.
@@ -279,48 +307,54 @@ Olgkhoi est un Démon (Fiend) de niveau 6 (Challenge 6), valant 2,300 XP.
 
 **Capacités Spéciales**
 
-- **Spawn of Zanvitchu:** En action bonus, Olgkhoi peut lancer un sort dont le temps d'incantation est d'une action ou moins. Alternativement, en action bonus, il peut effectuer une action de **Ruer (Dash)**; s'il le fait, il n'y a pas d'attaques d'opportunité contre lui, et il a avantage sur les jets de sauvegarde pour éviter ou échapper aux conditions de agrippé, incapable, à terre, ou entravé. S'il échappe au combat et effectue un repos court, il récupère 26 (4d6+12) points de vie et un emplacement de sort pour chaque niveau de sort qu'il peut lancer.
+- **Spawn of Zanvitchu:** En action bonus, Olgkhoi peut lancer un sort dont le temps d'incantation est d'une action ou moins. Alternativement, en action bonus, il peut effectuer une action de **Ruer (Dash)**; s'il le fait, il n'y a pas d'attaques d'opportunité contre lui, et il a avantage sur les jets de sauvegarde pour éviter ou échapper aux conditions de agrippé, incapable, à terre, ou entravé.
+
+- **Lord of Flies:** Peut libérer un **nuage de mouches** dans un rayon de 20 pieds (1 Action). Les créatures non-Olgkhoi dans ce rayon subissent 14 (4d6) dégâts perçants (moitié sur JS CON DC 14 réussi) et sont empoisonnées. L'effet dure une minute ou se disperse après 30 points de dégâts de zone. Utilisable après un repos court.
+
+- **Régénération** - S'il échappe au combat et effectue un repos court, il récupère 26 (4d6+12) points de vie et un emplacement de sort pour chaque niveau de sort qu'il peut lancer.
+
 - **Parasite:** Olgkhoi peut entrer dans l'espace d'autres créatures et y terminer son mouvement sans pénalité. Il ne peut effectuer d'attaques de Drainage de Sang (_Blood Drain_) que contre une créature qu'il a agrippée.
+
 - **Blood Feast:** Après avoir effectué une attaque de Drainage de Sang, il reçoit des points de vie temporaires égaux à la moitié des dégâts infligés.
-- **Lord of Flies:** Peut libérer un **nuage de mouches** dans un rayon de 20 pieds (Action). Les créatures non-Olgkhoi dans ce rayon subissent 14 (4d6) dégâts perçants (moitié sur JS CON DC 14 réussi) et sont empoisonnées. L'effet dure une minute ou se disperse après 30 points de dégâts de zone. Utilisable après un repos court.
+
 - **Innate Spellcasting (SAG DC 15, +7 pour toucher):**
-    - **Tours de Magie (à volonté):** _Acid Splash, Minor Illusion, Poison Spray, True Strike_.
-    - **Niveau 1 (4 emplacements):** _Color Spray, Entangle, Fog Cloud, Norcreus’s Blessing*_.
-    - **Niveau 2 (3 emplacements):** _Acid Arrow, Darkness, Heat Metal_.
-
-**Actions**
-
-Olgkhoi effectue une attaque de Morsure (_Bite_) ou de Drainage de Sang (_Blood Drain_).
-
-- **Bite (Morsure):** Attaque de Mélée (+8 pour toucher), portée 5 ft., dégâts 9 (1d8+5) perçants. La cible est **agrippée** (évasion DC 16).
-- **Blood Drain (Drainage de Sang):** Attaque de Mélée (coup automatique), portée 5 ft., dégâts **17 (3d8+4)**. La cible doit réussir un Jet de Sauvegarde de Constitution DC 16 ou gagner **un niveau d'épuisement**.
+	- Voir Liste ci-dessous
 
 ### Modificateurs de difficulté
 * Parti faible réduisez de moitié les dégâts infligés par les mouches invoquées par Olgkhoi et n'utilisez pas la capacité Spawn of Zanvitchu pour attaquer et lancer un sort.
 * Parti avancé : **augmentez les points de vie d'Olgkhoi à 100 et donnez-lui un emplacement de sort supplémentaire pour chaque niveau qu'il peut lancer.** 
 * Rendez-le plus coriace : **En plus de ce qui précède, Olgkhoi peut effectuer à la fois une attaque Morsure et une attaque Drain de sang, et il bénéficie d'un avantage sur son attaque Morsure si la cible est déjà saisie, mais les deux attaques doivent être dirigées contre la même cible.**
-* Rendre plus difficile : en plus de tout ce qui précède, Olgkhoi peut utiliser sa capacité Seigneur des mouches deux fois. Augmentez la difficulté du jet de sauvegarde de cette capacité et augmentez le nombre de points de vie nécessaires pour disperser les mouches à 50. Olgkhoi gagne également 2 actions légendaires, qu'il peut utiliser pour se déplacer à sa vitesse, effectuer une attaque Morsure ou soigner 11 (2d10) points de dégâts.
+* Rendre plus difficile : en plus de tout ce qui précède, Olgkhoi peut utiliser sa capacité Seigneur des mouches deux fois. Augmentez la difficulté du jet de sauvegarde de cette capacité et augmentez le nombre de points de vie nécessaires pour disperser les mouches à 50. ((Olgkhoi gagne également 2 actions légendaires, qu'il peut utiliser pour se déplacer à sa vitesse, effectuer une attaque Morsure ou soigner 11 (2d10) points de dégâts.
 
 ### Sorts
-| Niveau         | Nom du sort (FR)         | Nom du sort (EN)     | Lien (FR)                                                                            |
-| -------------- | ------------------------ | -------------------- | ------------------------------------------------------------------------------------ |
-| Tours de magie | Éclaboussure acide       | Acid Splash          | [Éclaboussure acide](https://www.aidedd.org/dnd/sorts.php?vf=eclaboussure-acide)     |
-| Tours de magie | Illusion mineure         | Minor Illusion       | [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)         |
-| Tours de magie | Jet de poison            | Poison Spray         | [Jet de poison](https://www.aidedd.org/dnd/sorts.php?vf=jet-de-poison)               |
-| Tours de magie | Coup au but              | True Strike          | [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)                   |
-| Niveau 1       | Éventail de couleurs     | Color Spray          | [Éventail de couleurs](https://www.aidedd.org/dnd/sorts.php?vf=eventail-de-couleurs) |
-| Niveau 1       | Enchevêtrement           | Entangle             | [Enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)             |
-| Niveau 1       | Nuage de brouillard      | Fog Cloud            | [Nuage de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nuage-de-brouillard)   |
-| Niveau 1       | Bénédiction de Norcreus* | Norcreus’s Blessing* | _Non répertorié_                                                                     |
-| Niveau 2       | Flèche acide             | Acid Arrow           | [Flèche acide](https://www.aidedd.org/dnd/sorts.php?vf=fleche-acide)                 |
-| Niveau 2       | Ténèbres                 | Darkness             | [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)                         |
-| Niveau 2       | métal brûlant            | Heat Metal           | [Métal brûlant](https://www.aidedd.org/dnd/sorts.php?vf=metal-brulant)               |
 
+Nombre d'emplacements:
+* Niveau 1 : 4
+* Niveau 2: 2 
+
+| Niveau         | Nom du sort (FR)          | Nom du sort (EN)     | Lien (FR)                                                                             |
+| -------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
+| Tours de magie | Éclaboussure acide        | Acid Splash          | [Éclaboussure acide](https://www.aidedd.org/dnd/sorts.php?vf=eclaboussure-acide)      |
+| Tours de magie | Illusion mineure          | Minor Illusion       | [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)          |
+| Tours de magie | Jet de poison             | Poison Spray         | [Jet de poison](https://www.aidedd.org/dnd/sorts.php?vf=jet-de-poison)                |
+| Tours de magie | Coup au but               | True Strike          | [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)                    |
+| Niveau 1       | Crachat de Limon          | Slime Spew           | [[📜Appendix A - Nouveaux Sorts#💥 _Slime Spew_ (Crachat de Limon)]]                  |
+| Niveau 1       | Enchevêtrement            | Entangle             | [Enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)              |
+| Niveau 1       | Nuage de brouillard       | Fog Cloud            | [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)    |
+| Niveau 1       | Bénédiction de Norcreus*  | Norcreus’s Blessing* | [[📜Appendix A - Nouveaux Sorts#🛡️ _Norcreus’s Blessing_ (Bénédiction de Norcreus)]] |
+| Niveau 2       | Flèche acide              | Acid Arrow           | [Flèche acide](https://www.aidedd.org/dnd/sorts.php?vf=fleche-acide)                  |
+| Niveau 2       | Ténèbres                  | Darkness             | [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)                          |
+| Niveau 2       | métal brûlant             | Heat Metal           | [Métal brûlant](https://www.aidedd.org/dnd/sorts.php?vf=metal-brulant)                |
+| Niveau 3       | Malédiction de Pourriture | Curse of Rot         | [[📜Appendix A - Nouveaux Sorts#💀 _Curse of Rot_ (Malédiction de Pourriture)]]       |
+( * ) [[📜Appendix A - Nouveaux Sorts]]
 
 # Golyzou
 Golyzou, surnommée **« the Snake-Child »** (l'Enfant-Serpent), est la **plus jeune et la plus cruelle** des Cambions engendrés par Belania. Elle est l'une des trois Abominations nées de Zanvitchu.
 
-Tactique: ce Cambion grimpe très bien au murs et plafond, et a aussi un pouvoir télépatique 60 feet pour communiquer avec ses 2 frères démons, où les joueurs qu'elle a séduit grâce à Fiendish Charm. (c'est un peu trop puissant avec 24h)
+## Tactiques
+Gardez à l'esprit qu'elle est à la fois capable et intelligente, et vous devez la jouer comme telle. La tactique préférée de Golyzou consiste à essayer de charmer autant de PJ que possible avant de quitter l'ombre de sa demeure. Si elle réussit à charmer plusieurs de ses adversaires, elle les fera rester immobiles ou la protégeront pendant qu'elle se lance dans la mêlée. Si possible, elle utilisera son dard sur les créatures charmées tout en essayant de mordre et de griffer ceux qui sont en mêlée avec elle. Sinon, elle tentera d'attaquer deux adversaires non charmés à la fois. 
+
+ Ce Cambion grimpe très bien au murs et plafond, et a aussi un pouvoir télépatique 60 feet pour communiquer avec ses 2 frères démons, où les joueurs qu'elle a séduit grâce à Fiendish Charm. (c'est un peu trop puissant avec 24h)
 
 ![[Pasted image 20251014230858.png | 400]]
 
@@ -336,6 +370,9 @@ Elle utilise son effet presque hypnotique (_Fiendish Charm_) pour **tourmenter s
 
 Golyzou est un Démon de niveau 6 (Challenge 6), valant 2,300 XP.
 
+* ***Classe d'Armure (AC):** 17 (armure naturelle).
+- **Points de Vie (HP):** 75 (10d8 +30) => 90
+
 |Attribut|Score (Modificateur)|
 |:--|:--|
 |**Force (STR)**|16 (+3)|
@@ -344,11 +381,14 @@ Golyzou est un Démon de niveau 6 (Challenge 6), valant 2,300 XP.
 |**Intelligence (INT)**|14 (+2)|
 |**Sagesse (WIS)**|12 (+1)|
 |**Charisme (CHA)**|19 (+4)|
+**Actions** Golyzou effectue une attaque de Morsure (_Bite_) et une attaque de Piqûre (_Sting_).
+
+- **Bite (Morsure):** Attaque de Mélée (+7 pour toucher), portée 10 ft., dégâts 10 (1d12+4) perçants. La cible doit réussir un JS de Constitution DC 14, subissant 5 (1d10) dégâts nécrotiques et gagnant **un niveau d'épuisement** en cas d'échec.
+
+- **Sting (Piqûre):** Attaque de Mélée (+7 pour toucher), portée 10 ft., dégâts 9 (1d10+4) perçants. La cible doit réussir un JS de Constitution DC 14, subissant **10 (3d6) dégâts de poison supplémentaires** en cas d'échec (moitié en cas de succès). Si le JS échoue, la cible est également **empoisonnée** jusqu'au début du prochain tour de Golyzou.
 
 **Défenses, Mouvement et Sens**
 
-- **Classe d'Armure (AC):** 17 (armure naturelle).
-- **Points de Vie (HP):** 75 (10d8 +30).
 - **Vitesse:** 50 ft., grimpe 50 ft..
 - **Jets de Sauvegarde:** Force +6, Dextérité +7, Constitution +6, Charisme +7.
 - **Compétences:** Intimidation +7, Perception +4, Discrétion (Stealth) +7.
@@ -359,20 +399,16 @@ Golyzou est un Démon de niveau 6 (Challenge 6), valant 2,300 XP.
 
 **Capacités Spéciales**
 
-- **Spawn of Zanvitchu:** En action bonus, Golyzou peut lancer un sort dont le temps d'incantation est d'une action ou moins. Alternativement, en action bonus, elle peut effectuer une action de **Ruer (Dash)**; si elle le fait, il n'y a pas d'attaques d'opportunité contre elle, et elle a avantage sur les jets de sauvegarde pour éviter ou échapper aux conditions de agrippé, incapable, à terre, ou entravé. Si elle échappe au combat et effectue un repos court, elle récupère 26 (4d6+12) points de vie et un emplacement de sort pour chaque niveau de sort qu'elle peut lancer.
+- **Spawn of Zanvitchu:** En action bonus, Golyzou peut lancer un sort dont le temps d'incantation est d'une action ou moins. Alternativement, en action bonus, elle peut effectuer une action de **Ruer (Dash)**; si elle le fait, il n'y a pas d'attaques d'opportunité contre elle, et elle a avantage sur les jets de sauvegarde pour éviter ou échapper aux conditions de agrippé, incapable, à terre, ou entravé. 
+
+- Régénération spéciale: Si elle échappe au combat et effectue un repos court, elle récupère 26 (4d6+12) points de vie et un emplacement de sort pour chaque niveau de sort qu'elle peut lancer.
+
 - **Fiendish Charm:** En action bonus, une créature visible dans un rayon de 30 pieds doit réussir un Jet de Sauvegarde de Sagesse DC 14 ou être charmée par Golyzou pendant 10 min (un jour: trop fort). La cible charmée obéit à ses commandes télépathiques. Si le jet est réussi, la créature est immunisée pendant 24 heures.
+
 - **Pure Malice:** Une créature réduite à 0 points de vie par un sort, une attaque ou un effet infligé par Golyzou est considérée comme ayant **déjà raté une sauvegarde contre la mort**.
 
 **Incantation Innée** L'aptitude d'incantation de Golyzou est le Charisme (DC de sauvegarde 15, +7 pour toucher).
 
-- **Tours de Magie (à volonté):** _Dancing Lights, Mage Hand, Minor Illusion, Poison Spray_.
-- **Niveau 1 (4 emplacements):** _Hunter’s Mark, Inflict Wounds, Norcreus’s Blessing*_, _Shield_.
-- **Niveau 2 (3 emplacements):** _Blur, Misty Step, Ray of Enfeeblement_.
-
-**Actions** Golyzou effectue une attaque de Morsure (_Bite_) et une attaque de Piqûre (_Sting_).
-
-- **Bite (Morsure):** Attaque de Mélée (+7 pour toucher), portée 10 ft., dégâts 10 (1d12+4) perçants. La cible doit réussir un JS de Constitution DC 14, subissant 5 (1d10) dégâts nécrotiques et gagnant **un niveau d'épuisement** en cas d'échec.
-- **Sting (Piqûre):** Attaque de Mélée (+7 pour toucher), portée 10 ft., dégâts 9 (1d10+4) perçants. La cible doit réussir un JS de Constitution DC 16, subissant **10 (3d6) dégâts de poison supplémentaires** en cas d'échec (moitié en cas de succès). Si le JS échoue, la cible est également **empoisonnée** jusqu'au début du prochain tour de Golyzou.
 
 ### Modificateurs de difficulté
 * Groupe faible : n'utilisez pas la capacité Charme démoniaque, ni la capacité d'attaquer et de lancer un sort conférée par la caractéristique Progéniture de Zanvitchu.
@@ -381,25 +417,38 @@ Golyzou est un Démon de niveau 6 (Challenge 6), valant 2,300 XP.
 * Rendre encore plus difficile : en plus de tout ce qui précède, Golyzou peut effectuer une attaque supplémentaire avec sa morsure et une attaque supplémentaire avec sa piqûre à chaque fois qu'il attaque. Golyzou gagne également 2 actions légendaires, qu'elle peut utiliser pour se déplacer à sa vitesse, effectuer une attaque ou soigner 11 (2d10) points de dégâts.
 
 ### Sorts
-|Niveau|Nom du sort (FR)|Nom du sort (EN)|Lien (FR)|
-|---|---|---|---|
-|Tours de magie|Lumières dansantes|Dancing Lights|[Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)|
-|Tours de magie|Main du mage|Mage Hand|[Main du mage](https://www.aidedd.org/dnd/sorts.php?vf=main-du-mage)|
-|Tours de magie|Illusion mineure|Minor Illusion|[Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)|
-|Tours de magie|Jet de poison|Poison Spray|[Jet de poison](https://www.aidedd.org/dnd/sorts.php?vf=jet-de-poison)|
-|Niveau 1|Marque du chasseur|Hunter’s Mark|[Marque du chasseur](https://www.aidedd.org/dnd/sorts.php?vf=marque-du-chasseur)|
-|Niveau 1|Infliger des blessures|Inflict Wounds|[Infliger des blessures](https://www.aidedd.org/dnd/sorts.php?vf=infliger-des-blessures)|
-|Niveau 1|Bénédiction de Norcreus*|Norcreus’s Blessing*|_Non répertorié_|
-|Niveau 1|Bouclier|Shield|[Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)|
-|Niveau 2|Flou|Blur|[Flou](https://www.aidedd.org/dnd/sorts.php?vf=flou)|
-|Niveau 2|Pas brumeux|Misty Step|[Pas brumeux](https://www.aidedd.org/dnd/sorts.php?vf=pas-brumeux)|
-|Niveau 2|Rayon d’affaiblissement|Ray of Enfeeblement|[Rayon d’affaiblissement](https://www.aidedd.org/dnd/sorts.php?vf=rayon-daffaiblissement)|
+
+Nombre d'emplacements:
+- Niveau 1 : 5 
+- Niveau 2 : 4 
+
+| Niveau         | Nom du sort (FR)         | Nom du sort (EN)     | Lien (FR)                                                                                 |
+| -------------- | ------------------------ | -------------------- | ----------------------------------------------------------------------------------------- |
+| Tours de magie | Lumières dansantes       | Dancing Lights       | [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)          |
+|                | Main du mage             | Mage Hand            | [Main du mage](https://www.aidedd.org/dnd/sorts.php?vf=main-du-mage)                      |
+|                | Illusion mineure         | Minor Illusion       | [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)              |
+|                | Jet de poison            | Poison Spray         | [Jet de poison](https://www.aidedd.org/dnd/sorts.php?vf=jet-de-poison)                    |
+| Niveau 1       | Marque du chasseur       | Hunter’s Mark        | [Marque du chasseur](https://www.aidedd.org/dnd/sorts.php?vf=marque-du-chasseur)          |
+|                | Infliger des blessures   | Inflict Wounds       | [Infliger des blessures](https://www.aidedd.org/dnd/sorts.php?vf=infliger-des-blessures)  |
+|                | Bénédiction de Norcreus* | Norcreus’s Blessing* | [[📜Appendix A - Nouveaux Sorts#🛡️ _Norcreus’s Blessing_ (Bénédiction de Norcreus)]]     |
+|                | Bouclier                 | Shield               | [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)                              |
+| Niveau 2       | Flou                     | Blur                 | [Flou](https://www.aidedd.org/dnd/sorts.php?vf=flou)                                      |
+|                | Pas brumeux              | Misty Step           | [Pas brumeux](https://www.aidedd.org/dnd/sorts.php?vf=pas-brumeux)                        |
+|                | Rayon d’affaiblissement  | Ray of Enfeeblement  | [Rayon d’affaiblissement](https://www.aidedd.org/dnd/sorts.php?vf=rayon-daffaiblissement) |
+|                | Pas de l'ombre           | Shadow steps         | [[📜Appendix A - Nouveaux Sorts#💨 _Shadowstep_ (Pas de l'Ombre)]]                        |
 
 
 # Heronius the Demon-Child
 Heronius, le **« Demon-Child »** (Enfant-Démon), est le **premier-né** et le **plus intelligent** des trois Cambions engendrés par Belania, et porte le nom du damné progéniteur de la lignée Hrumm. Ce **Fiélon de taille Moyenne (Medium Fiend)**, alignement **Chaotique Mauvais (Chaotic Evil)**, a rapidement maîtrisé les **magicks Abyssales**. Son apparence vaguement humanoïde se distingue par une profusion de **cornes dentelées** et un **nimbe de lumière rouge impie**. C'est un chasseur expérimenté qui utilise sa **ruse démoniaque** pour traquer et tourmenter ses proies.
 
 ![[Pasted image 20251019120952.png | 400]]
+
+## Tactiques
+
+Utilisera très vite le sort Double Illusoire (niveau 5): permettra de jauger le groupe, mais aussi de les harceler "moralement" pendant que ses 2 frères Cambions les attaques. (sachant qu'il peut communiquer avec eux par télépathie).
+
+Le sort télékinésie peut etre très fun aussi (effet Stranger Things: en élévant un joueur comme Vecna).
+
 
 ### Statistiques de Combat (Heronius the Demon-Child)
 
@@ -455,26 +504,25 @@ Heronius, le **« Demon-Child »** (Enfant-Démon), est le **premier-né** et le
 | Niveau         | Nom du sort (FR)         | Nom du sort (EN)     | Lien (FR)                                                                                  |
 | -------------- | ------------------------ | -------------------- | ------------------------------------------------------------------------------------------ |
 | Tours de magie | Illusion mineure         | Minor Illusion       | [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)               |
-| Tours de magie | Prestidigitation         | Prestidigitation     | [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)               |
-| Tours de magie | Lumières dansantes       | Dancing Lights       | [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)           |
-| Tours de magie | Coup au but              | True Strike          | [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)                         |
+|                | Prestidigitation         | Prestidigitation     | [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)               |
+|                | Lumières dansantes       | Dancing Lights       | [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)           |
+|                | Coup au but              | True Strike          | [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)                         |
 | Niveau 1       | Injonction               | Command              | [Injonction](https://www.aidedd.org/dnd/sorts.php?vf=injonction)                           |
-| Niveau 1       | Murmures dissonants      | Dissonant Whispers   | [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants)         |
-| Niveau 1       | Représailles infernales  | Hellish Rebuke       | [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) |
-| Niveau 1       | Maléfice                 | Hex                  | [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)                               |
-| Niveau 1       | Bénédiction de Norcreus* | Norcreus’s Blessing* | _Non répertorié_                                                                           |
+|                | Murmures dissonants      | Dissonant Whispers   | [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants)         |
+|                | Représailles infernales  | Hellish Rebuke       | [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) |
+|                | Maléfice                 | Hex                  | [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)                               |
+|                | Bénédiction de Norcreus* | Norcreus’s Blessing* | _Non répertorié_                                                                           |
 | Niveau 2       | Altération d’apparence   | Alter Self           | [Altération d’apparence](https://www.aidedd.org/dnd/sorts.php?vf=alteration-dapparence)    |
-| Niveau 2       | Détection des pensées    | Detect Thoughts      | [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)     |
-| Niveau 2       | Captivation              | Enthrall             | [Discours captivant](https://www.aidedd.org/dnd/sorts.php?vf=discours-captivant)           |
-| Niveau 2       | Image miroir             | Mirror Image         | [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)                       |
+|                | Détection des pensées    | Detect Thoughts      | [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)     |
+|                | Captivation              | Enthrall             | [Discours captivant](https://www.aidedd.org/dnd/sorts.php?vf=discours-captivant)           |
+|                | Image miroir             | Mirror Image         | [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)                       |
 | Niveau 3       | Malédiction              | Bestow Curse         | [Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)                         |
-| Niveau 3       | Contresort               | Counterspell         | [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)                           |
-| Niveau 3       | Lenteur                  | Slow                 | [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)                                 |
+|                | Contresort               | Counterspell         | [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)                           |
+|                | Lenteur                  | Slow                 | [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)                                 |
 | Niveau 4       | Flétrissure              | Blight               | [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)                     |
-| Niveau 4       | Compulsion               | Compulsion           | [Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)                           |
-| Niveau 5       | Leurre                   | Mislead              | [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)               |
-| Niveau 5       | Télékinésie              | Telekinesis          | [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)                         |
-|                |                          |                      |                                                                                            |
+|                | Compulsion               | Compulsion           | [Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)                           |
+| Niveau 5       | Double Illusoire         | Mislead              | [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)               |
+|                | Télékinésie              | Telekinesis          | [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)                         |
 
 # Grave Rot Slime
 Le **Grave Rot Slime** (Vase de pourriture sépulcrale) est une créature du type Ooze qui se trouve notamment dans le donjon de Devstronan, où elle est postée pour protéger le Calice dans la Salle du Calice (Zone 51). Elle attaque généralement en s'abattant du plafond sur sa cible, surprenant ainsi les personnages dont la Perception Passive est inférieure à 15.

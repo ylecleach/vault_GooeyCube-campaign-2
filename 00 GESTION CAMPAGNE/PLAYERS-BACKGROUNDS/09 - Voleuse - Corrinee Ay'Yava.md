@@ -192,4 +192,4 @@ Archétype : Arcanique Tricker
 3d6 pour les attaques sournoises
 compétence Esquive Instinctive : À partir du niveau 5, quand un attaquant que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre vous.
 
-table [[BLOOD-TOUCH]] révisée
+table [[🩸 BLOOD-TOUCH]] révisée

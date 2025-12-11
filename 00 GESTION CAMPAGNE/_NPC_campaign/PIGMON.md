@@ -1,0 +1,26 @@
+
+Pigmon est une rencontre unique trouvée dans la **Zone 53a : Les Portes Mortelles** (_Deadly Doors_) du premier niveau du Donjon de Devstronan.
+
+![[Pasted image 20251207230938.png | 300]]
+
+Pigmon est une créature vraiment étrange, apparemment une sorte de golem assemblé à partir des restes d'humains et de porcs, peut-être aussi d'organes et de petits morceaux provenant d'un nombre inconnu d'autres créatures, puis imprégné d'une âme grâce à un puissant rituel nécromantique invoqué par Heronius Hrumm. 
+
+Il connaît l'histoire générale de sa propre création, mais ne comprend ni les détails du processus ni l'objectif poursuivi par Heronius. Son esprit est rempli d'histoires, de chansons, de mythes et d'anecdotes provenant de différentes cultures de Zyathé, mais il est rarement capable de distinguer leur provenance ou leur véracité. De même, il lit, parle et écrit dans de nombreuses langues, bien qu'il n'ait jamais tenu un livre entre ses mains.
+
+Il a été emprisonné à divers endroits du donjon depuis aussi longtemps qu'il se souvienne, mais sans aucun repère extérieur, il ne peut se faire une idée précise de son âge ; s'il accompagne le groupe et survit assez longtemps pour connaître les cycles du Sul à la surface, il finira par estimer qu'il a été créé il y a au moins deux ou trois décennies.
+
+Pigmon est généralement calme et réservé, mais il adore parler et, si on lui en donne l'occasion, il peut marmonner sans cesse sur n'importe quel sujet. Il est très réfractaire aux conflits, même s'il est attaqué, et n'est susceptible de recourir à la violence que pour protéger quelqu'un qu'il considère comme un ami cher. Il a un sens de l'humour noir et pince-sans-rire, mais il est gentil avec ceux qui lui témoignent de la gentillesse et évite simplement ceux qui essaient de le maltraiter.
+
+Voici un résumé compact de tout ce que les sources révèlent sur cet être :
+
+| Catégorie                    | Détails                                                                                                                                                                                                                                                                                                            |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Origine**                  | Il est une **création magique** étrange et énigmatique réalisée par **Heronius Hrumm** et emprisonnée dans le donjon depuis de nombreuses années. Il a été assemblé à partir de restes d'Humains et de porcs, potentiellement avec d'autres organes, puis imprégné d'une âme par un rituel nécromantique puissant. |
+| **Apparence**                | C'est une petite figure, **pas plus de trois pieds de haut**, avec des traits similaires à un Halfelin, mais doté d'un **groin proéminent** (pig-like snout). Il a la **peau gris-vert** et porte des marques de **points de suture** sur le visage, le cou, les poignets et les chevilles.                        |
+| **Alignement/Nature**        | Il est **Loyal Neutre** et **honorable**. Il est généralement calme et réservé, mais il adore parler. Il est **très réticent au conflit** et n'engage la violence que pour protéger un ami cher.                                                                                                                   |
+| **Parole/Connaissances**     | Son **discours est étrange, sinueux et plutôt cryptique**, et il donne rarement une réponse complète et simple. Son esprit est rempli d'histoires, de chansons, de mythes et d'histoires de cultures à travers Zyathé. Il lit, parle et écrit de nombreuses langues.                                               |
+| **Capacités Spéciales**      | **Guérison par Crachat (_Healing Spittle_)** : Pigmon peut lancer le sort **Soins des blessures** (_Cure Wounds_) **quatre fois par jour**, dont un lancement peut être de niveau 2. Sa méthode de guérison est inhabituelle : il demande à la cible de s'allonger, puis **crache dans un de leurs yeux**.         |
+| **Statistiques (Compactes)** | **Type** : Humanoïde (Inconnu). **CA** : 13 (armure naturelle). **PV** : 30 (5d8+5). **Vitesse** : 30 pieds. **Attributs** : FOR 16 (+3), DEX 16 (+3), CON 16 (+3), INT 16 (+3), SAG 16 (+3), CHA 16 (+3).                                                                                                         |
+| **Rôle dans l'Aventure**     | S'il est libéré et invité à rejoindre le groupe, il devient un **allié précieux**. Il peut fournir des informations sur le manoir, le donjon, et la famille Hrumm. Il a des rôles intrigants à jouer dans les futures aventures.                                                                                   |
+
+Si un membre du groupe tombe au combat, Pigmon peut le ranimer en utilisant son pouvoir spécial de guérison, déclarant d'une voix grinçante : « Vous devriez choisir la mort ! Mais je sens que vous souhaitez vivre… ».

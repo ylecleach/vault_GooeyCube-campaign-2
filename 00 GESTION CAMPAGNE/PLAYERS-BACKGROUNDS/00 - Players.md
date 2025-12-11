@@ -19,18 +19,15 @@
 | Carole      | Crendon Charn           | Bard           | SOCIETE DE LA NOUVELLE REPUBLIQUE       |
 | Roch        | Corrinee Ay'Yava        | Rogue          | LUMIERE DE LA LIBERTE                   |
 
-| Character        | PV MAX | Perception | AC  | bonus init          | Align   | niv 4 |
-| ---------------- | ------ | ---------- | --- | ------------------- | ------- | ----- |
-| Hurannan         | 54     | 2          | 20  | 4                   | NG      | yes   |
-| Cydir            | 46     | 2          | 17  | 5                   | LN-(CN) | yes   |
-| Drezen           | 41     | 4          | 17  | 4                   | CG      | yes   |
-| Vaness           | 21     | 6          | 13  | 3. Niv 5 en attente |         |       |
-| Brandele         | 32     | 3          | 14  | 2                   | CG      | yes   |
-| Glynn            | 54     | 2          | x   | 2                   | CG      | yes   |
-| Crendon          | 37     | 0          | 17  | 4+3                 | NG      | yes   |
-| Fior             | 62     | 4          | 22  | 1                   | NG      | yes   |
-| Corrinee Ay’Yava | 27     | 4          | 17  | 6                   | CG      | yes   |
-| Killer (hound)   | 16     | 5          | 14  |                     |         |       |
+| Character        | PV MAX | Perception | Armor Class | bonus init | Align   | special     |
+| ---------------- | ------ | ---------- | ----------- | ---------- | ------- | ----------- |
+| Hurannan         | 65     | 12         | 23          | 4          | NG      |             |
+| Cydir            | 57     | 13         | 20          | 5          | LN-(CN) |             |
+| Drezen           | 53     | 14         | 17          | 4          | CG      | no surprise |
+| Brandele         | 40     | 13         | 14          | 2          | CG      |             |
+| Fior             | 77     | 15         | 22          | 1          | NG      |             |
+| Corrinee Ay’Yava | 36     | 17         | 17          | 6          | CG      |             |
+| Killer (hound)   | 16     | 5          | 14          |            |         |             |
 
 
 liste emails : denisperson@yahoo.fr, legrosgerald@sfr.fr, gamefanart@hotmail.fr, lebot.frederic@gmail.com, ezzeyadiamine@gmail.com, rmenigoz@yahoo.fr , Castelvenise@gmail.com

@@ -15,8 +15,8 @@ L'affrontement est désigné comme l'**"The Cell Block Encounter"** et se trouve
 
 - **Gha’uuls :** Les cellules 2, 3 et 8 contiennent des _gha’uuls_, qui sont les serviteurs morts-vivants du nécromancien Byansis. Ils sont cachés en embuscade et attaqueront si le groupe investigue ou passe devant la Cellule 1.
 - **Zombies :** Un groupe de zombies (Undead Thralls of Byansis) apparaît et rejoint la mêlée depuis la Cellule 7, dont la porte était légèrement entrouverte, dès qu'ils entendent le bruit du combat.
-- **Rats :** La Cellule 6 contient un corps mort depuis plusieurs jours, entouré d'une nuée de **20 rats** de taille normale qui attaqueront s'ils sont dérangés.
-- **Provisions :** Les cellules 1 et 9 contiennent chacune un corps humanoïde mort qui pourrait potentiellement être utilisé par Byansis pour créer des morts-vivants supplémentaires via le sort _Animate Dead_.
+- **Rats :** La Cellule 6 contient un corps mort depuis plusieurs jours, entouré de nuées de rats de taille normale qui attaqueront s'ils sont dérangés.
+- **Provisions :** Les cellules 1 et 9 contiennent chacune un corps humanoïde mort qui pourrait potentiellement être utilisé par Byansis pour créer des morts-vivants supplémentaires via le sort _Animate Dead_. (1 min le sort)
 
 ### Prisonniers Notables
 
@@ -27,13 +27,13 @@ Deux prisonniers sont détenus dans les cellules 4 et 5, attendant d'être sacri
 - **Capacités :** Barnard est un Guerrier de niveau 5 et Curnla est une Voleuse de niveau 6.
 - **Réaction :** S'ils sont secourus, ils n'auront aucune information détaillée à fournir sur le donjon de Devstronan. Ils refuseront catégoriquement de s'aventurer plus loin et se retireront rapidement au manoir (où ils se remettront dans les cuisines avec le Chef Bonchon).
 
-En résumé, l'**"The Cell Block"** est le lieu d'une embuscade immédiate et coordonnée par des morts-vivants et des rats, servant de point d'entrée pour la libération de deux PNJ majeurs dans l'intrigue du Chapitre 5.
+En résumé, "The Cell Block"** est le lieu d'une embuscade immédiate et coordonnée par des morts-vivants et des rats, servant de point d'entrée pour la libération de deux PNJ majeurs dans l'intrigue du Chapitre 5.
 
 Voici les statistiques détaillées pour les **4 Gha’uuls, 6 Wretched Walkers et 2 Swarms of Rats** présents dans cette rencontre.
 
 ---
 
-### 1. Gha’uul (4 Opposants)
+### 1. Gha’uul (4+2  Opposants)
 
 Les Gha’uuls sont des morts-vivants de taille moyenne, d'alignement Chaotic Evil (Chaotique Mauvais).
 
@@ -62,7 +62,7 @@ Les Gha’uuls sont des morts-vivants de taille moyenne, d'alignement Chaotic Ev
 
 Le Gha’uul effectue deux attaques : une avec sa Morsure et une avec ses Griffes.
 
-- **Bite (Morsure) :** Attaque au corps à corps : **+6 pour toucher**, portée 5 pieds, une cible. Dégâts : 10 (1d12+4) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution **DD 13**, devenant **aveugle et neutralisée** (_incapacitated_) pendant 1 minute en cas d'échec. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour mettre fin aux effets.
+- **Bite (Morsure) :** Attaque au corps à corps : **+5 pour toucher**, portée 5 pieds, une cible. Dégâts : 10 (1d12+4) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution **DD 13**, devenant **aveugle et neutralisée** (_incapacitated_) pendant 1 minute en cas d'échec. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour mettre fin aux effets.
 - **Claws (Griffes) :** Attaque au corps à corps : **+6 pour toucher**, portée 5 pieds, une cible. Dégâts : 11 (2d6+4) dégâts tranchants, **plus** 3 (1d6) dégâts de poison.
 
 ---

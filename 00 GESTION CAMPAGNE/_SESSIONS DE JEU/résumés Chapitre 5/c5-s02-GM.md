@@ -1,45 +1,52 @@
 ### Debut / fin de session
 
-1) demander l'accord de tous les joueurs pour l'enregistrement AUDIO pour Génération automatique des résumés.
-2) Introduire nouveau joueur Frédéric, faire tour de table pour se présenter soi même (experience en JDR) et son personnage. Dire Son prénom de Joueur et ensuite son nom de personnage. (pour aider l'IA pour le résumé).
+1) lancer l'enregistrement audio.
+2) Faire tour de table : chaque joueur introduit son nom de personnage et classe et de joueur, et résume de son point 1 ou 2 éléments de la dernière session.
 3) rappel des nouvelles règles de bienséances et des horaires
-4) Fin de session 00h30: tour de table.
+4) Fin de session 00h30: tour de table obligatoire. (le moment préféré de la session d'une action qui n'est pas issue de son propre personnage)
+5) stopper enregistrement audio.
+6) GooeyBadDice à faire avec maxime
+7) Déléguer Gestion Initiative aux BRAVDA.
+8) Iniative: temps max par joueur et par role.
+9) regarder les fiches de personnage (ex: les carte de maxime, gooey rewards)
+10) encombrement/ limitation des ressources: à explorer. (ex: 2 batons pour le mage, 2 epees+bouclier, ...)
+11) anneaux: voir les maximums
+12) cadre: limites d'objets/armes.
+13) pouvoir anti-backstab (vs voleur) , ou contré vs un monstre qui détecte l'invisibilité.
+14) ex: monstre protégé du feu (vs lame du bravda)
+15) ex: certains mosntres protégé vs radiant. (ex dans un templte de norcréus ou du mal)
+16) ex: sorts de soins -50% dans certains pièces
+17) ex: Jinxx: relance de certains jet de dés.
+18) ex: le mage (joueur) qui relit ses sorts, se fait prendre pour cible par les monstres. (amélioration de son placement)
+19) life-stealing pour les monstres bénis par dieu du mal.
+20) mettre plu souvent des nécro qui soigne les monstres.
+21) CAMBIONS : penser aura.
 
 ### A PENSER
-* [[Mme Cravellé Ventrazia]] : comment les joueurs n'ont pas pris de précaution particulière, elle a régénéré, et va suivre les joueurs, après s'être soigné.  Invisible, mais odorante, tantôt sentant la pourriture, tantôt du parfum suave.
+* décompter le temps au fur et à mesure dans le donjon. Dire à l'oral, il est "11h00", etc.. où la nouvelle date si les joueurs se sont reposés.
 * [[Usage Pierre de Visions et Vision Attuned player pour chapitre 5]]
 * [[AEV-MONSTERS#Byansis Vonda (le bourreau)]] : sorts et sa routine
 * ET REVOIR MONSTRES dans [[B-Blocs Cellulaires (Stats Rencontre)]]
+* penser à the Beast. (pas évident de la sortir rapidement compte tenu de la porte de sa cellule)
+* Zara peut arriver à tout moment pour les guider.
 
 
 
 ### Contexte début de session (DM)
 
-Rencontres possibles au global
-* Mort vivants dans le jardin si les joueurs trainent trop dans le domaine - tant que le dreammist est actif
-* Glookest si les joueurs essayent de sortir dehors. (et un mort)
-
+* [[Mme Cravellé Ventrazia]] : comment les joueurs n'ont pas pris de précaution particulière, elle a régénéré, et va suivre les joueurs, après s'être soigné.  Invisible, mais odorante, tantôt sentant la pourriture, tantôt du parfum suave.
 
 ### Contexte début de session (joueurs)
-xxx
-
-
+* il est environ 10h00, le 25 th dezu'un SC 1212
 
 ### A PENSER
 2) [x] Quête de Brandele FANTOME: [[04 - mage - Brandele Steel - Frédéric#]] : [[Maevius Arcana#Quête de la baguette de Maevius Arcana]] 
 3) A chaque changement de salle voir Liste des Fantomes (Imprimé) Jouer les Fantomes (voir plus bas) pendant l'event la Chasse aux Fantomes. L'idée est de surprendre les joueurs avec d'autres fantomes que les fantomes méchants recherchés. 
 4) Chaque FANTOME peut donner des RUMEURS (voir Imprimé)
-5) Ne pas oublier les 3 évènements décrits plus bas. (05 Mère et fille, et 06 Zara, eg 07-Le fils du serviteur) et de jouer les fantomes.
-6) Jouer [[Theros Vegla]] lors du combat final, il viendra en sauveur pour terrasser un mini boss invoqué par la gouvernante. (un monstre à corne à la Conan, plus musique)
-7) penser aux [[Aeverlund Estate Rumors]]
-8) [[AE-GA-01-Chuchotements dans les couloirs]]: penser à préparer 3-4 post-it par session
-9) * (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières, **et il disparait par magie.**
-11) * des appels "Cherche-moi" de tant en temps au Muugda player
-12) Journal de Darkenhaven qui traine dans le manoir (Lord Creston peut avoir été vu en train de le lire) => à la fin du chapitre 4, il faudra leur rappeler qu'il traine dans le salon de Lord Creston.
-
-### A FAIRE
-* en FIN DE chapter, Annoncer Level-Up niv 5 à préparer pour la prochaine partie.
-* Fantomes : tableau pour indiquer les pièces où ils peuvent agir.
+5) Jouer [[Theros Vegla]] lors du combat final, il viendra en sauveur pour terrasser un mini boss invoqué par la gouvernante. (un monstre à corne à la Conan, plus musique)
+6) penser aux [[Aeverlund Estate Rumors]]
+7) * (Once) : **Brandele porte le sceau de Wardane**: s'il s'agit d'un joueur Droit ou Bon, la prochaine fois ***qu'il sera surpris au début d'un combat***, il entendra un avertissement silencieux d'une voix sévère, et ne sera pas surpris. Après cela, le symbole sacré n'a plus de propriétés particulières, **et il disparait par magie.**
+8) Journal de Darkenhaven qui traine dans le manoir (Lord Creston peut avoir été vu en train de le lire) => à la fin du chapitre 4, il faudra leur rappeler qu'il traine dans le salon de Lord Creston.
 
 
 ### FANTOMES
@@ -73,8 +80,6 @@ LISTE DES FANTOMES et définir leur lieux d'apparition.
 * **Un imbécile pour sûr**: pour DREZEN - Sous le tapis, à l'endroit de votre choix, un coin d'un morceau de papier dépasse. Si vous le ramassez, il s'agit en fait d'une carte à jouer du jeu de la Périlleuse Fortuité. Montrez le **Document 61 : La carte de l'imbécile** si les joueurs la trouvent. et ne pas oublier de faire pour le joueur Trickster : [[Continuing Secrets (chapter4)#La Carte du Fou (Le Trick PC)]]
 * [[NLE-05-Hello Dolly]]: poupée et Zara en plusieurs parties
 
-
-penser à mettre très régulièrement [[AE-GA-11-Poltergeist]] et [[AE-GA-01-Chuchotements dans les couloirs]] (le DM chuchotte pour que au moins un joueur entende) pour l'ambiance de la session. les imprimés ?
 
 ### la carte de l'imbécile (Drezen)
 faire un test DC 10 facile.

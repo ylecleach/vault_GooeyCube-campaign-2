@@ -22,3 +22,6 @@ d'autres doivent aller dans une autre.
 
 stuckshoe: les deux mercenaires sont peu etre là. la situation peut etre différent, il y a la mère et sa fille magicien.
 
+OUTILS DM
+* [Dice Calculator](https://dice.clockworkmod.com/) :  important pour ne pas rendre un combat trop mortel
+* 

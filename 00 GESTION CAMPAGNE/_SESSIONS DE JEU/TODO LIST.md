@@ -1,5 +1,17 @@
 
+Chapitre 6 - à inventer
+* [ ] traduire Menace in the Mist (au moins le résumé d'aventure) car se passe à PRONDADOL
+* [ ] faire un sondage pour savoir qui attend la suite de la campagne Red Star Rising, et ensuite communiquer à Alphinus.
+* [ ] Développer les Factions existantes et suivre conseils du Bouquin PA-RPG. (1 fiche par Faction), développer les Goals de la faction.
+* [ ] PNJ Clé: malum: dans quel direction est il allé.
+* [ ] Ventrazia et sa faction
+* [ ] rêve et boule de cristal de Cydir
+* [ ] utiliser l'IA pour s'aider et  Inventer une suite
+* [ ] Sort de Scrutation et Divination : se préparer pouvoir répondre => INVENTER Chapitre 6 et 7 en somme.
+* [ ] 
+
 **Prochaine Session**
+* [ ] voir comment simplifier un peu le donjon de devstronan. (moins de rencontre, mais des plus captivante)
 * [x] transférer le personnage de Brandele au nouveau Joueur Frédéric Misset (Rueil)
 * [x] analyser OM de Cydir, et travailler leur pouvoir.
 * [x] faire un résumé des résumés pour Fréd
@@ -7,14 +19,15 @@
 * [x] remanier quête du Lapin suite Arrêt de Amine/Glyn. passer par Glyn pour transmettre les informations de la quête aux différents protagonistes.
 * [x] remanier pouvoir du lapin.
 * [ ] RELIRE Règles de Jeux 5E (trouver des récaps - faire des récaps avec l'IA et les stocker)
-* [ ] RELIRE dernière résumé
 * [x] Caller rencontre avec Ventrazia (s'aider de l'IA ou pas) car il faut que les joueurs la rencontre. (se mettre à sa place)
 * [ ] Développer tous les Secrets Story des personnages
-* [ ] imprimer A4 Rêve initiatique de Drezen.
-* [ ] Déterminer le lieu de rencontre de tous les fantomes pour l'établissement du contrat. voir [[04-Rassemblement des fantômes]]
-* [ ] traduire GM / partie Contrat Fantomes pour pouvoir répondre aux questions
-* [ ] Sort de Scrutation et Divination : se préparer pouvoir répondre => INVENTER Chapitre 6 et 7 en somme.
+* [x] imprimer A4 Rêve initiatique de Drezen.
+* [x] Déterminer le lieu de rencontre de tous les fantomes pour l'établissement du contrat. voir [[04-Rassemblement des fantômes]]
+* [x] traduire GM / partie Contrat Fantomes pour pouvoir répondre aux question
 * [ ] Mettre un peu plus de capacité à Mme Ventrazia, et faire en sorte quelle survive pour revenir.
+* [ ] RUMORS: à traduire (notamment pour les 2 hobbits)
+* [ ] chercher ou inventer les origines de The Beast
+* [ ] Faire un PDF avec les liens de tous les résumés par chapitre.
 
 **Preparation Passage ProActive RPG (PARPG)**
 - [ ] faire une page A4 en francais pour expliquer le principe, les avantages pour les joueurs et le DM, redemander séparemment à chaque joueur de remplir ses 'goals', en leur donnant un modèle et les goals déjà donné.
