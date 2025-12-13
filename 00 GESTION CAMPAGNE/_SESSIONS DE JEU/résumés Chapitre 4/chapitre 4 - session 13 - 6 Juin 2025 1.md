@@ -1,4 +1,4 @@
-4 Joueurs présents :  Maxime, Erwann, Denis, Amine
+	4 Joueurs présents :  Maxime, Erwann, Denis, Amine
 Absents:  Carole, Fred, Gerald, Roch
 
 ![[Pasted image 20240210171308.png| 400]]
@@ -85,7 +85,7 @@ Vous apprirent les informations suivantes:
 * En outre, Hectarius ne se souciait plus guère de l'apparence de ses terres seigneuriales. Malgré tout, Fred s'occupait de ses affaires et gardait la tête baissée, même s'il savait qu'il se passait de mauvaises choses dans le domaine.
 * Un jour, il a été témoin de quelque chose qu'il n'aurait pas dû voir et, dans la nuit qui a suivi, les cultistes sont venus dans sa remise et l'ont massacré avec ses propres outils de jardinage - l'embrochant plus d'une douzaine de fois avec toutes sortes de dispositifs horticoles. 
 * Il a conservé son goût pour la culture des plantes, et on peut donc le trouver dans le solarium et aux alentours. Il parle volontiers aux visiteurs, mais il est plutôt morose et réticent à l'idée que les gens touchent les plantes. 
-![[Pasted image 20250515141754.png | 400]]
+![[Pasted image 20251211174615.png | 300]]
 
 Fior, très affecté par le récit de Frédrick, entama une prière à Aéliera, et s'attela à enlever les nombreux outils de jardin du corps de Fredrick.
 
@@ -173,7 +173,7 @@ La cloche annonciatrice de l'imminence du dîner vous surprend, et vous allèren
 
 **« Lord Creston Hrumm d'Aeverlund, je vous présente Sir Elton Krye et Maître Alexx Buché de Prondadol. Ils sont des enquêteurs qui souhaitent se renseigner sur des personnes disparues. « Lord Creston acquiesce, recule sa chaise et se lève. Ma'lum se met sur le côté pour permettre aux nouveaux arrivants d'entrer. Il semble que les valets de pied aient déjà pris en charge leurs manteaux et leurs armes. Lord Creston accueille les enqueteurs avec l'aisance d'un homme né dans la noblesse. « J'imagine que vos voyages ont été assez difficiles pour que vous vous retrouviez dans ce terrible brouillard. Il est heureux que vous ayez pu arriver ici sans encombre. Je vous prie de vous joindre à moi en tant qu'invités d'honneur et de prendre place à ma table pour un repas. »**
 
-![[Pasted image 20250606233148.png]]
+![[Pasted image 20251211174707.png]]
 
 
 * Elton posera des questions en particulier sur **Kaan Zan Cho** le commerçant et **Danda Soantu**, tous deux originaires de Prondadol. Il les décrira et dira qu'une récompense de 1 000 or a été offerte par la famille Soantu pour le retour de Danda sain et sauf.
@@ -222,7 +222,7 @@ Glyn fait un rêve spécialement créé pour lui. (voir feuille A4 fournie à lu
 
 **Vous restez endormi. Vous entendez maintenant un sifflement, comme si l'air passait à travers des dents pointues et serrées. C'est un bruit de colère, qui résiste à la présence croissante de la lumière. Vous apercevez alors la silhouette d'un homme qui vient vers vous depuis le centre de la lumière. Vous avez alors l'impression de tomber à la renverse dans un puits, et cette silhouette vous tend la main pour vous remonter. L'obscurité n'abandonne pas son emprise sur vous sans se battre. Cette silhouette, toujours encadrée d'une couronne de lumière, est maintenant assez proche pour que vous puissiez voir qu'il s'agit d'une femme. Elle a de longs cheveux et les vrilles de mousse de ses vêtements d'ombre sont agitées par un vent que vous ne pouvez pas sentir. Elle est la source de la lumière qui l'entoure et la raison pour laquelle l'obscurité recule, alors qu'elle se rapproche de vous pendant votre chute dans les ténèbres. Elle est maintenant assez proche pour que vous puissiez la toucher, et vous pouvez voir son visage - le même visage que celui du tableau dans le Salon des Invités. Le même visage que vous avez vu dans la salle à manger privée avec la jeune fille, le même visage que vous avez vu lorsque la jeune femme est montée dans votre chariot juste avant votre arrivée à Aeverlund.
 
-![[Pasted image 20250320215805.png | 400]]
+![[Pasted image 20251211174755.png | 400]]
 
 (parlant doucement avec un murmure)
 
@@ -248,7 +248,7 @@ Après quelques minutes à vous remettre de ce rêve que vous comprenez assez vi
 ### Mon enfant a disparu
 **Gertreece Umbsdall** la femme de chambre s'approchera de vous complètement paniquée. Gertreece est affolée et pleure, ses mots sont presque inintelligibles à cause de l'hystérie. Vous la reconnaissez bien comme une servante et comme la femme avec le jeune garçon derrière ses jupes de la première nuit. Une fois que le groupe peut la calmer suffisamment pour qu'elle parle clairement, elle leur dira que son fils, **Kyndall**, a disparu.
 
-![[Pasted image 20250605215234.png]]
+![[Pasted image 20251211174814.png]]
 Comme dans un premier temps, Fior et Hurannan ne souhaitait pas l'aider, elle alla voir si les inquisiteurs pouvait l'aider.
 
 Zara apparait sur le lit de Fior et scandalisé par l'attitude de Fior de ne pas aider à retrouver le petit garcon, qui est son seul camarade de jeu et ami, se met à lui crier dessus.  Finalement, Fior céda à Zara devant tant de volonté et touché par cette histoire.

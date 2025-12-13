@@ -84,7 +84,7 @@ après quelques instants.
 
 **Sans crier gare, l'enfant réapparaît devant vous. Elle aussi semble observer la scène, mais se tourne juste assez pour vous regarder. D'une voix qui vous pique la peau et fait se dresser les poils de votre cou et de vos bras, elle parle... **
 
-![[Pasted image 20250515133903.png| 400]]
+![[Pasted image 20251211173513.png | 400]]
 
 **« Prêtez attention, c'est important. » **
 
@@ -94,7 +94,7 @@ Description de la pièce APRES la vision:
 
 **En entrant dans ce qui semble être une sorte de bureau ou d'antre, vous apercevez un grand bureau contre le mur. Juste au-dessus, il y a une grande fenêtre à trois panneaux. Deux tapisseries d'un rouge poussiéreux, toutes deux ornées d'un écusson représentant un corbeau aux ailes déployées, sont suspendues au mur de pierre, de part et d'autre des fenêtres.  Des ruisseaux de cire solidifiée tombent en cascade sur le bord du bureau, comme s'ils étaient suspendus dans le temps.. Plusieurs lampadaires de type torchère ont été placés tout autour de la pièce de telle sorte qu'ils constituent plus un obstacle qu'une aide à l'éclairage. La pièce est un capharnaüm de papiers et de parchemins, de livres et de journaux. Il ne semble pas y avoir de sens de l'organisation, comme si c'était l'œuvre d'un esprit un peu fou. Une fine couche de poussière recouvre le sol, le bureau et toutes les autres surfaces de la pièce, révélant un manque d'attention de la part des domestiques. L'air vicié et lourd flotte dans la pièce... empli du souvenir des années passées.**
 
-![[Pasted image 20250522225418.png| 600]]
+![[Pasted image 20251211173530.png | 600]]
 
 Vous fouillèrent la pièce de fond en comble:
 
@@ -120,7 +120,7 @@ S'ensuivit une bonne partie de role play, pendant que Cydir (que le DM n'avait p
 
 | Marian Meeks (fantome)                      |
 | ------------------------------------------- |
-| ![[Pasted image 20250515135921.png \| 400]] |
+| ![[Pasted image 20251211173554.png \| 400]] |
 ***Mission donnée par Marian Meeks***
 * Elle vous demande de l'aider à ranger ses livres dans la bibliothèque, et de suivre des critères stricts de classement
 * Elle vous indique aussi qu'elle souhaite retrouver un livre dont le titre est l'île aux oiseaux. 
@@ -139,9 +139,9 @@ En entrant dans la pièce, l'un des joueurs remarquera que les deux tableaux ont
 
 En entrant dans la pièce que vous connaissez bien, et que certains d'entre vous (Corrinee en particulier) redoute, vous êtes immédiatement attaqué par le Ghyist appelé le **Crâne Enflammé.**
 
-| Flaming Skull                               |
-| ------------------------------------------- |
-| ![[Pasted image 20250317230215.png \| 400]] |
+| Flaming Skull                                 |
+| --------------------------------------------- |
+| ![[Pasted image 20251211173612.png \| 400]]\| |
 Stat de Combat:
 pdd: point de dégats - entre parenthèse le nb d'attaques réussies.
 1) Corinnee : 50 pdd (2) dont une critique (20 nat) de 42 pdd (mais ne stacke pas les pdv car ghyist immunisé dégat nécrotique)
@@ -165,9 +165,10 @@ Brandele, accompagnée de Drezen et Corrinee, va à l'Observatoire (2-7)
 
 RP Rencontre de Brandele avec un fantome "Ghyist" Maevius Arcana. (PNJ généré en grande partie avec IA, pour son image et son idée de background mais pas tout quand même)
 
-| Maevius Arcana                             |                                                 |
-| ------------------------------------------ | ----------------------------------------------- |
-| ![[Pasted image 20250516191414.png\| 400]] | ![[Pasted image 20250516191436.png \| 600]]<br> |
+| Maevius Arcana                              |                                             |
+| ------------------------------------------- | ------------------------------------------- |
+| ![[Pasted image 20251211173630.png \| 400]] | ![[Pasted image 20251211173657.png \| 400]] |
+|                                             |                                             |
 En résumé, Maevius Arcana était un magicien puissant de Darkenhaven, assassiné brutalement par Heronius Hrumm en raison de ses activités sombres. Son esprit, piégé par la magie du domaine, hante maintenant le manoir d'Aeverlund en tant que Ghiyst, cherchant vengeance ou cherchant à exposer et détruire le mal qui a mené à sa fin.
 
 Il dira d'abord à Brandele Steel qu'il ressent :
@@ -226,7 +227,7 @@ Au moment où vous arrivez dans le Hall d'entrée, le tintement des cloches indi
 
 Quelques instants plus tard, Ma'lum revient accompagné de deux personnes.
 
-![[Pasted image 20250320211942.png]]
+![[Pasted image 20251211173828.png]]
 
 **Bonjour, Nous cherchons à parler au seigneur  Lord Creston Hrumm. Ma'lum, plein de déférence répondit par un "Bien entendu messires, je vous en prie, je vais le chercher de ce pas, mais avant cela, vous voudrez bien laisser à l'entrée, armes, et vos affaires encombrantes. Les majordomes arrivant d'on ne sait-où, déchargèrent les visiteurs pour les mettre à l'aise. Ma'lum dit, vous voudrez bien attendre Monseigneur dans le Salon des Invités (1-2).**
 

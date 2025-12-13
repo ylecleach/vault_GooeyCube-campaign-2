@@ -96,7 +96,7 @@ Derrière l'énorme statue, vous arrivèrent dans une pièce avec un pentagrame 
 
 **Soudain, un hurlement déchirant perce la nuit en provenance du manoir, auquel répond presque immédiatement un rugissement à vous glacer le sang au loin.  (rien à voir avec le monstre Gloorkest qui rode dans la Brume à l'extérieur du domaine. Alors que vous observez la situation, vous apercevez Fletch qui s'approche de vous depuis les brumes. Il hurle en s'approchant... « Me lairds ! My lairds ! Méfiez-vous ! » Il saigne d'une blessure à la tête.
 
-![[Pasted image 20250905055051.png | 400]]
+![[Pasted image 20251211175419.png | 400]]
 
  **« Des esprits effrayants se déchaînent dans cette maison, messieurs les lairds ! N'entrez pas là-dedans ! »** 
  
@@ -123,7 +123,7 @@ Ensuite, avec les rescapés de la tentative de sacrifice (l'enfant Gerem et les 
 Le groupe monte au 3 eme etage, et vous commencez à explorer les lieux.
 
 ### Plan du 3eme étage
-![[Pasted image 20250905061234.png | 600]]
+![[Pasted image 20251211175453.png]]
 
 ### Le Couloir principal du 3eme étage
 
@@ -144,13 +144,13 @@ Fior fait immédiat une prière en disant **"Au Nom de ma déesse Aéliera, disp
 
 ### Chambre d'invités de marque (3-9)
 
-![[Pasted image 20250116144149.png | 600]]
+![[Pasted image 20251211175511.png | 600]]
 
 **Une odeur subtile de renfermé vous accueille lorsque vous entrez, et le parquet craque à chaque pas que vous faites. Vous apercevez un grand lit à baldaquin et literie à motifs floraux, qui semble n'avoir pas été dérangé depuis un certain temps, disposé contre le mur sud. Une table de nuit trapue se trouve à proximité, surmontée d'un orbe en cage spiralée. Des toiles d'araignées ancrent le ((haut de la verrière au)) plafond en plâtre. Une lumière glaciale traverse les rideaux tirés, encadrant la fenêtre grillagée du mur ouest. Une grande armoire en bois  imposante remplit le coin nord-ouest de la pièce, tandis qu'une cheminée occupe le centre du mur nord. Une modeste armoire à alcool contenant un assortiment de bouteilles sombres, avec une couronne de carafes poussiéreuses, se trouve dans le coin nord-est. Une petite porte est également visible, menant probablement à une cave ou à un placard plus grand.**
 
 ### Chambre d'Héronia (3-6)
 
-![[Pasted image 20250116141930.png | 600]]
+![[Pasted image 20251211175527.png | 600]]
 **La pièce est complètement déchirée. L'odeur nauséabonde de l'excrément humain flotte dans l'air et provient d'un pot de chambre qui n'a pas été vidé depuis longtemps. Des plumes et du rembourrage sont éparpillés partout sur des oreillers tailladés et un matelas en lambeaux. Un trio de chaises est disposé au centre du sol avec une couette drapée dessus. Un minuscule globe lumineux dans une cage de laiton en spirale trône dans la tente de fortune, à côté d'une robe de mariée soigneusement disposée. Le miroir du boudoir a été brisé et des traces de sang séché sont visibles au centre du réseau de fissures en toile d'araignée. Aucun autre globe lumineux sur les murs ou dans le lustre ne semble fonctionner... d'autant plus que certains ont été brisés. Une femme âgée est assise dans la tente, dos à la porte. Elle bafouille en se balançant d'avant en arrière et tend la main pour toucher la robe de mariée à son côté avant de la retirer rapidement... comme si la robe était un serpent qui se prépare à frapper.**
 
 ### Chambre de Lord Creston
@@ -233,7 +233,7 @@ Fior arrivera à dialoguer avec elle et à la rassurer.
 * **Dessins effrayants** : Parmi un certain nombre de dessins au fusain grossiers empilés près d'une des chaises, il y en a trois qui semblent plus détaillés et de meilleure qualité que les autres. Ils donnent également une impression de malaise à ceux qui les regardent. L'un d'eux représente un asticot dégoûtant, le deuxième une petite monstruosité démoniaque aux yeux malveillants, et le troisième une abomination ressemblant à un serpent avec un visage de petite fille et une langue fourchue sortant de ses lèvres. L'expression du visage de la créature-serpent est purement diabolique.
 
 ### Nurserie
-![[Pasted image 20250116142823.png | 600]]
+![[Pasted image 20251211175552.png | 600]]
 **En entrant, vous voyez un berceau avec un baldaquin à la tête. Une plaque de laiton est incrustée au pied du petit lit. De profondes rainures sillonnent la plaque au-dessus d'une gravure illisible. La tapisserie en soie brillante qui recouvre le petit lit est pleine de trous de mites et de taches de décoloration. Un rocking-chair cassé est couché sur le côté à quelques mètres du berceau. Un petit lit unique, dont les quatre coins sont fixés par des boulons, se trouve de l'autre côté de la pièce, à côté du berceau. Un squelette poussiéreux vêtu d'une robe sombre est affalé contre l'un des murs. Sa cape est ouverte au niveau de la poitrine, ce qui permet de voir la partie supérieure de la cage thoracique du défunt. Le sternum et les côtes présentent des entailles profondes de forme circulaire. À l'intérieur de ces rainures se trouve une entaille perceptible où une partie de l'os a été brisée au-dessus du cœur. Aucune des lampes à incandescence de la pièce ne fonctionne, seule la lumière froide de la fenêtre entrant dans la pièce.**
 
 En entrant dans la pièce, vous entendez les pleurs d'un enfant, qui semblent provenir de la zone du berceau, bien qu'aucune source ne soit visible. Au fur et à mesure que le temps passe, les pleurs pitoyables se transforment en cris démoniaques glaçants.
@@ -292,7 +292,7 @@ La pièce a un diamètre d'environ 30 pieds. Des escaliers descendent vers le sa
 
 ### La chambre à coucher de Ma'lum
 
-![[Pasted image 20250116145634.png | 600]]
+![[Pasted image 20251211175615.png | 600]]
 **L'arôme agréablement sucré, mais subtil, des airelles rouges flotte dans l'air. La lumière chaude provenant d'un petit foyer incurvé le long de la partie nord-est du mur baigne la pièce d'une lueur vivifiante. On peut voir des chaises richement rembourrées et une chaise longue d'aspect confortable, disposées en demi-cercle autour de la cheminée flamboyante. Des rideaux de couleur lie-de-vin encadrent quatre fenêtres qui pointent dans les quatre directions principales autour de la circonférence de la pièce. Une seule rangée d'étagères, d'une hauteur d'environ un mètre quatre-vingt, s'étire le long du quart sud-est de la pièce. Dans l'ensemble, l'espace circulaire semblerait tout à fait loufoque... à deux exceptions près. D'où vous êtes, vous pouvez voir un petit bureau dont le cadre en bois d'érable est incrusté de volutes dorées. Divers bocaux et récipients en verre de différentes tailles sont disposés sur son plateau. La plupart semblent contenir les restes macabres de différentes espèces : la tête conservée d'un lézard, un bébé kobold dans la saumure, des oreilles d'elfe séchées, une mâchoire inférieure orque et les os des doigts d'un nain. Il existe également d'autres spécimens anatomiques moins reconnaissables. En plus de la sinistre collection sur le bureau, il y a un autre élément troublant dans cette pièce par ailleurs accueillante. Au lieu d'un lit richement décoré avec des draps de soie, une boîte en forme de cercueil avec un tissu violet repose sur une estrade surélevée au centre de la pièce. Une petite table ronde est posée près de la tête de la boîte, surmontée d'un gobelet en cristal. Un liquide d'un rouge profond remplit le calice transparent presque jusqu'au bord... Vous pouvez à peine reconnaître une autre odeur en opposition à l'arôme de myrtille... elle a une teinte presque cuivrée.**
 
 C'est la chambre à coucher de Ma'lum. Les escaliers descendent à la salle de l'autel de Ma'lum (2-19). 

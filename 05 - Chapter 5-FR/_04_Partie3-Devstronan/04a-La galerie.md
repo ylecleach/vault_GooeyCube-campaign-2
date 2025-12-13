@@ -23,10 +23,11 @@ Alors que les PJ regardent les tableaux et les objets d'art...
 >_Wretched Walkers_ (marcheurs misérables)
 _See Battle Stats in GM Reference Book, page 15._
 
-![[Pasted image 20251106202439.png| 550]]
+![[Pasted image 20251211180407.png | 550]]
 ![[Pasted image 20251106202324.png]]
 ![[Pasted image 20251106202330.png]]
-![[Pasted image 20251106202357.png]]
+![[Pasted image 20251211180551.png]]
+![[Pasted image 20251211180607.png]]
 
 # Loot
 Remarque : chacun de ces petits bustes semble avoir une grande valeur, peut-être 50 pièces d'or ou plus pour un connaisseur. Cependant, la plupart sont assez lourds et difficiles à transporter ; la coupe et le crâne sont les plus faciles à emporter. Parmi eux, seul le crâne gravé est magique. **Il contient l'âme de Drevix Daag,** [[DES-MONSTERS#Drevix Daag]] qui fut autrefois l'apprenti de Heronius Hrumm. Il a été piégé dans cet état lorsqu'il a déplu à son maître. Il se réveillera lentement s'il est pris par l'un des personnages. Il veut désespérément s'échapper de sa prison et tentera de contrôler celui qui prendra le crâne. Une fois que le crâne est en possession de l'un des personnages, celui-ci ne voudra plus s'en séparer et se battra même pour le protéger. Au fil du temps, Drevix commencera à parler au joueur (voir la section Objets spéciaux pour plus d'informations sur l'objet spécial 05 : Crâne prison de Drevix Daag).

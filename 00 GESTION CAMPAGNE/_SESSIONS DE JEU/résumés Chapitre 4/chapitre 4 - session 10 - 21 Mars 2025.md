@@ -21,7 +21,7 @@ Peu après, on entend un coup sec sur la porte, suivi de la voix plutôt drolati
 
 **"Belle matinée, messieurs. Le petit déjeuner sera servi dans une heure dans la salle à manger principale."
 
-![[Pasted image 20250508223126.png | 300]]
+![[Pasted image 20251211173016.png | 300]]
 
 Brandele et Corinee décident d'aller se laver ensemble, pendant que Fior demande à un valet de pied de ramener de la nourriture et une gamelle d'eau pour nourrir le molosse Killer que vous avez pu retrouvé chez les butchers dans le Marais de StuckShoe.
 
@@ -78,7 +78,7 @@ Hurranan Banaï le Guerrier nouveau Bravda élu, et Cydir Du Vent Aveugle s'avan
 
 Le Monstre est un Burrowing BoneThief, soit un Voleur d'Os Fouisseur.
 
-![[Pasted image 20250508183902.png | 600]]
+![[Pasted image 20251211173057.png | 600]]
 
 ![[combat-Burrowing-BoneThief-chapitre4-session10.jpg | 600]]
 

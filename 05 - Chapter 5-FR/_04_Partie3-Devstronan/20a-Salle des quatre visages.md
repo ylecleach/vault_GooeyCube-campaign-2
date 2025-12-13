@@ -1,6 +1,8 @@
 **Les escaliers mènent à une pièce assez grande... d'environ 7,5 à 9 mètres carrés avec un plafond d'environ 4,2 mètres de haut. Au centre de chacun des quatre murs se trouve un bas-relief représentant un visage d'environ 2,1 mètres de large sur 3 mètres de haut. Les quatre visages sont très étranges et semblent tous vous regarder. Il y a une inscription sous chaque visage. Il n'y a rien d'autre dans la pièce et aucune porte ne permet de sortir, à l'exception du couloir étroit avec des escaliers qui montent au nord-ouest. [Montrez les documents 42 à 47, le cas échéant.]
 
+![[Pasted image 20251211181148.png]]
 
+![[Pasted image 20251211181214.png]]
 Un **jet de Sagesse (Perception) ou d'Intelligence (Investigation) réussi avec un DD de 14** révèle que chaque visage a une fente dans la bouche. Les fentes mesurent environ 7,5 cm de long et 6 mm de haut, la taille idéale pour y glisser une pièce de monnaie. 
 
 Déposer une pièce d'or dans la fente OUEST ouvrira la porte.

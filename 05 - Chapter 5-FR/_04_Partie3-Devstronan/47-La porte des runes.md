@@ -1,8 +1,7 @@
 **Le passage est barré par une énorme porte qui s'élève jusqu'au plafond. Les barreaux de fer noir sont trop rapprochés pour que même les personnes les plus minces puissent se faufiler entre eux. Une lueur rougeâtre entoure la porte, provenant peut-être des runes gravées tout autour. Un gros cadenas au centre de la porte semble être le seul moyen de passer de l'autre côté. 
 
 [Montrer le document 56 : La porte des runes]
-![[Pasted image 20251123190201.png]]
-
+![[Pasted image 20251211181425.png]]
 Il est impossible de franchir la porte sans l'une des clés, qui sont détenues par les prêtres morts-vivants et le roi Gha'uul. 
 
 Toute tentative de franchir les barreaux par des moyens magiques, par exemple à l'aide d'un sort de téléportation ou de téléportation instantanée, aura pour effet d'expulser le personnage qui tente de le faire et de lui infliger 11 (2d10) points de dégâts de force. Un lanceur de sorts examinant les runes ne pourra pas déterminer leur nature exacte, mais il peut être certain que toute tentative de contourner la serrure ou d'endommager les portes entraînera de graves dommages. 

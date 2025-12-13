@@ -1,6 +1,6 @@
 **Cette zone qui empeste les excréments et l'urine, est un long couloir, avec des portes de cellules en fer des deux côtés qui s'étendent sur toute la longueur, se terminant par une autre porte de cellule unique. Deux torches à mi-chemin éclairent la zone. Plusieurs cages en fer sont suspendues dans les airs. L'une d'elles est immense, comme si elle était destinée à accueillir un Goruund ou une personne de taille similaire. Les autres sont de taille suffisante pour accueillir de jeunes enfants. Sur la droite se trouvent un bureau et un tabouret, et plusieurs tonneaux sont éparpillés un peu partout.  [Montrer le document 04 : Bloc cellulaire]
 
-![[Pasted image 20251012221851.png]]
+![[Pasted image 20251211175938.png]]
 
 ###  gémissement
 Tout personnage dont la Perception passive est d'au moins 13 entend un faible gémissement provenant de quelque part dans le couloir. 

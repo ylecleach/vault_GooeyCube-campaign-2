@@ -2,7 +2,7 @@
 
 **Cette pièce de 6 mètres sur 6 mètres est entièrement construite à partir de ce qui semble être du fer forgé à froid. Sur les quatre murs sont gravés des cercles thaumaturgiques en filigrane argenté, et le même symbole est gravé sur le sol. L'argent de ces glyphes protecteurs brille, créant la seule source de lumière dans cette pièce autrement plongée dans l'obscurité totale, à l'exception de la lumière qui filtre maintenant par la porte ouverte. Dans l'obscurité au fond de la pièce, on distingue la silhouette floue d'une grande créature bestiale. Deux énormes pupilles blanches qui reflètent la lumière argentée vous fixent du regard. Que faites-vous ?
 
-![[Pasted image 20251012232801.png]]
+![[Pasted image 20251211180032.png]]
 
 Si les joueurs restent:
 

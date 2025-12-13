@@ -4,7 +4,7 @@ Le repaire d'Olgkhoi [Montrer le document 11 : Entrée du repaire d'Olgkhoi]
 
 AMBIANCE: C'est l'endroit idéal pour créer du suspense, avec quelque chose qui frotte contre la jambe d'un personnage, une dépression dans le sol qui le fait glisser, etc.
 
-![[Pasted image 20251014222819.png]]
+![[Pasted image 20251211180131.png]]
 
 La première fois que le groupe rencontre Olgkhoi ici, choisissez l'un d'entre eux pour voir ce qui suit : 
 

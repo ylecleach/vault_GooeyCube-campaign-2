@@ -47,7 +47,7 @@ Cydir remarque un scintillement dans l'âtre, comme l'agonie d'un feu, mais dans
 
 Tout à coup, un Ghyist apparaît devant le miroir, juste derrière la pauvre Corinee qui se rend compte d'un danger immédiat, en lisant une peur indiscible dans les beaux yeux de Brandele la mage...
 
-![[Pasted image 20250317230255.png | 400]]
+![[Pasted image 20251211173253.png | 400]]
 
 ### Combat contre l'Eventreur Masqué.
 
@@ -99,7 +99,7 @@ Vous êtes au second étage, et vous vous retrouvez dans la pièce suivante
 
 
 Rencontre avec le **Chef Salvé Bonchon** dans la cuisine préparatoire, il demande de retrouver sa cervelle dans la cuisine au 1er étage.
-![[Pasted image 20250515140314.png | 400]]
+![[Pasted image 20251211173318.png | 400]]
 
 Vous descendire donc au premier étage dans la Cuisine.
 
@@ -130,7 +130,7 @@ Fait marquants
 Tout a coup, alors que rien ne laissait le présager, un second Ghyist vous attaque.
 
 ### Combat contre épéiste sans tête
-![[Pasted image 20250317230237.png | 400]]
+![[Pasted image 20251211173357.png | 400]]
 Le combat fut bref, mais les Parades spéciales de ce fantôme vous donnèrent des frissons, et vous vous dites qu'en son temps, l'homme qu'il fut devait être un fin bretteur qui aurait pu vous mettre en déroute.
 
 ### L'atelier d'artiste
@@ -158,7 +158,7 @@ Fait marquants:
 L'un des PJ verra une **silhouette étrange et ombrageuse** derrière son reflet dans les miroirs ; ses mouvements sont trop proches pour qu'il puisse en discerner quoi que ce soit, mais il semble certain qu'une présence spectrale hante ses mouvements pendant qu'il se trouve dans cette pièce.
 
 ### Ghyist Horrible Fayree
-![[Pasted image 20250317230309.png | 400]]
+![[Pasted image 20251211173420.png | 400]]
 
 Attaque du Ghyist Fayree horrible qui sort du miroir de danse devant Corrinee : la fayree traverse le corps de Hurranan et s'attaque à brandele, mais cette derner lance un sort de Foulée Brumeuse. (Mysty Step), et s'en sort indemne.
 

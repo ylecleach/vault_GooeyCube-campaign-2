@@ -59,7 +59,7 @@ Le repas se termine, Lord Creston vous propose de le retrouver au Solarium dans 
 
 ### Salle de Bain
 
-![[Pasted image 20250129133604.png]]
+![[Pasted image 20251211172421.png]]
 
 **Dans cette pièce, une porte sort directement devant vous. Des cabines avec des portes battantes et un cabinet d'aisance se trouvent d'un côté. Trois baignoires à pattes en cuivre se trouvent en face d'elles, avec des rideaux suspendus à des rails en laiton pour plus d'intimité. Des carreaux de marbre recouvrent le sol et la moitié inférieure des murs. Un lavabo se trouve de part et d'autre des cabinets d'aisance, et des serviettes sont suspendues à des barres en laiton à proximité. Un luminaire au plafond, une ruche de cylindres de laiton et de cristal entrelacés, diffuse une lumière jaune-orange - et de la chaleur, ce qui fait de cette pièce l'une des plus chaudes que vous ayez visitées depuis votre arrivée.
 
@@ -75,11 +75,13 @@ Pendant ce temps, Drezen sans vous prévenir, s'absente pour aller visiter les l
 
 | Marian Meeks                                                                                                                                                                              | Doozen Fulbitz                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![[Pasted image 20250129184330.png]]                                                                                                                                                      | ![[Pasted image 20250129184436.png]]                                                                                                                                                                               |
+| ![[Pasted image 20251211172553.png]]                                                                                                                                                      | ![[Pasted image 20251211172621.png]]                                                                                                                                                                               |
 | Bien que plutôt silencieuse, elle est tout à fait aimable, surtout pour un fantôme. Dans sa vie, elle s'est entichée des livres et son obsession pour le savoir est toujours aussi forte. | Même sur son visage fantomatique, on peut lire un changement de cap chez cet ancien gestionnaire du domaine. D'une certaine manière, même dans la mort, il semble toujours à la recherche d'un avantage personnel. |
+|                                                                                                                                                                                           |                                                                                                                                                                                                                    |
+|                                                                                                                                                                                           |                                                                                                                                                                                                                    |
 
 ### Solarium 
-![[Pasted image 20250129133704.png]]
+![[Pasted image 20251211172714.png]]
 **Les grandes portes à double battant s'ouvrent sur un conservatoire botanique, ou solarium. La chaleur de l'air vous envahit et vous pouvez sentir l'humidité se répandre dans le foyer. Les parfums de plantes et de fleurs tropicales imprègnent agressivement l'air à partir d'un assortiment de plantes en pot réparties dans la pièce. Une autre odeur se cache derrière les fleurs herbacées qui dominent vos sens, mais vous n'arrivez pas à l'identifier. Des dizaines de plantes différentes et même cinq ou six petits arbres tropicaux dans de grands récipients en argile sont visibles à l'endroit même où vous vous trouvez. Des lianes tenaces s'accrochent aux murs et au plafond de pierre pour empêcher leurs vrilles tombantes de toucher le sol. Au centre de la pièce, niché au milieu de la verdure, se trouve un coin salon avec deux chaises usées par le temps, une petite table et un coffre de rangement.
 
 Après un examen plus approfondi, le groupe peut voir que de nombreuses plantes à feuilles présentent des traces de flétrissement et de champignons aspic. D'autres présentent un brunissement des bords des feuilles qui peut sembler être une simple variation de couleur jusqu'à ce que vous vous approchiez. Le coffre contient des outils de jardinage et des sacs de terreau.
@@ -93,7 +95,7 @@ Après un examen plus approfondi, le groupe peut voir que de nombreuses plantes 
 **« Excellent. La première tâche commencera demain matin, lorsque la brume et le brouillard se seront un peu dissipés. Il y a un abattoir sur le domaine où le gibier et le bétail sont abattus pour nourrir le manoir. Malheureusement, ce maudit brouillard qui plombe le domaine et la campagne environnante depuis toujours semble avoir poussé une créature du fond des bois à se réfugier sur notre domaine. Elle a manifestement trouvé dans l'abattoir l'endroit idéal pour faire sa tanière, et elle y est restée depuis. On m'a dit qu'elle s'aventurait parfois pour harceler notre bétail, ainsi que les serviteurs et le personnel dont les tâches consistent à entretenir le domaine et ses animaux. Nous n'avons pas les moyens de tuer la bête, mais je crois que vous avez la force de résoudre ce problème. »
 
 ### Salle de Musique 
-![[Pasted image 20250129134229.png]]
+![[Pasted image 20251211172750.png]]
 **En entrant, de petites ampoules ombragées placées dans des appliques à linceul s'allument, éclairant faiblement la petite pièce. La première chose que l'on remarque, c'est que presque tout est caché sous des draps de lin et une couche de poussière, à l'exception d'une magnifique harpe en bois d'aulne qui se trouve dans un coin, près d'une fenêtre. Un tableau noir en ardoise sombre est accroché au mur nord, près de la harpe, avec un mélange chaotique de taches, d'écritures effacées et de notes de musique en tablature dessinées à la main. Quelques feuilles sèches sont éparpillées sur la moquette usée devant la porte sud-est. 
 
 Crendon s'installe et se met à jouer sur cette Harpe qu'elle semble maîtriser à la perfection malgré qu'elle n'ait jamais eu cet instrument entre les mains avant ! 
@@ -109,13 +111,13 @@ Après cette performance, vraiment digne du Voile Bleu, Creston remercie Crendon
 | ![[OM - citare.png \| 100]]<br> | Brandele utilise un parchemin d'identification, et révèle les propriétés magiques de la citare, qui s'avère très puissante, et se révèlera notamment très pratique pour protéger le groupe des sorts et aptitudes des démons. Cette citare est décorée par des sculptures en bois, représentant un renard (tête de citare), et d'une tête de démon (bas de la Citare).<br> |
 Corinee pendant ce temps trouve collé au pied de la harpe, une petite boîte portant le nom de "**Hurranan**" sur le couvercle. A l'intérieur se trouve une pièce d'or porte bonheur (magique). Un second cadeau de Kizmya en plus du bouclier déjà trouvé pendant vos aventures ?
 
-![[Pasted image 20250129135945.png | 200]]
+![[Pasted image 20251211172900.png | 200]]
 
 ### Découvertes dans la chambre
 
 Sur le sol, à côté de la harpe, se trouve un ensemble de partitions. La chanson s'intitule « La complainte du voyageur » et est bien connue des Hanataz. C'est une chanson triste et douloureuse qui sera familière à au moins certains des PJ. Certains disent qu'elle a été écrite par Zylea Elle même. (voir document 72 - The Traveler's Lament)
 
-![[Pasted image 20250129134614.png | 400]]
+![[Pasted image 20251211172921.png | 400]]
 
 Traduction (Deepl.com) : 
 
@@ -139,7 +141,7 @@ Où sera alors toute loue... tous peuvent mourir, tous peuvent mourir.
 	Ask AI: qui est Zyléa Aléana ?  c'était la première du peuple Hanataz. Elle est décédée vers 222 SC et a été enterrée dans un lieu secret que seuls les chefs de troupe bondurans les plus anciens connaissent. Il n'y a aucune autre information sur Zyléa dans les sources.
 
 ### Fumoir
-![[Pasted image 20250129135337.png]]
+![[Pasted image 20251211172943.png]]
 **L'arôme puissant de la feuille de pipe et de l'herbe à pipe, qui sentent bon, plane lourdement sur la pièce lorsque vous entrez. En effet, il y a plus qu'un peu de fumée qui tourbillonne dans l'air. Une grande baie vitrée, percée dans le mur ouest, éclaire la pièce rectangulaire d'une lumière diffuse. La pièce est meublée de fauteuils et de poufs d'apparence confortable, placés à côté de tables courtes. Une touffe de rembourrage pend de l'un des bras du fauteuil, preuve de la présence de la vermine qui s'est réfugiée dans le manoir. Des cendriers décoratifs peints de paysages émaillés jonchent les petites tables, ainsi que plusieurs bouteilles entamées d'alcools coûteux. Une grande armoire à alcool occupe le mur sud. Des miroirs sont alignés à l'arrière du meuble, mais la poussière et les toiles d'araignée masquent les reflets de leur surface. À l'avant se trouve un bar en pierres empilées avec un comptoir en acajou. Outre les doubles portes sculptées à l'infini qui mènent à l'est, une autre s'ouvre sur le balcon du foyer, au nord.
 
 Creston accepte la proposition de Fior de finir la soirée au fumoir. Ce fut encore une fois, un moment très agréable pour Lord Creston qui se vit proposer un choix de Pipes et de tabacs de qualité glanés au fil des aventures par Fior. Lord Creston choisir une pipe en bois, et une herbe de tabac au gout chocolat sundestian. A noter, que c'est la première fois que vous voyez sourire le Lord, qui grâce à vous, a  réussi à passer un moment agréable et à se détendre.

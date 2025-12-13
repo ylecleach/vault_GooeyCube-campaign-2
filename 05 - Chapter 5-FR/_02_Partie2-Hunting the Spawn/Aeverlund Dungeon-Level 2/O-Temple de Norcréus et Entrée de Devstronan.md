@@ -6,7 +6,7 @@ Une fois qu'une source de lumière est apportée, ou si quelqu'un doté de visio
 
 [Montrez le document 18 : Temple de Norcreus]
 
-![[Pasted image 20251017140847.png]]
+![[Pasted image 20251211180254.png]]
 
 **Le sol est constitué du même dallage que dans la salle précédente, à l'exception d'une bande décorative en obsidienne de 1,5 mètre de large qui mène de l'entrée à un autel fait du même matériau. L'autel est rectangulaire, mesurant environ 1,8 mètre de long et la moitié en largeur. À chaque extrémité de cet autel se trouve un piédestal en pierre sur lequel repose un bol en obsidienne. 
 

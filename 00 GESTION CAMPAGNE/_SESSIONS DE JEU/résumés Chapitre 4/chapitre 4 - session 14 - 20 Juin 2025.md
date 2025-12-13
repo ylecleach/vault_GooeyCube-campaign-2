@@ -36,7 +36,7 @@ Vous entrez dans une pièce faiblement éclairée par des torches où se trouven
 
 Dans chacun des sarcophages se trouve une momie qui s'anime dès que vous rentrez dans la pièce. **Début du combat !**
 
-![[Pasted image 20250619225139.png| 200]]
+![[Pasted image 20251211175053.png | 200]]
 
 Le groupe lance un sort de Grease (Graisse en français) sur momie1 et momie2.
 Note DM: ce sort a été rudement efficace sur les momies #2 er #3 !. 
@@ -77,14 +77,14 @@ Credon lance un sort d'invisibilité à Hurranan tandis que les autres compagnon
 ![[Pasted image 20250115135021.png | 600]]
 
 **Golem de chair***
-![[Pasted image 20250621001907.png | 400]]
+![[Pasted image 20251211175122.png | 400]]
 
 Hurannan utilise son anneau de saut et traverse la pièce en faisant comme à son habitude maintenant un bond énorme, rendu possible car le plafond est haut dans cette pièce, et attaque les golems.
 
 Cydir, lui fonce comme un vent furieux sur un autre protagoniste, plutôt d'allure féminine, dont les contours viennent de  s'entourer de flammes d'ombre. 
 
 NB: il se trouve que c'est un PNJ qui vous n'avez jamais rencontré pour le moment, mais je vous mets la photo pour info, ci-dessous.
-![[Pasted image 20250605214447.png | 200]]
+![[Pasted image 20251211175135.png | 400]]
 
 NB (hors jeu): La sorcière (appelé Cra'aveen) a lancé un sort  ([Ombre d’égarement](https://www.aidedd.org/dnd/sorts.php?vf=ombre-d-egarement)), qui a été très utile et rentable pour le DM...
 
@@ -111,7 +111,7 @@ Corinnee en profite pour blesser furtivement le Golem (-15 pv)
 
 Vous apercurent dans ce premier round le majordome Mal'um  qui lance un [Cloud of Daggers](https://www.aidedd.org/spell/cloud-of-daggers) : 11 pv sur Drezen et Credon seulement, qui s'en sortent bien. 
 
-![[Pasted image 20250605214647.png | 200]]
+![[Pasted image 20251211175150.png | 200]]
 
 **Round 2**
 

@@ -2,7 +2,7 @@
 
 [Montrer le document 31 : Nid des Gha'uuls]
 
-![[Pasted image 20251110050618.png]]
+![[Pasted image 20251211180747.png]]
 
 [[DES-MONSTERS#Gha’uul Nest (room 18a)]]
 

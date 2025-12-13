@@ -6,4 +6,4 @@ Il n'y a aucune trace de sang ou de sang coagulé à l'intérieur du cercle. Les
 
 [Montrer le document 30 : Le cercle lumineux]
 
-![[Pasted image 20251123070742.png]]
+![[Pasted image 20251211180923.png]]

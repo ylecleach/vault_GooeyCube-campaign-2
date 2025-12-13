@@ -1,4 +1,4 @@
- 7 joueurs à la table avec personnages niveau 4 à la table. Absent: Amine.
+& 7 joueurs à la table avec personnages niveau 4 à la table. Absent: Amine.
 
 ![[Pasted image 20240210171308.png| 400]]
 

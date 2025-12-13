@@ -1,15 +1,27 @@
-**Les runes gravées sur les doubles portes métalliques sombres cessent immédiatement de briller et se séparent en leur milieu, chaque moitié coulissant dans le mur de son côté. Ce faisant, une odeur âcre et sulfureuse atteint immédiatement vos narines. Au-delà de l'entrée, vous pouvez voir un grand temple rectangulaire sombre éclairé par des flammes qui brûlent dans la partie est de la pièce et par des colonnes de soutien qui bordent le nord et le sud. Celles-ci semblent être faites d'un marbre rouge foncé parcouru de veines cramoisies encore plus sombres.
-Il y a au total six piliers qui s'élèvent jusqu'au toit, à environ 9 mètres au-dessus de vos têtes. Ils sont chacun ornés d'une tête de bouc sculptée tenant dans sa bouche un pot de poix enflammée. [Montrer le document 79 : Le temple de Norcreus]
+[Montrer le document 79 : Le temple de Norcreus]
 
 ![[Pasted image 20251207231401.png]]
 
-**À l'est des piliers, un tapis rouge mène à un escalier qui monte sur environ 3,5 mètres jusqu'à une plate-forme surélevée, sur laquelle se trouve une statue en pierre sculptée représentant une créature ailée à tête de bouc assise sur un trône en pierre carmin. La statue mesure environ 3 mètres de haut. De grands braseros en fer noir, seule source de lumière dans la pièce, brûlent de chaque côté de la statue. Leur lumière projette des ombres inquiétantes sur les murs, qui ondulent et se déplacent dans une danse silencieuse et macabre. Les yeux de la statue brillent d'un feu rouge, et elle tient un fouet dans une main et un bâton surmonté d'un crâne dans l'autre.
+(ré-écrit par Copilot)
+**Les runes gravées sur les grandes portes métalliques s’éteignent d’un coup. Les deux battants glissent chacun dans leur mur, en silence… et aussitôt, une odeur âcre, presque sulfureuse, vous prend à la gorge.**
 
-Si le groupe entre dans la pièce : 
+**De l’autre côté, vous découvrez un vaste temple rectangulaire plongé dans la pénombre. La seule lumière vient de flammes qui brûlent du côté est, et de deux rangées de colonnes qui longent les murs nord et sud. Ces colonnes sont taillées dans un marbre rouge très sombre, strié de veines encore plus noires.**
 
-**Lorsque vous passez le seuil, une brume verdâtre et fumée se condense devant vous pour former une créature fantomatique. Ses yeux rouges brillants illuminent un visage squelettique effrayant. Sa voix est un murmure grave et inquiétant : « Bienvenue dans le temple de celui qui accorde la plus grande bénédiction... le don de la non-vie. Quel est le but de votre visite ? Êtes-vous venus vénérer le seigneur des morts-vivants ? »
+**Il y en a six en tout, qui montent jusqu’au plafond, à neuf mètres au-dessus de vous. Et chacune porte, sculptée à son sommet, une tête de bouc. Dans la gueule de chaque sculpture brûle un pot de poix enflammée, projetant des lueurs instables dans toute la salle.**
 
-La créature est un fantôme brumeux (Mistry Phanton) et n'est pas dangereuse. Il s'agit d'une forme de poltergeist qui sert en réalité à accueillir les visiteurs du temple. Il est ici depuis de nombreuses années et est au service de Norcreus. 
+**À l’est des piliers, un long tapis rouge s’étire jusqu’à un escalier qui grimpe d’environ trois mètres et demi. En haut, sur une plate‑forme surélevée, trône une statue massive en pierre : une créature ailée, à tête de bouc, assise sur un siège de pierre carmin. Elle fait bien trois mètres de haut.**
+
+**De chaque côté, deux grands braseros en fer noir brûlent, seules sources de lumière de toute la salle. Leurs flammes projettent sur les murs des ombres étranges, qui semblent onduler et se tordre comme si elles avaient leur propre volonté.**
+
+**Les yeux de la statue brillent d’un rouge incandescent. Dans une main, elle serre un fouet ; dans l’autre, un bâton terminé par un crâne. L’ensemble dégage une présence lourde, presque oppressante, comme si la statue n’attendait qu’un prétexte pour s’animer.**
+
+	Si le groupe entre dans la pièce : 
+
+**Lorsque vous passez le seuil, une brume verdâtre et fumée se condense devant vous pour former une créature fantomatique. Ses yeux rouges brillants illuminent un visage squelettique effrayant. Sa voix est un murmure grave et inquiétant : 
+
+**« Bienvenue dans le temple de celui qui accorde la plus grande bénédiction... le don de la non-vie. Quel est le but de votre visite ? Êtes-vous venus vénérer le seigneur des morts-vivants ? »
+
+La créature est un fantôme brumeux (Misty Phanton) et n'est pas dangereuse. Il s'agit d'une forme de poltergeist qui sert en réalité à accueillir les visiteurs du temple. Il est ici depuis de nombreuses années et est au service de Norcreus. 
 
 Si vous lui demandez son nom, il répondra : 
 

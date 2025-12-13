@@ -1,7 +1,9 @@
 **Les escaliers descendent vers une pièce sombre. Lorsque vous atteignez le bas, des torches s'allument soudainement sur les murs est et ouest, baignant la pièce d'une lueur rougeâtre inquiétante. Le sol et les murs sont en pierre ancienne. Une couche de poussière recouvre le sol. 
 
-**À l'ouest, vous pouvez voir une petite alcôve contenant un grand crâne avec des cornes et des crocs posé sur un tissu rouge. Au nord-est se trouve une porte en bois cerclée de fer. Dans le coin à côté de la porte, il y a une grande toile d'araignée. Les carcasses de quelques insectes assez gros, ainsi que les restes du squelette d'une petite chauve-souris, sont suspendus dans la toile. [Montrer le document 19 : Salle du crâne du démon]
-![[Pasted image 20251024135522.png]]
+**À l'ouest, vous pouvez voir une petite alcôve contenant un grand crâne avec des cornes et des crocs posé sur un tissu rouge. Au nord-est se trouve une porte en bois cerclée de fer. Dans le coin à côté de la porte, il y a une grande toile d'araignée. Les carcasses de quelques insectes assez gros, ainsi que les restes du squelette d'une petite chauve-souris, sont suspendus dans la toile. 
+
+[Montrer le document 19 : Salle du crâne du démon]
+![[Pasted image 20251211180333.png]]
 Lorsque les PJ examinent le crâne... 
 
 **Le crâne est propre, blanchi, avec deux cornes sombres qui dépassent de la tête. Les dents sont acérées et leur simple vue provoque un sentiment de malaise. Soudain, le crâne parle : 

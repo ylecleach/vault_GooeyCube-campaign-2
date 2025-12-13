@@ -2,8 +2,7 @@
 
 [Voir document 05 : Quartiers du tortionnaire] 
 
-
-![[Pasted image 20251012230902.png]]
+![[Pasted image 20251211175956.png]]
 
 Les PJ ont peut-être rencontré Jillian au chapitre 1 : Le rêve le plus sombre (ils ont peut-être également rencontré un personnage plutôt intimidant du nom de Tadas Sidd qui la recherchait). 
 

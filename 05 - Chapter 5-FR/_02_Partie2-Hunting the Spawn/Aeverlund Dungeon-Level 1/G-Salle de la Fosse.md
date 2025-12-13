@@ -3,7 +3,7 @@
 **Des menottes vides sont accrochées au mur à côté du brasero de droite. Des crânes jonchent le sol autour du même brasero, où se trouvent également une petite boîte et une bouteille. 
 
 [Montrer le document 09 : Salle de la fosse]
-![[Pasted image 20251014213837.png]]
+![[Pasted image 20251211180101.png]]
 
 Le gaz vert n'a pas d'effet nocif, mais il a l'air effrayant et sent très mauvais, alors n'hésitez pas à faire passer un jet de sauvegarde de Constitution aux PJ. S'ils échouent, ils ont la nausée et ont du mal à garder leur petit-déjeuner ; vous pouvez revenir là-dessus de temps en temps au cours des rencontres suivantes pour leur faire croire qu'ils ont peut-être contracté quelque chose de grave.
 

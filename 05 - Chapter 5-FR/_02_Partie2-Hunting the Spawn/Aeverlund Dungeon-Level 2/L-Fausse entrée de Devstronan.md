@@ -1,7 +1,6 @@
 Fausse entrée de Devstronan [Montrer le document 14 : Un endroit secret]
 
-![[Pasted image 20251017135142.png]]
-
+![[Pasted image 20251211180211.png]]
 Peut-être que la première ou les deux premières fois que le groupe traversera cette zone, elle ne semblera pas remarquable. Si une description est nécessaire, elle présente le même type de vieilles pierres, de caisses délabrées et plusieurs centimètres d'eau stagnante que beaucoup d'autres salles du donjon. Les Cambions devraient les entraîner dans une joyeuse course-poursuite à travers la zone afin qu'ils puissent revisiter chaque pièce plusieurs fois. Lors d'un de leurs passages ici, le groupe remarquera quelque chose. 
 
 **Vous êtes déjà passé par ici plus d'une fois, mais vous n'avez jamais prêté attention à cette zone en particulier. Cette fois-ci, l'anneau de Creston commence à briller et le contour d'une porte apparaît dans le mur de pierre, entouré d'une lumière vive. Serait-ce l'entrée de l'ancien donjon de Devstronan ? Il n'y a qu'un seul moyen d'en être sûr... 
@@ -12,7 +11,7 @@ Une fois que le groupe aura ouvert la porte, décrivez ce qui suit :
 
 [Montrer le document 15 : Les bannières suspendues]
 
-![[Pasted image 20251017135203.png]]
+![[Pasted image 20251211180225.png]]
 
 Si les PJ fouillent les caisses, ils trouveront des tabards de la Croisade bleue, dont l'insigne est un triangle avec les symboles sacrés de la Triade à chaque pointe (en haut : Radean, en bas à gauche : Wardane, en bas à droite : Steorn). Les tonneaux contiennent plusieurs épées longues, haches de combat, grandes épées, marteaux de guerre et masses. Un tonneau contient environ 120 flèches. Aucune de ces armes n'est magique ; elles peuvent toutes être utilisées, mais elles sont en assez mauvais état, avec des lames rouillées et des manches fissurés qui devront être polis et réparés pour pouvoir être utilisés à long terme.
 

@@ -1,6 +1,6 @@
 **Vous descendez dans le gouffre d'environ 6 mètres. Sur la paroi est se trouve une ouverture menant à un passage. Des toiles d'araignées remplies de cadavres de chauves-souris, de rats et d'autres petits animaux sont suspendues à divers endroits dans le passage. Celui-ci mène vers l'est.
 
-![[Pasted image 20251123191344.png]]
+![[Pasted image 20251211181335.png]]
 
 Si les personnages empruntent le passage... 
 

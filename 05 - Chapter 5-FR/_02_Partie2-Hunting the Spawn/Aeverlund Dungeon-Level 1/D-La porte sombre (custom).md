@@ -1,6 +1,5 @@
 La porte sombre Lisez ou paraphrasez ce qui suit et montrez le document 06 : La porte sombre.
-
-![[Pasted image 20251012232350.png]]
+![[Pasted image 20251211180016.png]]
 
 **À la fin du court passage, un petit escalier en pierre mène à une porte en bois cerclée de fer, protégée par un entrelacement de chaînes épaisses passant à travers de grands anneaux aux quatre coins de la porte et sécurisée par de lourds verrous. Un grand judas est également fermée par un cadenas, tout comme la poignée de la porte.**
 

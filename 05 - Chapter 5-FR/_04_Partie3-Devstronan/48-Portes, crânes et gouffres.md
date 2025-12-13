@@ -16,6 +16,7 @@ Si le groupe s'approche du tas de pierres sans prononcer les mots « Mal'uthuk e
 
 [[DES-MONSTERS#Lesser Skull Golem (room 48)]]
 
+![[Pasted image 20251211181402.png]]
 >_Lesser Skull Golem_
 _See Battle Stats in GM Reference Book, page 28._
 

@@ -10,7 +10,7 @@ La porte voûtée mène à une petite pièce non éclairée (zone M).
  
  **La pièce sombre s'illumine lorsque quatre globes lumineux brillent dans l'obscurité. La zone carrée est assez grande et le sol est recouvert de pierres brisées. Des os éparpillés et les crânes des victimes jonchent le sol, et un tas de pierres fissurées est empilé au hasard au centre de la pièce. Des tentures en lambeaux pendent du plafond, donnant l'impression que cet endroit était autrefois une grande salle importante. Une porte voûtée, juste en face, mène à l'obscurité, la lumière des deux globes qui l'encadrent donnant à peine une idée de ce qui pourrait se trouver au-delà.
  
-![[Pasted image 20251017140143.png]]
+![[Pasted image 20251211180246.png]]
 
 Heronius est probablement le plus intelligent des Cambions, doté d'une ruse démoniaque extrêmement dérangeante compte tenu de sa ressemblance générale avec un enfant humain. C'est lui qui est le plus susceptible d'apparaître lorsque le groupe affronte l'un des deux autres Cambions, et il planifiera la meilleure façon d'utiliser ses capacités contre eux sans se mettre en danger inutilement. 
 
